@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/disposable-gloves.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-13T23:25:22-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4855017701450</id>
+    <published>2020-12-13T23:25:22-05:00</published>
+    <updated>2020-12-13T23:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-latex-household-gloves-one-size-1-pair"/>
+    <title>Liao - Latex Household Gloves One Size - 1 Pair</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-latex-household-gloves-one-size-1-pair-169483.jpg?v=1611511594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Liao - Latex Household Gloves One Size - 1 Pair</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p>
+<h3 class="item-header"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855017701450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>113214</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855015735370</id>
+    <published>2020-12-13T23:25:20-05:00</published>
+    <updated>2020-12-13T23:25:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ansell-alphatech-88-394-extra-large-canners-unlined-gloves-12-pairs"/>
+    <title>Ansell - Alphatech 88-394 - Extra Large Canners Unlined Gloves - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ansell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ansell-alphatech-88-394-extra-large-canners-unlined-gloves-12-pairs-484583.jpg?v=1624068870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ansell<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ansell - Alphatech 88-394 - Extra Large Canners Unlined Gloves - 12 Pairs</strong></p>
+<p>A combination of great protection and a high level of dexterity, makes this glove Ideally suited for the food processing industry<br></p>
+<p><strong><span class="overline">KEY FEATURES AND BENEFITS</span></strong><span></span></p>
+<div class="details-content expand">
+<ul>
+<li>Medium duty glove</li>
+<li>FDA food compliance</li>
+<li>Good dexterity and tactility</li>
+<li>Highly flexible and elastic</li>
+<li>Chlorinated to reduce risk of allergy</li>
+<li>Excellent dexterity, tensile strength and elasticity</li>
+<li>0.52 mm / 20 mil thickness provides good chemical, snag, puncture and abrasion resistance</li>
+<li>Fishscale pattern designed for excellent grip on wet or dry surfaces</li>
+<li>Complies with FDA food handling requirements (21 CFR 177.2600)</li>
+<li>Food Processing</li>
+<li>Chemical</li>
+<li>Agriculture</li>
+<li>Janitorial / Sanitation</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canner Gloves</s:tag>
+    <s:tag>Industrial Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855015735370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>113211</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855015637066</id>
+    <published>2020-12-13T23:25:19-05:00</published>
+    <updated>2020-12-13T23:25:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ansell-alphatec-88-394-small-canners-unlined-gloves-12-pairs"/>
+    <title>Ansell - Alphatec 88-394 - Small Canners Unlined Gloves - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ansell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Ansell-Alphatec88-394-SmallCannersUnlinedGloves..jpg?v=1624065985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ansell<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ansell - Alphatec 88-394 - Small Canners Unlined Gloves - 12 Pairs</strong></p>
+<p>A combination of great protection and a high level of dexterity, makes this glove Ideally suited for the food processing industry<br></p>
+<p><strong><span class="overline">KEY FEATURES AND BENEFITS</span></strong><span></span></p>
+<div class="details-content expand">
+<ul>
+<li>Medium duty glove</li>
+<li>FDA food compliance</li>
+<li>Good dexterity and tactility</li>
+<li>Highly flexible and elastic</li>
+<li>Chlorinated to reduce risk of allergy</li>
+<li>Excellent dexterity, tensile strength and elasticity</li>
+<li>0.52 mm / 20 mil thickness provides good chemical, snag, puncture and abrasion resistance</li>
+<li>Fishscale pattern designed for excellent grip on wet or dry surfaces</li>
+<li>Complies with FDA food handling requirements (21 CFR 177.2600)</li>
+<li>Food Processing</li>
+<li>Chemical</li>
+<li>Agriculture</li>
+<li>Janitorial / Sanitation</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canner Gloves</s:tag>
+    <s:tag>Industrial Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855015637066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>113210</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855015571530</id>
+    <published>2020-12-13T23:25:18-05:00</published>
+    <updated>2020-12-13T23:25:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ansell-alphatech-88-394-medium-canners-unlined-gloves-12-pairs"/>
+    <title>Ansell - Alphatech 88-394 - Medium Canners Unlined Gloves - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ansell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ansell-alphatech-88-394-medium-canners-unlined-gloves-12-pairs-986790.jpg?v=1624068880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ansell<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ansell - Alphatech 88-394 - Medium Canners Unlined Gloves - 12 Pairs</strong></p>
+<p>A combination of great protection and a high level of dexterity, makes this glove Ideally suited for the food processing industry<br></p>
+<p><strong><span class="overline">KEY FEATURES AND BENEFITS</span></strong><span></span></p>
+<div class="details-content expand">
+<ul>
+<li>Medium duty glove</li>
+<li>FDA food compliance</li>
+<li>Good dexterity and tactility</li>
+<li>Highly flexible and elastic</li>
+<li>Chlorinated to reduce risk of allergy</li>
+<li>Excellent dexterity, tensile strength and elasticity</li>
+<li>0.52 mm / 20 mil thickness provides good chemical, snag, puncture and abrasion resistance</li>
+<li>Fishscale pattern designed for excellent grip on wet or dry surfaces</li>
+<li>Complies with FDA food handling requirements (21 CFR 177.2600)</li>
+<li>Food Processing</li>
+<li>Chemical</li>
+<li>Agriculture</li>
+<li>Janitorial / Sanitation</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canner Gloves</s:tag>
+    <s:tag>Industrial Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855015571530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>113213</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855015178314</id>
+    <published>2020-12-13T23:25:17-05:00</published>
+    <updated>2020-12-13T23:25:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ansell-alphatech-88-394-large-canners-unlined-gloves-12-pairs"/>
+    <title>Ansell - Alphatech 88-394 - Large Canners Unlined Gloves - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ansell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ansell-alphatech-88-394-large-canners-unlined-gloves-12-pairs-348869.jpg?v=1624068878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ansell<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ansell - Alphatech 88-394 - Large Canners Unlined Gloves - 12 Pairs</strong></p>
+<p>A combination of great protection and a high level of dexterity, makes this glove Ideally suited for the food processing industry<br></p>
+<p><strong><span class="overline">KEY FEATURES AND BENEFITS</span></strong><span></span></p>
+<div class="details-content expand">
+<ul>
+<li>Medium duty glove</li>
+<li>FDA food compliance</li>
+<li>Good dexterity and tactility</li>
+<li>Highly flexible and elastic</li>
+<li>Chlorinated to reduce risk of allergy</li>
+<li>Excellent dexterity, tensile strength and elasticity</li>
+<li>0.52 mm / 20 mil thickness provides good chemical, snag, puncture and abrasion resistance</li>
+<li>Fishscale pattern designed for excellent grip on wet or dry surfaces</li>
+<li>Complies with FDA food handling requirements (21 CFR 177.2600)</li>
+<li>Food Processing</li>
+<li>Chemical</li>
+<li>Agriculture</li>
+<li>Janitorial / Sanitation</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canner Gloves</s:tag>
+    <s:tag>Industrial Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855015178314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>113212</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855014096970</id>
+    <published>2020-12-13T23:25:16-05:00</published>
+    <updated>2020-12-13T23:25:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-extra-large-cleaning-gloves-yellow-q-grip-12-pairs"/>
+    <title>MC - Extra Large Cleaning Gloves Yellow Q-Grip - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-extra-large-cleaning-gloves-yellow-q-grip-12-pairs-995599.jpg?v=1611513156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MC - X Large Cleaning Kitchen Gloves Yellow Q-Grip - 12 Pairs</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p>
+<h3 class="item-header"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855014096970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>113215</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855014031434</id>
+    <published>2020-12-13T23:25:15-05:00</published>
+    <updated>2020-12-13T23:25:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-small-cleaning-gloves-yellow-q-grip-12-pairs"/>
+    <title>MC - Small Cleaning Gloves Yellow Q-Grip - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-small-cleaning-gloves-yellow-q-grip-12-pairs-120881.jpg?v=1611512076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MC - Small Kitchen Cleaning Gloves Multi Use Yellow Q-Grip - 12 Pairs</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855014031434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>113218</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855013670986</id>
+    <published>2020-12-13T23:25:14-05:00</published>
+    <updated>2020-12-13T23:25:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-medium-cleaning-gloves-yellow-q-grip-12-pairs"/>
+    <title>MC - Medium Cleaning Gloves Yellow Q-Grip - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-medium-cleaning-gloves-yellow-q-grip-12-pairs-847115.jpg?v=1611511355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MC - Medium Kitchen Cleaning Gloves Yellow Q-Grip - 12 Pairs</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855013670986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>113217</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855013245002</id>
+    <published>2020-12-13T23:25:13-05:00</published>
+    <updated>2020-12-13T23:25:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-large-cleaning-gloves-yellow-q-grip-12-pairs"/>
+    <title>MC - Large Cleaning Gloves Yellow Q-Grip - 12 Pairs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-large-cleaning-gloves-yellow-q-grip-12-pairs-121114.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MC - Large Kitchen Cleaning Gloves Yellow Q-Grip - 12 Pairs</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p>
+<h3 class="item-header"></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855013245002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>113216</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970264571974</id>
+    <published>2020-08-24T20:34:09-04:00</published>
+    <updated>2020-08-24T20:34:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-medium-poly-gloves-hybrid-200-pack"/>
+    <title>Safety Zone- Medium Poly Gloves Hybrid - 200 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-medium-poly-gloves-hybrid-200-pack-554711.jpg?v=1611513571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Poly Gloves Hybrid - 200 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deli Gloves</s:tag>
+    <s:tag>Poly Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970264571974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>221122</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970264244294</id>
+    <published>2020-08-24T20:34:08-04:00</published>
+    <updated>2020-08-24T20:34:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-large-poly-gloves-hybrid-200-pack"/>
+    <title>Safety Zone - Large Poly Gloves Hybrid - 200 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-large-poly-gloves-hybrid-200-pack-837714.jpg?v=1611513036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Poly Gloves Hybrid - 200 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deli Gloves</s:tag>
+    <s:tag>Poly Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970264244294</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>221107</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970264211526</id>
+    <published>2020-08-24T20:34:07-04:00</published>
+    <updated>2020-08-24T20:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-hybrid-poly-gloves-small-100-pack"/>
+    <title>Safety Zone - Hybrid Poly Gloves Small - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-hybrid-poly-gloves-small-100-pack-827458.jpg?v=1611513031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Poly Gloves Hybrid - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deli Gloves</s:tag>
+    <s:tag>Poly Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970264211526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>221106</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970265817158</id>
+    <published>2020-08-24T20:29:32-04:00</published>
+    <updated>2020-08-24T20:29:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-large-heavy-orange-cleaning-gloves-33-mil-6-pack"/>
+    <title>Ronco - Large Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-large-heavy-orange-cleaning-gloves-33-mil-6-pack-896300.jpg?v=1611514662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ronco - Large Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970265817158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>113234</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4364795543626</id>
+    <published>2020-08-24T20:29:05-04:00</published>
+    <updated>2020-08-24T20:29:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-small-heavy-orange-cleaning-gloves-33-mil-6-pack"/>
+    <title>Ronco - Small Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-small-heavy-orange-cleaning-gloves-33-mil-6-pack-943835.jpg?v=1611513701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ronco - Small Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4364795543626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>113236</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970265292870</id>
+    <published>2020-08-24T20:22:19-04:00</published>
+    <updated>2020-08-24T20:22:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-medium-heavy-orange-cleaning-gloves-33-mil-6-pack"/>
+    <title>Ronco - Medium Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-medium-heavy-orange-cleaning-gloves-33-mil-6-pack-820879.jpg?v=1611512190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ronco - Medium Heavy Orange Cleaning Gloves 33 MIL - 6 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970265292870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>113235</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970263359558</id>
+    <published>2020-08-24T20:15:14-04:00</published>
+    <updated>2020-08-24T20:15:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-13-nitrile-gloves-green-x-large-heavy-duty-11-mil-12-pack"/>
+    <title>Ronco - 13&quot; Nitrile Gloves Green X-Large Heavy Duty 11 mil - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-13-nitrile-gloves-green-x-large-heavy-duty-11-mil-12-pack-848833.jpg?v=1611511775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Large Nitrile Dishwashing Gloves - Per Pair</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970263359558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>01038</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970263392326</id>
+    <published>2020-08-24T20:15:08-04:00</published>
+    <updated>2020-08-24T20:15:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-13-nitrile-gloves-green-large-heavy-duty-11-mil-12-pack"/>
+    <title>Ronco - 13&quot; Nitrile Gloves Green Large Heavy Duty 11 mil - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-13-nitrile-gloves-green-large-heavy-duty-11-mil-12-pack-148647.jpg?v=1611512857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Large Nitrile Dishwashing Gloves - 12 x Pairs / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970263392326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>01035</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4743212466250</id>
+    <published>2020-08-24T20:12:04-04:00</published>
+    <updated>2020-08-24T20:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-vinyl-gloves-small-powdered-100-pack"/>
+    <title>Safety Zone - Vinyl Gloves Small Powdered - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-vinyl-gloves-small-powdered-100-pack-463578.jpg?v=1611513880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Zone - Vinyl Gloves Small Powdered - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinyl Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4743212466250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>221105</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3947417206854</id>
+    <published>2020-08-24T20:11:25-04:00</published>
+    <updated>2020-08-24T20:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-vinyl-gloves-x-large-powdered-100-pack"/>
+    <title>Safety Zone - Vinyl Gloves X-Large Powdered - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-vinyl-gloves-x-large-powdered-100-pack-714951.jpg?v=1611513095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Zone - Vinyl Gloves X-Large Powdered - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinyl Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3947417206854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>221107</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970267258950</id>
+    <published>2020-08-24T20:11:25-04:00</published>
+    <updated>2020-08-24T20:11:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-vinyl-gloves-medium-powdered-100-pack"/>
+    <title>Safety Zone - Vinyl Gloves Medium Powdered - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-vinyl-gloves-medium-powdered-100-pack-390929.jpg?v=1611514243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Zone - Vinyl Gloves Medium Powdered - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinyl Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970267258950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>221103</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970267226182</id>
+    <published>2020-08-24T20:11:24-04:00</published>
+    <updated>2020-08-24T20:11:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-vinyl-gloves-large-powdered-100-pack"/>
+    <title>Safety Zone - Vinyl Gloves Large Powdered - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-vinyl-gloves-large-powdered-100-pack-980797.jpg?v=1611514662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Zone - Vinyl Gloves Large Powdered - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinyl Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970267226182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>221101</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970266701894</id>
+    <published>2020-08-24T20:05:55-04:00</published>
+    <updated>2020-08-24T20:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-13-nitrile-gloves-green-small-heavy-duty-11-mil-12-pack"/>
+    <title>Ronco - 13&quot; Nitrile Gloves Green Small Heavy Duty 11 mil - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-13-nitrile-gloves-green-small-heavy-duty-11-mil-12-pack-931473.jpg?v=1611514245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>x-Large 15C Nitrile Household Gloves-Green - 12 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970266701894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>01037</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970266767430</id>
+    <published>2020-08-24T20:04:53-04:00</published>
+    <updated>2020-08-24T20:04:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ronco-13-nitrile-gloves-green-medium-heavy-duty-11-mil-12-pack"/>
+    <title>Ronco - 13&quot; Nitrile Gloves Green Medium Heavy Duty 11 mil - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ronco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ronco-13-nitrile-gloves-green-medium-heavy-duty-11-mil-12-pack-412766.jpg?v=1611514607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ronco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ronco - 13" Nitrile Gloves Green Medium Heavy Duty 11 mil - 12 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen-, latex-, and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cleaning Gloves</s:tag>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970266767430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>01036</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970263687238</id>
+    <published>2020-08-24T20:01:32-04:00</published>
+    <updated>2020-08-24T20:01:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-nitrile-gloves-medium-powder-free-100-pack"/>
+    <title>Safety Zone - Nitrile Gloves Medium Powder Free - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-nitrile-gloves-medium-powder-free-100-pack-565549.jpg?v=1611514312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Safety Zone - Nitrile Gloves Medium Powder Free - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970263687238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>01040</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970263228486</id>
+    <published>2020-08-24T20:00:34-04:00</published>
+    <updated>2020-08-24T20:00:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/safety-zone-nitrile-gloves-large-powder-free-100-pack"/>
+    <title>Safety Zone - Nitrile Gloves Large Powder Free - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Safety Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/safety-zone-nitrile-gloves-large-powder-free-100-pack-323905.jpg?v=1611512557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Safety Zone<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Nitrile Gloves - 100 / Pack</p>
+<h2 class="headline">Protect your hands from harmful chemicals and biological hazards with these multi-purpose gloves!</h2>
+<p><span>Made of durable, thick material, these gloves are allergen and powder-free, helping reduce the potential for some allergic reactions to develop. These gloves are ideal for food service operations, janitorial tasks, medical exams, dentist offices, nursing homes, veterinary clinics, and schools.</span></p>
+<h3 class="item-header">Excellent Dexterity</h3>
+<p>These versatile gloves form comfortably to your hands to offer the tactile sensitivity. Plus, they also help reduce hand fatigue. Providing superior dexterity, they're great for food prep, machine maintenance, cleaning jobs, and a variety of other precision tasks.</p>
+<h3 class="item-header">Durable Material</h3>
+<p>Thick non-sterile gloves provide exceptional puncture, tear, and chemical resistance. Thanks to a textured exterior, they also provide a firm grip in both wet and dry situations.</p>
+<h3 class="item-header">Distinct Color</h3>
+<p>These gloves feature a distinctive blue color, allowing you to designate them for specific tasks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nitrile Gloves</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970263228486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>01039</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

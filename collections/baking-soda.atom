@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-soda.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-22T18:59:23-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4809607675978</id>
+    <published>2020-10-22T18:59:23-04:00</published>
+    <updated>2020-10-22T18:59:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-250-g"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 250 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arm_Hammer-BakingSoda-250g.jpg?v=1624068163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arm &amp; Hammer -  Baking Soda - 250 g</p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them.</span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809607675978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>50321</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809607610442</id>
+    <published>2020-10-22T18:59:22-04:00</published>
+    <updated>2020-10-22T18:59:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-500-g"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 500 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arm_Hammer-BakingSoda-500g..jpg?v=1624068178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arm &amp; Hammer - Baking Soda - 500 g</strong></p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them.</span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809607610442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>50324</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4331208900682</id>
+    <published>2019-10-30T15:22:21-04:00</published>
+    <updated>2019-10-30T15:22:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-2-kg"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 2 kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arm-hammer-pure-baking-soda-2-kg-819934.jpg?v=1611508957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arm &amp; Hammer -  Baking Soda - 2 kg</strong></p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them. </span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4331208900682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>50146</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/office-pos-supplies.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-06-16T11:51:56-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6603077288010</id>
+    <published>2021-06-16T11:51:56-04:00</published>
+    <updated>2021-06-16T11:51:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-cr2032-lithium-3-volt-batteries-3-pack"/>
+    <title>Chateau - CR2032 Lithium 3 Volt Batteries - 3 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-cr2032-lithium-3-volt-batteries-3-pack-928107.jpg?v=1623908132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Chateau - CR2032 Lithium 3 Volt Batteries - 3 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Batteries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6603077288010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>54650</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612635722</id>
+    <published>2021-01-04T17:17:04-05:00</published>
+    <updated>2021-01-04T17:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-25ft-network-cable-cat6-each"/>
+    <title>Chateau - 25FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-25ft-network-cable-cat6-each-422692.jpg?v=1611509974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 25FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612635722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>95140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612537418</id>
+    <published>2021-01-04T17:17:03-05:00</published>
+    <updated>2021-01-04T17:17:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-75ft-network-cable-cat6-each"/>
+    <title>Chateau - 75FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-75ft-network-cable-cat6-each-711565.jpg?v=1611509733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 75FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612537418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>95145</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612045898</id>
+    <published>2021-01-04T17:17:02-05:00</published>
+    <updated>2021-01-04T17:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-50ft-network-cable-cat6-each"/>
+    <title>Chateau - 50FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-50ft-network-cable-cat6-each-887732.jpg?v=1611511895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 50FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612045898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>95143</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866462744650</id>
+    <published>2020-12-28T21:26:55-05:00</published>
+    <updated>2020-12-28T21:26:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-9-x-12-folding-clipboard-each"/>
+    <title>Selectum - 9&quot; x 12&quot; Folding Clipboard - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-9-x-12-folding-clipboard-each-550307.jpg?v=1611514307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - 9" x 12" Clipboard Folder - SL49731</p>
+<p><span>This clipboard is the perfect solution for any office, school, sports or charity event, and more.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Features durable construction and attractive sealed vinyl cover to keeps papers protected</span></li>
+<li><span class="a-list-item">Clip holds pads or papers firmly in place</span></li>
+<li><span class="a-list-item">Folder features inside pocket for additional storage</span></li>
+<li><span class="a-list-item">Holds 1 notepad or up to 75 sheets</span></li>
+<li><span class="a-list-item">For 9 x 12-Inch paper sheets</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clipboards</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866462744650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>36102</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866461368394</id>
+    <published>2020-12-28T21:26:54-05:00</published>
+    <updated>2020-12-28T21:26:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-8-5-x-12-clipboard-storage-case-each"/>
+    <title>Selectum - 8.5&quot; x 12&quot; Clipboard Storage Case - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-85-x-12-clipboard-storage-case-each-582283.png?v=1611513879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - 8.5" x 12" Clipboard Storage Case - SL58138</p>
+<p><span>This clipboard storage box is the perfect solution for any office, school, sports or charity event, and more.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clipboards</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866461368394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>36101</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862657855562</id>
+    <published>2020-12-28T21:26:54-05:00</published>
+    <updated>2020-12-28T21:26:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-masonite-clipboard-letter-size-sl58131-each"/>
+    <title>Selectum - Masonite Clipboard Letter Size SL58131 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-masonite-clipboard-letter-size-sl58131-each-123051.jpg?v=1611514247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - Masonite Clipboard Letter Size SL58131 - Each</p>
+<p><span>This clipboard is the perfect solution for any office, school, sports or charity event, and more.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clipboards</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862657855562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>36103</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862655463498</id>
+    <published>2020-12-28T21:26:53-05:00</published>
+    <updated>2020-12-28T21:26:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-masonite-clipboard-letter-size-sl58132-each"/>
+    <title>Selectum - Masonite Clipboard Letter Size SL58132 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-masonite-clipboard-letter-size-sl58132-each-727882.jpg?v=1611512018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - Masonite Clipboard SL58132 - Each</p>
+<p><span>This clipboard is the perfect solution for any office, school, sports or charity event, and more.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clipboards</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862655463498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>36104</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866482634826</id>
+    <published>2020-12-28T19:25:23-05:00</published>
+    <updated>2020-12-28T19:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-indoor-outdoor-wall-thermometer-each"/>
+    <title>Chateau - Indoor &amp; Outdoor Wall Thermometer - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-indoor-outdoor-wall-thermometer-each-590602.jpg?v=1611509432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+Chateau - Indoor &amp; Outdoor Wall Thermometer, TH-1<br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<p><span style="color: #000000;" color="#000000"><span>wall thermometer that will help you know the outside and inside temperature of the house, the garage and even the swimming pool.</span></span></p>
+<p><span style="color: #000000;" color="#000000"><span><strong>Features:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;" color="#000000"><span>Celsius : -30 ° C to 50 ° C</span></span></li>
+<li><span style="color: #000000;" color="#000000"><span>Farenheight: -20 ° F to 120 ° F</span></span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maintenance Tools</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866482634826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>12124</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866482339914</id>
+    <published>2020-12-28T19:25:22-05:00</published>
+    <updated>2020-12-28T19:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-indoor-outdoor-jumbo-wall-thermometer-each"/>
+    <title>Chateau - Indoor &amp; Outdoor Jumbo Wall Thermometer - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-indoor-outdoor-jumbo-wall-thermometer-each-619775.jpg?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - Indoor &amp; Outdoor Jumbo Wall Thermometer, WT-16<br>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="desc">
+<div class="tiny">
+<p><span color="#000000" style="color: #000000;"><span>A giant wall thermometer that will help you know the outside and inside temperature of the house, the garage and even the swimming pool.</span></span></p>
+<p><span color="#000000" style="color: #000000;"><span><strong>Features:</strong></span></span></p>
+<ul>
+<li><span color="#000000" style="color: #000000;"><span>Celsius : -30 ° C to 50 ° C</span></span></li>
+<li><span color="#000000" style="color: #000000;"><span>Farenheight: -20 ° F to 120 ° F</span></span></li>
+<li><span color="#000000" style="color: #000000;"><span>Dimensions: 40cm X 6.5cm</span></span></li>
+<li>Extra large easy to read face</li>
+</ul>
+</div>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">For indoor and outdoor use</span></li>
+<li><span class="a-list-item">Weather resistant and rust proof</span></li>
+<li><span class="a-list-item">Easy mount design</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maintenance Tools</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866482339914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>12123</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867064397898</id>
+    <published>2020-12-28T18:01:22-05:00</published>
+    <updated>2020-12-28T18:01:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-5-inch-3-ring-vinyl-hard-cover-binder-black-each-1"/>
+    <title>Selectum - 1.5 Inch 3 Ring Vinyl Hard Cover Binder Black - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-15-inch-3-ring-vinyl-hard-cover-binder-black-each-298667.png?v=1611513575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Selectum - 1.5" 3-Ring Hard Cover Binder - SL48655</strong></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This binder has 1.5" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867064397898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225129</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866477555786</id>
+    <published>2020-12-28T18:01:21-05:00</published>
+    <updated>2020-12-28T18:01:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-5-inch-3-ring-vinyl-hard-cover-binder-white-each"/>
+    <title>Selectum - 1.5 Inch 3 Ring Vinyl Hard Cover Binder White - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-15-inch-3-ring-vinyl-hard-cover-binder-white-each-584097.jpg?v=1611514248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Selectum - 1.5" 3-Ring Hard Cover Binder - SL48655</strong></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1.5" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This blue binder is for safe handling in any workplace, home or school.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866477555786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225130</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866476769354</id>
+    <published>2020-12-28T18:01:20-05:00</published>
+    <updated>2020-12-28T18:01:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-5-inch-3-ring-vinyl-hard-cover-binder-black-each"/>
+    <title>Selectum - 1.5 Inch 3 Ring Vinyl Hard Cover Binder Black - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-15-inch-3-ring-vinyl-hard-cover-binder-black-each-657798.png?v=1611512972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 1.5" 3-Ring Hard Cover Binder - SL48655</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866476769354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225128</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866472738890</id>
+    <published>2020-12-28T18:01:19-05:00</published>
+    <updated>2020-12-28T18:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-green-each"/>
+    <title>Selectum - 1 Inch 3 Ring Vinyl Hard Cover Binder Green - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-green-each-315410.png?v=1611513757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 1" 3-Ring Hard Cover Binder - SL48653</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866472738890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>225127</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866472312906</id>
+    <published>2020-12-28T18:01:18-05:00</published>
+    <updated>2020-12-28T18:01:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-blue-each"/>
+    <title>Selectum - 1 Inch 3 Ring Vinyl Hard Cover Binder Blue - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-blue-each-977695.png?v=1611513636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 1" 3-Ring Hard Cover Binder - SL48653</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866472312906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>225126</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866472116298</id>
+    <published>2020-12-28T18:01:17-05:00</published>
+    <updated>2020-12-28T18:01:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-black-each"/>
+    <title>Selectum - 1 Inch 3 Ring Vinyl Hard Cover Binder Black - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-1-inch-3-ring-vinyl-hard-cover-binder-black-each-883079.png?v=1611512016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 1" 3-Ring Hard Cover Binder - SL48653</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866472116298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>225125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866471755850</id>
+    <published>2020-12-28T18:01:16-05:00</published>
+    <updated>2020-12-28T18:01:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-0-5-inch-3-ring-vinyl-hard-cover-binder-green-each"/>
+    <title>Selectum - 0.5 Inch 3 Ring Vinyl Hard Cover Binder Green - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-05-inch-3-ring-vinyl-hard-cover-binder-green-each-560328.jpg?v=1611513278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 0.5" 3-Ring Hard Cover Binder - SL48652</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1/2" round rings for the storage of letter-sized documents. With a 120-sheet capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866471755850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225122</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866471395402</id>
+    <published>2020-12-28T18:01:16-05:00</published>
+    <updated>2020-12-28T18:01:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-0-5-inch-3-ring-vinyl-hard-cover-binder-blue-each"/>
+    <title>Selectum - 0.5 Inch 3 Ring Vinyl Hard Cover Binder Blue - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-05-inch-3-ring-vinyl-hard-cover-binder-blue-each-116165.jpg?v=1611514250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 0.5" 3-Ring Hard Cover Binder - SL48652</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1/2" round rings for the storage of letter-sized documents. With a 120-sheet capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This blue binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866471395402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225121</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866471297098</id>
+    <published>2020-12-28T18:01:15-05:00</published>
+    <updated>2020-12-28T18:01:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-0-5-inch-3-ring-vinyl-hard-cover-binder-red-each"/>
+    <title>Selectum - 0.5 Inch 3 Ring Vinyl Hard Cover Binder Red - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-05-inch-3-ring-vinyl-hard-cover-binder-red-each-208205.jpg?v=1611512968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 0.5" 3-Ring Hard Cover Binder - SL48652</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 1/2" round rings for the storage of letter-sized documents. With a 120-sheet capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866471297098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225123</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866470936650</id>
+    <published>2020-12-28T18:01:14-05:00</published>
+    <updated>2020-12-28T18:01:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-0-5-inch-3-ring-vinyl-hard-cover-binder-black-each"/>
+    <title>Selectum - 0.5 Inch 3 Ring Vinyl Hard Cover Binder Black - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-05-inch-3-ring-vinyl-hard-cover-binder-black-each-785410.jpg?v=1611513640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 0.5" 3-Ring Hard Cover Binder - SL48652</span></p>
+<p><span>Keep records or reference materials together and easy to find in </span><span>Hard Cover Durable Binder. This light-use binder has 1/2" round rings for the storage of letter-sized documents. With a 120-sheet capacity, you can keep a light-to-moderate volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866470936650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866469888074</id>
+    <published>2020-12-28T18:01:13-05:00</published>
+    <updated>2020-12-28T18:01:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-1-inch-3-d-rings-presentation-binder-with-3-pockets-each"/>
+    <title>Selectum - 1 Inch 3 D-Rings Presentation Binder With 3 Pockets - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-1-inch-3-d-rings-presentation-binder-with-3-pockets-each-803086.png?v=1611512612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - 1" 3 D-Rings Presentation Binder Black With 3 Insert Sleeves - SL48671</p>
+<p>Keep your desk free of clutter with this binder. This is a view-type binder with heavy-duty durability and a black colour. Binder includes 1" d-rings. Perfect size at 11" H x 8.5" L.</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2" itemprop="description">One-Touch Rings open and close with ease</li>
+<li class="product-details__list-item mb-2" itemprop="description">Gap Free ring design prevents gapping and misalignment of rings</li>
+<li class="product-details__list-item mb-2" itemprop="description">Back-mounted rings allow pages to lie flat</li>
+<li class="product-details__list-item mb-2" itemprop="description">Non-Stick, Archival safe material won't life ink or toner off printed pages</li>
+<li class="product-details__list-item mb-2" itemprop="description">Four stacked pockets for organization and storage</li>
+<li class="product-details__list-item mb-2" itemprop="description">Wider front and back panels fully cover standard dividers and sheet protectors</li>
+<li class="product-details__list-item mb-2" itemprop="description">PVC free - made from plastics using fewer harmful chemicals and with reduced emissions during manufacturing</li>
+<li class="product-details__list-item mb-2" itemprop="description">Letter size</li>
+<li class="product-details__list-item mb-2" itemprop="description">Black</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866469888074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>225124</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866468216906</id>
+    <published>2020-12-28T18:01:12-05:00</published>
+    <updated>2020-12-28T18:01:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-2-inch-3-ring-hard-cover-binder-green-each"/>
+    <title>Selectum - 2 Inch 3 Ring Hard Cover Binder Green - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-2-inch-3-ring-hard-cover-binder-green-each-453431.png?v=1611511900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Selectum - 2" 3-Ring Hard Cover Binder - SL48654</p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 2" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866468216906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225133</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866467856458</id>
+    <published>2020-12-28T18:01:11-05:00</published>
+    <updated>2020-12-28T18:01:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-2-inch-3-ring-hard-cover-binder-blue-each"/>
+    <title>Selectum - 2 Inch 3 Ring Hard Cover Binder Blue - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-2-inch-3-ring-hard-cover-binder-blue-each-125869.png?v=1611513997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 2" 3-Ring Hard Cover Binder - SL48654</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 2" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866467856458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225132</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866467758154</id>
+    <published>2020-12-28T18:01:10-05:00</published>
+    <updated>2020-12-28T18:01:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-2-inch-3-ring-hard-cover-binder-black-each"/>
+    <title>Selectum - 2 Inch 3 Ring Hard Cover Binder Black - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-2-inch-3-ring-hard-cover-binder-black-each-298791.png?v=1611513092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 2" 3-Ring Hard Cover Binder - SL48654</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 2" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866467758154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225131</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866465071178</id>
+    <published>2020-12-28T18:01:09-05:00</published>
+    <updated>2020-12-28T18:01:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/selectum-2-inch-3-ring-hard-cover-binder-red-each"/>
+    <title>Selectum - 2 Inch 3 Ring Hard Cover Binder Red - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Selectum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/selectum-2-inch-3-ring-hard-cover-binder-red-each-607813.png?v=1611512312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Selectum<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Selectum - 2" 3-Ring Hard Cover Binder - SL48654</span></p>
+<p><span>Keep records or reference materials together and easy to find in Hard Cover Durable Binder. This light-use binder has 2" round rings for the storage of letter-sized documents. With a good capacity, you can keep a light-to-moderate or heavy volume of pages together, perfect for individual projects or subjects. This binder is for safe handling in any workplace, home or school.</span></p>
+<p><span>Available in 4 Colors</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Binders</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866465071178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>225134</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

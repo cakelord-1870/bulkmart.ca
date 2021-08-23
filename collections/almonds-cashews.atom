@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/almonds-cashews.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-04-20T13:39:33-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6569839624266</id>
+    <published>2021-04-20T13:39:33-04:00</published>
+    <updated>2021-04-20T13:39:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-diced-almonds-natural-25-lbs"/>
+    <title>Blue Diamond - Diced Almonds Natural - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-diced-almonds-natural-25-lbs-792988.jpg?v=1619008497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Diced Almonds Natural - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Diced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slivered Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6569839624266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>117711</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6569835659338</id>
+    <published>2021-04-20T13:39:32-04:00</published>
+    <updated>2021-04-20T13:39:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-diced-almonds-blanched-25-lbs"/>
+    <title>Blue Diamond - Diced Almonds Blanched - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-diced-almonds-blanched-25-lbs-813289.jpg?v=1619008498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Diced Almonds Blanched - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Diced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slivered Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6569835659338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>117700</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832474202186</id>
+    <published>2020-12-31T00:22:17-05:00</published>
+    <updated>2020-12-31T00:22:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-cashews-roasted-unsalted-1-5-kg"/>
+    <title>Prosperity - Cashews Roasted Unsalted - 1.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-cashews-roasted-unsalted-15-kg-752145.jpg?v=1611511652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prosperity - Cashews Roasted Unsalted - 1.5 Kg</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832474202186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>54281</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832468566090</id>
+    <published>2020-11-15T14:34:10-05:00</published>
+    <updated>2020-11-15T14:34:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-whole-natural-almonds-5-lbs"/>
+    <title>Harvest - Whole Natural Almonds - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-whole-natural-almonds-5-lbs-771969.jpg?v=1611511540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Whole Natural Raw Almonds 30/32 Nonpareil USX 1- 5 Lbs</p>
+<p> </p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Natural almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jasper-large-almond-whole-1-lbs#product","name":"Large Almond Whole - 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887497289798","sku":"WLBM460","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jasper-large-almond-whole-1-lbs-bulk-mart_443.gif","description":"Large Almond Whole - 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Jasper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"WLBM460","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jasper-large-almond-whole-1-lbs?variant=19271373226054","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832468566090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>464789</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887497289798</id>
+    <published>2020-11-15T14:33:58-05:00</published>
+    <updated>2020-11-15T14:33:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-whole-natural-almonds-2-lbs"/>
+    <title>Prosperity - Whole Natural Almonds - 2 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-whole-natural-almonds-2-lbs-392628.jpg?v=1611511834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prosperity - Whole Natural Raw Almonds - 2 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Natural almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jasper-large-almond-whole-1-lbs#product","name":"Large Almond Whole - 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887497289798","sku":"WLBM460","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jasper-large-almond-whole-1-lbs-bulk-mart_443.gif","description":"Large Almond Whole - 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Jasper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"WLBM460","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jasper-large-almond-whole-1-lbs?variant=19271373226054","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887497289798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>464792</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887459016774</id>
+    <published>2020-11-15T14:33:56-05:00</published>
+    <updated>2020-11-15T14:33:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-whole-blanched-almonds-25-lbs"/>
+    <title>Blue Diamond - Whole Blanched Almonds - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-whole-blanched-almonds-25-lbs-235667.jpg?v=1611510334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            184.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Blanched Whole Almond - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these<span> </span>Whole Blanched<span> </span>almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-25-lbs#product","name":"Blue Diamond - Blanched Whole Almond - 25 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459016774","sku":"WBBM467","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-whole-almond-25-lbs-bulk-mart_874.jpg","description":"Blue Diamond - Blanched Whole Almond - 25 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"WBBM467","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"mpn":"","priceCurrency":"CAD","price":"184.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-25-lbs?variant=19271292289094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blanched Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887459016774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">184.99</s:price>
+      <s:sku>464784</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458951238</id>
+    <published>2020-11-15T14:33:54-05:00</published>
+    <updated>2020-11-15T14:33:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-whole-blanched-almonds-10-lbs"/>
+    <title>Blue Diamond - Whole Blanched Almonds - 10 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-whole-blanched-almonds-10-lbs-831491.jpg?v=1611509020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            76.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Blanched Whole Almond - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these<span> </span>Whole Blanched<span> </span>almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-10-lbs#product","name":"Blue Diamond - Blanched Whole Almond - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887458951238","sku":"WBBM466","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-whole-almond-10-lbs-bulk-mart_155.jpg","description":"Blue Diamond - Blanched Whole Almond - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"WBBM466","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"mpn":"","priceCurrency":"CAD","price":"76.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-10-lbs?variant=19271292256326","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blanched Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458951238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">76.99</s:price>
+      <s:sku>464783</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458885702</id>
+    <published>2020-11-15T14:33:52-05:00</published>
+    <updated>2020-11-15T14:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-whole-blanched-almonds-1-lbs"/>
+    <title>Blue Diamond - Whole Blanched Almonds - 1 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-whole-blanched-almonds-1-lbs-665003.jpg?v=1611509011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Blanched Whole Almond - 1 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Whole Blanched almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-1-lbs#product","name":"Blue Diamond - Blanched Whole Almond - 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887458885702","sku":"WBBM459","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-whole-almond-1-lbs-bulk-mart_102.jpg","description":"Blue Diamond - Blanched Whole Almond - 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"WBBM459","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-blanched-whole-almond-1-lbs?variant=19271292158022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blanched Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458885702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>464782</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887459115078</id>
+    <published>2020-11-15T14:33:37-05:00</published>
+    <updated>2020-11-15T14:33:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-natural-sliced-almonds-5-lbs"/>
+    <title>Blue Diamond - Natural Sliced Almonds - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-natural-sliced-almonds-5-lbs-457289.jpg?v=1611509076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            47.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Natural Almond Slice - 5 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Sliced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-natural-almond-slice-5-lbs#product","name":"Blue Diamond - Natural Almond Slice - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459115078","sku":"SNBM458","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-natural-almond-slice-5-lbs-bulk-mart_691.jpg","description":"Blue Diamond - Natural Almond Slice - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"SNBM458","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"39.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-natural-almond-slice-5-lbs?variant=19271292780614","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sliced Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887459115078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.49</s:price>
+      <s:sku>464786</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458590790</id>
+    <published>2020-11-15T14:15:47-05:00</published>
+    <updated>2020-11-15T14:15:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-blanched-slivered-almonds-1-kg"/>
+    <title>Harvest - Blanched Slivered Almonds - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-blanched-slivered-almonds-1-kg-845564.jpg?v=1611512853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Harvest - Blanched Almond Silvered - 1 Kg</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Slivered almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-blanched-almond-silvered-5-lbs#product","name":"Blue Diamond - Blanched Almond Silvered - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887458590790","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-almond-silvered-5-lbs-bulk-mart_671.jpg","description":"Blue Diamond - Blanched Almond Silvered - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"38.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-blanched-almond-silvered-5-lbs?variant=19271291764806","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slivered Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458590790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>464787</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832469876810</id>
+    <published>2020-11-15T13:51:12-05:00</published>
+    <updated>2020-11-15T13:51:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-blanched-almond-flour-1-5-kg"/>
+    <title>Prosperity - Blanched Almond Flour - 1.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-blanched-almond-flour-15-kg-904312.jpg?v=1611511718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prosperity - Blanched Almond Powder - 1.5 Kg</p>
+<p><span>Made from fine-ground, blanched California almonds, this flour is optimal for creating protein-rich baked goods. With its fine texture and distinctive flavor, almond flour is ideal for making gluten-free breads, macarons, cakes, pastries, and pie crusts. Its naturally nutty flavor is also complementary to a variety of baked goods, and it can be used in place of breadcrumbs for many recipes.</span></p>
+<h3 class="item-header">Healthy Alternative</h3>
+<p>Great for your patrons following a gluten free, paleo, keto, or low carb diet, almond flour reduces the amount of total calories in your recipes. Known for their many health benefits, almonds are a good source of protein, are very low in carbohydrates, and contain a good amount of beneficial vitamins and minerals.</p>
+<h3 class="item-header">Fine Consistency</h3>
+<p>Milled to a very fine consistency, this almond flour is perfect for French macarons, pie crusts, quick breads, cookies, cakes, pancakes, and more. Because almonds have a high fat content, this flour will produce baked goods with a moist texture and tender crumb.</p>
+<h3 class="item-header">Naturally Gluten-Free</h3>
+<p>Offering gluten-free options on your menu accommodates a wider customer-base and provides delicious, diet-appropriate meals; it sets your business apart from the rest, showing a sensitivity to dietary needs and offering delicious and inclusive menu options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Almond Flour</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832469876810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>001257</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832463552586</id>
+    <published>2020-11-15T13:51:12-05:00</published>
+    <updated>2020-11-15T13:51:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-ground-blanched-almond-5-lbs"/>
+    <title>Harvest - Ground Blanched Almond - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-ground-blanched-almond-5-lbs-540731.jpg?v=1611510281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Ground Blanched Almond Powder / Flour - 5 Lbs</p>
+<p><span>Made from fine-ground, blanched California almonds, this flour is optimal for creating protein-rich baked goods. With its fine texture and distinctive flavor, almond flour is ideal for making gluten-free breads, macarons, cakes, pastries, and pie crusts. Its naturally nutty flavor is also complementary to a variety of baked goods, and it can be used in place of breadcrumbs for many recipes.</span></p>
+<h3 class="item-header">Healthy Alternative</h3>
+<p>Great for your patrons following a gluten free, paleo, keto, or low carb diet, almond flour reduces the amount of total calories in your recipes. Known for their many health benefits, almonds are a good source of protein, are very low in carbohydrates, and contain a good amount of beneficial vitamins and minerals.</p>
+<h3 class="item-header">Fine Consistency</h3>
+<p>Milled to a very fine consistency, this almond flour is perfect for French macarons, pie crusts, quick breads, cookies, cakes, pancakes, and more. Because almonds have a high fat content, this flour will produce baked goods with a moist texture and tender crumb.</p>
+<h3 class="item-header">Naturally Gluten-Free</h3>
+<p>Offering gluten-free options on your menu accommodates a wider customer-base and provides delicious, diet-appropriate meals; it sets your business apart from the rest, showing a sensitivity to dietary needs and offering delicious and inclusive menu options.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Almond Flour</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832463552586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>001256</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458787398</id>
+    <published>2020-05-09T13:20:24-04:00</published>
+    <updated>2020-05-09T13:20:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-blanched-sliced-almonds-5-lbs"/>
+    <title>Harvest - Blanched Sliced Almonds - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-blanched-sliced-almonds-5-lbs-116866.jpg?v=1611510458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Blanched Almond Slices - 5 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Sliced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sliced Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458787398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>464788</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887497322566</id>
+    <published>2020-03-19T20:37:06-04:00</published>
+    <updated>2020-03-19T20:37:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-whole-natural-almonds-10-lbs"/>
+    <title>Blue Diamond - Whole Natural Almonds - 10 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-whole-natural-almonds-10-lbs-759504.jpg?v=1611509251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Whole Natural Raw Almonds - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Natural almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/large-almond-whole-10-lbs#product","name":"Large Almond Whole - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887497322566","sku":"WLBM461","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/large-almond-whole-10-lbs-bulk-mart_877.jpg","description":"Large Almond Whole - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Jasper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"49"},"offers":[{"sku":"WLBM461","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"mpn":"","priceCurrency":"CAD","price":"73.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/large-almond-whole-10-lbs?variant=19271373291590","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"49"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887497322566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>464790</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887497257030</id>
+    <published>2020-03-19T20:37:06-04:00</published>
+    <updated>2020-03-19T20:37:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-whole-natural-almonds-50-lbs"/>
+    <title>Blue Diamond - Whole Natural Almonds - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-whole-natural-almonds-50-lbs-959371.jpg?v=1611509981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Whole Natural Raw Almonds - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Natural almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Natural Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887497257030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>464791</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454855238</id>
+    <published>2020-03-19T20:37:06-04:00</published>
+    <updated>2020-03-19T20:37:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-whole-cashews-360-50-lbs"/>
+    <title>SmartChoice - Whole Cashews #360 - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-whole-cashews-360-50-lbs-507718.jpg?v=1611514001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Whole Cashews #360 - 50 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/whole-cashews-360-50-lbs#product","name":"Whole Cashews #360 - 50 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454855238","sku":"50BM621","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whole-cashews-360-50-lbs-bulk-mart_333.jpg","description":"Whole Cashews #360 - 50 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"},"offers":[{"sku":"50BM621","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50.0008"},"mpn":"","priceCurrency":"CAD","price":"449.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/whole-cashews-360-50-lbs?variant=19271285833798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454855238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">449.99</s:price>
+      <s:sku>54288</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454822470</id>
+    <published>2019-06-11T00:21:44-04:00</published>
+    <updated>2019-06-11T00:21:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-whole-cashews-360-10-lbs"/>
+    <title>SmartChoice - Whole Cashews #360 - 10 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-whole-cashews-360-10-lbs-315791.jpg?v=1611514192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            105.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Whole Cashews #360 - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bulk-mart-whole-cashews-360-10-lbs#product","name":"Bulk Mart - Whole Cashews #360 - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454822470","sku":"50BM620","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bulk-mart-whole-cashews-360-10-lbs_812.jpg","description":"Bulk Mart - Whole Cashews #360 - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"},"offers":[{"sku":"50BM620","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10.0002"},"mpn":"","priceCurrency":"CAD","price":"105.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bulk-mart-whole-cashews-360-10-lbs?variant=19271285801030","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454822470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>54287</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454724166</id>
+    <published>2019-06-11T00:21:43-04:00</published>
+    <updated>2019-06-11T00:21:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-whole-cashews-360-1-lbs"/>
+    <title>SmartChoice - Whole Cashews #360 - 1 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-whole-cashews-360-1-lbs-108531.jpg?v=1611513936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Whole Cashews #360 - 1 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bulk-mart-whole-cashews-360-1-lbs#product","name":"Bulk Mart - Whole Cashews #360 - 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454724166","sku":"50BM619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bulk-mart-whole-cashews-360-1-lbs_625.jpg","description":"Bulk Mart - Whole Cashews #360 - 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"50BM619","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"1.0009"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bulk-mart-whole-cashews-360-1-lbs?variant=19271285702726","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454724166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>54286</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454691398</id>
+    <published>2019-06-11T00:21:43-04:00</published>
+    <updated>2019-06-11T00:21:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-cashews-lp-50-lbs"/>
+    <title>SmartChoice - Cashews LP - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-cashews-lp-50-lbs-584706.jpg?v=1611511712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Cashews LP - 50 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454691398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>54285</s:sku>
+      <s:grams>25855</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454625862</id>
+    <published>2019-06-11T00:21:43-04:00</published>
+    <updated>2019-06-11T00:21:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-cashews-lp-1-lbs"/>
+    <title>SmartChoice - Cashews Lp - 1 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-cashews-lp-1-lbs-858192.jpg?v=1611514309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Cashews Lp - 1 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these<span> </span>Cashews<span> </span>!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bulk-mart-cashews-lp-1-lbs#product","name":"Bulk Mart - Cashews Lp - 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454625862","sku":"LPBM616","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bulk-mart-cashews-lp-1-lbs_944.jpg","description":"Bulk Mart - Cashews Lp - 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"},"offers":[{"sku":"LPBM616","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"1"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bulk-mart-cashews-lp-1-lbs?variant=19271285571654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454625862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>54283</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454560326</id>
+    <published>2019-06-11T00:21:42-04:00</published>
+    <updated>2019-06-11T00:21:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-cashews-lp-10-lbs"/>
+    <title>SmartChoice - Cashews LP - 10 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-cashews-lp-10-lbs-712504.jpg?v=1611514604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Cashews LP - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bulk-mart-cashews-lp-10-lbs#product","name":"Bulk Mart - Cashews Lp - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454560326","sku":"LPBM615","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bulk-mart-cashews-lp-10-lbs_533.jpg","description":"Bulk Mart - Cashews Lp - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"LPBM615","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10.0002"},"mpn":"","priceCurrency":"CAD","price":"70.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bulk-mart-cashews-lp-10-lbs?variant=19271285473350","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454560326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>54284</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454494790</id>
+    <published>2019-06-11T00:21:42-04:00</published>
+    <updated>2019-06-11T00:21:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-cashew-lwp-50-lbs"/>
+    <title>SmartChoice - Cashew LWP - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-cashew-lwp-50-lbs-569940.jpg?v=1611511658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            379.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Cashew LWP - 50 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Cashews !</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cashew-lwp-50-lbs#product","name":"Bulk Mart - Cashew LWP - 50 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887454494790","sku":"WPBM618","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cashew-lwp-50-lbs-bulk-mart_615.jpg","description":"Bulk Mart - Cashew LWP - 50 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"WPBM618","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50.0008"},"mpn":"","priceCurrency":"CAD","price":"379.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cashew-lwp-50-lbs?variant=19271285407814","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cashews</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454494790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">379.99</s:price>
+      <s:sku>54282</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887459180614</id>
+    <published>2018-11-28T14:55:22-05:00</published>
+    <updated>2018-11-28T14:55:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-natural-sliced-almonds-25-lbs"/>
+    <title>Blue Diamond - Natural Sliced Almonds - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-natural-sliced-almonds-25-lbs-985536.jpg?v=1611509254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Natural Almond Slice - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Sliced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-natural-almond-slice-25-lbs#product","name":"Blue Diamond - Natural Almond Slice - 25 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459180614","sku":"SNBM465","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-natural-almond-slice-25-lbs-bulk-mart_300.jpg","description":"Blue Diamond - Natural Almond Slice - 25 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"SNBM465","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"mpn":"","priceCurrency":"CAD","price":"179.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-natural-almond-slice-25-lbs?variant=19271292846150","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sliced Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887459180614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>464785</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458820166</id>
+    <published>2018-11-28T14:55:18-05:00</published>
+    <updated>2018-11-28T14:55:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-blanched-sliced-almonds-25-lbs"/>
+    <title>Blue Diamond - Blanched Sliced Almonds - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-sliced-almonds-25-lbs-110526.jpg?v=1611509071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Blanched Almond Slices - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Sliced almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blue-diamond-blanched-almond-slices-25-lbs#product","name":"Blue Diamond - Blanched Almond Slices - 25 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887458820166","sku":"SBBM463","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-almond-slices-25-lbs-bulk-mart_610.jpg","description":"Blue Diamond - Blanched Almond Slices - 25 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"SBBM463","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"mpn":"","priceCurrency":"CAD","price":"179.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blue-diamond-blanched-almond-slices-25-lbs?variant=19271292092486","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sliced Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458820166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>464781</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458689094</id>
+    <published>2018-11-28T14:55:17-05:00</published>
+    <updated>2018-11-28T14:55:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blue-diamond-blanched-slivered-almonds-25-lbs"/>
+    <title>Blue Diamond - Blanched Slivered Almonds - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Blue Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blue-diamond-blanched-slivered-almonds-25-lbs-663989.jpg?v=1611509191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Blue Diamond<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blue Diamond - Blanched Almond Silvered - 25 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Slivered almonds!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Slivered Almonds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458689094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>464780</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

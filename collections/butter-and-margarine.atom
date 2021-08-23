@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/butter-and-margarine.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-18T15:18:26-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6541371506762</id>
+    <published>2021-03-18T15:18:26-04:00</published>
+    <updated>2021-03-18T15:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crystal-lactose-free-non-hydrogenated-margarine-907-g"/>
+    <title>Crystal - Lactose Free Non Hydrogenated Margarine - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crystal-lactose-free-non-hydrogenated-margarine-907-g-930458.jpg?v=1616131543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crystal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crystal - Soft Non Hydrogenated Margarine  - 2 Lbs</strong></p>
+<ul>
+<li>No trans fat</li>
+<li>Lactose-free</li>
+<li>Vegan</li>
+<li>Non-hydrogenated</li>
+<li>No artificial flavors</li>
+<li>Source of omega-3 fatty acids</li>
+<li>907g</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p>
+<p><span>With subtle flavour and a soft consistency, Crystal Margarine is formulated to be directly spreadable from refrigerated temperatures and is ideal for most cooking applications. Made from non-hydrogenated vegetable oil and canola oil, our products are vegan, gluten-free, lactose-free and are an excellent source of omega-3 fatty acids.<br><br>We proudly use environmentally friendly packaging. Our Crystal Margarine containers are reusable, dishwasher, and microwave safe.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6541371506762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>665511</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821473984586</id>
+    <published>2020-11-15T12:37:28-05:00</published>
+    <updated>2020-11-15T12:37:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-liquid-margarine-zt-2-85-kg"/>
+    <title>Golden Gate - Liquid Margarine ZT - 2.85 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-liquid-margarine-zt-285-kg-629792.png?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Liquid Margarine ZT - 2.85 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821473984586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>0125458</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821485551690</id>
+    <published>2020-11-02T01:31:03-05:00</published>
+    <updated>2020-11-02T01:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-provencal-garlic-butter-125-g"/>
+    <title>Lactantia - Provençal Garlic Butter - 125 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-provencal-garlic-butter-125-g-924208.jpg?v=1611510636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Provencal Garlic Butter - 125 g</strong></p>
+<p>Perfect for garlic bread or adding flavour to pasta, vegetables, rice, and meat.<br></p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821485551690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>1215410</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821484765258</id>
+    <published>2020-11-02T01:31:02-05:00</published>
+    <updated>2020-11-02T01:31:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-salted-butter-cups-120-x-6-5-g"/>
+    <title>Lactantia - Salted Butter Cups - 120 x 6.5 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-salted-butter-cups-120-x-65-g-500823.jpg?v=1611510829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lactantia - Salted Butter Cups - 120 x 6.5 g</p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821484765258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1215411</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821484175434</id>
+    <published>2020-11-02T01:31:01-05:00</published>
+    <updated>2020-11-02T01:31:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-whipped-butter-cups-600-x-4-5-g"/>
+    <title>Lactantia - Whipped Butter Cups - 600 x 4.5 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-whipped-butter-cups-600-x-45-g-305439.jpg?v=1611510764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lactantia - Whipped Butter Cups - 600 x 4.5 g</p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821484175434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>1215413</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821483880522</id>
+    <published>2020-11-02T01:31:01-05:00</published>
+    <updated>2020-11-02T01:31:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-salted-butter-cups-480-x-6-5-g"/>
+    <title>Lactantia - Salted Butter Cups - 480 x 6.5 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-salted-butter-cups-480-x-65-g-207207.jpg?v=1611513098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lactantia - Salted Butter Cups - 480 x 6.5 g</p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821483880522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>1215412</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821483683914</id>
+    <published>2020-11-02T01:31:00-05:00</published>
+    <updated>2020-11-02T01:31:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-country-churned-salted-butter-454g"/>
+    <title>Lactantia - Country Churned Salted Butter - 454g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-country-churned-salted-butter-454g-866663.jpg?v=1611511176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Salted Butter - 454g</strong></p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821483683914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>121547</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821482995786</id>
+    <published>2020-11-02T01:30:59-05:00</published>
+    <updated>2020-11-02T01:30:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gay-lea-unsalted-butter-250-g"/>
+    <title>Gay Lea - Unsalted Butter - 250 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gay Lea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-unsalted-butter-250-g-478447.jpg?v=1611510041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gay Lea<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gay Lea - Unsalted Butter - 250 g</strong></p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821482995786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>121543</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821482766410</id>
+    <published>2020-11-02T01:30:58-05:00</published>
+    <updated>2020-11-02T01:30:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gay-lea-salted-butter-250-g"/>
+    <title>Gay Lea - Salted Butter - 250 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gay Lea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-salted-butter-250-g-564305.jpg?v=1611510038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gay Lea<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gay Lea - Salted Butter - 250 g</strong></p>
+<p itemprop="description"><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.<br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821482766410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>121542</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4822193832010</id>
+    <published>2020-11-02T00:29:37-05:00</published>
+    <updated>2020-11-02T00:29:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mirage-gluten-free-margarine-13-kg"/>
+    <title>Mirage - Gluten Free Margarine - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mirage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mirage-gluten-free-margarine-13-kg-100536.png?v=1611513696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirage<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mirage - Gluten Free Margarine Omega-3 - 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4822193832010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>369897</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821480210506</id>
+    <published>2020-11-02T00:29:36-05:00</published>
+    <updated>2020-11-02T00:29:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-margarine-mini-cups-600-x-6-5-g"/>
+    <title>Lactantia - Margarine Mini Cups - 600 x 6.5 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-margarine-mini-cups-600-x-65-g-176817.jpg?v=1611511115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Margarine Mini Cups - 600 x 6.5 g</strong></p>
+<p><strong>Packaged in single serve size: portioned for least amount of waste. Yellow in colour: resembles butter. Pre-portioned in cups: freshness maintained. </strong></p>
+<p><span>It features the same rich butter flavor your customers know and love at a more economical price. Use it for on the go catering events or serve with breakfast. Create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821480210506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>25997</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821478178890</id>
+    <published>2020-11-02T00:29:35-05:00</published>
+    <updated>2020-11-02T00:29:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-unsalted-soft-margarine-4-kg"/>
+    <title>Golden Gate - Unsalted Soft Margarine - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-unsalted-soft-margarine-4-kg-190208.png?v=1611513155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Non-Hydrogenated Margarine Soft Unsalted - 4 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821478178890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>214591</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821477392458</id>
+    <published>2020-11-02T00:29:34-05:00</published>
+    <updated>2020-11-02T00:29:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-mirage-margarine-454-g"/>
+    <title>Golden Gate - Mirage Margarine - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-mirage-margarine-454-g-167043.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Mirage NH Soya Margarine - 454 g</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821477392458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>1549114</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821475262538</id>
+    <published>2020-11-02T00:29:33-05:00</published>
+    <updated>2020-11-02T00:29:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crystal-lactose-free-margarine-nh-10-kg"/>
+    <title>Crystal - Lactose Free Margarine NH - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crystal-lactose-free-margarine-nh-10-kg-625317.jpg?v=1611514841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crystal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crystal - Soft Non Hydrogenated Margarine  - 10 Kg</strong></p>
+<ul>
+<li>No trans fat</li>
+<li>Lactose-free</li>
+<li>Vegan</li>
+<li>Non-hydrogenated</li>
+<li>Source of omega-3 fatty acids</li>
+<li>10 kg</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821475262538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>121545</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821474672714</id>
+    <published>2020-11-02T00:29:32-05:00</published>
+    <updated>2020-11-02T00:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chef-master-nh-hard-margarine-1-lbs"/>
+    <title>Chef Master - NH Hard Margarine  - 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Chef Master</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chef-master-nh-hard-margarine-1-lbs-486876.jpg?v=1611509499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chef Master<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chef Master - NH Hard Transit Margarine  - 1 Lb</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821474672714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>654489</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815531180106</id>
+    <published>2020-10-26T19:00:24-04:00</published>
+    <updated>2020-10-26T19:00:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-roll-in-margarine-nh-sweet-31168-20-kg"/>
+    <title>Bunge - Roll In Margarine NH Sweet 31168 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-roll-in-margarine-nh-sweet-31168-20-kg-754922.jpg?v=1611509021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge - Roll In Margarine NH Sweet 31168 - 20 Kg</strong></p>
+<p><span>Our Bunge portfolio of bakers roll-in margarines are specifically designed to meet the various applications that today’s modern bakers require. Whither you are baking danishes or croissants rest assured that Bunge’s selection of application specific roll-in margarines has you covered.  </span></p>
+<div class="_22_Sd">
+<div class="n4Zpk">Roll-In Margarine</div>
+</div>
+<div class="_22_Sd">
+<div>
+<svg class="_3FJJ6" viewbox="0 0 17.532 12.117" height="12.117" width="17.532" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1.411 1.414)" data-name="Icon | Check Bullit" id="Icon_Check_Bullit"><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(0 3.096)" y2="6.192" x2="5.418" data-name="Line 15" id="Line_15"></line><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(5.418)" y2="9.289" x1="9.289" data-name="Line 16" id="Line_16"></line></g></svg><br>
+</div>
+<div class="n4Zpk">Easy to use</div>
+</div>
+<div class="_22_Sd">
+<div>
+<svg class="_3FJJ6" viewbox="0 0 17.532 12.117" height="12.117" width="17.532" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1.411 1.414)" data-name="Icon | Check Bullit" id="Icon_Check_Bullit"><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(0 3.096)" y2="6.192" x2="5.418" data-name="Line 15" id="Line_15"></line><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(5.418)" y2="9.289" x1="9.289" data-name="Line 16" id="Line_16"></line></g></svg><br>
+</div>
+<div class="n4Zpk">Application optimized</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815531180106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>025054</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815530459210</id>
+    <published>2020-10-26T19:00:23-04:00</published>
+    <updated>2020-10-26T19:00:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richardson-deluxe-bakers-margarine-nh-20967-20-kg"/>
+    <title>Richardson - Deluxe Bakers Margarine NH 20967 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Richardson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richardson-deluxe-bakers-margarine-nh-20967-20-kg-449370.jpg?v=1611512320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Richardson<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Richardson - Deluxe Bakers Margarine NH 20967 - 20 Kg</strong></p>
+<p><span>Formulated to provide consistent functionality and full flavour, our margarines contain lower saturated fat, no cholesterol and fewer calories. Light and buttery, our all-purpose margarines are made from non-hydrogenated vegetable oils and are formulated to be spreadable at refrigerated temperatures. The butter-like consistency makes our canola products ideal for most baking applications.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815530459210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>0215490</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815529508938</id>
+    <published>2020-10-26T19:00:22-04:00</published>
+    <updated>2020-10-26T19:00:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-cremin-nh-icing-base-22181-20-kg"/>
+    <title>Golden Gate - Cremin NH Icing Base 22181 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-cremin-nh-icing-base-22181-20-kg-653958.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Cremin NH Icing Base 22181 - 20 Kg</strong></p>
+<p>Shop for Margarines,  Icing Base specifically designed to meet the various applications that today’s modern bakers require. Whether you are baking danishes or croissants this Icing base is the important staple in your bakery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815529508938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>022145</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4804673536074</id>
+    <published>2020-10-14T10:09:40-04:00</published>
+    <updated>2020-10-14T10:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/parmalat-bulk-salted-butter-solid-block-25-kg"/>
+    <title>Parmalat - Bulk Salted Butter Solid Block - 25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Parmalat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/parmalat-bulk-salted-butter-solid-block-25-kg-702638.jpg?v=1611511237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Parmalat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Parmalat - Bulk Salted Butter Solid / Block - 25 Kg</strong></p>
+<ul>
+<li>80% M.F.</li>
+<li>100% Canadian milk</li>
+<li>25 kg</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span data-mce-fragment="1">Available in Salt Free and Semi Salted formats, <strong data-mce-fragment="1">Lactantia</strong> salted butters deliver the same freshness, creamy texture and uncompromising performance as Salted Butter.<br data-mce-fragment="1">Equally suited for cooking, baking, frying and blending.</span></p>
+<p><span data-mce-fragment="1">Butter is an<strong> essential ingredient</strong> in a variety of dishes with many uses in the kitchen, so be sure to stock up by purchasing our butter in bulk. These products are perfect for use in the front- or back-of-house areas, depending on your needs. We also offer clarified butter, which is pure butter fat, as well as whipped options that easily spread on sandwiches and toast.</span></p>
+<p><span data-mce-fragment="1">Use wholesale butter for a variety of uses in the kitchen or front-of-house area of your restaurant, diner, bistro, or banquet hall. All of these products are made with high-quality ingredients, which give them a smooth texture and rich flavor that easily accentuates your recipes. Additionally, because we provide butter in bulk, you can be sure that you’ll have enough to use in all of the dishes in your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4804673536074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>1215416</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4579875061834</id>
+    <published>2020-10-14T10:08:35-04:00</published>
+    <updated>2020-10-14T10:08:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bulk-unsalted-butter-solid-block-25-lb"/>
+    <title>Bulk Unsalted Baking Butter Solid Block - 25 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>DM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bulk-unsalted-baking-butter-solid-block-25-lb-742597.jpg?v=1611509138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Baking Butter is an<strong> essential ingredient</strong> in a variety of dishes with many uses in the kitchen, so be sure to stock up by purchasing our butter in bulk. </span></p>
+<p>All of these products are made with high-quality ingredients, which give them a smooth texture and rich flavor that easily accentuates your recipes.</p>
+<p>Bulk Unsalted Baking Butter Product Solid Block ONLY for Baking purpose NOT for taking out the clarified butter out of this.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4579875061834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>121547</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4794915848266</id>
+    <published>2020-10-06T14:12:44-04:00</published>
+    <updated>2020-10-06T14:12:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/parmalat-bulk-unsalted-butter-solid-block-25-kg"/>
+    <title>Parmalat - Bulk Unsalted Butter Solid Block - 25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Parmalat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/parmalat-bulk-unsalted-butter-solid-block-25-kg-488346.jpg?v=1627402561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Parmalat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Parmalat - Bulk Unsalted Butter Solid / Block - 25 Kg</strong></p>
+<ul>
+<li>80% M.F.</li>
+<li>100% Canadian milk</li>
+<li>25 kg</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span data-mce-fragment="1">Available in Salt Free and Semi Salted formats, <strong data-mce-fragment="1">Lactantia</strong> Unsalted butters deliver the same freshness, creamy texture and uncompromising performance as Salted Butter.<br data-mce-fragment="1">Equally suited for cooking, baking, frying and blending.</span></p>
+<p><span data-mce-fragment="1">Butter is an<strong> essential ingredient</strong> in a variety of dishes with many uses in the kitchen, so be sure to stock up by purchasing our butter in bulk. These products are perfect for use in the front- or back-of-house areas, depending on your needs. We also offer clarified butter, which is pure butter fat, as well as whipped options that easily spread on sandwiches and toast.</span></p>
+<p><span data-mce-fragment="1">Use wholesale butter for a variety of uses in the kitchen or front-of-house area of your restaurant, diner, bistro, or banquet hall. All of these products are made with high-quality ingredients, which give them a smooth texture and rich flavor that easily accentuates your recipes. Additionally, because we provide butter in bulk, you can be sure that you’ll have enough to use in all of the dishes in your establishment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4794915848266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>1215417</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3885653852230</id>
+    <published>2019-07-02T19:38:41-04:00</published>
+    <updated>2019-07-02T19:38:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-country-churned-unsalted-butter-454g"/>
+    <title>Lactantia - Country Churned Unsalted Butter - 454g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-country-churned-unsalted-butter-454g-975650.jpg?v=1611513520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lactantia - Unsalted Butter - 454 g</p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g#product","name":"Lactantia - Unsalted Butter - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"DaiBO6BM1086","sku":"6BM1086","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-unsalted-butter-20-x-454-g-bulk-mart_637.png","description":"- Unsalted Butter - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Lactantia"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.08"},"offers":[{"name":"Lactantia - Unsalted Butter - 20 x 454 g","sku":"6BM1086","mpn":"DaiBO6BM1086","@type":"Offer","priceCurrency":"CAD","price":"109.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lactantia-unsalted-butter-20-x-454-g?variant=29238853566534","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3885653852230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>121548</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3857883037766</id>
+    <published>2019-06-20T03:11:02-04:00</published>
+    <updated>2019-06-20T03:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-white-soft-margarine-nh-13-kg"/>
+    <title>Golden Gate - White Soft Margarine NH - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-white-soft-margarine-nh-13-kg-439985.png?v=1611510406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate -  Margarine Blue- 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-gate-margarine-blue-13-kg#product","name":"Golden Gate -  Margarine Blue- 13 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3857883037766","sku":"BM20619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-margarine-blue-13-kg-bulk-mart_146.jpg","description":"Golden Gate - Margarine Blue- 13 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Golden Gate"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"BM20619","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"13"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-gate-margarine-blue-13-kg?variant=29160504590406","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3857883037766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1548790</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3857882054726</id>
+    <published>2019-06-20T03:09:59-04:00</published>
+    <updated>2019-06-20T03:09:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-soft-margarine-nh-13-kg"/>
+    <title>Golden Gate - Soft Margarine NH - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-soft-margarine-nh-13-kg-897615.jpg?v=1611512141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Margarine Soft Soya - 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3857882054726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>025781</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887529861190</id>
+    <published>2018-11-28T15:07:42-05:00</published>
+    <updated>2018-11-28T15:07:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gay-lea-salted-butter-25-x-454-g"/>
+    <title>Gay Lea - Salted Butter - 25 x 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gay Lea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-salted-butter-25-x-454-g-301934.jpg?v=1611512320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gay Lea<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            137.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gay Lea - Salted Butter - 25 x 454 g</p>
+<p><strong>This butter is sure to be a rich, creamy addition to your recipes.</strong><span> This butter allows you to control the amount of sodium and flavor that goes into your dishes. When heated and used for cooking applications, it lends a caramelized, nutty flavor and enhances the taste of the food it's being cooked with. From ensuring your chocolate chip cookies bake to perfection to adding it in with eggs to create the perfect fluffy cake, this butter is an essential ingredient to keep on hand.</span><br><br><strong>This butter is made from the freshest, high-quality sweet cream</strong><span> and has a great texture for spreading, making it perfect for topping off toast or breads. This butter is perfect for baking or cooking, as you can control the added salt included in the mixture to ensure the end results meet your desired flavor. Stock your kitchen with this fresh, premium butter to ensure you always have a superior butter on hand to add to your dishes.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gay-lea-salted-butter-25-x-454-g#product","name":"Gay Lea -  Salted Butter - 25 x 454 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887529861190","sku":"4BM1084","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-salted-butter-25-x-454-g-bulk-mart_361.jpg","description":"Gay Lea - Salted Butter - 25 x 454 g.","category":"FOOD","brand":{"@type":"Brand","name":"Gay Lea"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"4BM1084","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"11.35"},"mpn":"","priceCurrency":"CAD","price":"137.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gay-lea-salted-butter-25-x-454-g?variant=19271425753158","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887529861190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">137.99</s:price>
+      <s:sku>121541</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

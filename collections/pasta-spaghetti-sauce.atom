@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pasta-spaghetti-sauce.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-20T17:28:28-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4811957469258</id>
+    <published>2020-10-20T17:28:28-04:00</published>
+    <updated>2020-10-20T17:28:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-al-dente-ultra-premium-pasta-sauce-6-x-100-oz"/>
+    <title>Stanislaus Al Dente - Ultra Premium Pasta Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus Al Dente</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-al-dente-ultra-premium-pasta-sauce-6-x-100-oz-364954.jpg?v=1611512671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus Al Dente<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811957469258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>032469</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811956551754</id>
+    <published>2020-10-20T17:28:27-04:00</published>
+    <updated>2020-10-20T17:28:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-al-dente-ultra-premium-pasta-sauce-100-oz"/>
+    <title>Stanislaus Al Dente - Ultra Premium Pasta Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus Al Dente</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-al-dente-ultra-premium-pasta-sauce-100-oz-635472.jpg?v=1611512852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus Al Dente<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811956551754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>06954</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811955765322</id>
+    <published>2020-10-20T17:28:26-04:00</published>
+    <updated>2020-10-20T17:28:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-trattoria-spaghetti-sauce-alla-rustica-100-oz"/>
+    <title>Stanislaus Trattoria - Spaghetti Sauce &quot;Alla Rustica&quot; - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus Trattoria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-trattoria-spaghetti-sauce-alla-rustica-100-oz-342787.jpg?v=1611514248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus Trattoria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:tag>Spaghetti Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811955765322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>001546</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811953242186</id>
+    <published>2020-10-20T17:28:25-04:00</published>
+    <updated>2020-10-20T17:28:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-trattoria-spaghetti-sauce-alla-rustica-6-x-100-oz"/>
+    <title>Stanislaus Trattoria - Spaghetti Sauce &quot;Alla Rustica&quot; - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus Trattoria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-trattoria-spaghetti-sauce-alla-rustica-6-x-100-oz-691386.jpg?v=1611512437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus Trattoria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:tag>Spaghetti Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811953242186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>06469</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811709808714</id>
+    <published>2020-10-20T16:22:32-04:00</published>
+    <updated>2020-10-20T16:22:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-garlic-pasta-sauce-680-ml"/>
+    <title>Unico - Garlic Pasta Sauce - 680 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-garlic-pasta-sauce-680-ml-547254.jpg?v=1611512621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Garlic Pasta Sauce - 680 ml -12 Packs/Case Available</strong></p>
+<h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-original-pasta-sauce-100-oz#product","name":"Unico -   Original Pasta Sauce - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4538396082250","sku":"PUBM415","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-original-pasta-sauce-100-oz-bulk-mart_193.jpg","description":"Unico - / Original Pasta Sauce - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"PUBM415","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-original-pasta-sauce-100-oz?variant=31871376097354","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811709808714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>04521</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811707613258</id>
+    <published>2020-10-20T16:22:31-04:00</published>
+    <updated>2020-10-20T16:22:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-pasta-sauce-romano-and-basil-2-84-l"/>
+    <title>Primo - Pasta Sauce Romano and Basil - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-pasta-sauce-romano-and-basil-284-l-938477.jpg?v=1611512070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811707613258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>04529</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811707056202</id>
+    <published>2020-10-20T16:22:29-04:00</published>
+    <updated>2020-10-20T16:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-pasta-sauce-romano-cheese-and-basil-6-x-2-84-l"/>
+    <title>Primo - Pasta Sauce Romano Cheese and Basil - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-pasta-sauce-romano-cheese-and-basil-6-x-284-l-387047.jpg?v=1611511353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811707056202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>04518</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811703713866</id>
+    <published>2020-10-20T16:22:28-04:00</published>
+    <updated>2020-10-20T16:22:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-pasta-sauce-tomato-basil-6-x-2-84-l"/>
+    <title>Primo - Pasta Sauce Tomato Basil - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-pasta-sauce-tomato-basil-6-x-284-l-323744.jpg?v=1611514426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811703713866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>04537</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811702435914</id>
+    <published>2020-10-20T16:22:26-04:00</published>
+    <updated>2020-10-20T16:22:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-pasta-sauce-tomato-basil-2-84-l"/>
+    <title>Primo - Pasta Sauce Tomato Basil - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-pasta-sauce-tomato-basil-284-l-737064.jpg?v=1611512372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811702435914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>04529</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811700535370</id>
+    <published>2020-10-20T16:22:25-04:00</published>
+    <updated>2020-10-20T16:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prego-original-pasta-sauce-645-ml"/>
+    <title>Prego - Original Pasta Sauce - 645 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Prego</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prego-original-pasta-sauce-645-ml-215742.jpg?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prego<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Prego - Pasta Sauce Original - 645 ml</strong></p>
+<h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811700535370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>04536</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811699617866</id>
+    <published>2020-10-20T16:22:23-04:00</published>
+    <updated>2020-10-20T16:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prego-tomato-onion-garlic-pasta-sauce-645-ml"/>
+    <title>Prego - Tomato Onion &amp; Garlic Pasta Sauce - 645 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Prego</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prego-tomato-onion-garlic-pasta-sauce-645-ml-513407.jpg?v=1611514493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prego<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Prego - Tomato Onion And Garlic Pasta Sauce - 645 ml</h2>
+<h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811699617866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>04528</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689449910346</id>
+    <published>2020-07-17T20:35:12-04:00</published>
+    <updated>2020-07-17T20:35:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-original-recipe-pasta-sauce-6-x-2-84-l"/>
+    <title>Primo - Original Recipe Pasta Sauce - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-original-recipe-pasta-sauce-6-x-284-l-801342.jpg?v=1611511534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689449910346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>04538</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689444896842</id>
+    <published>2020-07-17T20:28:40-04:00</published>
+    <updated>2020-07-17T20:28:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-original-recipe-pasta-sauce-2-84-l"/>
+    <title>Primo - Original Recipe Pasta Sauce - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-original-recipe-pasta-sauce-284-l-349544.jpg?v=1611511831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689444896842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>04519</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887535202374</id>
+    <published>2020-07-17T20:23:38-04:00</published>
+    <updated>2020-07-17T20:23:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hunts-traditional-pasta-sauce-680-g"/>
+    <title>Hunts - Traditional Pasta Sauce  - 680 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hunts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hunts-traditional-pasta-sauce-680-g-641210.jpg?v=1611512252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hunts<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hunt's - Traditional Pasta Sauce  - 680 g</strong></p>
+<p>Packing Available = 12 / Case</p>
+<h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887535202374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>04589</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4538396934218</id>
+    <published>2020-03-25T15:09:13-04:00</published>
+    <updated>2020-03-25T15:09:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-original-pasta-sauce-6-x-100-oz"/>
+    <title>Unico -   Original Pasta Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-original-pasta-sauce-6-x-100-oz-557847.jpg?v=1611512071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4538396934218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>04636</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4538396082250</id>
+    <published>2020-03-25T15:07:11-04:00</published>
+    <updated>2020-03-25T15:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-original-pasta-sauce-100-oz"/>
+    <title>Unico -   Original Pasta Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-original-pasta-sauce-100-oz-135199.jpg?v=1611513695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Utilize the convenience of ready-to-serve pasta sauce without compromising a fresh, homemade taste!</h2>
+<p><span>This pasta sauce is perfect for virtually any pasta dish, as well as your delicious chicken or eggplant parmesans. Packed from fresh tomatoes, extra-virgin olive oil, caramelized onions and a subtle blend of seasonings, this sauce provides the wholesome, real Italian flavor your customers crave. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to create this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor.</p>
+<h3 class="item-header">Convenient Bulk Can</h3>
+<p>Not only does this sauce taste great, but it provides the best in a convenience-ready bulk can, so there's no need to expend kitchen prep time creating pasta sauce from scratch. Provide ample amounts of delicious sauce to your guests!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-original-pasta-sauce-100-oz#product","name":"Unico -   Original Pasta Sauce - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4538396082250","sku":"PUBM415","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-original-pasta-sauce-100-oz-bulk-mart_193.jpg","description":"Unico - / Original Pasta Sauce - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"PUBM415","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-original-pasta-sauce-100-oz?variant=31871376097354","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4538396082250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>010128</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+</feed>

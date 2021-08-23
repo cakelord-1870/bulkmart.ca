@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pizza-sauce.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-20T19:01:26-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4811723210826</id>
+    <published>2020-10-20T19:01:26-04:00</published>
+    <updated>2020-10-20T19:01:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-pizzaletto-new-york-style-pizza-sauce-100-oz"/>
+    <title>Stanislaus Pizzaletto - New York Style Pizza Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-pizzaletto-new-york-style-pizza-sauce-100-oz-360849.jpg?v=1611512611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811723210826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>069458</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3942352945222</id>
+    <published>2019-07-25T17:35:44-04:00</published>
+    <updated>2019-07-25T17:35:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-pizzaletto-new-york-style-pizza-sauce-6-x-100-oz"/>
+    <title>Stanislaus Pizzaletto - New York Style Pizza Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-pizzaletto-new-york-style-pizza-sauce-6-x-100-oz-804115.jpg?v=1611511896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3942352945222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>069514</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1904420651078</id>
+    <published>2018-11-28T15:09:17-05:00</published>
+    <updated>2018-11-28T15:09:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-pizza-sauce-100-oz"/>
+    <title>Unico - Pizza Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-pizza-sauce-100-oz-138349.jpg?v=1611513514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-pizza-sauce-100-oz#product","name":"Unico - Pizza Sauce - 100 oz","itemCondition":"https://schema.org/NewCondition","mpn":"1904420651078","sku":"BM523-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-pizza-sauce-100-oz-bulk-mart_905.jpg","description":"Unico - Pizza Sauce - 100 oz...","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"36"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"gtin13":"PizS04BM523-1","offers":[{"name":"Unico - Pizza Sauce - 100 oz","sku":"BM523-1","gtin13":"PizS04BM523-1","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-pizza-sauce-100-oz?variant=19432324563014","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1904420651078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>0218548</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539003462</id>
+    <published>2018-11-28T15:09:17-05:00</published>
+    <updated>2018-11-28T15:09:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-pizza-sauce-6-x-100-oz"/>
+    <title>Unico - Pizza Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-pizza-sauce-6-x-100-oz-357255.jpg?v=1611513575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539003462</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>054889</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1904444932166</id>
+    <published>2018-11-28T15:08:32-05:00</published>
+    <updated>2018-11-28T15:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stoney-creek-pizza-sauce-100-oz"/>
+    <title>Stoney Creek - Pizza Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stoney Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stoney-creek-pizza-sauce-100-oz-782628.jpg?v=1611513096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stoney Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/stoney-creek-pizza-sauce-100-oz#product","name":"Stoney Creek -  Pizza Sauce - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1904444932166","sku":"06BM524","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stoney-creek-pizza-sauce-100-oz-bulk-mart_779.jpg","description":"Stoney Creek - Pizza Sauce - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Stoney Creek"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"49"},"offers":[{"sku":"06BM524","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/stoney-creek-pizza-sauce-100-oz?variant=19432711487558","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"49"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1904444932166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>069543</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887534645318</id>
+    <published>2018-11-28T15:08:32-05:00</published>
+    <updated>2018-11-28T15:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stoney-creek-pizza-sauce-6-x-100-oz"/>
+    <title>Stoney Creek - Pizza Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stoney Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stoney-creek-pizza-sauce-6-x-100-oz-892467.jpg?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stoney Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/stoney-creek-pizza-sauce-6-x-100-oz#product","name":"Stoney Creek -  Pizza Sauce - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887534645318","sku":"06BM524","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stoney-creek-pizza-sauce-6-x-100-oz-bulk-mart_926.jpg","description":"Stoney Creek - Pizza Sauce - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Stoney Creek"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"06BM524","mpn":"","priceCurrency":"CAD","price":"25.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/stoney-creek-pizza-sauce-6-x-100-oz?variant=19271433715782","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887534645318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.49</s:price>
+      <s:sku>069554</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2015660802118</id>
+    <published>2018-11-28T15:06:35-05:00</published>
+    <updated>2018-11-28T15:06:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-pizzaiolo-pizza-sauce-autentico-100-oz"/>
+    <title>Stanislaus Pizzaiolo - Pizza Sauce &quot;autentico&quot; - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-pizzaiolo-pizza-sauce-autentico-100-oz-102953.jpg?v=1611514721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2015660802118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>06944</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887523209286</id>
+    <published>2018-11-28T15:06:35-05:00</published>
+    <updated>2018-11-28T15:06:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-pizzaiolo-pizza-sauce-autentico-6-x-100-oz"/>
+    <title>Stanislaus Pizzaiolo - Pizza Sauce &quot;autentico&quot; - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-pizzaiolo-pizza-sauce-autentico-6-x-100-oz-610737.jpg?v=1611514427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pizzaiolo-fully-prep-pizza-sauce-6-x-100-oz#product","name":"Pizzaiolo - Fully Prep Pizza Sauce - 6 x 100 oz","itemCondition":"https://schema.org/NewCondition","mpn":"PizS01BM522","sku":"01BM522","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pizzaiolo-fully-prep-pizza-sauce-6-x-100-oz-bulk-mart_966.jpg","description":"Pizzaiolo - Fully Prep Pizza Sauce - 6 x 100 oz...","category":"FOOD","brand":{"@type":"Brand","name":"Pizzaiolo"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"34"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"17.5"},"offers":[{"name":"Pizzaiolo - Fully Prep Pizza Sauce - 6 x 100 oz","sku":"01BM522","mpn":"PizS01BM522","@type":"Offer","priceCurrency":"CAD","price":"48.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pizzaiolo-fully-prep-pizza-sauce-6-x-100-oz?variant=19271415562310","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887523209286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>069155</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1904472686662</id>
+    <published>2018-11-28T14:59:30-05:00</published>
+    <updated>2018-11-28T14:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-red-fully-prepared-pizza-sauce-100-oz"/>
+    <title>Full Red - Fully Prepared Pizza Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Full Red</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-fully-prepared-pizza-sauce-100-oz-864348.jpg?v=1611509972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Red<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1904472686662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>65970</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485853766</id>
+    <published>2018-11-28T14:59:30-05:00</published>
+    <updated>2018-11-28T14:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-red-fully-prepared-pizza-sauce-6-x-100-oz"/>
+    <title>Full Red - Fully Prepared Pizza Sauce  - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Full Red</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-fully-prepared-pizza-sauce-6-x-100-oz-745305.jpg?v=1611509972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Red<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Creating your signature pizza with pizza sauce and authentic Italian taste!</h2>
+<p><span>This sauce base provides the deep red color and a rich blend of tangy, sweet, and salty flavors your customers crave. Packed with high quality California vine-ripened tomatoes, extra-virgin olive oil, a blend of Italian seasonings, and fresh basil, this pizza sauce base has a smooth, velvety consistency that provides maximum spreadability. With the belief that quality products create quality customers, you can always rest assured you are serving the best.</span></p>
+<h3 class="item-header">Unbeatable Flavor</h3>
+<p>The tomatoes used to make this sauce experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, the tomatoes are packed fresh, and not from concentrate for maximum preservation of original flavor</p>
+<h3 class="item-header">Save Time in the Kitchen</h3>
+<p>It saves you most of the prep work in your high-volume kitchen while allowing you to add your own personal touch to your pizzas. Plus, its convenient bulk# 10 can size allows you to provide ample amounts of sauce at a time to your guest</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485853766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>06954</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

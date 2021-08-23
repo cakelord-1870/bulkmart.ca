@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/soup-bases-and-mixes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-07T17:23:02-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6633471148106</id>
+    <published>2021-08-07T17:23:02-04:00</published>
+    <updated>2021-08-07T17:23:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-66-g"/>
+    <title>Aurora - Vegetable Bouillon Cube - 66 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-vegetable-bouillon-cube-66-g-413385.jpg?v=1628475499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aurora - Vegetable Bouillon Cube - 66 g</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Vegetable flavoured bouillon cubes. Great for adding flavour to any of your favourite dishes. Dissolve 1 tablet in 2 cups (500ml) of boiling water. This product is gluten free.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g#product","name":"Aurora - Vegetable Bouillon Cube - 60 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3963991949382","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-vegetable-bouillon-cube-24-x-60-g-bulk-mart_223_53f34ef4-1da5-4e23-91f1-ec8b0806a9c0.jpg","description":"Aurora - Vegetable Bouillon Cube - 60 g.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"23BM552","weight":{"@type":"QuantitativeValue","unitText":"g","value":"60"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g?variant=29528267030598","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouillon Cubes</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6633471148106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3963991949382</id>
+    <published>2020-10-12T00:26:10-04:00</published>
+    <updated>2020-10-12T00:26:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-mushroom-bouillon-cube-66-g"/>
+    <title>Aurora - Mushroom Bouillon Cube - 66 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-mushroom-bouillon-cube-66-g-613119.png?v=1611509076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aurora - Mushroom Bouillon Cube - 66 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Mushroom flavoured bouillon cubes. Great for adding flavour to any of your favourite dishes. Dissolve 1 tablet in 2 cups (500ml) of boiling water. This product is gluten free.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g#product","name":"Aurora - Vegetable Bouillon Cube - 60 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3963991949382","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-vegetable-bouillon-cube-24-x-60-g-bulk-mart_223_53f34ef4-1da5-4e23-91f1-ec8b0806a9c0.jpg","description":"Aurora - Vegetable Bouillon Cube - 60 g.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"23BM552","weight":{"@type":"QuantitativeValue","unitText":"g","value":"60"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g?variant=29528267030598","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouillon Cubes</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3963991949382</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>23BM552</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3963989983302</id>
+    <published>2020-10-12T00:26:08-04:00</published>
+    <updated>2020-10-12T00:26:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-chicken-bouillon-cube-66-g"/>
+    <title>Aurora - Chicken Bouillon Cube - 66 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-chicken-bouillon-cube-66-g-347696.jpg?v=1611509019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aurora - Chicken Bouillon Cube - 66 g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Chicken flavoured bouillon cubes. Great for adding flavour to any of your favourite dishes. Dissolve 1 tablet in 2 cups (500 mL) of boiling water.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/knorr-beef-bouillon-cubes-80-g#product","name":"Knorr - Beef Bouillon Cubes - 80 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3963989983302","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-beef-bouillon-cubes-80-g-bulk-mart_160.jpg","description":"Knorr - Beef Bouillon Cubes - 80 g.","category":"FOOD","brand":{"@type":"Brand","name":"Knorr"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"23BM552","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/knorr-beef-bouillon-cubes-80-g?variant=29528263393350","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouillon Cubes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3963989983302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>23BM552</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887505154118</id>
+    <published>2020-10-11T23:24:53-04:00</published>
+    <updated>2020-10-11T23:24:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-instant-chicken-gravy-12-lbs"/>
+    <title>Lynch -  Instant Chicken Gravy Mix - 5.45 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-instant-chicken-gravy-mix-545-kg-273718.jpg?v=1626643563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch - Instant Chicken Gravy Mix - 12 Lbs</strong></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Yield</td>
+<td>54 L</td>
+</tr>
+<tr>
+<td>Serving Size</td>
+<td>60 ML</td>
+</tr>
+<tr>
+<td>Servings</td>
+<td>900</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>SCC</td>
+<td>00062802661018</td>
+</tr>
+<tr>
+<td>Gross Weight</td>
+<td>13.3 lbs / 6 kgs</td>
+</tr>
+<tr>
+<td>Case Dimensions (LxWxH)</td>
+<td>24 x 24 x 21 CM</td>
+</tr>
+<tr>
+<td>Case Cube (mᶾ, ftᶾ)</td>
+<td>0.01 / 0.43</td>
+</tr>
+<tr>
+<td>Pallet Tie / Tier</td>
+<td>20 / 5</td>
+</tr>
+<tr>
+<td>Shelf Life</td>
+<td>540 Days</td>
+</tr>
+</tbody>
+</table>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Our instant sauces are easy to prepare, full of flavour and come in many different varieties.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Use to prepare gravies for your favourite meat and side dishes. Ideal for poultry sandwiches, poultry dishes and French fries.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Add 1 lb (454 g) of gravy base to 4.5 L (1 Imperial gallon) cold water. Bring to a boil and simmer for 5 minutes, stirring continuously.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> </p>
+<p>Wheat flour, modified corn starch, hydrolyzed soy and corn protein, chicken fat, vegetable oil shortening (palm oil, soybean oil &amp; modified palm oil), monosodium glutamate, sugar, salt, caramel (contains sulphites), maltodextrin, onion powder, glucose solids, spice extractives (contains soy lecithin) &amp; spices (contains mustard), flavour, parsley, garlic powder, sunflower oil.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-instant-chicken-gravy-12-lbs#product","name":"Lynch -  Instant Chicken Gravy - 12 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887505154118","sku":"04BM542","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-instant-chicken-gravy-12-lbs-bulk-mart_518.jpg","description":"Lynch - Instant Chicken Gravy - 12 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"04BM542","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"35.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-instant-chicken-gravy-12-lbs?variant=19271385186374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gravy Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887505154118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>04BM542</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887505055814</id>
+    <published>2020-10-11T23:24:52-04:00</published>
+    <updated>2020-10-11T23:24:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-instant-beef-gravy-mix-12-lbs"/>
+    <title>Lynch -  Instant Beef Gravy Mix - 12 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-instant-beef-gravy-mix-12-lbs-909303.jpg?v=1628373036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch -  Instant Beef Gravy Mix - 5.45 Kg</strong></p>
+<p><strong>﻿</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Our cooked gravies and sauces offer rich homemade flavours and come in many different varieties.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Use to prepare gravies for your favourite meat and side dishes. Ideal for beef sandwiches, meatloaf and French fries.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Melt 2 cups (340 g) fat. Add 2 cups (284 g) of flour, stirring until smooth. Dissolve 2/3 cup (91 g)of base into 160 fl oz (4.5L) boiling water. Slowly add to fat-flour micture, stirring. Bring back to boil and allow to simmer until thick.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> </p>
+<p>Salt, dextrose &amp; maltodextrin, hydrolyzed plant protein (soy, corn), caramel (contains sulphites), yeast extract (contains gluten), vegetable oil (canola), wheat flour, spices, flavour (contains milk), hydrogenated soy bean oil, disodium guanylate, disodium inosinate, citric acid, garlic powder.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-instant-beef-gravy-mix-12-lbs#product","name":"Lynch -  Instant Beef Gravy Mix - 12 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887505055814","sku":"02BM540","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-instant-beef-gravy-mix-12-lbs-bulk-mart_524.jpg","description":"Lynch - Instant Beef Gravy Mix - 12 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"02BM540","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"49.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-instant-beef-gravy-mix-12-lbs?variant=19271384924230","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gravy Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887505055814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>666004</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887504629830</id>
+    <published>2020-10-11T23:24:51-04:00</published>
+    <updated>2020-10-11T23:24:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-easy-way-gravy-mix-10-lbs"/>
+    <title>Lynch -  Easy Way Gravy Mix - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-easy-way-gravy-mix-454-kg-577364.jpg?v=1611510999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch -  Easy Way Gravy Mix - 10 Lb</strong></p>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td>Yield</td>
+<td>49 L</td>
+</tr>
+<tr>
+<td>Serving Size</td>
+<td>60 ML</td>
+</tr>
+<tr>
+<td>Servings</td>
+<td>816</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>SCC</td>
+<td>00062802660417</td>
+</tr>
+<tr>
+<td>Gross Weight</td>
+<td>11.3 lbs / 5.1 kgs</td>
+</tr>
+<tr>
+<td>Case Dimensions (LxWxH)</td>
+<td>24 x 24 x 21 CM</td>
+</tr>
+<tr>
+<td>Case Cube (mᶾ, ftᶾ)</td>
+<td>0.01 / 0.43</td>
+</tr>
+<tr>
+<td>Pallet Tie / Tier</td>
+<td>20 / 5</td>
+</tr>
+<tr>
+<td>Shelf Life</td>
+<td>540 Days</td>
+</tr>
+</tbody>
+</table>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Our cooked gravies and sauces offer rich homemade flavours and come in many different varieties.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Use to prepare gravies for your favourite meat and side dishes. Ideal for beef sandwiches, meatloaf and French fries.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>To 1 gallon (4.54 L) cold water, add 15 oz (425 g) (by weight) of gravy mix (3 to 3 1/2 cups powder to 1 gallon cold water). Bring to a boil, stirring continuously. Simmer for 3 minutes.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> </p>
+<p>Corn starch, wheat flour (contains gluten), hydrolyzed plant protein (soy, corn,canola), palm oil, soybean oil and modified palm oil, caramel (contains sulphites), salt, monosodium glutamate, onion powder, guar gum, xanthan gum, flavour, spice extractive (contains soy lecithin), sunflower oil.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-easy-way-gravy-mix-10-lbs#product","name":"Lynch -  Easy Way Gravy Mix - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887504629830","sku":"01BM539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-easy-way-gravy-mix-10-lbs-bulk-mart_653.jpg","description":"Lynch - Easy Way Gravy Mix - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"01BM539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"41.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-easy-way-gravy-mix-10-lbs?variant=19271384334406","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gravy Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887504629830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>01BM539</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476809798</id>
+    <published>2020-10-11T23:24:50-04:00</published>
+    <updated>2020-10-11T23:24:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-beef-gravy-mix-4-54-kg"/>
+    <title>Donmar - Beef Gravy Mix - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-gravy-mix-454-kg-158964.jpg?v=1611513878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Beef Gravy Mix - 4.54 Kg</strong></p>
+<p><span>Making large batches of gravy. It can be prepared either instantly or in an easy two-step stove top method. Both perform equally as well, bringing out a hearty, savory gravy taste in minutes!</span></p>
+<p><span>Whether you're preparing traditional country-style favorites like Shepherd's pie or new culinary creations, this beef-flavored gravy is a perfect complement to main entrees and side dishes! You can even customize it and add your favorite ingredients. Its smooth, creamy consistency and savory taste naturally enhances beef, hamburgers, sausage, chicken fried steak, and pot pies. </span></p>
+<p><span>Pour this rich gravy over meats and serve with mashed potatoes and stuffing. Or, use it as a savory ingredient to create signature sauces for pasta noodles. Featuring a nice peppery taste that's not too salty, this beef gravy makes a versatile and convenient addition to any kitchen!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-chicken-soup-base-no-msg-11-34-kg#product","name":"Donmar -  Chicken Soup Base No Msg - 11.34 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476809798","sku":"3LBM553","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-chicken-soup-base-no-msg-11-34-kg-bulk-mart_849.gif","description":"Donmar - Chicken Soup Base No Msg - 11.34 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"},"offers":[{"sku":"3LBM553","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"46.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-chicken-soup-base-no-msg-11-34-kg?variant=19271334035526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gravy Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476809798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>99888</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887504367686</id>
+    <published>2020-10-11T21:51:39-04:00</published>
+    <updated>2020-10-11T21:51:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-beef-gravy-base-12-lbs"/>
+    <title>Lynch -  Beef Gravy Base - 5.45 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-beef-gravy-base-545-kg-935962.jpg?v=1611511117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch -  Beef Gravy Base - 5.45 Kg</strong></p>
+<p><span>Making large batches of gravy. It can be prepared either instantly or in an easy two-step stove top method. Both perform equally as well, bringing out a hearty, savory gravy taste in minutes!</span></p>
+<p><span>Whether you're preparing traditional country-style favorites like Shepherd's pie or new culinary creations, this beef-flavored gravy is a perfect complement to main entrees and side dishes! You can even customize it and add your favorite ingredients. Its smooth, creamy consistency and savory taste naturally enhances beef, hamburgers, sausage, chicken fried steak, and pot pies.</span></p>
+<p><span>Pour this rich gravy over meats and serve with mashed potatoes and stuffing. Or, use it as a savory ingredient to create signature sauces for pasta noodles. Featuring a nice peppery taste that's not too salty, this beef gravy makes a versatile and convenient addition to any kitchen!</span></p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Yield</td>
+<td>288 L</td>
+</tr>
+<tr>
+<td>Serving Size</td>
+<td>60 ML</td>
+</tr>
+<tr>
+<td>Servings</td>
+<td>4800</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>SCC</td>
+<td>00062802660516</td>
+</tr>
+<tr>
+<td>Gross Weight</td>
+<td>13.3 lbs / 6 kgs</td>
+</tr>
+<tr>
+<td>Case Dimensions (LxWxH)</td>
+<td>24 x 24 x 21 CM</td>
+</tr>
+<tr>
+<td>Case Cube (mᶾ, ftᶾ)</td>
+<td>0.01 / 0.43</td>
+</tr>
+<tr>
+<td>Pallet Tie / Tier</td>
+<td>20 / 5</td>
+</tr>
+<tr>
+<td>Shelf Life</td>
+<td>540 Days</td>
+</tr>
+</tbody>
+</table>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A tasty gravy base, easily made with flour and drippings.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Use to prepare gravies for your favourite meat and side dishes. Ideal for beef sandwiches, meatloaf and French fries.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>For 1 pint of gravy: melt 3 tablespoons of shortening in a sauce pan and add 5 tablespoons of flour, mix to smooth paste. Dissolve 3 teaspoons of gravy base in 20 fl oz of boiling water, then slowly add this to above paste while stirring. Stir till smooth and cook to desired consistency. Gallon batch: 3 oz of gravy base, 11 oz shortening, 9 oz flour, 1 gallon boiling water.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> </p>
+<p>Salt, hydrolyzed soy and corn protein, caramel (contains sulphites), monosodium glutamate, beef fat, vegetable oil shortening (palm oil, soybean oil, modified palm oil), yeast extract (contains gluten), corn syrup solids, wheat flour (gluten), hydrogenated soybean oil.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-beef-gravy-base-12-lbs#product","name":"Lynch -  Beef Gravy Base - 12 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887504367686","sku":"03BM541","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-beef-gravy-base-12-lbs-bulk-mart_857.jpg","description":"Lynch - Beef Gravy Base - 12 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"03BM541","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"64.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-beef-gravy-base-12-lbs?variant=19271384006726","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gravy Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887504367686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>03BM541</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4522110189642</id>
+    <published>2020-10-11T21:17:46-04:00</published>
+    <updated>2020-10-11T21:17:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knorr-chicken-noodles-soup-mix-378-g"/>
+    <title>Knorr - Chicken Noodles Soup Mix - 378 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Knorr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-chicken-noodles-soup-mix-378-g-638910.jpg?v=1611510454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knorr<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knorr - Chicken Noodles Soup Mix - 378 g</strong></p>
+<p><span>Present a new soup every day with Knorr 13.3. oz. Soup du Jour chicken noodle soup mix. This soup features egg noodles, carrots, onions, celery, and chicken melded together in a well-seasoned chicken broth. Plus, it's seasoned with real sea salt and made without added MSG! Using one package per day allows you to create an ever-evolving menu with a soup of the day for your bistro, cafe, or catered event.</span><br><br><span>To prepare on a stove top, gradually whisk entire contents of bag into 1 gallon of water. Bring to a boil, then cover and simmer for 20 minutes while stirring occasionally. The soup must reach an internal temperature of 180 degrees Fahrenheit for two minutes before serving. Each bag yields approximately 16 servings of prepared soup.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/knorr-chicken-noodles-soup-mix-378-g#product","name":"Knorr - Chicken Noodles Soup Mix - 378 g","itemCondition":"https://schema.org/NewCondition","mpn":"Base23BM552","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-chicken-noodles-soup-mix-378-g-bulk-mart_253.jpg","description":"Knorr - Chicken Noodles Soup Mix - 378 g...","category":"FOOD","brand":{"@type":"Brand","name":"Knorr"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"29"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"378"},"offers":[{"name":"Knorr - Chicken Noodles Soup Mix - 378 g","sku":"23BM552","mpn":"Base23BM552","@type":"Offer","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/knorr-chicken-noodles-soup-mix-378-g?variant=31810533654602","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4522110189642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>23BM552</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476645958</id>
+    <published>2020-10-11T21:05:14-04:00</published>
+    <updated>2020-10-11T21:05:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-beef-soup-base-with-low-sodium-4-54-kg"/>
+    <title>Donmar -  Beef Soup Base With Low Sodium - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-with-low-sodium-454-kg-443927.jpg?v=1611512076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar -  Beef Soup Base With Low Sodium - 4.54 Kg</strong></p>
+<p><span>This granulated blend is perfect for making your signature beef soups as well as enhancing gravies and sauces with a classic flavor. Easy to prepare, it blends evenly and helps cut down on prep work, allowing you ample time to cook your dishes to perfection. Treat your customers with the homemade taste of this savory beef soup base!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-beef-soup-base-with-msg-11-34-kg#product","name":"Donmar -  Beef Soup Base With Msg - 11.34 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476645958","sku":"4LBM556","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-with-msg-11-34-kg-bulk-mart_283.gif","description":"Donmar - Beef Soup Base With Msg - 11.34 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"4LBM556","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"48.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-beef-soup-base-with-msg-11-34-kg?variant=19271333904454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Bases</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476645958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>99882</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490900038</id>
+    <published>2020-07-18T13:03:57-04:00</published>
+    <updated>2020-07-18T13:03:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-pumpkin-beef-soup-mix-50-g"/>
+    <title>Grace - Pumpkin Beef Soup  Mix- 50 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-pumpkin-beef-soup-mix-50-g-364653.jpg?v=1611510455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Pumpkin Beef Soup Mix- 50 g</strong></p>
+<div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<ul class="product-info-block__content">
+<li class="product-info-block__content-item">Use Grace Pumpkin Soup Mix to add body &amp; flavour to your chicken, shrimp or beef soup, or to your steamed fish, chicken or rice dishes. Grace Pumpkin Soup Mix can also be enjoyed as a delicious broth without the need to add other ingredients.</li>
+</ul>
+</div>
+<div id="features" class="product-info-block product-info-block--features">
+<ul class="product-info-block__content">
+<li class="product-info-block__content-item">A Caribbean favourite</li>
+<li class="product-info-block__content-item">Authentic Jamaican</li>
+<li class="product-info-block__content-item">Grace kitchen approved</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490900038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>0BM1003</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490834502</id>
+    <published>2020-07-18T13:03:57-04:00</published>
+    <updated>2020-07-18T13:03:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-pumpkin-beef-soup-mix-12-x-50-g"/>
+    <title>Grace - Pumpkin Beef Soup Mix- 12 x 50 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-pumpkin-beef-soup-mix-12-x-50-g-492668.jpg?v=1611510881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Pumpkin Beef Soup Mix- 12 x 50 g</strong></p>
+<div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<ul class="product-info-block__content">
+<li class="product-info-block__content-item">Use Grace Pumpkin Soup Mix to add body &amp; flavour to your chicken, shrimp or beef soup, or to your steamed fish, chicken or rice dishes. Grace Pumpkin Soup Mix can also be enjoyed as a delicious broth without the need to add other ingredients.</li>
+</ul>
+</div>
+<div id="features" class="product-info-block product-info-block--features">
+<ul class="product-info-block__content">
+<li class="product-info-block__content-item">A Caribbean favourite</li>
+<li class="product-info-block__content-item">Authentic Jamaican</li>
+<li class="product-info-block__content-item">Grace kitchen approved</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490834502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>0BM1002</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887491588166</id>
+    <published>2020-07-18T13:03:55-04:00</published>
+    <updated>2020-07-18T13:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-cock-soup-mix-43-g"/>
+    <title>Grace - Cock Soup Mix- 43 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-cock-soup-mix-43-g-529214.jpg?v=1611510702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Cock Soup Mix- 43 g</strong></p>
+<p><span>Grace Soups are a quick, delicious and versatile meal option with the goodness of pure homemade taste. Enjoy your soup piping hot, as a between-meal snack, an appetizer or as a base to your favourite recipes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887491588166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>18BM999</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887491489862</id>
+    <published>2020-07-18T13:03:55-04:00</published>
+    <updated>2020-07-18T13:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-cock-soup-mix-12-x-43-g"/>
+    <title>Grace - Cock Soup Mix- 12 x 43 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-cock-soup-mix-12-x-43-g-982484.jpg?v=1611514193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Cock Soup Mix- 12 x 43 g</strong></p>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="e8yhjh-cs1u6h-592w4f-wzitg3" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Grace Soups are a quick, delicious and versatile meal option with the goodness of pure homemade taste. Enjoy your soup piping hot, as a between-meal snack, an appetizer or as a base to your favourite recipes.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887491489862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>18BM998</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490572358</id>
+    <published>2020-07-18T13:03:54-04:00</published>
+    <updated>2020-07-18T13:03:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-chicken-noodle-soup-mix-60-g"/>
+    <title>Grace - Chicken Noodle Soup Mix  - 60 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-chicken-noodle-soup-mix-60-g-523467.jpg?v=1611510703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Soup Mix Chicken Noodle - 60 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Grace Chicken Noodle Soup - A Caribbean favorite, Grace Coconut Milk is another must-have ingredient for most West Indian recipes. Grace Coconut Milk adds authentic flavour to Caribbean delicacies, curries and other savoury meals. (14 fl oz.)Homemade taste in a convenient package! Grace Chicken Flavoured Noodle Soup makes a quick meal - great with crackers or biscuits - or a delicious base for your own homemade soups.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490572358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>1BM1005</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490670662</id>
+    <published>2020-07-18T13:03:53-04:00</published>
+    <updated>2020-07-18T13:03:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-fish-tea-soup-mix-12-x-45-g"/>
+    <title>Grace -  Fish Tea Soup Mix - 12 x 45 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-fish-tea-soup-mix-12-x-45-g-772779.jpg?v=1611511474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Fish Tea Soup Mix- 45 g</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Grace Fish Tea Soup contains a blend to deliver an exotic soup just add water.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490670662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>9BM1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490474054</id>
+    <published>2020-07-18T13:03:52-04:00</published>
+    <updated>2020-07-18T13:03:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-chicken-noodle-soup-mix-12-x-60-g"/>
+    <title>Grace -  Chicken Noodle Soup Mix - 12 x 60 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-chicken-noodle-soup-mix-12-x-60-g-621390.jpg?v=1611512071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Soup Mix Chicken Noodle - 12 x 60 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Grace Chicken Noodle Soup - A Caribbean favorite, Grace Coconut Milk is another must-have ingredient for most West Indian recipes. Grace Coconut Milk adds authentic flavour to Caribbean delicacies, curries and other savoury meals. (14 fl oz.)Homemade taste in a convenient package! Grace Chicken Flavoured Noodle Soup makes a quick meal - great with crackers or biscuits - or a delicious base for your own homemade soups.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490474054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>1BM1004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887490703430</id>
+    <published>2020-07-18T13:03:51-04:00</published>
+    <updated>2020-07-18T13:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-fish-tea-soup-mix-45-g"/>
+    <title>Grace -  Fish Tea Soup Mix- 45 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-fish-tea-soup-mix-45-g-481805.jpg?v=1611511353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Fish Tea Soup Mix- 45 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Grace Fish Tea Soup contains a blend to deliver an exotic soup just add water.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887490703430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>9BM1001</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4504002101322</id>
+    <published>2020-04-18T13:28:18-04:00</published>
+    <updated>2020-04-18T13:28:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knorr-harvest-tomato-vegetable-soup-mix-334-g"/>
+    <title>Knorr - Harvest Tomato Vegetable Soup Mix- 334 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Knorr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-harvest-tomato-vegetable-soup-mix-334-g-313396.jpg?v=1611510514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knorr<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knorr - Harvest Tomato Vegetable Soup Mix- 334 g</strong></p>
+<p><span>Classic tomato broth based vegetable soup, packed with large tender vegetable pieces. Vegetarian. Delicious flavour and just 480mg of sodium per 8 oz serving. This soup is vegetarian friendly and gluten free, increasing menu options for your patrons with dietary restrictions. Plus, it is made without added MSG! Using one package per day allows you to create an ever-evolving menu with a soup of the day for your bistro, cafe, or catered event.<br data-mce-fragment="1"><br data-mce-fragment="1">To prepare on a stove top, gradually whisk entire contents of bag into 1 gallon of water. Bring to a boil, then cover and simmer for 10 minutes while stirring occasionally. The soup must reach an internal temperature of 180 degrees Fahrenheit for two minutes before serving. Each bag yields approximately 16 servings of prepared soup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Soup Mixes</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4504002101322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>23BM552</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887477006406</id>
+    <published>2020-03-28T23:28:00-04:00</published>
+    <updated>2020-03-28T23:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-vegetable-stock-mix-no-msg-kosher-4-54-kg"/>
+    <title>Donmar - Vegetable Stock Mix No Msg Kosher - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-vegetable-stock-mix-no-msg-kosher-454-kg-561566.jpg?v=1611509672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Vegetable Stock Mix No Msg - 4.54 Kg</strong></p>
+<p>Rich in flavor, this vegetable soup base is a versatile ingredient and a delicious kitchen staple! With its delightfully savory taste and inviting aroma, it contains wholesome and flavorful ingredients. Hints of onion and garlic, savory spices, and natural flavors are combined to create this delicious and multi-purpose vegetable soup base.<br><br>This granulated blend is perfect for making your signature vegetable soups as well as enhancing vegetarian gravies and sauces with a classic flavor. Easy to prepare, it blends evenly and helps cut down on prep work, allowing you ample time to cook your dishes to perfection. Treat your customers with the homemade taste of this savory vegetable soup base!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-vegetable-stock-mix-no-msg-4-54-kg#product","name":"Donmar -  Vegetable Stock Mix No Msg - 4.54 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887477006406","sku":"22BM551","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-vegetable-stock-mix-no-msg-4-54-kg-bulk-mart_609.gif","description":"Donmar - Vegetable Stock Mix No Msg - 4.54 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"22BM551","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"mpn":"","priceCurrency":"CAD","price":"45.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-vegetable-stock-mix-no-msg-4-54-kg?variant=19271334461510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Soup Bases</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887477006406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>99899</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476744262</id>
+    <published>2020-03-28T23:22:53-04:00</published>
+    <updated>2020-03-28T23:22:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-chicken-soup-base-no-msg-4-54-kg"/>
+    <title>Donmar - Chicken Soup Base No Msg - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-chicken-soup-base-no-msg-454-kg-318983.jpg?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Chicken Soup Base No Msg - 4.54 Kg</strong></p>
+<p>﻿<span data-mce-fragment="1">Whether making hearty soups or stews, or discovering new ways to enrich and enhance the flavors of your dishes, this chicken base is sure to become a staple in your kitchen. Made from freshly roasted chicken and natural juices that are concentrated with a superior blend of spices, this chicken paste base ensures a consistent, natural chicken flavor that is extremely versatile to use. </span></p>
+<p><span data-mce-fragment="1">Add this base to boiling water to create an instant fully seasoned stock for homestyle chicken noodle soup, or use as a rub to marinate poultry. </span></p>
+<p><span data-mce-fragment="1">You can even blend in a small amount of this base to gravies and sauces to enhance their flavor, saute with vegetables for a savory taste, and mix into mashed potatoes for a delectable melt-in-your-mouth flavor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-chicken-soup-base-no-msg-4-54-kg#product","name":"Donmar -  Chicken Soup Base No Msg - 4.54 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476744262","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-chicken-soup-base-no-msg-4-54-kg-bulk-mart_206.gif","description":"Donmar - Chicken Soup Base No Msg - 4.54 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"},"offers":[{"sku":"23BM552","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-chicken-soup-base-no-msg-4-54-kg?variant=19271334002758","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Soup Bases</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476744262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>99884</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476580422</id>
+    <published>2020-03-28T23:22:51-04:00</published>
+    <updated>2020-03-28T23:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-beef-soup-base-with-msg-4-54-kg"/>
+    <title>Donmar -  Beef Soup Base With Msg - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-with-msg-454-kg-622642.jpg?v=1611514494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Beef Soup Base With Msg - 4.54 Kg</strong></p>
+<p>This granulated blend is perfect for making your signature beef soups as well as enhancing gravies and sauces with a classic flavor. Easy to prepare, it blends evenly and helps cut down on prep work, allowing you ample time to cook your dishes to perfection. Treat your customers with the homemade taste of this savory beef soup base!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-beef-soup-base-with-msg-4-54-kg#product","name":"Donmar -  Beef Soup Base With Msg - 4.54 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476580422","sku":"41BM555","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-with-msg-4-54-kg-bulk-mart_151.gif","description":"Donmar - Beef Soup Base With Msg - 4.54 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"},"offers":[{"sku":"41BM555","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-beef-soup-base-with-msg-4-54-kg?variant=19271333806150","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Bases</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476580422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>99883</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476547654</id>
+    <published>2020-03-28T23:22:48-04:00</published>
+    <updated>2020-03-28T23:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-beef-soup-base-no-msg-4-54-kg"/>
+    <title>Donmar -  Beef Soup Base No Msg - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-no-msg-454-kg-273065.jpg?v=1611509915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Beef Soup Base No Msg - 4.54 Kg</strong></p>
+<p><span>This granulated blend is perfect for making your signature beef soups as well as enhancing gravies and sauces with a classic flavor. Easy to prepare, it blends evenly and helps cut down on prep work, allowing you ample time to cook your dishes to perfection. Treat your customers with the homemade taste of this savory beef soup base!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-beef-soup-base-no-msg-4-54-kg#product","name":"Donmar -  Beef Soup Base No Msg - 4.54 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476547654","sku":"24BM554","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-beef-soup-base-no-msg-4-54-kg-bulk-mart_258.gif","description":"Donmar - Beef Soup Base No Msg - 4.54 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"24BM554","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-beef-soup-base-no-msg-4-54-kg?variant=19271333773382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Non-MSG Foods</s:tag>
+    <s:tag>Soup Bases</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476547654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>99881</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476875334</id>
+    <published>2020-03-05T18:45:08-05:00</published>
+    <updated>2020-03-05T18:45:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-chicken-soup-base-with-msg-4-54-kg"/>
+    <title>Donmar -  Chicken Soup Base With Msg - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-chicken-soup-base-with-msg-454-kg-424416.jpg?v=1611514000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Chicken Soup Base With Msg - 4.54 Kg</strong></p>
+<p><span data-mce-fragment="1">Whether making hearty soups or stews, or discovering new ways to enrich and enhance the flavors of your dishes, this chicken base is sure to become a staple in your kitchen. Made from freshly roasted chicken and natural juices that are concentrated with a superior blend of spices, this chicken paste base ensures a consistent, natural chicken flavor that is extremely versatile to use.</span></p>
+<p><span data-mce-fragment="1">Add this base to boiling water to create an instant fully seasoned stock for homestyle chicken noodle soup, or use as a rub to marinate poultry.</span></p>
+<p><span data-mce-fragment="1">You can even blend in a small amount of this base to gravies and sauces to enhance their flavor, saute with vegetables for a savory taste, and mix into mashed potatoes for a delectable melt-in-your-mouth flavor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-chicken-soup-base-with-msg-4-54-kg#product","name":"Donmar -  Chicken Soup Base With Msg - 4.54 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476875334","sku":"21BM549","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-chicken-soup-base-with-msg-4-54-kg-bulk-mart_327.gif","description":"Donmar - Chicken Soup Base With Msg - 4.54 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"21BM549","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"mpn":"","priceCurrency":"CAD","price":"32.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-chicken-soup-base-with-msg-4-54-kg?variant=19271334330438","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soup Bases</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476875334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>99885</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4522109272138</id>
+    <published>2020-03-05T16:11:50-05:00</published>
+    <updated>2020-03-05T16:11:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knorr-creamy-tomato-roasted-red-pepper-soup-mix-486-g"/>
+    <title>Knorr - Creamy Tomato &amp; Roasted Red Pepper Soup Mix - 486 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Knorr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-creamy-tomato-roasted-red-pepper-soup-mix-486-g-748346.jpg?v=1611511960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knorr<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knorr - Creamy Tomato &amp; Roasted Red Pepper Soup Mix - 486 g</strong></p>
+<p><span>Present a new soup every day with Knorr 17.1 oz. Soup du Jour creamy tomato and roasted red pepper soup mix. This soup features hearty tomatoes and roasted red peppers that are stewed together in a creamy broth, all perfectly seasoned with real sea salt. This soup is vegetarian friendly and gluten free, increasing menu options for your patrons with dietary restrictions. Plus, it is made without added MSG! Using one package per day allows you to create an ever-evolving menu with a soup of the day for your bistro, cafe, or catered event.</span><br><br><span>To prepare on a stove top, gradually whisk entire contents of bag into 1 gallon of water. Bring to a boil, then cover and simmer for 10 minutes while stirring occasionally. The soup must reach an internal temperature of 180 degrees Fahrenheit for two minutes before serving. Each bag yields approximately 16 servings of prepared soup.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Soup Mixes</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4522109272138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>23BM552</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

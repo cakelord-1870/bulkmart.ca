@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-molds-liners.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-22T20:42:03-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4880701947978</id>
+    <published>2021-01-22T20:42:03-05:00</published>
+    <updated>2021-01-22T20:42:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-6-3-8-x-2-3-4-x-2-1-8-white-dry-waxed-fluted-oblong-loaf-liners-1000-case"/>
+    <title>MC - 6 3/8&quot; x 2 3/4&quot; x 2 1/8&quot; White Dry-Waxed Fluted Oblong Loaf Liners - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-6-38-x-2-34-x-2-18-white-dry-waxed-fluted-oblong-loaf-liners-1000case-520975.jpg?v=1611513573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MC - 6 3/8" x 2 3/4" x 2 1/8" Loaf Cake Pan Liner - 1000/Case</p>
+<p><span>This loaf liner features a simple yet elegant white fluted design that complements any baked good from warm coffee cake to freshly-baked bread. No longer will you have to worry about food sticking to the pan, since the lining ensures minimal pan cleanup. Also, forget any concern about your baked goods meeting unsanitary surfaces, because this loaf liner maintains a clean barrier while beautifully displaying your items!</span><br><br><span>The barrier itself will also help preserve moisture in your baked goods long after being removed from the pan. The dry-waxed material allows for great release of the product from the pan, leaving you with perfectly shaped results. So leave the timely chore of scrubbing pans at the kitchen door while you use this white dry-waxed fluted oblong loaf liner! </span><span>Works well with coffee cakes, specialty breads, and more</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loaf Liners</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880701947978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>32294</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880620847178</id>
+    <published>2021-01-22T20:42:03-05:00</published>
+    <updated>2021-01-22T20:42:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lapaco-660-000-5-75-x-4-5-mini-white-dry-waxed-fluted-oblong-loaf-liners-500-pack"/>
+    <title>Lapaco - 660-000 - 5.75&quot; x 4.5&quot; Mini White Dry-Waxed Fluted Oblong Loaf Liners - 500/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lapaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lapaco-660-000-575-x-45-mini-white-dry-waxed-fluted-oblong-loaf-liners-500pack-131656.jpg?v=1611511121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapaco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lapaco - 660-000 - 5 3/4" x 4 1/2" Mini Loaf Cake Fluted Pan Liners</p>
+<p><span>This loaf liner features a simple yet elegant white fluted design that complements any baked good from warm coffee cake to freshly-baked bread. No longer will you have to worry about food sticking to the pan, since the lining ensures minimal pan cleanup. Also, forget any concern about your baked goods meeting unsanitary surfaces, because this loaf liner maintains a clean barrier while beautifully displaying your items!</span><br><br><span>The barrier itself will also help preserve moisture in your baked goods long after being removed from the pan. The dry-waxed material allows for great release of the product from the pan, leaving you with perfectly shaped results. So leave the timely chore of scrubbing pans at the kitchen door while you use this white dry-waxed fluted oblong loaf liner! </span><span>Works well with coffee cakes, specialty breads, and more</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loaf Liners</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880620847178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>32292</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880620191818</id>
+    <published>2021-01-22T20:42:02-05:00</published>
+    <updated>2021-01-22T20:42:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lapaco-660-000-5-75-x-4-5-mini-white-dry-waxed-fluted-oblong-loaf-liners-5000-case"/>
+    <title>Lapaco - 660-000 - 5.75&quot; x 4.5&quot; Mini White Dry-Waxed Fluted Oblong Loaf Liners - 5000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lapaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lapaco-660-000-575-x-45-mini-white-dry-waxed-fluted-oblong-loaf-liners-5000case-493301.jpg?v=1611513940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapaco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lapaco - 660-000 -5 3/4" x 4 1/2" Mini Loaf Cake Fluted Pan Liner - 5000/Case</p>
+<p><span>This loaf liner features a simple yet elegant white fluted design that complements any baked good from warm coffee cake to freshly-baked bread. No longer will you have to worry about food sticking to the pan, since the lining ensures minimal pan cleanup. Also, forget any concern about your baked goods meeting unsanitary surfaces, because this loaf liner maintains a clean barrier while beautifully displaying your items!</span><br><br><span>The barrier itself will also help preserve moisture in your baked goods long after being removed from the pan. The dry-waxed material allows for great release of the product from the pan, leaving you with perfectly shaped results. So leave the timely chore of scrubbing pans at the kitchen door while you use this white dry-waxed fluted oblong loaf liner! </span><span>Works well with coffee cakes, specialty breads, and more</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loaf Liners</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880620191818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>32293</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880618061898</id>
+    <published>2021-01-22T20:42:01-05:00</published>
+    <updated>2021-01-22T20:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lapaco-600-006-6-87-x-2-87-x-2-25-white-dry-waxed-fluted-oblong-loaf-liners-1000-case"/>
+    <title>Lapaco - 600-006 - 6.87&quot; x 2.87&quot; x 2.25&quot; White Dry-Waxed Fluted Oblong Loaf Liners - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lapaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lapaco-600-006-687-x-287-x-225-white-dry-waxed-fluted-oblong-loaf-liners-1000case-295158.jpg?v=1611510826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapaco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lapaco - 600-006 - 6.87" x 2.87" x 2.25" Loaf Cake Fluted Pan Liners</strong></p>
+<p><span>This loaf liner features a simple yet elegant white fluted design that complements any baked good from warm coffee cake to freshly-baked bread. No longer will you have to worry about food sticking to the pan, since the lining ensures minimal pan cleanup. Also, forget any concern about your baked goods meeting unsanitary surfaces, because this loaf liner maintains a clean barrier while beautifully displaying your items!</span><br><br><span>The barrier itself will also help preserve moisture in your baked goods long after being removed from the pan. The dry-waxed material allows for great release of the product from the pan, leaving you with perfectly shaped results. So leave the timely chore of scrubbing pans at the kitchen door while you use this white dry-waxed fluted oblong loaf liner! </span>Works well with coffee cakes, specialty breads, and more</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loaf Liners</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880618061898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>32290</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880617341002</id>
+    <published>2021-01-22T20:42:01-05:00</published>
+    <updated>2021-01-22T20:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lapaco-600-006-6-87-x-2-87-x-2-25-white-dry-waxed-fluted-oblong-loaf-liners-250-pack"/>
+    <title>Lapaco - 600-006 - 6.87&quot; x 2.87&quot; x 2.25&quot; White Dry-Waxed Fluted Oblong Loaf Liners - 250/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lapaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lapaco-600-006-687-x-287-x-225-white-dry-waxed-fluted-oblong-loaf-liners-250pack-733176.jpg?v=1611510995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapaco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lapaco - 600-006 - 6.87" x 2.87" x 2.25" Loaf Cake Fluted Pan Liner - 250/Pack</strong></p>
+<p><span>This loaf liner features a simple yet elegant white fluted design that complements any baked good from warm coffee cake to freshly-baked bread. No longer will you have to worry about food sticking to the pan, since the lining ensures minimal pan cleanup. Also, forget any concern about your baked goods meeting unsanitary surfaces, because this loaf liner maintains a clean barrier while beautifully displaying your items!</span><br><br><span>The barrier itself will also help preserve moisture in your baked goods long after being removed from the pan. The dry-waxed material allows for great release of the product from the pan, leaving you with perfectly shaped results. So leave the timely chore of scrubbing pans at the kitchen door while you use this white dry-waxed fluted oblong loaf liner! </span><span>Works well with coffee cakes, specialty breads, and more</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loaf Liners</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880617341002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>32291</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880473260106</id>
+    <published>2021-01-21T23:43:23-05:00</published>
+    <updated>2021-01-21T23:43:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-3-5-x-1-25-5-oz-tart-pie-mold-900-case"/>
+    <title>Novacart - 3.5&quot; x 1.25&quot; 5 Oz Tart / Pie Mold - 900/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-35-x-125-5-oz-tart-pie-mold-900case-245068.jpg?v=1611513876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            224.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The Optima 680685 is a free-standing paper baking mold that features a white PET-Laminated interior with a terra cotta exterior. The PET-Laminated interior allows for easy release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease resistant. Suggested uses:</p>
+<p>680685 Optima Mold<br data-mce-fragment="1">3-1/2" x 1-1/4"<br data-mce-fragment="1">•Terra Cotta Exterior with White Interior<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease Resistant<br data-mce-fragment="1">•Single Serving</p>
+<p>Novacart - 3.5" x 1.25" 5 Oz Tart /Pie Mold - 680685</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Tart / Pie Molds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880473260106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">224.99</s:price>
+      <s:sku>87342</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880472408138</id>
+    <published>2021-01-21T23:43:22-05:00</published>
+    <updated>2021-01-21T23:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-3-5-x-1-25-5-oz-tart-pie-mold-100-pack"/>
+    <title>Novacart - 3.5&quot; x 1.25&quot; 5 Oz Tart /Pie Mold - 100/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-35-x-125-5-oz-tart-pie-mold-100pack-281927.jpg?v=1611513095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">The Optima 680685 is a free-standing paper baking mold that features a white PET-Laminated interior with a terra cotta exterior. The PET-Laminated interior allows for easy release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease resistant. Suggested uses:</p>
+<p data-mce-fragment="1">680685 Optima Mold<br data-mce-fragment="1">3-1/2" x 1-1/4"<br data-mce-fragment="1">•Terra Cotta Exterior with White Interior<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease Resistant<br data-mce-fragment="1">•Single Serving</p>
+Novacart - 3.5" x 1.25" 5 Oz Tart /Pie Mold - 680685</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Tart / Pie Molds</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880472408138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>87344</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880459694154</id>
+    <published>2021-01-21T23:43:22-05:00</published>
+    <updated>2021-01-21T23:43:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-2-x-1-8-2-oz-nts-muffin-tray-12-count-250-case"/>
+    <title>Novacart - 2&quot; x 1.8&quot; - 2 Oz NTS Muffin Tray 12 Count - 250/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-2-x-18-2-oz-nts-muffin-tray-12-count-250case-762463.jpg?v=1611511650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            396.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The NTS 2 – 12 count muffin tray features 3 rows of 4 white round cups for a total of 12 cups per tray. Cup capacity is 2 oz. The NTS Muffin Tray System is made with Swedish grease-resistant paper cups which are pressed, not glued, into the versatile framework as a complete unit. The frame color is brown with gold floret print overlay. Perforation on the frame between cups allows for separation of one or more cups. Cups are released from the frame by pressing out the cup or by separating the frame along the perforation. Baked product releases from the cup by pulling outward on the cup collar. Oven safe in temperatures up to 390° F. Place muffin tray on baking sheet for additional support in the oven. Microwave and freezer safe. Suggested uses: muffins| cake | quick bread | cupcakes | pound cake.</p>
+<p>NTS 2oz Muffin Tray (12ct)<br data-mce-fragment="1">2" x 1-5/16"<br data-mce-fragment="1">•Paper Frame with Pressed in Baking Cups<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing Baking tray<br data-mce-fragment="1">•No muffin pan required<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+<p>Novacart - NTS 2 Oz Muffin Tray 12 Count - <span class="sku_wrapper" data-mce-fragment="1"><span class="sku" data-mce-fragment="1">G9F12005</span></span><span data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Baking Cups</s:tag>
+    <s:tag>Paper Muffin Trays</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880459694154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">396.99</s:price>
+      <s:sku>87345</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880459006026</id>
+    <published>2021-01-21T23:43:21-05:00</published>
+    <updated>2021-01-21T23:43:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-2-x-1-8-2-oz-nts-muffin-tray-12-count-25-pack"/>
+    <title>Novacart - 2&quot; x 1.8&quot; - 2 Oz NTS Muffin Tray 12 Count - 25/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-2-x-18-2-oz-nts-muffin-tray-12-count-25pack-613540.jpg?v=1611514129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The NTS 2 – 12 count muffin tray features 3 rows of 4 white round cups for a total of 12 cups per tray. Cup capacity is 2 oz. The NTS Muffin Tray System is made with Swedish grease-resistant paper cups which are pressed, not glued, into the versatile framework as a complete unit. The frame color is brown with gold floret print overlay. Perforation on the frame between cups allows for separation of one or more cups. Cups are released from the frame by pressing out the cup or by separating the frame along the perforation. Baked product releases from the cup by pulling outward on the cup collar. Oven safe in temperatures up to 390° F. Place muffin tray on baking sheet for additional support in the oven. Microwave and freezer safe. Suggested uses: muffins| cake | quick bread | cupcakes | pound cake.</p>
+<p>NTS 2oz Muffin Tray (12ct)<br data-mce-fragment="1">2" x 1-5/16"<br data-mce-fragment="1">•Paper Frame with Pressed in Baking Cups<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing Baking tray<br data-mce-fragment="1">•No muffin pan required<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+<p>Novacart - NTS 2 Oz Muffin Tray 12 Count - <span data-mce-fragment="1" class="sku_wrapper"><span data-mce-fragment="1" class="sku">G9F12005</span></span><span data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Baking Cups</s:tag>
+    <s:tag>Paper Muffin Trays</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880459006026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>87343</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880365486154</id>
+    <published>2021-01-21T01:08:45-05:00</published>
+    <updated>2021-01-21T01:08:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-2-4-oz-elite-ecru-tulip-baking-cups-160-black-2000-case"/>
+    <title>Novacart - 2&quot;- 4 Oz Elite Ecru Tulip Baking Cups 160 Black - 2000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-2-4-oz-elite-ecru-tulip-baking-cups-160-black-2000-case-948028.jpg?v=1611513876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">New Elite Ecru Tulips Cups are created with a 70 gsm heavyweight paper. They are designed to form a barrier to oil transfer, resulting in a Tulip Cup that has more rigidity and consistent color, which creates an exceptional look for your baked good.  Sidewall measurements vary from the lowest point of 2-1/8″ where the petals meet to the tip at 3-1/2″. Muffin pan required for baking. Suggested uses: muffins | crumb cake | pound cake | cupcakes. Case pack: 2,000</p>
+<p data-mce-fragment="1">175/50 Brown Tulip Baking Cup<br data-mce-fragment="1">2" x 2-1/2" to 4"<br data-mce-fragment="1">•Made in the USA<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Muffin pan required<br data-mce-fragment="1">•Grease Resistant<br data-mce-fragment="1">•Single Serving</p>
+Novacart - V9I60855CH Elite Ecru Tulip Baking Cups 160 Black - 10 x 200 / Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Baking Cups</s:tag>
+    <s:tag>Tulip Baking Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880365486154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>98732</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880364077130</id>
+    <published>2021-01-21T01:08:19-05:00</published>
+    <updated>2021-01-21T01:08:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-2-4-oz-elite-ecru-tulip-baking-cups-160-black-200-pack"/>
+    <title>Novacart - 2&quot;- 4 Oz Elite Ecru Tulip Baking Cups 160 Black - 200 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-2-4-oz-elite-ecru-tulip-baking-cups-160-black-200-pack-124431.jpg?v=1611513091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">New Elite Ecru Tulips Cups are created with a 70 gsm heavyweight paper. They are designed to form a barrier to oil transfer, resulting in a Tulip Cup that has more rigidity and consistent color, which creates an exceptional look for your baked good.  Sidewall measurements vary from the lowest point of 2-1/8″ where the petals meet to the tip at 3-1/2″. Muffin pan required for baking. Suggested uses: muffins | crumb cake | pound cake | cupcakes. Case pack: 2,000</p>
+<p data-mce-fragment="1">175/50 Brown Tulip Baking Cup<br>2" x 2-1/2" to 4"<br>•Made in the USA<br>•Oven safe up to 390° F<br>•Microwave &amp; Freezer Safe<br>•Muffin pan required<br>•Grease Resistant<br>•Single Serving</p>
+Novacart - V9I60855CH Elite Ecru Tulip Baking Cups 160 Black - 200 / Pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Baking Cups</s:tag>
+    <s:tag>Tulip Baking Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880364077130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>98731</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880357785674</id>
+    <published>2021-01-21T01:07:50-05:00</published>
+    <updated>2021-01-21T01:07:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-2-5-oz-brown-baking-tulip-cup-200-pack"/>
+    <title>Novacart - 2&quot; - 5 Oz Brown Baking Tulip Cup - 200 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-2-5-oz-brown-baking-tulip-cup-200-pack-875631.jpg?v=1611513936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The 175/50 Tulip baking cup is made with grease-resistant paper. Sidewall measurements vary from the lowest point of 2-1/2″ where the petals meet to the tip at 4″. Muffin pan required for baking. Suggested uses: muffins | crumb cake | pound cake | cupcakes. Case pack: 2,000</p>
+<p>175/50 Brown Tulip Baking Cup<br data-mce-fragment="1">2" x 2-1/2" to 4"<br data-mce-fragment="1">•Made in the USA<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Muffin pan required<br data-mce-fragment="1">•Grease Resistant<br data-mce-fragment="1">•Single Serving</p>
+<p>Novacart - Brown Baking Tulip Cup - 200 / Pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Baking Cups</s:tag>
+    <s:tag>Tulip Baking Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880357785674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>98733</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880474243146</id>
+    <published>2021-01-20T23:04:33-05:00</published>
+    <updated>2021-01-20T23:04:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-x-4-x-5-corrugated-loaf-mold-1000-case"/>
+    <title>Novacart - 6&quot; x 4&quot; x 5&quot; Corrugated Loaf Mold - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-6-x-4-x-5-corrugated-loaf-mold-1000case-495559.jpg?v=1611514001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            379.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Novacart - 6" x 4" x 5" Corrugated Loaf Mold - G9F103</strong></p>
+<p>This is a free-standing rectangular paper loaf mold. Constructed with a corrugated sidewall and base. The mold has a brown background with a gold floret print overlay. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: cake | quick bread | crumb cake | pie | Danish | brownie | cinnamon rolls | bread.</p>
+<p><br>•Corrugated Sidewall &amp; Base<br>•Oven safe up to 390° F<br>•Microwave &amp; Freezer Safe<br>•Free-standing<br>•Grease &amp; Warp Resistant</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880474243146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">379.99</s:price>
+      <s:sku>14024</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880468541514</id>
+    <published>2021-01-20T23:04:32-05:00</published>
+    <updated>2021-01-20T23:04:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-x-4-x-5-corrugated-loaf-mold-40-pack"/>
+    <title>Novacart - 6&quot; x 4&quot; x 5&quot; Corrugated Loaf Mold - 40/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-6-x-4-x-5-corrugated-loaf-mold-40pack-571149.jpg?v=1611511419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Novacart - 6" x 4" x 5" Corrugated Loaf Mold - 40/Pack</strong></p>
+<p>Save time and cut down on costs with this mold. Bake and Show corrugated kraft paper bread / cake loaf pan! This disposable pan provides a unique and cost effective alternative to traditional plastic pans, not to mention metal cookware! Constructed from durable yet sustainable, and domestically produced corrugated paperboard, this item is strong enough to handle a variety of freezer-to-oven applications.</p>
+<p>This pan can also be placed in the microwave for heating or reheating, making for a versatile and convenient kitchen accessory!<br data-mce-fragment="1"><br data-mce-fragment="1">Tidying up your kitchen has never been easier, as you can simply dispose of this pan once you're finished with it! This will inevitably minimize clean-up costs, which not only saves you money, but also reduces downtime during your work day. That said, this handy item is a dependable, functional, and money-saving solution for all of your packaging and baking needs! It's also important to note that this product is not treated with a release coating. Additional sprays or a liner may be necessary to remove your product from the pan after baking.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880468541514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>14025</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880661413962</id>
+    <published>2021-01-20T00:08:35-05:00</published>
+    <updated>2021-01-20T00:08:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-17-x-9-cm-bake-serve-corrugated-loaf-pan-20-pack"/>
+    <title>McCall&apos;s - 17 x 9 cm Bake &amp; Serve Corrugated Loaf Pan - 20/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>McCall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-17-x-9-cm-bake-serve-corrugated-loaf-pan-20pack-988272.jpg?v=1611510825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCall&#39;s<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>McCall's - 17 x 9 cm Bake &amp; Serve Corrugated Loaf Pan - 20/Pack</strong><br></p>
+<p>Save time and cut down on costs with this mold. Bake and Show corrugated kraft paper bread / cake loaf pan! This disposable pan provides a unique and cost effective alternative to traditional plastic pans, not to mention metal cookware! Constructed from durable yet sustainable, and domestically produced corrugated paperboard, this item is strong enough to handle a variety of freezer-to-oven applications.</p>
+<p>This pan can also be placed in the microwave for heating or reheating, making for a versatile and convenient kitchen accessory!<br data-mce-fragment="1"><br data-mce-fragment="1">Tidying up your kitchen has never been easier, as you can simply dispose of this pan once you're finished with it! This will inevitably minimize clean-up costs, which not only saves you money, but also reduces downtime during your work day. That said, this handy item is a dependable, functional, and money-saving solution for all of your packaging and baking needs! It's also important to note that this product is not treated with a release coating. Additional sprays or a liner may be necessary to remove your product from the pan after baking.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880661413962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>14015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880661020746</id>
+    <published>2021-01-20T00:08:34-05:00</published>
+    <updated>2021-01-20T00:08:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-25-x-9-cm-bake-serve-corrugated-loaf-pan-20-pack"/>
+    <title>McCall&apos;s - 25 x 9 cm Bake &amp; Serve Corrugated Loaf Pan - 20/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>McCall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-25-x-9-cm-bake-serve-corrugated-loaf-pan-20pack-784036.jpg?v=1611513757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McCall&#39;s<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>McCall's - 25 x 9 cm Bake &amp; Serve Kraft Paper Loaf Pan - 20/Pack</p>
+<p>Save time and cut down on costs with this mold. Bake and Show corrugated kraft paper bread / cake loaf pan! This disposable pan provides a unique and cost effective alternative to traditional plastic pans, not to mention metal cookware! Constructed from durable yet sustainable, and domestically produced corrugated paperboard, this item is strong enough to handle a variety of freezer-to-oven applications.</p>
+<p>This pan can also be placed in the microwave for heating or reheating, making for a versatile and convenient kitchen accessory!<br data-mce-fragment="1"><br data-mce-fragment="1">Tidying up your kitchen has never been easier, as you can simply dispose of this pan once you're finished with it! This will inevitably minimize clean-up costs, which not only saves you money, but also reduces downtime during your work day. That said, this handy item is a dependable, functional, and money-saving solution for all of your packaging and baking needs! It's also important to note that this product is not treated with a release coating. Additional sprays or a liner may be necessary to remove your product from the pan after baking.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880661020746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>14016</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880467722314</id>
+    <published>2021-01-20T00:08:34-05:00</published>
+    <updated>2021-01-20T00:08:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-7-x-3-x-2-16-oz-corrugated-loaf-mold-300-case"/>
+    <title>Novacart - 7&quot; x 3&quot; x 2&quot; - 16 Oz Corrugated Loaf Mold - 300/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-7-x-3-x-2-16-oz-corrugated-loaf-mold-300case-961550.jpg?v=1611511651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Novacart - 7" x 3" x 2" Corrugated Loaf Mold - 300/Case</strong></p>
+<p> </p>
+<p><span>The PM 178 is a free-standing rectangular paper loaf mold. Constructed with a corrugated sidewall and base. The mold has a brown background with a gold floret print overlay and features a siliconized interior for ease of release. Optional lid and clear bag sold separately. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: cake | quick bread | crumb cake | bread</span></p>
+<p>PM 178 Loaf Mold<br>7" x 3" x 2"<br>•Corrugated Sidewall &amp; Base<br>•Silicone Coated Interior<br>•Oven safe up to 390° F<br>•Microwave &amp; Freezer Safe<br>•Free-standing<br>•Grease &amp; Warp Resistant<br>•Optional Lid and Clear Bag Sold Separately</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880467722314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>14030</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880467427402</id>
+    <published>2021-01-20T00:08:33-05:00</published>
+    <updated>2021-01-20T00:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-7-x-3-x-2-16-oz-corrugated-loaf-mold-75-pack"/>
+    <title>Novacart - 7&quot; x 3&quot; x 2&quot; - 16 Oz Corrugated Loaf Mold - 75/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-7-x-3-x-2-16-oz-corrugated-loaf-mold-75pack-788390.jpg?v=1611513035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Novacart - 7" x 3" x 2" Corrugated Loaf Mold - 75/Pack</strong></p>
+<p>Save time and cut down on costs with this mold. Bake and Show corrugated kraft paper bread / cake loaf pan! This disposable pan provides a unique and cost effective alternative to traditional plastic pans, not to mention metal cookware! Constructed from durable yet sustainable, and domestically produced corrugated paperboard, this item is strong enough to handle a variety of freezer-to-oven applications.</p>
+<p>This pan can also be placed in the microwave for heating or reheating, making for a versatile and convenient kitchen accessory!<br data-mce-fragment="1"><br data-mce-fragment="1">Tidying up your kitchen has never been easier, as you can simply dispose of this pan once you're finished with it! This will inevitably minimize clean-up costs, which not only saves you money, but also reduces downtime during your work day. That said, this handy item is a dependable, functional, and money-saving solution for all of your packaging and baking needs! It's also important to note that this product is not treated with a release coating. Additional sprays or a liner may be necessary to remove your product from the pan after baking.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880467427402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>14031</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880464642122</id>
+    <published>2021-01-20T00:08:32-05:00</published>
+    <updated>2021-01-20T00:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-14-5-x-7-clear-polypropylene-plastic-bags-for-loaf-200-pack"/>
+    <title>Novacart - 14.5&quot; x 7&quot; Clear Polypropylene Plastic Bags For Loaf - 200/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-145-x-7-clear-polypropylene-plastic-bags-for-loaf-200pack-210442.jpg?v=1611513637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="titleDimensions" data-mce-fragment="1">Fits a Variety of Products</span></p>
+<p>•Cast-Polypropylene Plastic •Lengthens Shelf Life<br><span class="titleDimensions" data-mce-fragment="1"></span></p>
+<p>Safe for food contact</p>
+Novacart - <span class="sku_wrapper" data-mce-fragment="1"><span class="sku" data-mce-fragment="1">H9R11018</span></span><span data-mce-fragment="1">  </span>Optima Loaf Molds And Bags - 200/Pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880464642122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>14019</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880462643274</id>
+    <published>2021-01-20T00:08:32-05:00</published>
+    <updated>2021-01-20T00:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-8-x-4-x-2-optima-clear-lid-for-7-baking-mold-300-case"/>
+    <title>Novacart - 8&quot; x 4&quot; x 2&quot; Optima Clear Lid for 7&quot; Baking Mold - 300/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-8-x-4-x-2-optima-clear-lid-for-7-baking-mold-300case-786753.jpg?v=1611512251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            116.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The PM 178 &amp; OP 180 rectangular plastic lid is formulated with PET and 100% recyclable. For use with the PM 178 and OP 180/R Optima baking mold. Perfect for the grab-and-go business. Molds sold separately.</p>
+<p>PM 178 &amp; OP 180/R Clear Baking Mold Lid <span data-mce-fragment="1">V9M63023</span><br data-mce-fragment="1">8-7/16 x 4-3/8" x 2"<br data-mce-fragment="1">•Clear Plastic Rectangular Lid made from PET Plastic<br data-mce-fragment="1">•Freezer Safe<br data-mce-fragment="1">•Mold sold Separately<br data-mce-fragment="1">•100% Recyclable</p>
+<p>Novacart - Optima Clear Baking Mold Lid - 300/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880462643274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.99</s:price>
+      <s:sku>14034</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880461299786</id>
+    <published>2021-01-20T00:08:31-05:00</published>
+    <updated>2021-01-20T00:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-8-x-4-x-2-optima-clear-lid-for-7-baking-mold-50-pack"/>
+    <title>Novacart - 8&quot; x 4&quot; x 2&quot; Optima Clear Lid for 7&quot; Baking Mold - 50/pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-8-x-4-x-2-optima-clear-lid-for-7-baking-mold-50pack-376652.jpg?v=1611514549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">The PM 178 &amp; OP 180 rectangular plastic lid is formulated with PET and 100% recyclable. For use with the PM 178 and OP 180/R Optima baking mold. Perfect for the grab-and-go business. Molds sold separately.</p>
+<p data-mce-fragment="1">PM 178 &amp; OP 180/R Clear Baking Mold Lid <span data-mce-fragment="1">V9M63023</span><br data-mce-fragment="1">8-7/16 x 4-3/8" x 2"<br data-mce-fragment="1">•Clear Plastic Rectangular Lid made from PET Plastic<br data-mce-fragment="1">•Freezer Safe<br data-mce-fragment="1">•Mold sold Separately<br data-mce-fragment="1">•100% Recyclable</p>
+Novacart - Optima Loaf Mold Lid - 50/pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880461299786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>14035</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880454484042</id>
+    <published>2021-01-20T00:08:30-05:00</published>
+    <updated>2021-01-20T00:08:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-25-x-2-125-x-2-12-oz-pet-laminated-loaf-mold-brown-gold-80-pack"/>
+    <title>Novacart - 6.25&quot; x 2.125&quot; x 2&quot; - 12 Oz PET Laminated Loaf Mold Brown/Gold - 80/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-625-x-2125-x-2-12-oz-pet-laminated-loaf-mold-browngold-80pack-828301.jpg?v=1611511650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">The OP PlumK Marrone Ramage loaf is a free-standing baking mold that features a white PET-Laminated interior and a brown with gold scroll exterior. The PET interior allows for ease of release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: yeast bread |quick bread |crumb cake | bundt cake | pound cake | pasta.</p>
+<p data-mce-fragment="1">Case pack: 720</p>
+<p data-mce-fragment="1">OP PLUMK Marrone Ramage (Brown w/ Gold Scroll) <span data-mce-fragment="1">G9F08903</span><br data-mce-fragment="1">6-1/4" x 2-1/8" x 2"<br data-mce-fragment="1">•Cardboard Stock with Rolled Edge<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+Novacart - Loaf Mold ECOS Marone - 80/Pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880454484042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>14027</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880453861450</id>
+    <published>2021-01-20T00:08:29-05:00</published>
+    <updated>2021-01-20T00:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-25-x-2-125-x-2-12-oz-pet-laminated-loaf-mold-brown-gold-720-case"/>
+    <title>Novacart - 6.25&quot; x 2.125&quot; x 2&quot; - 12 Oz PET Laminated Loaf Mold Brown/Gold - 720/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-625-x-2125-x-2-12-oz-pet-laminated-loaf-mold-browngold-720case-879900.jpg?v=1611514426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            279.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The OP PlumK Marrone Ramage loaf is a free-standing baking mold that features a white PET-Laminated interior and a brown with gold scroll exterior. The PET interior allows for ease of release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: yeast bread |quick bread |crumb cake | bundt cake | pound cake | pasta.</p>
+<p>Case pack: 720</p>
+<p>OP PLUMK Marrone Ramage (Brown w/ Gold Scroll) <span data-mce-fragment="1">G9F08903</span><br data-mce-fragment="1">6-1/4" x 2-1/8" x 2"<br data-mce-fragment="1">•Cardboard Stock with Rolled Edge<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+<p>Novacart -  Loaf Mold ECOS Marone - 9 x 80/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880453861450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.99</s:price>
+      <s:sku>14026</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880452976714</id>
+    <published>2021-01-20T00:08:29-05:00</published>
+    <updated>2021-01-20T00:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-25-x-2-125-x-2-12-oz-pet-laminated-loaf-mold-white-gold-720-case"/>
+    <title>Novacart - 6.25&quot; x 2.125&quot; x 2&quot; - 12 Oz PET Laminated Loaf Mold White / Gold - 720/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-625-x-2125-x-2-12-oz-pet-laminated-loaf-mold-white-gold-720case-147919.jpg?v=1611514423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            279.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Description</h2>
+<p>The OP PlumK Biano Ramage loaf is a free-standing baking mold that features a white PET-Laminated interior and a white with gold scroll exterior. The PET interior allows for ease of release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: yeast bread | quick bread |crumb cake | bundt cake | pound cake | pasta</p>
+<p>OP PLUMK Bianco Ramage (White w/ Gold Scroll) <span data-mce-fragment="1" class="sku_wrapper"><span data-mce-fragment="1" class="sku">G9F08905</span></span><span data-mce-fragment="1"> </span><br data-mce-fragment="1">6-1/4" x 2-1/8" x 2"<br data-mce-fragment="1">•Cardboard Stock with Rolled Edge<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+<p>Novacart - Loaf Mold Bianco Ramage White Gold - 9 x 80/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880452976714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.99</s:price>
+      <s:sku>14028</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880452288586</id>
+    <published>2021-01-20T00:08:28-05:00</published>
+    <updated>2021-01-20T00:08:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-6-25-x-2-125-x-2-12-oz-pet-laminated-loaf-mold-white-gold-80-pack"/>
+    <title>Novacart - 6.25&quot; x 2.125&quot; x 2&quot; - 12 Oz PET Laminated Loaf Mold White / Gold - 80/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-625-x-2125-x-2-12-oz-pet-laminated-loaf-mold-white-gold-80pack-515068.jpg?v=1611511057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1">Description</h2>
+<p data-mce-fragment="1">The OP PlumK Biano Ramage loaf is a free-standing baking mold that features a white PET-Laminated interior and a white with gold scroll exterior. The PET interior allows for ease of release. Oven safe in temperatures up to 390° F. Place molds on baking sheet for additional support in the oven. Microwave and freezer safe. Grease and warp resistant. Suggested uses: yeast bread | quick bread |crumb cake | bundt cake | pound cake | pasta</p>
+<p data-mce-fragment="1">OP PLUMK Bianco Ramage (White w/ Gold Scroll) <span class="sku_wrapper" data-mce-fragment="1"><span class="sku" data-mce-fragment="1">G9F08905</span></span><span data-mce-fragment="1"> </span><br data-mce-fragment="1">6-1/4" x 2-1/8" x 2"<br data-mce-fragment="1">•Cardboard Stock with Rolled Edge<br data-mce-fragment="1">•PET-Laminated Interior<br data-mce-fragment="1">•Oven safe up to 390° F<br data-mce-fragment="1">•Microwave &amp; Freezer Safe<br data-mce-fragment="1">•Free-standing<br data-mce-fragment="1">•Grease &amp; Warp Resistant</p>
+Novacart - Loaf Mold Bianco Ramage White Gold - 80/Pack</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake Molds</s:tag>
+    <s:tag>Loaf Molds &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880452288586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>14029</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

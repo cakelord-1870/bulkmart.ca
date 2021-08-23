@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/red-bull.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2019-02-21T00:48:01-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729871430</id>
+    <published>2019-02-21T00:48:01-05:00</published>
+    <updated>2019-02-21T00:48:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-bull-original-energy-drink-24-x-250-ml"/>
+    <title>Red Bull - Original Energy Drink - 24 x 250 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Red Bull</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-bull-original-energy-drink-24-x-250-ml-212463.jpg?v=1611514782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Red Bull<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Red Bull - Original Energy Drink - 24 x 250 ml</strong></p>
+<p>‌The original Red Bull Energy Drink is perfect for when you're in need of a boost. Red Bull vitalizes the body and mind and gives you wings when you need them most. Drink it on the go, at work, during lectures, while gaming, or when you're going out. Featured Ingredients: Caffeine, Taurine, B-Group Vitamins, Sucrose &amp; Glucose, Alpine Water.</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Improves performance</span></li>
+<li><span class="a-list-item">Vitalizes body and mind</span></li>
+<li><span class="a-list-item">Improves vigilance</span></li>
+<li><span class="a-list-item">Increases concentration and reaction speed</span></li>
+<li><span class="a-list-item">Stimulates metabolism</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-bull-original-energy-drink-24-x-250-ml#product","name":"Red Bull - Original Energy Drink - 24 x 250 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729871430","sku":"BM2452","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-bull-original-energy-drink-24-x-250-ml-bulk-mart_831.jpg","description":"Red Bull - Original Energy Drink - 24 x 250 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Red Bull"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"},"offers":[{"sku":"BM2452","mpn":"","priceCurrency":"CAD","price":"46.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-bull-original-energy-drink-24-x-250-ml?variant=20255580061766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Red Bull</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729871430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>99001</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729838662</id>
+    <published>2019-02-21T00:48:00-05:00</published>
+    <updated>2019-02-21T00:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-bull-sugar-free-energy-drink-24-x-250-ml"/>
+    <title>Red Bull - Sugar-Free Energy Drink - 24 x 250 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Red Bull</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-bull-sugar-free-energy-drink-24-x-250-ml-422241.jpg?v=1611512021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Red Bull<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Red Bull - Sugar-Free Energy Drink - 24 x 250 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Red Bull Sugarfree's special formula contains ingredients of high quality: Caffeine, Taurine, Aspartame &amp; Acesulfame-Potassium, Alpine water</span></li>
+<li><span class="a-list-item">One 250 ml can of Red Bull Sugarfree contains 80 mg of caffeine, about the same amount as in a cup of home-brewed coffee.</span></li>
+<li><span class="a-list-item">Red Bull cans are made of 100% recyclable aluminium.</span></li>
+<li><span class="a-list-item">Pack of 24 x 250 ml Red Bull Sugar Free cans.</span></li>
+<li><span class="a-list-item">Vitalizes Body and Mind.</span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-bull-sugar-free-energy-drink-24-x-250-ml#product","name":"Red Bull - Sugar-Free Energy Drink - 24 x 250 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2453","sku":"BM2453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-bull-sugar-free-energy-drink-24-x-250-ml-bulk-mart_451.jpg","description":"Red Bull - Sugar-Free Energy Drink - 24 x 250 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Red Bull"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"59"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"offers":[{"name":"Red Bull - Sugar-Free Energy Drink - 24 x 250 ml","sku":"BM2453","mpn":"BM2453","@type":"Offer","priceCurrency":"CAD","price":"51.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-bull-sugar-free-energy-drink-24-x-250-ml?variant=20255579963462","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Red Bull</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729838662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>99002</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

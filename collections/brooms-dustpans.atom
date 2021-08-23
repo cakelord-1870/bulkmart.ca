@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/brooms-dustpans.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-01T12:08:04-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4785401659466</id>
+    <published>2020-10-01T12:08:04-04:00</published>
+    <updated>2020-10-01T12:08:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-dustpan-brush-set-c130016-each"/>
+    <title>Liao - Dustpan &amp; Brush Set C130016 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-dustpan-brush-set-c130016-each-157148.jpg?v=1611512618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Dustpan &amp; Brush Set C130016 - Each</strong></p>
+<p> </p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>KEEP YOUR HOUSE TIDY AND CLEAN:</strong> Maintaining your house clean is quite easy, thanks to Liao mini dustpan and brush set! This small sweeping set will help you sweep your sofa, desk, counter, car trunk and seats, keyboard, and clean your pet’s mess.</span></li>
+<li><span class="a-list-item"><strong>EFFORTLESS SWEEPING:</strong> Our mini sweeping brush has durable angled bristles so that you can reach every single corner in your house! As for the dustpan, it has a wide lip that allows for maximum surface contact and leave no debris behind.</span></li>
+<li><span class="a-list-item"><strong>COMFORTABLE ERGONOMIC DESIGN:</strong> This premium angled brush and the matching dustpan are very easy to use. In fact, their ergonomic nonslip handles provide you with the most secure grip and optimal comfort and control.</span></li>
+<li><span class="a-list-item"><strong>SPACE SAVING STORAGE:</strong> The mini brush broom snaps into the dust pan, so that you can store them together and keep them within easy reach. Both the dust pan and the cleaning brush have hanging holes that help you save space.</span></li>
+</ul>
+<p><span class="a-list-item"><span> 30x18cm dustpan</span><br><span>• 80cm bristle</span></span></p>
+<ul class="list"></ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Broom &amp; Dustpan Set</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785401659466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>423423</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4783823454282</id>
+    <published>2020-09-30T00:49:59-04:00</published>
+    <updated>2020-09-30T00:49:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-angle-lobby-broom-9-plastic-head-metal-handle-each-1"/>
+    <title>Liao - Angle Lobby Broom 9&quot; Plastic Head Metal Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-angle-lobby-broom-9-plastic-head-metal-handle-each-367172.jpg?v=1611511896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p itemprop="description"><strong>Liao - Angle Broom 9" Plastic Head 15.5cm Bristle 52" Metal Handle - Each</strong></p>
+<p itemprop="description">The light weight Angle Broom has a sweeping path for quick and easy cleaning. Great for indoor and outdoor use on multiple floor surfaces, its angled bristles help reach into corners and under furniture. The handle can also be removed to make it a whisk broom for tight spaces.</p>
+<ul class="list">
+<li class="list__item">Eco-friendly block and fibers</li>
+<li class="list__item">Swivel cap with hole for easy hanging</li>
+<li class="list__item">Great performance at a great value</li>
+<li class="list__item">Durable handle</li>
+<li class="list__item">Light weight</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobby Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4783823454282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>14251</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780683493450</id>
+    <published>2020-09-30T00:49:57-04:00</published>
+    <updated>2020-09-30T00:49:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-12-foldable-windproof-broom-and-dust-pan-1-set"/>
+    <title>Liao - 12&quot; Foldable Windproof Broom and Dust Pan  - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-12-foldable-windproof-broom-and-dust-pan-1-set-186621.jpg?v=1611511059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Dustpan &amp; Broom 12" Broom, 4" Bristle, 30" Metal Handle - 1 Set</strong></p>
+<ul class="list">
+<li class="list__item">
+<span>Specifications:</span><br><span>The dustpan is foldable and can be stored with the broom. It saves more space.</span><br><span>You can easily comb out hairs and other rubbish without using hands with the scraper design.</span><br><span>With the soft broom brush and 180-degree rotation design, you can clean any corner of your room.</span><br><span>You are not easy to get tired with the long broomstick.</span>
+</li>
+<li class="list__item">
+<span>Package Includes:</span><br><span>1 x Dustpan</span><br><span>1 x Broom</span>
+</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Broom &amp; Dustpan Set</s:tag>
+    <s:tag>Lobby Brooms &amp; Dustpans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780683493450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>265695</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780681396298</id>
+    <published>2020-09-30T00:49:56-04:00</published>
+    <updated>2020-09-30T00:49:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-10-angel-lobby-broom-and-dust-pan-set-1-set"/>
+    <title>Liao - 10&quot; Angel Lobby Broom and Dust Pan Set - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-10-angel-lobby-broom-and-dust-pan-set-1-set-656212.jpg?v=1611511245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Dustpan &amp; Broom 10" Broom 28" Bristle 30" Metal Handle - 1 Set</strong></p>
+<ul class="list">
+<li class="list__item">Angled broom gathers all types of debris, even in tight corners</li>
+<li class="list__item">Dustpan flips easily into an upright position to hold dirt inside</li>
+<li class="list__item">Both items snap together and store vertically with built-in feet</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Broom &amp; Dustpan Set</s:tag>
+    <s:tag>Lobby Brooms &amp; Dustpans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780681396298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>36565</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780680413258</id>
+    <published>2020-09-30T00:49:55-04:00</published>
+    <updated>2020-09-30T00:49:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-angle-lobby-broom-4-bristle-metal-handle-each"/>
+    <title>Liao - Angle Lobby Broom 4&quot; Bristle Metal Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-angle-lobby-broom-4-bristle-metal-handle-each-459232.jpg?v=1611510880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p itemprop="description"><strong>Liao - Angle Broom 4" Bristle 43" Metal Handle - Each</strong></p>
+<p itemprop="description">The light weight Angle Broom has a sweeping path for quick and easy cleaning. Great for indoor and outdoor use on multiple floor surfaces, its angled bristles help reach into corners and under furniture. The handle can also be removed to make it a whisk broom for tight spaces.</p>
+<ul class="list">
+<li class="list__item">Eco-friendly block and fibers</li>
+<li class="list__item">Swivel cap with hole for easy hanging</li>
+<li class="list__item">Great performance at a great value</li>
+<li class="list__item">Durable handle</li>
+<li class="list__item">Light weight</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobby Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780680413258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>56458</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780679725130</id>
+    <published>2020-09-30T00:49:54-04:00</published>
+    <updated>2020-09-30T00:49:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-angle-lobby-broom-9-plastic-head-metal-handle-each"/>
+    <title>Liao - Angle Lobby Broom 9&quot; Plastic Head Metal Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-angle-lobby-broom-9-plastic-head-metal-handle-each-983053.jpg?v=1611512968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p itemprop="description"><strong>Liao - Angle Broom 9" Plastic Head 7" Bristle 52" Metal Handle - Each</strong></p>
+<p itemprop="description">The light weight Angle Broom has a sweeping path for quick and easy cleaning. Great for indoor and outdoor use on multiple floor surfaces, its angled bristles help reach into corners and under furniture. The handle can also be removed to make it a whisk broom for tight spaces.</p>
+<ul class="list">
+<li class="list__item">Eco-friendly block and fibers</li>
+<li class="list__item">Swivel cap with hole for easy hanging</li>
+<li class="list__item">Great performance at a great value</li>
+<li class="list__item">Durable handle</li>
+<li class="list__item">Light weight</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobby Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780679725130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>15480</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780679102538</id>
+    <published>2020-09-30T00:49:53-04:00</published>
+    <updated>2020-09-30T00:49:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-lobby-broom11-plastic-head-steel-handle-each"/>
+    <title>Liao - Lobby Broom11&quot; Plastic Head Steel Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-lobby-broom11-plastic-head-steel-handle-each-172260.jpg?v=1611510517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Liao - Broom 9cm Bristle 11" Plastic Head 52"Steel Handle - Each</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong></strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Our Lightweight Broom is made with stiff bristles and a rubber bumper protector.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Metal handle</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Classical design</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Super stiff bristles</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Light weight broom</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Rubber bumper protector</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobby Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780679102538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>1255</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3957115715654</id>
+    <published>2020-09-30T00:49:52-04:00</published>
+    <updated>2020-09-30T00:49:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-angle-lobby-broom-8-plastic-head-metal-handle-each"/>
+    <title>Liao - Angle Lobby Broom 8&quot; Plastic Head Metal Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-angle-lobby-broom-8-plastic-head-metal-handle-each-303690.jpg?v=1611511421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p itemprop="description"><strong>Liao - Angle Broom 8" Plastic Head 18.5cm Bristle 52"Metal Handle - Each</strong></p>
+<p itemprop="description">The light weight Angle Broom has a sweeping path for quick and easy cleaning. Great for indoor and outdoor use on multiple floor surfaces, its angled bristles help reach into corners and under furniture. The handle can also be removed to make it a whisk broom for tight spaces.</p>
+<ul class="list">
+<li class="list__item">Eco-friendly block and fibers</li>
+<li class="list__item">Swivel cap with hole for easy hanging</li>
+<li class="list__item">Great performance at a great value</li>
+<li class="list__item">Durable handle</li>
+<li class="list__item">Light weight</li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobby Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3957115715654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>21540</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2068076134470</id>
+    <published>2020-09-30T00:49:51-04:00</published>
+    <updated>2020-09-30T00:49:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/marino-4-strings-1-wire-industrial-corn-broom-each"/>
+    <title>Marino - 4 Strings 1 Wire Industrial Corn Broom - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Marino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/marino-4-strings-1-wire-industrial-corn-broom-652531.jpg?v=1611510575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marino<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Marino 4 Strings 1 Wire Industrial Corn Broom!</strong></p>
+<p>All industrial corn brooms are both bound with polyester stitching and a heavy duty galvanized wire band to provide added durability and longer life.</p>
+<p>• These brooms are best suited for wet or tough sweeping, both indoor and out.</p>
+<p>• Applications best suited includes snow removal, warehouses, garages, and any other rugged sweeping.</p>
+<p class="hdca-p-vertical--x-small hdca-text-body--small">High quality, 100% corn. Four rows of nylon stitching. Wire wound.</p>
+<section id="productFeature" class="hdca-list hdca-list--is-bulleted hdca-list--small-text">
+<ol class="hdca-list__list ng-star-inserted">
+<li class="hdca-list__list-item">100 % high quality corn</li>
+</ol>
+<ol class="hdca-list__list ng-star-inserted">
+<li class="hdca-list__list-item">Wide sweeping action</li>
+</ol>
+<ol class="hdca-list__list ng-star-inserted">
+<li class="hdca-list__list-item">Perfect for indoor and outdoor use</li>
+</ol>
+</section>
+<section class="hdca-list hdca-list--is-bulleted hdca-list--small-text" id="productFeature">
+<ol class="hdca-list__list ng-star-inserted"></ol>
+</section>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/corn-broom-4-string-each#product","name":"Corn Broom 4 String - Each","itemCondition":"https://schema.org/NewCondition","mpn":"BroomC","sku":"BroomC","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/corn-broom-4-string-each-bulk-mart_423.jpg","description":"Corn Broom 4 String - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"37"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Corn Broom 4 String - Each","sku":"BroomC","mpn":"BroomC","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/corn-broom-4-string-each?variant=20738794684486","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Industrial Brooms</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2068076134470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>54596</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

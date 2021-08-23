@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-powder.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-22T19:25:18-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4813503791178</id>
+    <published>2020-10-22T19:25:18-04:00</published>
+    <updated>2020-10-22T19:25:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ab-mauri-baking-powder-50-lbs"/>
+    <title>AB Mauri - Baking Powder - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>AB Mauri</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ABMauri-BakingPowder-50Lbs.jpg?v=1623980024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AB Mauri<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AB Mauri -  Baking Powder - 50 Lbs</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4813503791178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>602145</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809611345994</id>
+    <published>2020-10-22T19:25:17-04:00</published>
+    <updated>2020-10-22T19:25:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-oetker-baking-powder-6-x-14-g"/>
+    <title>Dr Oetker - Baking Powder - 6 x 14 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dr Oetker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/DrOetker-BakingPowder-6x14g.jpg?v=1629241121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Oetker<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Oetker - Baking Powder - 6 x 14 g</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809611345994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>601546</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809610952778</id>
+    <published>2020-10-22T19:25:15-04:00</published>
+    <updated>2020-10-22T19:25:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-225-g"/>
+    <title>Magic - Baking Powder - 225 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-225-g-295320.jpg?v=1611511541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809610952778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>607415</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809610559562</id>
+    <published>2020-10-22T19:25:14-04:00</published>
+    <updated>2020-10-22T19:25:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-450-g"/>
+    <title>Magic - Baking Powder - 450 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-450-g-334878.jpg?v=1611510634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Magic - Baking Powder - 450 g</strong></p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg#product","name":"Magic - Baking Powder - 2.5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"MajicBM448","sku":"icBM448","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-2-5-kg-bulk-mart_134.jpg","description":"Magic - Baking Powder - 2.5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Magic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"51"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.5"},"offers":[{"name":"Magic - Baking Powder - 2.5 Kg","sku":"icBM448","mpn":"MajicBM448","@type":"Offer","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg?variant=19271387873350","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809610559562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>6012458</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887523176518</id>
+    <published>2018-11-28T15:06:34-05:00</published>
+    <updated>2018-11-28T15:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pinnacle-baking-powder-5-kg"/>
+    <title>Pinnacle - Baking Powder - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>AB Mauri</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pinnacle-baking-powder-5-kg-762794.jpg?v=1611511954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AB Mauri<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pinnacle - Baking Powder - 5 Kg</strong></p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887523176518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>604581</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887506694214</id>
+    <published>2018-11-28T15:03:25-05:00</published>
+    <updated>2018-11-28T15:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-2-5-kg"/>
+    <title>Magic - Baking Powder - 2.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-25-kg-317513.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Magic - Baking Powder - 2.5 Kg</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg#product","name":"Magic - Baking Powder - 2.5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"MajicBM448","sku":"icBM448","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-2-5-kg-bulk-mart_134.jpg","description":"Magic - Baking Powder - 2.5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Magic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"51"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.5"},"offers":[{"name":"Magic - Baking Powder - 2.5 Kg","sku":"icBM448","mpn":"MajicBM448","@type":"Offer","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg?variant=19271387873350","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887506694214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>602154</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

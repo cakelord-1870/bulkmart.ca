@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/compostable-dinnerware.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-16T21:13:41-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6640051716170</id>
+    <published>2021-08-16T21:13:41-04:00</published>
+    <updated>2021-08-16T21:13:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-bamboo-leaf-cone-2-layers-1-5-oz-100-pack"/>
+    <title>Pack N Wood - Bamboo Leaf Cone 2 Layers 1.5 Oz - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-bamboo-leaf-cone-2-layers-15-oz-100-pack-825401.jpg?v=1629180454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable Bamboo Leaf Cone </h2>
+<p>Dia:2.7in L:6.6in</p>
+<ul class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList"></ul>
+<p dir="ltr"> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+<div class="template-text">
+<span data-mce-fragment="1">Bamboo Leaf is grease resistant &amp; preserves food naturally. Made of bamboo leaf our cones come in a variety of different sizes for any culinary creation. They can be used for canapes, appetizers, sides, desserts or tapas and are perfect for any occasion.</span>
+<h3 class="item-header"></h3>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640051716170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>222022</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6640050110538</id>
+    <published>2021-08-16T21:13:40-04:00</published>
+    <updated>2021-08-16T21:13:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-bamboo-leaf-cone-2-layers-5-oz-100-pack"/>
+    <title>Pack N Wood - Bamboo Leaf Cone 2 Layers 5 Oz  - 100 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-bamboo-leaf-cone-2-layers-5-oz-100-pack-660330.jpg?v=1629180453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable Bamboo Leaf Cone </h2>
+<p>Dia:2.7in L:6.6in</p>
+<ul class="breadcrumbs" itemtype="http://schema.org/BreadcrumbList" itemscope=""></ul>
+<p dir="ltr"> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+<div class="template-text">
+<span data-mce-fragment="1">Bamboo Leaf is grease resistant &amp; preserves food naturally. Made of bamboo leaf our cones come in a variety of different sizes for any culinary creation. They can be used for canapes, appetizers, sides, desserts or tapas and are perfect for any occasion.</span>
+<h3 class="item-header"></h3>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640050110538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>222023</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6640046342218</id>
+    <published>2021-08-16T21:13:40-04:00</published>
+    <updated>2021-08-16T21:13:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-scandinavia-rectangular-wooden-tray-20-pack"/>
+    <title>Pack N Wood - Scandinavia Rectangular Wooden Tray - 20 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-scandinavia-rectangular-wooden-tray-20-pack-182885.jpg?v=1629180462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable palm leaf tray. </h2>
+<h2 class="headline">L:10.5 x W:8.5 x H:.7in</h2>
+<p><span>Made of wood, our biodegradable, disposable and decorative wooden dinnerware are multi-purpose, used either as a serving dish or food display. Great for displaying a variety of items, it's an elegant way to make a statement at any event or home. Comes in various sizes.</span></p>
+<p> </p>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png"></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png"></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png"></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png"></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png"></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png"></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png"></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640046342218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>222027</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6640045195338</id>
+    <published>2021-08-16T21:13:39-04:00</published>
+    <updated>2021-08-16T21:13:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-square-bamboo-leaf-double-layer-plate-10-pack"/>
+    <title>Pack N Wood -  Square Bamboo Leaf Double Layer Plate - 10 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-square-bamboo-leaf-double-layer-plate-10-pack-122390.jpg?v=1629180462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable bamboo plate.</h2>
+<p> L:5.92 x W:5.92 x H:.45in</p>
+<p><span>Made of wood, our biodegradable, disposable and decorative wooden dinnerware are multi-purpose, used either as a serving dish or food display. Great for displaying a variety of items, it's an elegant way to make a statement at any event or home. Comes in various sizes.</span></p>
+<p> </p>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png" alt=""></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png" alt=""></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png" alt=""></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png" alt=""></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png" alt=""></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png" alt=""></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png" alt=""></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640045195338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>222021</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6640042999882</id>
+    <published>2021-08-16T21:13:37-04:00</published>
+    <updated>2021-08-16T21:13:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-scandinavia-square-wooden-plate-7-oz-50-pack"/>
+    <title>Pack N Wood - Scandinavia Square Wooden Plate - 7 Oz - 50 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-scandinavia-square-wooden-plate-7-oz-50-pack-914804.jpg?v=1629180453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable palm leaf bowl.</h2>
+<p>5.5" x 5.5" x 1"<br></p>
+<p><span>Made of wood, our biodegradable, disposable and decorative wooden, boat-shaped bowls are multi-purpose, used either as a serving dish or food display. Great for displaying a variety of items, it's an elegant way to make a statement at any event or home. Comes in various sizes.</span></p>
+<p> </p>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png"></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png"></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png"></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png"></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png"></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png"></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png"></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640042999882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>222028</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6640041689162</id>
+    <published>2021-08-16T21:13:36-04:00</published>
+    <updated>2021-08-16T21:13:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-medium-wooden-boat-5-oz-50-pack"/>
+    <title>Pack N Wood - Medium Wooden Boat 5 Oz - 50 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-medium-wooden-boat-5-oz-50-pack-345875.jpg?v=1629180461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable palm leaf bowl.</h2>
+<p>L:7.7 x W:3.5 x H:1.2in </p>
+<p><span>Made of wood, our biodegradable, disposable and decorative wooden, boat-shaped bowls are multi-purpose, used either as a serving dish or food display. Great for displaying a variety of items, it's an elegant way to make a statement at any event or home. Comes in various sizes.</span></p>
+<p> </p>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png"></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png"></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png"></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png"></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png"></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png"></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png"></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640041689162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>222025</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6639968878666</id>
+    <published>2021-08-16T21:13:35-04:00</published>
+    <updated>2021-08-16T21:13:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-medium-wooden-boat-3-5-oz-50-pack"/>
+    <title>Pack N Wood - Medium Wooden Boat 3.5 Oz - 50 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-medium-wooden-boat-35-oz-50-pack-845733.jpg?v=1629180460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable palm leaf bowl.</h2>
+<p>5.5" x 3" x 0.86"<br></p>
+<p><span>Made of wood, our biodegradable, disposable and decorative wooden, boat-shaped bowls are multi-purpose, used either as a serving dish or food display. Great for displaying a variety of items, it's an elegant way to make a statement at any event or home. Comes in various sizes.</span></p>
+<p><strong>SIZE<br>3.5oz<br>Top: 5.1 x 3.1"<br>Base: 2.75 x 1.9"<br>H : 0.7"</strong></p>
+<p> </p>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png"></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png"></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png"></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png"></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png"></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png"></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png"></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div class="template-text"></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6639968878666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>222024</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6637978026058</id>
+    <published>2021-08-16T21:13:34-04:00</published>
+    <updated>2021-08-16T21:13:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pack-n-wood-palm-leaf-mini-bowl-plate-6-oz-25-pack"/>
+    <title>Pack N Wood -  Palm Leaf Mini Bowl/Plate 6 Oz - 25 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pack N Wood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pack-n-wood-palm-leaf-mini-bowlplate-6-oz-25-pack-474607.jpg?v=1629180462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pack N Wood<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your culinary creations in this disposable  sustainable palm leaf bowl.</h2>
+<p>120mm 4.7" x 25mm 1" x 200ml / 6Oz</p>
+<ul class="breadcrumbs" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li class="breadcrumb is-active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span class="breadcrumb-label" itemprop="name">Dia:5.05in H:1.2in</span></li>
+</ul>
+<p dir="ltr"><span>The Palm Leaf Mini Bowl/Plate is made from eco-friendly palm leaf, which is a renewable resource that doesn’t adversely impact the environment. It is filmable, microwaveable up to </span><span>​</span><span>​​​​​​​356°F​​​​​​</span><span> and biodegradable bowl that is perfect for mini appetizers and desserts, such as bread pudding. Its 6 ounce capacity makes it a versatile small bowl for restaurants, hotels, food trucks, and food festivals. You can safely put hot and cold foods into it without worry that the bowl will crumble or sag under the weight.</span></p>
+<p dir="ltr"> </p>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/652646014file_1.png"></span><span class="badges_text">COMPOSTABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/295231915file_1.png"></span><span class="badges_text">DESIGNED FOR COLD</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1528074126file_1.png"></span><span class="badges_text">DESIGNED FOR HOT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1234720101file_1.png"></span><span class="badges_text">GREASE RESISTANT</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/590343502file_1.png"></span><span class="badges_text">MICROWAVE SAFE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/1067274542file_1.png"></span><span class="badges_text">OVENABLE</span></strong></li>
+<li><strong><span class="badges_img"><img alt="" src="https://app.packnwood.com/application/uploads/topfeature/2116450259file_1.png"></span><span class="badges_text">RECYCLABLE</span></strong></li>
+<p> </p>
+<p> </p>
+<p> </p>
+<ul>
+<li><span>• 6 ounce capacity </span></li>
+<li><span>• 4.7” diameter size</span></li>
+<li><span>• Microwavable up to ​​​​​​​​356°F​​​​​​​​</span></li>
+<li><span>• Biodegradable palm leaf bowl</span></li>
+<li><span>• Hot and cold food safe bowl</span></li>
+</ul>
+<p><span>If you want the convenience of disposable dinnerware without the harm to the environment, this eco sustainable palm leaf get the job done. These are durable enough for use with both hot and cold foods, and when customers are finished eating, they can simply throw it away. This feature keeps you from having to wash as many dishes in your establishment, saving you time and water.</span></p>
+<div class="detail-section textimage-right-template">
+<div class="flex-container">
+<div class="template-text">
+<h3 class="item-header">Made with Eco-Friendly Materials</h3>
+<p>It is made with all-natural palm leaves, ensuring they are completely compostable. Using it will keep plastic and other harmful materials out of landfills, and your environmentally-conscious customers will appreciate it.</p>
+</div>
+</div>
+</div>
+<div class="detail-section textimage-highlight-template">
+<div class="flex-container">
+<div class="highlight-module highlight-2">
+<div class="highlight-item">
+<div aria-hidden="true" class="template-image"><img src="https://cdnimg.webstaurantstore.com/images/products/large/129799/833536.jpg" class="lazyLoad b-loaded"></div>
+<div class="template-text">
+<h3 class="item-header">Environmentally-Friendly Look</h3>
+<p>It is more upscale than paper or plastic and features a distinctly environmentally-friendly look. Your customers will know this bowl is green just by looking at it.</p>
+</div>
+</div>
+<div class="highlight-item">
+<div aria-hidden="true" class="template-image"><br></div>
+<div class="template-text">
+<h3 class="item-header">Durable Construction</h3>
+<p>It is made for use with both cold and hot foods, and it won't leak or drip like paper will. This durability will save you from having to double up on when serving hot food.</p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Palm Leaf Dinnerware</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6637978026058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>222020</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879348465738</id>
+    <published>2021-01-16T17:41:32-05:00</published>
+    <updated>2021-01-16T17:41:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/new-wave-clear-lid-for-8-square-bagasse-plate-50-sleeve"/>
+    <title>New Wave - Clear Lid For 8&quot; Square Bagasse Plate - 50/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>New Wave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/new-wave-clear-lid-for-8-square-bagasse-plate-50sleeve-531849.png?v=1611513037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Wave<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Wave - Clear Lid For 8" Square Bagasse Plate - 50/Sleeve</p>
+<h2 class="headline">Promote environmental friendliness with this Clear Lid For 8" Square Bagasse Plate !</h2>
+<p><span>Designed to fit Square Bagasse Plate, this lid is the perfect solution for delis, markets, and salad bars. Not only is it made from plant-based starches to give your venue an eco-conscious edge, it can withstand temperatures up to 200 degrees Fahrenheit, making it perfect for your signature sides, and pasta dishes.</span></p>
+<h3 class="item-header">Crisp, Clear Color</h3>
+<p>This lid has a crisp, clear color to give your soup cups a pleasing presentation every time.</p>
+<h3 class="item-header">Tight-Fitting Design</h3>
+<p>The tight-fitting design allows it to snap onto compatible cups for easy, leak-proof transport.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>This lid's durable construction ensures quality, single-service use. Since it's compostable, it can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<h3 class="item-header">Convenient and Cost-Efficient</h3>
+<p>A cost-efficient addition to any establishment, this lid provides your customers with a convenient way to enjoy your soups on the go!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Square Compostable Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879348465738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>332211</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879348006986</id>
+    <published>2021-01-16T17:41:31-05:00</published>
+    <updated>2021-01-16T17:41:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/new-wave-clear-lid-for-8-square-bagasse-plate-200-case"/>
+    <title>New Wave - Clear Lid For 8&quot; Square Bagasse Plate - 200/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>New Wave</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/new-wave-clear-lid-for-8-square-bagasse-plate-200case-416534.png?v=1611514129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Wave<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>New Wave - Clear Lid For 8" Square Bagasse Plate - 200/Case</p>
+<h2 class="headline">Promote environmental friendliness with this Clear Lid For 8" Square Bagasse Plate !</h2>
+<p><span>Designed to fit Square Bagasse Plate, this lid is the perfect solution for delis, markets, and salad bars. Not only is it made from plant-based starches to give your venue an eco-conscious edge, it can withstand temperatures up to 200 degrees Fahrenheit, making it perfect for your signature sides, and pasta dishes.</span></p>
+<h3 class="item-header">Crisp, Clear Color</h3>
+<p>This lid has a crisp, clear color to give your soup cups a pleasing presentation every time.</p>
+<h3 class="item-header">Tight-Fitting Design</h3>
+<p>The tight-fitting design allows it to snap onto compatible cups for easy, leak-proof transport.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>This lid's durable construction ensures quality, single-service use. Since it's compostable, it can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<h3 class="item-header">Convenient and Cost-Efficient</h3>
+<p>A cost-efficient addition to any establishment, this lid provides your customers with a convenient way to enjoy your soups on the go!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Square Compostable Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879348006986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>332210</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878257324106</id>
+    <published>2021-01-14T23:21:53-05:00</published>
+    <updated>2021-01-14T23:21:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-6-round-bagasse-sugarcane-biodegradable-plate-1000-case"/>
+    <title>MC - 6&quot; Round Bagasse Sugarcane Biodegradable Plate - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-6-round-bagasse-sugarcane-biodegradable-plate-1000case-836563.png?v=1611510829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878257324106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>92219</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878258962506</id>
+    <published>2021-01-14T23:21:52-05:00</published>
+    <updated>2021-01-14T23:21:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-6-square-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 6&quot; Square Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-6-square-bagasse-sugarcane-biodegradable-plate-500case-222858.jpg?v=1611513882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Square Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse square plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse square plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Square Compostable Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878258962506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>92210</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878259683402</id>
+    <published>2021-01-14T23:21:51-05:00</published>
+    <updated>2021-01-14T23:21:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-8-square-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 8&quot; Square Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-8-square-bagasse-sugarcane-biodegradable-plate-500case-885676.jpg?v=1611511006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Square Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse square plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse square plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Square Compostable Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878259683402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>92213</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878259912778</id>
+    <published>2021-01-14T23:21:50-05:00</published>
+    <updated>2021-01-14T23:21:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-7-round-bagasse-sugarcane-biodegradable-plate-1000-case"/>
+    <title>MC - 7&quot; Round Bagasse Sugarcane Biodegradable Plate - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-7-round-bagasse-sugarcane-biodegradable-plate-1000case-954472.jpg?v=1611510773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878259912778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>92211</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878260568138</id>
+    <published>2021-01-14T23:21:49-05:00</published>
+    <updated>2021-01-14T23:21:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-9-round-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 9&quot; Round Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-9-round-bagasse-sugarcane-biodegradable-plate-500case-374289.jpg?v=1611511958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878260568138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>92216</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878260437066</id>
+    <published>2021-01-14T23:21:49-05:00</published>
+    <updated>2021-01-14T23:21:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-8-75-round-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 8.75&quot; Round Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-875-round-bagasse-sugarcane-biodegradable-plate-500case-229728.jpg?v=1611511367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878260437066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>92214</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878261026890</id>
+    <published>2021-01-14T23:21:48-05:00</published>
+    <updated>2021-01-14T23:21:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-9-round-bagasse-biodegradable-plates-3-compartment-500-case"/>
+    <title>MC - 9&quot; Round Bagasse Biodegradable Plates 3 Compartment- 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-9-round-bagasse-biodegradable-plates-3-compartment-500case-647549.jpg?v=1611511542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878261026890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>92215</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878261321802</id>
+    <published>2021-01-14T23:21:47-05:00</published>
+    <updated>2021-01-14T23:21:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-10-square-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 10&quot; Square Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-10-square-bagasse-sugarcane-biodegradable-plate-500case-438492.jpg?v=1611510829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10" x 10" Biodegradable Compostable Bagasse Square Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse square plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse square plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Square Compostable Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878261321802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku>92214</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878262009930</id>
+    <published>2021-01-14T23:21:46-05:00</published>
+    <updated>2021-01-14T23:21:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-10-round-bagasse-sugarcane-biodegradable-plate-500-case"/>
+    <title>MC - 10&quot; Round Bagasse Sugarcane Biodegradable Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-10-round-bagasse-sugarcane-biodegradable-plate-500case-982474.jpg?v=1611511058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878262009930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>92212</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878262730826</id>
+    <published>2021-01-14T23:21:45-05:00</published>
+    <updated>2021-01-14T23:21:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-10-round-sugarcane-biodegradable-plates-3-compartment-500-case"/>
+    <title>MC - 10&quot; Round Sugarcane Biodegradable Plates 3 Compartment - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-10-round-sugarcane-biodegradable-plates-3-compartment-500case-283396.jpg?v=1611511478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Round Plates </p>
+<h2 class="headline">Serve entrees and shared platters on this sugarcane / bagasse round plate.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse round plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Wide Rim</h3>
+<p>Thanks to a wide rim, you can serve saucy foods on this plate without worrying about spills and messes.</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878262730826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>92213</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878264533066</id>
+    <published>2021-01-14T23:21:44-05:00</published>
+    <updated>2021-01-14T23:21:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-10-x-8-sugarcane-biodegradable-compostable-oval-plate-500-case"/>
+    <title>MC - 10&quot; x 8&quot; Sugarcane Biodegradable Compostable Oval Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-10-x-8-sugarcane-biodegradable-compostable-oval-plate-500case-449998.jpg?v=1611511061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Oval Plate</p>
+<h2 class="headline">Serve lunch specials, spaghetti dinners, and more with this sugarcane / bagasse oval platter.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse oval plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Raised Edges</h3>
+<p>Raised edges help keep your food contained on the plate, so even if your sauces run, you won't have a mess to clean up!</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Oval Bagasse Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878264533066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>92215</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878265155658</id>
+    <published>2021-01-14T23:21:43-05:00</published>
+    <updated>2021-01-14T23:21:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-12-5-x-10-sugarcane-biodegradable-compostable-oval-plate-500-case"/>
+    <title>MC - 12.5&quot; x 10&quot; Sugarcane Biodegradable Compostable Oval Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-125-x-10-sugarcane-biodegradable-compostable-oval-plate-500case-657838.jpg?v=1611513822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Biodegradable Compostable Bagasse Oval Plates </p>
+<h2 class="headline">Serve lunch specials, spaghetti dinners, and more with this sugarcane / bagasse oval platter.</h2>
+<p><span>If you're looking for the convenience of disposable products without the environmental impact of plastic or foam, look no further than the compostable sugarcane / bagasse oval plate. Perfect for both hot and cold foods, this plate is an ideal solution for quick-serve restaurants, caterers, and cafes.</span></p>
+<h3 class="item-header">Eco-Friendly Construction</h3>
+<p>Made from bagasse, a by-product of sugarcane processing, this product is compostable, which allows you to decrease your carbon footprint. While other disposable products are burned when thrown away causing air pollution, this can be renewed and recycled. In addition, this dinnerware is made with superior strength and won't break or crack under moderate pressure. It can even handle the messiest of menu items thanks to its oil proof design.</p>
+<h3 class="item-header">Raised Edges</h3>
+<p>Raised edges help keep your food contained on the plate, so even if your sauces run, you won't have a mess to clean up!</p>
+<h3 class="item-header">Bright White Appearance</h3>
+<p>With a bright white color, this plate will fit almost any restaurant decor and theme while creating a clean and fresh canvas for any type of food.</p>
+<h3 class="item-header">Superior Alternative</h3>
+<p>This sugarcane / bagasse item takes up less storage space than other disposable alternatives, and it can hold heavier foods than either paper or Styrofoam. Plus, since it requires much less energy to produce, it saves on both energy and resources.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Oval Bagasse Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878265155658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>92218</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878274592842</id>
+    <published>2021-01-14T23:21:42-05:00</published>
+    <updated>2021-01-14T23:21:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ecopax-pp091-9-round-microwavable-pebble-plate-ivory-400-case"/>
+    <title>Ecopax - PP091 - 9&quot; Round Microwavable Pebble Plate Ivory - 400/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ecopax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ecopax-pp091-9-round-microwavable-pebble-plate-ivory-400case-226034.png?v=1611509677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ecopax<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Microwave Safe, Grease Resistant, Recyclable Poly propylene PP, Ideal for Hot Food.</strong></p>
+<div class="field field-name-field-item-number field-type-text field-label-inline clearfix">
+<div class="field-label">Item #: </div>
+<div class="field-items">
+<div class="field-item even">PP091</div>
+</div>
+</div>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<div class="field-items">
+<div class="field-item even" property="content:encoded">1-Comp, Pebble Box Plates</div>
+</div>
+</div>
+<div class="field field-name-field-size field-type-text field-label-inline clearfix">
+<div class="field-label">Size: </div>
+<div class="field-items">
+<div class="field-item even">9 inch</div>
+</div>
+</div>
+<div class="field field-name-field-color field-type-taxonomy-term-reference field-label-inline clearfix">
+<div class="field-label">Color: Ivory</div>
+<div class="field-label"></div>
+<div class="field-label"><span>The Pebble Box™ take-out containers and plates are made with earth mineral, which reduces the amount of plastic material needed by 40%. This significant reduction in plastic results in smaller environment footprint. Pebble Box and Plates are durable, grease-resistant, microwaveable and best of all – recyclable! </span></div>
+<div class="field-items">
+<div class="field-item even"><a href="https://www.ecopaxinc.com/color/ivory" datatype="" property="rdfs:label skos:prefLabel" typeof="skos:Concept"></a></div>
+</div>
+</div>
+<div class="field field-name-field-product-category field-type-taxonomy-term-reference field-label-inline clearfix">
+<div class="field-items"></div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case#product","name":"Yeseco -  9&quot; x 6&quot; x 3&quot;  New-Wave Bagasse Hinged Container - 200 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054544097350","sku":"LBM3713","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case-bulk-mart_698.jpg","description":"Yeseco - 9&amp;quot; x 6&amp;quot; x 3&amp;quot; New-Wave Bagasse Hinged Container - 200 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"YesEco"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"LBM3713","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case?variant=20686511079494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Pebble Dinnerware</s:tag>
+    <s:tag>Pebble Plates</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878274592842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>92204</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878277771338</id>
+    <published>2021-01-14T23:21:41-05:00</published>
+    <updated>2021-01-14T23:21:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ecopax-pp091-bk-9-round-microwavable-pebble-plate-black-400-case"/>
+    <title>Ecopax - PP091-BK - 9&quot; Round Microwavable Pebble Plate Black - 400/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ecopax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ecopax-pp091-bk-9-round-microwavable-pebble-plate-black-400case-541014.png?v=1611513881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ecopax<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Microwave Safe, Grease Resistant, Recyclable Poly propylene PP, Ideal for Hot Food.</p>
+<p><span>The Pebble Box™ take-out containers and plates are made with earth mineral, which reduces the amount of plastic material needed by 40%. This significant reduction in plastic results in smaller environment footprint. Pebble Box and Plates are durable, grease-resistant, microwaveable and best of all – recyclable! </span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case#product","name":"Yeseco -  9&quot; x 6&quot; x 3&quot;  New-Wave Bagasse Hinged Container - 200 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054544097350","sku":"LBM3713","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case-bulk-mart_698.jpg","description":"Yeseco - 9&amp;quot; x 6&amp;quot; x 3&amp;quot; New-Wave Bagasse Hinged Container - 200 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"YesEco"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"LBM3713","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case?variant=20686511079494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Pebble Dinnerware</s:tag>
+    <s:tag>Pebble Plates</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878277771338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>92205</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878278787146</id>
+    <published>2021-01-14T23:21:40-05:00</published>
+    <updated>2021-01-14T23:21:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ecopax-pp093-bk-9-round-microwavable-pebble-plate-black-3-compartment-400-case"/>
+    <title>Ecopax - PP093-BK - 9&quot; Round Microwavable Pebble Plate Black 3 Compartment - 400/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Ecopax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ecopax-pp093-bk-9-round-microwavable-pebble-plate-black-3-compartment-400case-443722.png?v=1611512377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ecopax<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Microwave Safe, Grease Resistant, Recyclable Poly propylene PP, Ideal for Hot Food.</p>
+<p><span>The Pebble Box™ take-out containers and plates are made with earth mineral, which reduces the amount of plastic material needed by 40%. This significant reduction in plastic results in smaller environment footprint. Pebble Box and Plates are durable, grease-resistant, microwaveable and best of all – recyclable! </span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case#product","name":"Yeseco -  9&quot; x 6&quot; x 3&quot;  New-Wave Bagasse Hinged Container - 200 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054544097350","sku":"LBM3713","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case-bulk-mart_698.jpg","description":"Yeseco - 9&amp;quot; x 6&amp;quot; x 3&amp;quot; New-Wave Bagasse Hinged Container - 200 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"YesEco"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"LBM3713","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/yeseco-9-x-6-3-new-wave-bagasse-hinged-container-200-case?variant=20686511079494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Plates &amp; Bowls</s:tag>
+    <s:tag>Pebble Dinnerware</s:tag>
+    <s:tag>Pebble Plates</s:tag>
+    <s:tag>Round Eco Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878278787146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>92207</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

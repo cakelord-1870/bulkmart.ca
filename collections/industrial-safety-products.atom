@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/industrial-safety-products.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-04-19T15:12:12-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6568964489290</id>
+    <published>2021-04-19T15:12:12-04:00</published>
+    <updated>2021-04-19T15:12:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-100-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 100 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-100-ml-901097.jpg?v=1618924322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 100 ml bottle. It’s 70% alcohol gel formula is strong enough to kill germs and bacteria. It’s aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>100 ml  bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6568964489290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>116602</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907988910154</id>
+    <published>2021-02-20T19:33:18-05:00</published>
+    <updated>2021-02-20T19:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-extra-strength-sanitizer-spray-80-alcohol-500-ml"/>
+    <title>Zytec - Germ Buster Extra Strength Sanitizer Spray 80% Alcohol - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-extra-strength-sanitizer-spray-80-alcohol-500-ml-975538.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h3 class="title">Product Description</h3>
+<p>This extra strength sanitizer by Zytec comes in a convenient 500 ml aerosol spray bottle. Its extra strength formula is strong enough to kill germs and bacteria on surfaces, and safe to use on hands. With 80% alcohol content, and fast action drying, this formula will help protect you and your family.</p>
+<h4>Features</h4>
+<ul>
+<li>500 ml bottle</li>
+<li>Contains 80% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Safe to spray on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907988910154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>225411</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907987927114</id>
+    <published>2021-02-20T19:33:18-05:00</published>
+    <updated>2021-02-20T19:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-all-purpose-disinfectant-spray-refill-lemon-scent-3-78-l"/>
+    <title>Zytec - All Purpose Disinfectant Spray Refill Lemon Scent - 3.78 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-all-purpose-disinfectant-spray-refill-lemon-scent-378-l-293332.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h3 class="title">Product Description</h3>
+<h3 class="h5 product-details__title">Product Details</h3>
+<div class="product-details__content">
+<p>Zytec Germ Buster All-Purpose Disinfectant Pump Spray Refill kills harmful bacteria and may be used at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings.</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2">Disinfectant Pump Spray Refill which may be applied on hard, nonporous, environment and inanimate object surfaces</li>
+<li class="product-details__list-item mb-2">Main Ingredient: 4.5 % Citric Acid</li>
+<li class="product-details__list-item mb-2">Inactive Ingredients: Aqua, Laureth-7, Parfum, Sodium Citrate</li>
+<li class="product-details__list-item mb-2">3.78 L / 1 Gallon</li>
+<li class="product-details__list-item mb-2">Refill Jug</li>
+<li class="product-details__list-item mb-2"><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907987927114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>225410</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907987107914</id>
+    <published>2021-02-20T19:33:17-05:00</published>
+    <updated>2021-02-20T19:33:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-540-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 540 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-540-ml-631658.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 540ml bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>540ml bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+<ul></ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907987107914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>225413</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907986714698</id>
+    <published>2021-02-20T19:33:17-05:00</published>
+    <updated>2021-02-20T19:33:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-60-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 60 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-60-ml-589715.jpg?v=1613878541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 60 ml bottle. It’s 70% alcohol gel formula is strong enough to kill germs and bacteria. It’s aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>60 ml  bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907986714698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>225414</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907986288714</id>
+    <published>2021-02-20T19:33:16-05:00</published>
+    <updated>2021-02-20T19:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-1-l"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 1 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-1-l-123646.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 1 Litre bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>1 Litre bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+<ul></ul>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+<br>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907986288714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>225412</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4898626797642</id>
+    <published>2021-02-09T22:55:59-05:00</published>
+    <updated>2021-02-09T22:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-3-78l"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 3.78L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-378l-647336.jpg?v=1613034464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 3.78 Litre bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>With Pump</li>
+<li>3.78 Litre bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4898626797642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>231709</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866523660362</id>
+    <published>2020-12-28T21:26:43-05:00</published>
+    <updated>2020-12-28T21:26:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-silk-fibroin-microporous-coverall-50-gsm-each"/>
+    <title>MC - Microporous Coverall 50 gsm Silk Fibroin - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-microporous-coverall-50-gsm-silk-fibroin-each-938383.jpg?v=1611513884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MC - Silk Fibroin Microporous Coverall 50 gsm - Each</strong></p>
+<p>The disposable coveralls are made with 50 gsm Microporous material to protect from external contaminants.</p>
+<p>As part of your personal protective equipment (PPE) is designed to cover the whole body and your clothing to protect against dirt and dust, paint, external particles, outside contaminants or hazardous materials such as asbestos, lead paint and many other materials.</p>
+<p>Fabricated to combine protection, long lasting protection against wear and tear, and breathability</p>
+<p>Our coveralls are one piece and loose fitting for ease of movement, with sleeves, full leggings and a hood to cover the head.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/generic-disposable-aprons-46-x-28-100-pack#product","name":"Generic -  Disposable Aprons 46&quot; x 28&quot; - 100 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037485895750","sku":"HBM2948","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/generic-disposable-aprons-46-x-28-100-pack-bulk-mart_177.gif","description":"Generic - Disposable Aprons 46&amp;quot; x 28&amp;quot; - 100 / Pack.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"HBM2948","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/generic-disposable-aprons-46-x-28-100-pack?variant=20604593897542","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Isolation Gowns</s:tag>
+    <s:tag>PPE</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866523660362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>52729</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866497413194</id>
+    <published>2020-12-28T18:10:46-05:00</published>
+    <updated>2020-12-28T18:10:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bodico-4-pair-soft-foam-ear-plugs-with-one-storage-box-1-set"/>
+    <title>Bodico - 4 Pair Soft Foam Ear Plugs With One Storage Box - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Bodico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bodico-4-pair-soft-foam-ear-plugs-with-one-storage-box-1-set-509702.jpg?v=1611509670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bodico<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bodico - 4 Pair Soft Foam Ear Plugs With One Storage Box - 1 Set</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Noise reduction rating 33 decibles</span></li>
+<li><span class="a-list-item">Super soft foam</span></li>
+<li><span class="a-list-item">Travel case included</span></li>
+<li><span class="a-list-item"><span>Recommended for noise reduction</span></span></li>
+<li><span class="a-list-item"><span>For working, travelling, studying, sports and sleeping</span></span></li>
+<li><span class="a-list-item"><span>Contoured bell-shaped design enhances comfort</span></span></li>
+<li><span class="a-list-item"><span>Easy to use and will remain in place during wear</span></span></li>
+<li><span class="a-list-item"><span>Carrying case included for travel convenience and storage</span></span></li>
+<li><span class="a-list-item"><span>Disposable – recommended for single use only.</span></span></li>
+<li><span class="a-list-item"><span>One size fits all</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Safety Products</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866497413194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>29201</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866481717322</id>
+    <published>2020-12-28T15:34:20-05:00</published>
+    <updated>2020-12-28T15:34:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-wet-paint-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; Wet Paint Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<p class="hdca-p-vertical--x-small hdca-text-body--small" data-mce-fragment="1">A large range of sign titles to choose from to meet your specific need.</p>
+<section class="hdca-list hdca-list--is-bulleted hdca-list--small-text" id="productFeature" data-mce-fragment="1">
+<ol class="hdca-list__list" data-mce-fragment="1">
+<li class="hdca-list__list-item" data-mce-fragment="1">Fluorescent Ink</li>
+</ol>
+<ol class="hdca-list__list" data-mce-fragment="1">
+<li class="hdca-list__list-item" data-mce-fragment="1">Highly visible</li>
+</ol>
+<ol class="hdca-list__list" data-mce-fragment="1">
+<li class="hdca-list__list-item" data-mce-fragment="1">Suitable for indoor and outdoor.</li>
+</ol>
+</section>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866481717322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321017</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866481684554</id>
+    <published>2020-12-28T15:34:19-05:00</published>
+    <updated>2020-12-28T15:34:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-keep-off-the-grass-sign-each"/>
+    <title>Hillman - 8&quot; x 12&quot; Keep Off The Grass Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-keep-off-the-grass-sign-each-105633.png?v=1611514247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<strong>Hillman - 8" x 12 " Keep Off The Grass Sign - Each</strong><br>
+</div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p data-mce-fragment="1" class="hdca-p-vertical--x-small hdca-text-body--small">A large range of sign titles to choose from to meet your specific need.</p>
+<section data-mce-fragment="1" id="productFeature" class="hdca-list hdca-list--is-bulleted hdca-list--small-text">
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Fluorescent Ink</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Highly visible</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Suitable for indoor and outdoor.</li>
+</ol>
+</section>
+</div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866481684554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321019</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866481258570</id>
+    <published>2020-12-28T15:34:18-05:00</published>
+    <updated>2020-12-28T15:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-apartment-for-rent-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; Apartment For Rent Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-apartment-for-rent-sign-each-910883.png?v=1611511656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<strong>Hillman - 8in x 12in Apartment For Rent Sign - Each</strong><br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<li>Made of plastic</li>
+<li>Durable and weather-resistant</li>
+<li>Won't fade in high temperatures</li>
+<li id="js-variant-bullet2" class="variant-bullet">Item sold individually at retail</li>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866481258570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321010</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866481225802</id>
+    <published>2020-12-28T15:34:18-05:00</published>
+    <updated>2020-12-28T15:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-business-hours-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; Business Hours Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-business-hours-sign-each-116107.jpg?v=1611512375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="hdca-p-vertical--x-small hdca-text-body--small" data-mce-fragment="1">A large range of sign titles to choose from to meet your specific need.</p>
+<section id="productFeature" class="hdca-list hdca-list--is-bulleted hdca-list--small-text" data-mce-fragment="1">
+<ul>
+<li class="hdca-list__list-item" data-mce-fragment="1">Fluorescent Ink</li>
+<li class="hdca-list__list-item" data-mce-fragment="1">Highly visible</li>
+<li class="hdca-list__list-item" data-mce-fragment="1">Suitable for indoor and outdoor.</li>
+</ul>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866481225802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321011</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866480767050</id>
+    <published>2020-12-28T15:34:17-05:00</published>
+    <updated>2020-12-28T15:34:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-yes-were-open-sorry-were-closed-sign-2-sided-each"/>
+    <title>Hillman - Yes We&apos;re Open / Sorry We&apos;re Closed Sign 2 Sided - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-yes-were-open-sorry-were-closed-sign-2-sided-each-201670.png?v=1611512735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<p class="hdca-p-vertical--x-small hdca-text-body--small" data-mce-fragment="1"><span>This Yes We're Open / Sorry We're Closed Sign communicates hours of availability to the public, which is a crucial step in running a successful business. This sign is sure to convey the message clearly and efficiently.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Yes We're Open Sorry We're Closed 2 Sided Reversible Sign notifies your clients if you are open or closed for business. The easily reversible sign allows instant update of the open or closed status of your retail outlet. The high contrast lettering ensures high visibility from a distance. Hillman Yes We're Open Sorry We're Closed 2 Sided Reversible Sign has Yes We're Open Sorry We're Closed text in bold red and white against a reflective black background.</span></li>
+<li><span class="a-list-item">Sign made of ultra-violet fluorescent ink with large size font for maximum visibility from a distance. Measures 15 x 19 inches.</span></li>
+<li><span class="a-list-item">Made using sturdy medium duty Styrene plastic. Styrene is a type of high strength plastic. It is extremely durable, flexible and tear resistant. Withstands most environments and resists fading.</span></li>
+</ul>
+<p> <br></p>
+<section class="hdca-list hdca-list--is-bulleted hdca-list--small-text" id="productFeature" data-mce-fragment="1">
+<ol class="hdca-list__list" data-mce-fragment="1"></ol>
+</section>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866480767050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321016</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866480406602</id>
+    <published>2020-12-28T15:34:16-05:00</published>
+    <updated>2020-12-28T15:34:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-garage-sale-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; Garage Sale Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-garage-sale-sign-each-129404.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<strong>Hillman - 8" x 12 " Garage Sale Sign - Each</strong><br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<p data-mce-fragment="1" class="hdca-p-vertical--x-small hdca-text-body--small">A large range of sign titles to choose from to meet your specific need.</p>
+<section data-mce-fragment="1" id="productFeature" class="hdca-list hdca-list--is-bulleted hdca-list--small-text">
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Fluorescent Ink</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Highly visible</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Suitable for indoor and outdoor.</li>
+</ol>
+</section>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866480406602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321014</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866480373834</id>
+    <published>2020-12-28T15:34:15-05:00</published>
+    <updated>2020-12-28T15:34:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-no-smoking-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; No Smoking Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-no-smoking-sign-each-659353.png?v=1611513155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+<strong>Hillman - 8" x 12 "  No Smoking Sign - Each</strong><br>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<li>Made of plastic</li>
+<li>Durable and weather-resistant</li>
+<li>Won't fade in high temperatures</li>
+<li id="js-variant-bullet2" class="variant-bullet">Item sold individually at retail</li>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866480373834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866480013386</id>
+    <published>2020-12-28T15:34:14-05:00</published>
+    <updated>2020-12-28T15:34:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-for-sale-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; For Sale Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-for-sale-sign-each-627066.jpg?v=1611513998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<strong>Hillman - 8" x 12 " For Sale Sign - Each</strong><br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<p data-mce-fragment="1" class="hdca-p-vertical--x-small hdca-text-body--small">A large range of sign titles to choose from to meet your specific need.</p>
+<section data-mce-fragment="1" id="productFeature" class="hdca-list hdca-list--is-bulleted hdca-list--small-text">
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Fluorescent Ink</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Highly visible</li>
+</ol>
+<ol data-mce-fragment="1" class="hdca-list__list">
+<li data-mce-fragment="1" class="hdca-list__list-item">Suitable for indoor and outdoor.</li>
+</ol>
+</section>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866480013386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866479980618</id>
+    <published>2020-12-28T15:34:13-05:00</published>
+    <updated>2020-12-28T15:34:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-help-wanted-sign-each"/>
+    <title>Hillman - 8&quot; x 12&quot; Help Wanted Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-help-wanted-sign-each-203846.png?v=1611512977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Hillman - 8 x 12 Help Wanted Sign - Each<br>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<p class="hdca-p-vertical--x-small hdca-text-body--small">A large range of sign titles to choose from to meet your specific need.</p>
+<section class="hdca-list hdca-list--is-bulleted hdca-list--small-text" id="productFeature">
+<ol class="hdca-list__list">
+<li class="hdca-list__list-item">Fluorescent Ink</li>
+</ol>
+<ol class="hdca-list__list">
+<li class="hdca-list__list-item">Highly visible</li>
+</ol>
+<ol class="hdca-list__list">
+<li class="hdca-list__list-item">Suitable for indoor and outdoor.</li>
+</ol>
+</section>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866479980618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862627217482</id>
+    <published>2020-12-28T15:34:12-05:00</published>
+    <updated>2020-12-28T15:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hillman-8-x-12-exit-sign-each"/>
+    <title>Hillman - 8&quot; x 12 &quot; Exit Sign - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Hillman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hillman-8-x-12-exit-sign-each-146866.png?v=1611511592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hillman<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<strong>Hillman - 8" x 12 "  Exit Sign - Each</strong><br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<p>Exit Sign (8" x 12")</p>
+<li>Made of heavy gauge plastic</li>
+<li>Durable and weather-resistant</li>
+<li>Won't fade in high temperatures</li>
+<li>Check local building code requirements for signs to ensure compliance</li>
+<li class="variant-bullet" id="js-variant-bullet2">Item sold individually at retail</li>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Information Signs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862627217482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>321012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4858862305354</id>
+    <published>2020-12-18T00:48:08-05:00</published>
+    <updated>2020-12-18T00:48:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lysol-disinfectant-spray-all-in-one-crisp-linen-scent-539-g"/>
+    <title>Lysol - Disinfectant Spray All In One Crisp Linen Scent - 539 g</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lysol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lysol-disinfectant-spray-all-in-one-crisp-linen-scent-539-g-854203.jpg?v=1611511474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lysol<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Lysol - Disinfectant Spray All In One Crisp Linen Scent - 539 g</div>
+<ul class="list">
+<li class="list__item"><span>LYSOL Disinfectant Spray kills 99.9% of viruses and bacteria* on commonly touched, hard, non-porous surfaces in your home. Help protect your family from germs they could come in contact with every day.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Cleaners</s:tag>
+    <s:tag>Multi-Surface Disinfectants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4858862305354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>001678</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4859461861450</id>
+    <published>2020-12-17T23:21:01-05:00</published>
+    <updated>2020-12-17T23:21:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/qt-san-biosan-surface-sanitizer-4-l"/>
+    <title>QT-San - BioSan Surface Sanitizer - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>QT-San</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/qt-san-biosan-surface-sanitizer-4-l-424494.png?v=1611512616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>QT-San<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 data-mce-fragment="1"><a data-mce-fragment="1" href="https://health-products.canada.ca/dpd-bdpp/index-eng.jsp" target="_blank" data-mce-href="https://health-products.canada.ca/dpd-bdpp/index-eng.jsp">DIN 02245599</a></h4>
+<p data-mce-fragment="1" class=""><strong data-mce-fragment="1">Surface cleaner that is proven to kill bacteria.</strong></p>
+<p data-mce-fragment="1" class="">✔ Designed specifically as an environmentally safe, all purpose, non-acid cleaner, disinfectant and deodorizer.</p>
+<p data-mce-fragment="1" class="">✔ BioSan liquid is a broad-spectrum virucidal hard surface disinfectant that is expected to inactivate SARS-CoV-2 (the virus that causes COVID-19)</p>
+<p data-mce-fragment="1" class="">✔<a data-mce-fragment="1" href="https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html" target="_blank" data-mce-href="https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html">Health Canada’s list</a> of disinfectants with evidence for use against COVID-19 approved</p>
+<p data-mce-fragment="1" class="">✔ BioSan is effective against the following pathogens:</p>
+QT-San - Surface Sanitizer - 4 L</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners</s:tag>
+    <s:tag>Floor Cleaners</s:tag>
+    <s:tag>Multi-Surface Disinfectants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4859461861450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>001689</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4858861486154</id>
+    <published>2020-12-17T23:20:49-05:00</published>
+    <updated>2020-12-17T23:20:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cp-sure-5-rtu-disinfectant-spray-covid-19-killer-946-ml"/>
+    <title>CP - Sure 5 RTU Disinfectant Spray Covid-19 Killer - 946 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>CP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cp-sure-5-rtu-disinfectant-spray-covid-19-killer-946-ml-167162.jpg?v=1611510126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CP<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sure 5 RTU D is a ready to use, one step disinfectant cleaner.  It is effective against a broad spectrum of bacteria, is virucidal, fungicidal and will prevent the growth of mold and mildew and their odours when used as directed on non-food contact surfaces. Sure 5 RTU D will deodorize surfaces in toilet areas, behind and under sinks and counters, garbage cans and garbage storage areas and other areas where bacterial growth can cause malodours. This product is the ready to use version of Sure 5 concentrate, both of which are listed by Health Canada as disinfectants to combat COVID-19.</p>
+<p>DIN 02499789</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners</s:tag>
+    <s:tag>Disinfectant Cleaners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4858861486154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>001657</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4858860306506</id>
+    <published>2020-12-17T23:20:49-05:00</published>
+    <updated>2020-12-17T23:20:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprakita-lemon-quat-germicidal-deodorizer-disinfectant-cleaner-4-l"/>
+    <title>Sprakita - Lemon Quat Germicidal Deodorizer &amp; Disinfectant Cleaner - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Sprakita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprakita-lemon-quat-germicidal-deodorizer-disinfectant-cleaner-4-l-877073.png?v=1611513095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprakita<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<p data-mce-fragment="1">Contains germicidal ingredients proven highly effective against both gram positive and gram negative bacteria.</p>
+<p data-mce-fragment="1">Deodorizes by eliminating the cause of the odour. A balanced blend of effective quarternary germicides &amp; non-ionic</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">detergents with a pleasant citrus fragrance, low foaming, non-staining, and non-toxic in use dilutions.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Bacteriologically stable for long periods of time. Can be used anywhere water can be used.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Directions: </strong>For general cleaning and disinfecting use 1 part to 40 parts of water.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">For heavy disinfecting use 1 part to 20 parts of water.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">                                   AVOID CONTAMINATION OF FOODSTUFFS.  </span></p>
+Sprakita - Lemon Quat Germicidal Deodorizer &amp; Disinfectant Cleaner - 4 x 4 L</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners</s:tag>
+    <s:tag>Multi-Surface Disinfectants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4858860306506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>001693</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4858854146122</id>
+    <published>2020-12-17T23:20:42-05:00</published>
+    <updated>2020-12-17T23:20:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lysol-multi-surface-cleaner-lemon-scent-4-26-l"/>
+    <title>Lysol - Multi Surface Cleaner Lemon Scent - 4.26 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lysol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lysol-multi-surface-cleaner-lemon-scent-426-l-319085.jpg?v=1611511119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lysol<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2 data-mce-fragment="1">DETAILS</h2>
+<div id="ccs-mkt-desc" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Use on non-porous surfaces throughout the house and office from kitchens to bathrooms</li>
+<li data-mce-fragment="1">Kills 99.9% of viruses and bacteria, even when diluted</li>
+<li data-mce-fragment="1">Pourable design can be used directly on stains for spot cleaning or diluted in water for use on large surfaces like floors</li>
+<li data-mce-fragment="1">Cuts grease and grime while deodorizing and disinfecting</li>
+<li data-mce-fragment="1">Use on appliance exteriors, washable walls, countertops, toilet bowl exteriors, bathtubs, showers and doorknobs</li>
+</ul>
+</div>
+Lysol - Multi Surface Cleaner Lemon Scent - 4.26 L</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners</s:tag>
+    <s:tag>Multi-Surface Disinfectants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4858854146122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>001680</s:sku>
+      <s:grams>4300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4858853621834</id>
+    <published>2020-12-17T23:20:41-05:00</published>
+    <updated>2020-12-17T23:20:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lysol-multi-surface-cleaner-lemon-scent-4-x-4-26-l"/>
+    <title>Lysol - Multi Surface Cleaner Lemon Scent - 4 x 4.26 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lysol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lysol-multi-surface-cleaner-lemon-scent-4-x-426-l-762672.jpg?v=1611512256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lysol<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<div>
+<h2>DETAILS</h2>
+<div id="ccs-mkt-desc">
+<ul>
+<li>Use on non-porous surfaces throughout the house and office from kitchens to bathrooms</li>
+<li>Kills 99.9% of viruses and bacteria, even when diluted</li>
+<li>Pourable design can be used directly on stains for spot cleaning or diluted in water for use on large surfaces like floors</li>
+<li>Cuts grease and grime while deodorizing and disinfecting</li>
+<li>Use on appliance exteriors, washable walls, countertops, toilet bowl exteriors, bathtubs, showers and doorknobs</li>
+</ul>
+<div>Lysol - Multi Surface Cleaner Lemon Scent - 4 x 4.26 L</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Cleaners</s:tag>
+    <s:tag>Multi-Surface Disinfectants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4858853621834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>001679</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/sugar-portions-creamers.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-19T22:12:59-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4812666044490</id>
+    <published>2020-12-19T22:12:59-05:00</published>
+    <updated>2020-12-19T22:12:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sugar-tubes-white-sugar-3-5-kg"/>
+    <title>Sugar Tubes - White Sugar - 3.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>RedPath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sugar-tubes-white-sugar-35-kg-574795.png?v=1611513157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RedPath<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sugar Tubes - White Sugar - 3.5 Kg / 7.7 Lbs</p>
+<p><span><strong>Sugar adds texture and flavor</strong> with this portion control sugar packets to virtually any cooked entree, dipping sauce, or glaze. Not only is it a necessity for your kitchen, but this sugar is a widely used, age-old favorite that's guaranteed to make your dining experience sweeter for guests of all ages.</span></p>
+<h3 class="item-header">Extra Fine</h3>
+<p>Also known as table sugar or white sugar, these extra fine sugar crystals are ideal for all purposes, from table use to cooking, and from preserving homemade jams to sweetening beverages. Its extra fine consistency is perfect for sprinkling atop the rim of margaritas and bar cocktails.</p>
+<h3 class="item-header">Versatility</h3>
+<p>Whether baking delightful fruit pies or blending creamy milkshakes, sugary treats add profitable items to your menu that are hard to resist! Offer sugar on your tabletop, allowing guests to apply just the right amount to their hot drinks as it quickly dissolves to sweeten coffee or tea.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-sugar-portions-1000-case#product","name":"Wing&#039;s - Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4176293920838","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-sugar-portions-1000-case-bulk-mart_238.jpg","description":"Wing&#039;s - Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-sugar-portions-1000-case?variant=30332403286086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fine Sugar</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812666044490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>55124</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4176293920838</id>
+    <published>2020-10-22T15:50:35-04:00</published>
+    <updated>2020-10-22T15:50:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-wings-turbinado-sugar-portions-1000-case"/>
+    <title>PC Wing&apos;s - Turbinado Sugar Portions - 1000 / Case</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-wings-turbinado-sugar-portions-1000-case-247540.jpg?v=1611513999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC Wing's - Turbinado Sugar Packets 3.5 g - 1000 / Case</strong></p>
+<p><span><strong>Sugar adds texture and flavor</strong> with this portion control sugar packets to virtually any cooked entree, dipping sauce, or glaze. Not only is it a necessity for your kitchen, but this sugar is a widely used, age-old favorite that's guaranteed to make your dining experience sweeter for guests of all ages.</span></p>
+<h3 class="item-header">Extra Fine</h3>
+<p>Also known as table sugar or white sugar, these extra fine sugar crystals are ideal for all purposes, from table use to cooking, and from preserving homemade jams to sweetening beverages. Its extra fine consistency is perfect for sprinkling atop the rim of margaritas and bar cocktails.</p>
+<h3 class="item-header">Versatility</h3>
+<p>Whether baking delightful fruit pies or blending creamy milkshakes, sugary treats add profitable items to your menu that are hard to resist! Offer sugar on your tabletop, allowing guests to apply just the right amount to their hot drinks as it quickly dissolves to sweeten coffee or tea.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-sugar-portions-1000-case#product","name":"Wing&#039;s - Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4176293920838","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-sugar-portions-1000-case-bulk-mart_238.jpg","description":"Wing&#039;s - Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-sugar-portions-1000-case?variant=30332403286086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4176293920838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>039445</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808474853450</id>
+    <published>2020-10-20T00:04:31-04:00</published>
+    <updated>2020-10-20T00:04:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/splenda-no-calorie-sweetener-packet-2000-case"/>
+    <title>Splenda - No Calorie Sweetener Packet - 2000 / Case</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Splenda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/splenda-no-calorie-sweetener-packet-2000-case-487695.jpg?v=1611513701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splenda<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Splenda - No Calorie Sweetener Packets - 2000 / Case</p>
+<h2 class="headline">Sweeten your hot beverages, drink mixes, cereal, and fresh fruit with this Splenda no calorie sweetener packet!</h2>
+<p><span>With these convenient packets, there's no need to worry about filling and refilling your sugar pourers with fresh sugar throughout the day. Simply leave them at coffee stations or on tables and your guests can use them as needed. Additionally, since Splenda sugar substitute holds up to heat, it is perfect for sweetening hot coffee and tea, as well as cooking and baking recipes.</span></p>
+<h3 class="item-header">Calorie-Free Alternative</h3>
+<p>Each Splenda packet provides a no calorie alternative to sugar, without losing the taste. Also known as sucralose, Splenda is made through a patented process that converts standard sugar to a no-calorie, non-carbohydrate sweetener. Use it any time you want to take small steps towards eating and living healthier.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram Splenda packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808474853450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>025687</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808474165322</id>
+    <published>2020-10-20T00:04:30-04:00</published>
+    <updated>2020-10-20T00:04:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/splenda-no-calorie-sweetener-packet-100-g-100-pack"/>
+    <title>Splenda - No Calorie Sweetener Packet 100 g - 100/Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Splenda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/splenda-no-calorie-sweetener-packet-100-g-100pack-927802.jpg?v=1611513215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Splenda<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Splenda - No Calorie Sweetener Packets 100 g - 100/Pack</p>
+<h2 class="headline">Sweeten your hot beverages, drink mixes, cereal, and fresh fruit with this Splenda no calorie sweetener packet!</h2>
+<p><span>With these convenient packets, there's no need to worry about filling and refilling your sugar pourers with fresh sugar throughout the day. Simply leave them at coffee stations or on tables and your guests can use them as needed. Additionally, since Splenda sugar substitute holds up to heat, it is perfect for sweetening hot coffee and tea, as well as cooking and baking recipes.</span></p>
+<h3 class="item-header">Calorie-Free Alternative</h3>
+<p>Each Splenda packet provides a no calorie alternative to sugar, without losing the taste. Also known as sucralose, Splenda is made through a patented process that converts standard sugar to a no-calorie, non-carbohydrate sweetener. Use it any time you want to take small steps towards eating and living healthier.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram Splenda packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808474165322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04568</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808471347274</id>
+    <published>2020-10-20T00:04:28-04:00</published>
+    <updated>2020-10-20T00:04:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sweetn-low-sweetener-with-aspartame-calorie-free-1000-pack"/>
+    <title>Sweet&apos;N Low - Sweetener With Aspartame Calorie Free -1000/Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sweet&apos;N Low</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweetn-low-sweetener-with-aspartame-calorie-free-1000pack-733188.jpg?v=1611513639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sweet&#39;N Low<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet'N Low - 29768 Calorie Free Sweetener With Aspartame - 3 x 1000 - 0.5 g Each</p>
+<h3 class="item-header">Calorie-Free Alternative</h3>
+<p>Each <span data-mce-fragment="1">Sweet'N Low </span>packet provides a no calorie alternative to sugar, without losing the taste. Also known as sucralose, <span data-mce-fragment="1">Sweet'N Low </span>is made through a patented process that converts standard sugar to a no-calorie sweetener. Use it any time you want to take small steps towards eating and living healthier.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram <span data-mce-fragment="1">Sweet'N Low </span>packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808471347274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>06499</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808469774410</id>
+    <published>2020-10-20T00:04:27-04:00</published>
+    <updated>2020-10-20T00:04:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sweetn-low-sweetener-with-aspartame-calorie-free-3x1000-pack"/>
+    <title>Sweet&apos;N Low - Sweetener With Aspartame Calorie Free -3x1000/Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sweet&apos;N Low</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweetn-low-sweetener-with-aspartame-calorie-free-3x1000pack-438361.jpg?v=1611513814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sweet&#39;N Low<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet'N Low - 29768 Calorie Free Sweetener With Aspartame - 3 x 1000 - 0.5 g Each</p>
+<h3 class="item-header">Calorie-Free Alternative</h3>
+<p>Each<span> </span><span data-mce-fragment="1">Sweet'N Low </span>packet provides a no calorie alternative to sugar, without losing the taste. Also known as sucralose,<span> </span><span data-mce-fragment="1">Sweet'N Low </span>is made through a patented process that converts standard sugar to a no-calorie sweetener. Use it any time you want to take small steps towards eating and living healthier.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram<span> </span><span data-mce-fragment="1">Sweet'N Low </span>packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808469774410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>01257</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808468037706</id>
+    <published>2020-10-20T00:04:26-04:00</published>
+    <updated>2020-10-20T00:04:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sweetn-low-pink-sweetener-zero-calorie-28910-3-x-1000-pack"/>
+    <title>Sweet&apos;N Low - Pink Sweetener Zero Calorie 28910 - 3 x 1000/Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sweet&apos;N Low</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweetn-low-pink-sweetener-zero-calorie-28910-3-x-1000pack-327940.jpg?v=1611513096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sweet&#39;N Low<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet'N Low - 28910 Pink Zero Calorie Sweetener With Cyclamate - 3 x 1000 / Pack</p>
+<h2 class="headline">Sweeten your hot beverages, drink mixes, cereal, and fresh fruit with this Splenda no calorie sweetener packet!</h2>
+<p><span>With these convenient packets, there's no need to worry about filling and refilling your sugar pourers with fresh sugar throughout the day. Simply leave them at coffee stations or on tables and your guests can use them as needed. Additionally, since Splenda sugar substitute holds up to heat, it is perfect for sweetening hot coffee and tea, as well as cooking and baking recipes.</span></p>
+<h3 class="item-header">Calorie-Free Alternative</h3>
+<p>Each Splenda packet provides a no calorie alternative to sugar, without losing the taste. Also known as sucralose, Splenda is made through a patented process that converts standard sugar to a no-calorie, non-carbohydrate sweetener. Use it any time you want to take small steps towards eating and living healthier.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram Splenda packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808468037706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>01258</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808486551626</id>
+    <published>2020-10-19T21:16:44-04:00</published>
+    <updated>2020-10-19T21:16:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vitrex-6030-sugar-packet-holder-6-pack"/>
+    <title>Vitrex - 6030 Sugar Packet Holder - 6 / Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Vitrex</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vitrex-6030-sugar-packet-holder-6-pack-764998.jpg?v=1611512375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vitrex<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Vitrex - 6030 Sugar Portion Holder - 6 / Pack</strong></p>
+<p><span>The eggshell-colored sugar packet holder is a nice addition to the tabletop. The white of this china is bright and looks sharp as part of any tabletop presentation. It gives a great contrast to colored table linens and the neutral color complements any decor. The compact design of this holder is unobtrusive yet has plenty of room for sugar and sweetener packets. This sturdy and simple solution looks even better when paired up with other coffee and tea-serving accessories. Place one upon each table to create a cohesive and aesthetically appealing look that ensures your patrons can properly sweeten their favorite drinks.</span><br><br><span>This sugar packet holder prevents moisture absorption. This durable piece stands up against breakage, chipping, and scratches commonly caused by the wear and tear of everyday use.</span><br></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg#product","name":"Redpath - Special Fine Granulated Sugar - 2 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"R101BM3142","sku":"1BM3142","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/redpath-special-fine-granulated-sugar-2-kg-bulk-mart_141.jpg","description":"Redpath - Special Fine Granulated Sugar - 2 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"RedPath"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"5"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Redpath - Special Fine Granulated Sugar - 2 Kg","sku":"1BM3142","mpn":"R101BM3142","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg?variant=20604610871366","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Holder</s:tag>
+    <s:tag>Sugar Packet Holder</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808486551626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>039451</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808485306442</id>
+    <published>2020-10-19T21:16:43-04:00</published>
+    <updated>2020-10-19T21:16:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/winco-sugar-packet-holder-plastic-clear-each"/>
+    <title>Winco - Sugar Packet Holder Clear Plastic - Each</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Winco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/winco-sugar-packet-holder-clear-plastic-each-694999.jpg?v=1611513641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Winco<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Winco - Sugar Packet Holder Clear Plastic - Each</strong></p>
+<p><span>The sugar packet holder is a nice addition to the tabletop. The clear bright and looks sharp as part of any tabletop presentation. It gives a great contrast to colored table linens and the neutral color complements any decor. The compact design of this holder is unobtrusive yet has plenty of room for sugar and sweetener packets. This sturdy and simple solution looks even better when paired up with other coffee and tea-serving accessories. Place one upon each table to create a cohesive and aesthetically appealing look that ensures your patrons can properly sweeten their favorite drinks.</span><br><br><span>This sugar packet holder prevents moisture absorption. This durable piece stands up against breakage, chipping, and scratches commonly caused by the wear and tear of everyday use.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg#product","name":"Redpath - Special Fine Granulated Sugar - 2 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"R101BM3142","sku":"1BM3142","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/redpath-special-fine-granulated-sugar-2-kg-bulk-mart_141.jpg","description":"Redpath - Special Fine Granulated Sugar - 2 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"RedPath"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"5"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Redpath - Special Fine Granulated Sugar - 2 Kg","sku":"1BM3142","mpn":"R101BM3142","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg?variant=20604610871366","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Holder</s:tag>
+    <s:tag>Sugar Packet Holder</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808485306442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>039454</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808464695370</id>
+    <published>2020-10-19T21:16:42-04:00</published>
+    <updated>2020-10-19T21:16:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/redpath-fine-sugar-packets-1000-packs"/>
+    <title>Redpath - Fine Sugar Packets - 1000 Packs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>RedPath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/redpath-sugar-packets-1000-packs-820306.jpg?v=1611513098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RedPath<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Redpath - Sugar Packets - 1000 Packs</p>
+<p><span><strong>Sugar adds texture and flavor</strong> with this portion control sugar packets to virtually any cooked entree, dipping sauce, or glaze. Not only is it a necessity for your kitchen, but this sugar is a widely used, age-old favorite that's guaranteed to make your dining experience sweeter for guests of all ages.</span></p>
+<h3 class="item-header">Extra Fine</h3>
+<p>Also known as table sugar or white sugar, these extra fine sugar crystals are ideal for all purposes, from table use to cooking, and from preserving homemade jams to sweetening beverages. Its extra fine consistency is perfect for sprinkling atop the rim of margaritas and bar cocktails.</p>
+<h3 class="item-header">Versatility</h3>
+<p>Whether baking delightful fruit pies or blending creamy milkshakes, sugary treats add profitable items to your menu that are hard to resist! Offer sugar on your tabletop, allowing guests to apply just the right amount to their hot drinks as it quickly dissolves to sweeten coffee or tea.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-sugar-portions-1000-case#product","name":"Wing&#039;s - Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4176293920838","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-sugar-portions-1000-case-bulk-mart_238.jpg","description":"Wing&#039;s - Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-sugar-portions-1000-case?variant=30332403286086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808464695370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>010137</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808463188042</id>
+    <published>2020-10-19T21:16:40-04:00</published>
+    <updated>2020-10-19T21:16:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/redpath-cube-sugar-12-x-500-g"/>
+    <title>Redpath - Cube Sugar - 12 x 500 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>RedPath</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/redpath-cube-sugar-12-x-500-g-124459.jpg?v=1611512142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RedPath<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Redpath - Cube Sugar - 12 x 500 g</strong></p>
+<p><span><strong>Sugar adds texture and flavor</strong> with this portion control sugar cubes to virtually any cooked entree, dipping sauce, or glaze. Not only is it a necessity for your kitchen, but this sugar is a widely used, age-old favorite that's guaranteed to make your dining experience sweeter for guests of all ages.</span></p>
+<h3 class="item-header">Extra Fine</h3>
+<p>Also known as table sugar or white sugar, these extra fine sugar crystals are ideal for all purposes, from table use to cooking, and from preserving homemade jams to sweetening beverages. Its extra fine consistency is perfect for sprinkling atop the rim of margaritas and bar cocktails.</p>
+<h3 class="item-header">Versatility</h3>
+<p>Whether baking delightful fruit pies or blending creamy milkshakes, sugary treats add profitable items to your menu that are hard to resist! Offer sugar on your tabletop, allowing guests to apply just the right amount to their hot drinks as it quickly dissolves to sweeten coffee or tea.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg#product","name":"Redpath - Special Fine Granulated Sugar - 2 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"R101BM3142","sku":"1BM3142","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/redpath-special-fine-granulated-sugar-2-kg-bulk-mart_141.jpg","description":"Redpath - Special Fine Granulated Sugar - 2 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"RedPath"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"5"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Redpath - Special Fine Granulated Sugar - 2 Kg","sku":"1BM3142","mpn":"R101BM3142","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/redpath-special-fine-granulated-sugar-2-kg?variant=20604610871366","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808463188042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>010135</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4517359943754</id>
+    <published>2020-02-28T19:35:38-05:00</published>
+    <updated>2020-02-28T19:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sweetn-low-pink-sweetener-zero-calorie-28910-1000-pack"/>
+    <title>Sweet&apos;N Low - Pink Sweetener Zero Calorie 28910 - 1000 / Pack</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sweet&apos;N Low</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweetn-low-pink-sweetener-zero-calorie-28910-1000-pack-685730.jpg?v=1611512677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sweet&#39;N Low<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet'N Low - 28910 Pink Zero Calorie Sweetener - 1000 / Pack</p>
+<h2 class="headline">Sweeten your coffees and teas while cutting down on calories with this Sweet'N Low 1 gram packet.</h2>
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">With its recognized brand name and familiar pink-colored packets, this Sweet'N Low sweetener is perfect for table service at your restaurant or coffee shop. With these convenient packets, there's no need to worry about filling and refilling your sugar pourers with fresh sugar throughout the day. Simply leave them at coffee stations or on tables and your guests can use them as needed. They're also great for parties or catered events so your guests can sweeten their hot beverages as they please.</p>
+<h3 class="item-header">Calorie and Cost-Conscious Alternative</h3>
+<p>This saccharin sweetener has a pleasant taste with fewer calories, no carbohydrates, and no fat. In fact, Sweet'N Low has less than 1/4 of the calories that regular sugar has. Plus, each 1 gram pink packet sweetens like 2 teaspoons of sugar, making it a great substitute to save on sugar costs.</p>
+<h3 class="item-header">Individually Wrapped</h3>
+<p>This 1 gram Sweet'N Low sweetener packet is individually wrapped for convenient portion control, allowing your guests to measure their desired amount quickly and easily.</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Offer them on your tabletop in a caddy or provide them for your patrons to grab on-the-go at your hotel breakfast bar, self-service restaurant, party, or catered event!</p>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case#product","name":"Sweet n Low Pink Portions Original - 1000 / Case","itemCondition":"https://schema.org/NewCondition","mpn":"K103BM852","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sweet-n-low-pink-portions-original-1000-case-bulk-mart_686.jpg","description":"Sweet n Low Pink Portions Original - 1000 / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Sweet n Low"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"27"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"offers":[{"name":"Sweet n Low Pink Portions Original - 1000 / Case","sku":"03BM852","mpn":"K103BM852","@type":"Offer","priceCurrency":"CAD","price":"13.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sweet-n-low-pink-portions-original-1000-case?variant=31795123224650","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sweetener Packets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4517359943754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>06569</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4439279763530</id>
+    <published>2019-12-16T16:28:29-05:00</published>
+    <updated>2019-12-16T16:28:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-wings-brown-sugar-portions-1000-case"/>
+    <title>PC Wing&apos;s - Brown Sugar Portions - 1000 / Case</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-wings-brown-sugar-portions-1000-case-255418.jpg?v=1611513211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wing's - 2061 Brown Sugar Packets - 1000 / Case</strong></p>
+<p><span><strong>Satisfy the sweet tooth of every guest with this brown sugar!</strong>  Brown sugar is great for use as a sweetener in baked items, as well as increases moisture retention. Use this high quality brown sugar to make muffins, coffee cakes, and irresistibly rich chocolate chip cookies in your bakery, diner, or cafe! It's also a sweet addition to baked beans or sweet potatoes. Use it in syrups, glazes, or sauces, or play up its crumbly nature by using it as a topping for oatmeal, yogurt, fruit, and cobblers.</span><br><br><span>This gives the sugar its milder flavor with a subtle caramel undertone. From cooking to baking, for to go , catering events, to sprinkling atop pancakes or your warm apple pie, this brown sugar is sure to be an asset in your commercial kitchen!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-brown-sugar-portions-1000-case#product","name":"Wing&#039;s - Brown Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4439279763530","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-brown-sugar-portions-1000-case-bulk-mart_527.jpg","description":"Wing&#039;s - Brown Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"24.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-brown-sugar-portions-1000-case?variant=31541529083978","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Sugar Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4439279763530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>089415</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4418572845130</id>
+    <published>2019-12-05T15:06:15-05:00</published>
+    <updated>2019-12-05T15:06:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-wings-black-pepper-portions-1000-pcs"/>
+    <title>PC Wing&apos;s - Black Pepper Portions - 1000 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-wings-black-pepper-portions-1000-pcs-572622.jpg?v=1611511596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pc - Black Pepper Portions - 1000 Pcs</p>
+<p><span><strong>Perfectly portioned, these black pepper packets</strong> will deliver just the right amount of aromatic flavor to your customers' food. These packets are ideal for any restaurant, diner, convenience store, cafeteria, or take-out station and offer a quick and easy way to complement profitable menu items. Useful for on-the-go orders, these pepper packets provide sanitary packaging and an ideal portion size for improved customer satisfaction.</span><br><br><span><strong>Each portion control packet is perfect</strong> for enhancing a variety of items with a touch of bold, aromatic flavor. Spice up French fries, sandwiches, hamburgers, salads and more with this classic black pepper! Whisk the perfect portion of ground pepper into savory soups, dressings and dips for improved taste. These portion control pepper packets make for a convenient, low-cost addition to your menu.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-sugar-portions-1000-case#product","name":"Wing&#039;s - Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4176293920838","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-sugar-portions-1000-case-bulk-mart_238.jpg","description":"Wing&#039;s - Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"g","value":"500"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-sugar-portions-1000-case?variant=30332403286086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Pepper Portions</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4418572845130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>510214</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4418572025930</id>
+    <published>2019-12-05T15:05:01-05:00</published>
+    <updated>2019-12-05T15:05:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-wings-salt-portions-1000-pcs"/>
+    <title>PC Wing&apos;s - Salt Portions - 1000 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-wings-salt-portions-1000-pcs-626801.jpg?v=1611512136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pc - Salt Portions - 1000 / Case</p>
+<ul>
+<li>Salt Portions Packets </li>
+<li>Free running salt</li>
+</ul>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/wings-sugar-portions-1000-case#product","name":"Wing&#039;s - Sugar Portions - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4176293920838","sku":"03BM852","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-sugar-portions-1000-case-bulk-mart_238.jpg","description":"Wing&#039;s - Sugar Portions - 1000 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Wing's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"03BM852","weight":{"@type":"QuantitativeValue","unitText":"g","value":"500"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/wings-sugar-portions-1000-case?variant=30332403286086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Portions</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4418572025930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>552317</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

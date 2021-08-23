@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/gluten-free-foods.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-16T16:41:07-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6639914713162</id>
+    <published>2021-08-16T16:41:07-04:00</published>
+    <updated>2021-08-16T16:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g"/>
+    <title>Robin Hood - Gluten Free All Purpose flour Blend  - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g-631324.jpg?v=1629180753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1k2abhj eqaamsw7" aria-expanded="true" tabindex="0">
+<div class="css-70qvj9 eqaamsw8">Description</div>
+</div>
+<div class="css-1ev1b0e eqaamsw1">
+<div class="css-190aten e1mpbtcv0">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Robin Hood All Purpose Gluten Free Flour Blend is made from rice flour blended with xanthan gum, pea fibre and potato and tapioca starches. It makes it easy for you to enjoy all your favourite baked goods without gluten. Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Gluten free all purpose flour blend with xanthan gum.<br>• Gluten Free flour blend so versatile it can be used in your everyday baking.<br>• Comes in a convenient resealable bag.<br>• RECOMMENDED FOR MAKING: Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6639914713162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>22220</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6633471148106</id>
+    <published>2021-08-07T17:23:02-04:00</published>
+    <updated>2021-08-07T17:23:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-66-g"/>
+    <title>Aurora - Vegetable Bouillon Cube - 66 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-vegetable-bouillon-cube-66-g-413385.jpg?v=1628475499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aurora - Vegetable Bouillon Cube - 66 g</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Vegetable flavoured bouillon cubes. Great for adding flavour to any of your favourite dishes. Dissolve 1 tablet in 2 cups (500ml) of boiling water. This product is gluten free.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g#product","name":"Aurora - Vegetable Bouillon Cube - 60 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3963991949382","sku":"23BM552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-vegetable-bouillon-cube-24-x-60-g-bulk-mart_223_53f34ef4-1da5-4e23-91f1-ec8b0806a9c0.jpg","description":"Aurora - Vegetable Bouillon Cube - 60 g.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"23BM552","weight":{"@type":"QuantitativeValue","unitText":"g","value":"60"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-vegetable-bouillon-cube-60-g?variant=29528267030598","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bouillon Cubes</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6633471148106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602148642890</id>
+    <published>2021-06-14T18:53:39-04:00</published>
+    <updated>2021-06-14T18:53:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-buckwheat-flour-10-kg"/>
+    <title>Millbrook - Buckwheat Flour - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-buckwheat-flour-10-kg-581730.jpg?v=1623735229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Millbrook gluten free potato starch will help you keep your pantry well-stocked with the essentials! Made from the starch of fresh potatoes, this dense powdery product is widely used for a variety of culinary applications. Potato starch is similar to corn starch and can be used as a replacement for corn starch in many recipes. It also has a higher heat tolerance than corn starch, making it perfect for thickening sauces, soups, and stews, in addition to puddings, pie fillings, and gravies. Use 4 tsp. of potato starch to substitute for every 1 Tbsp. of corn starch; when using it to thicken a liquid, mix the potato starch with a small amount of water to make a slurry before stirring it in to your recipe to help prevent clumping. <br><br>Beyond thickening, potato starch also has numerous uses in baking. It helps add moistness to cakes, cookies, and other baked goods. It's also a key ingredient in shortbread recipes, where its fine texture produces crumbly and tender breads! Potato starch is also great for helping to produce a crispy texture in your sauteed or stir-fried meats and vegetables; coat small pieces of your desired ingredient in potato starch to produce a crispy coating. It's also the secret ingredient in the batter of extra-crispy deep fried foods! Add potato starch to the batter of your fried fish, onion rings, or any other food you want to fry up with a crispy, golden-brown coating. It's especially popular as an ingredient in crispy-yet-moist Japanese Karaage chicken. No matter how you use it, this potato starch is sure to be a key ingredient in your busy kitchen; this bulk 10 Kg supply will keep you well-stocked for all of your culinary needs!<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Oat &amp; Quinoa Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602148642890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>51100</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602146316362</id>
+    <published>2021-06-14T18:53:38-04:00</published>
+    <updated>2021-06-14T18:53:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-potato-starch-10-kg"/>
+    <title>Millbrook - Potato Starch - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-potato-starch-10-kg-668873.jpg?v=1623735229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Millbrook gluten free potato starch will help you keep your pantry well-stocked with the essentials! Made from the starch of fresh potatoes, this dense powdery product is widely used for a variety of culinary applications. Potato starch is similar to corn starch and can be used as a replacement for corn starch in many recipes. It also has a higher heat tolerance than corn starch, making it perfect for thickening sauces, soups, and stews, in addition to puddings, pie fillings, and gravies. Use 4 tsp. of potato starch to substitute for every 1 Tbsp. of corn starch; when using it to thicken a liquid, mix the potato starch with a small amount of water to make a slurry before stirring it in to your recipe to help prevent clumping. <br><br>Beyond thickening, potato starch also has numerous uses in baking. It helps add moistness to cakes, cookies, and other baked goods. It's also a key ingredient in shortbread recipes, where its fine texture produces crumbly and tender breads! Potato starch is also great for helping to produce a crispy texture in your sauteed or stir-fried meats and vegetables; coat small pieces of your desired ingredient in potato starch to produce a crispy coating. It's also the secret ingredient in the batter of extra-crispy deep fried foods! Add potato starch to the batter of your fried fish, onion rings, or any other food you want to fry up with a crispy, golden-brown coating. It's especially popular as an ingredient in crispy-yet-moist Japanese Karaage chicken. No matter how you use it, this potato starch is sure to be a key ingredient in your busy kitchen; this bulk 10 Kg supply will keep you well-stocked for all of your culinary needs!<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Potato Starch</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602146316362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>51106</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602144776266</id>
+    <published>2021-06-14T18:53:37-04:00</published>
+    <updated>2021-06-14T18:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-organic-light-spelt-flour-stone-ground-10-kg"/>
+    <title>Millbrook - Organic Light Spelt Flour Stone Ground - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-organic-light-spelt-flour-stone-ground-10-kg-429363.jpg?v=1623735228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Add a versatile and healthy ancient grain to your pantry with this Millbrook spelt flour! Spelt is a primitive relative of modern wheat and is one of the oldest cultivated grains; some evidence suggests that humans have been growing and eating it for as long as 8000 years. Though modern wheat has been more widely cultivated than spelt for centuries, spelt is gaining popularity as a healthy alternative to traditional wheat flours! Because it is related to wheat, spelt flour contains gluten, but the gluten proteins in spelt are more water soluble than those in wheat, making it easier to digest. This means that spelt flour should not be eaten by people with celiac disease or severe gluten sensitivities, though some people with wheat allergies and mild gluten sensitivities report that spelt is more easy to digest than flour. Its unique genetic structure also makes spelt flour a great source of protein and essential minerals including manganese, zinc, and copper! <br>Because of its similarity to wheat, spelt flour can be used in practically any recipe that calls for all-purpose or wheat flour. Spelt adds a uniquely nutty flavor and a light texture to your baked goods! Spelt can generally be substituted for 50% of the wheat flour in a recipe, though if you have not used it before, you may want to start out by substituting 25% spelt flour and working your way up as you become more familiar with it. It's especially good for use in breads, pancakes, and cookies! No matter how you choose to use it, this ancient grain will add delicious flavor and wholesome nutrition to baked goods in your restaurant, bakery or cafe. This 10 Kg bag will keep you well-stocked for all of your culinary needs!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>Spelt Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602144776266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>51103</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602139697226</id>
+    <published>2021-06-14T18:53:36-04:00</published>
+    <updated>2021-06-14T18:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-organic-whole-spelt-flour-stone-ground-10-kg"/>
+    <title>Millbrook - Organic Whole Spelt Flour Stone Ground - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-organic-whole-spelt-flour-stone-ground-10-kg-420822.jpg?v=1623735230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Add a versatile and healthy ancient grain to your pantry with this Millbrook spelt flour! Spelt is a primitive relative of modern wheat and is one of the oldest cultivated grains; some evidence suggests that humans have been growing and eating it for as long as 8000 years. Though modern wheat has been more widely cultivated than spelt for centuries, spelt is gaining popularity as a healthy alternative to traditional wheat flours! Because it is related to wheat, spelt flour contains gluten, but the gluten proteins in spelt are more water soluble than those in wheat, making it easier to digest. This means that spelt flour should not be eaten by people with celiac disease or severe gluten sensitivities, though some people with wheat allergies and mild gluten sensitivities report that spelt is more easy to digest than flour. Its unique genetic structure also makes spelt flour a great source of protein and essential minerals including manganese, zinc, and copper! Plus, like all whole grain flours, this spelt flour is high in dietary fiber, promoting healthy digestion.<br><br>Because of its similarity to wheat, spelt flour can be used in practically any recipe that calls for all-purpose or whole wheat flour. Spelt adds a uniquely nutty flavor and a light texture to your baked goods! Spelt can generally be substituted for 50% of the wheat flour in a recipe, though if you have not used it before, you may want to start out by substituting 25% spelt flour and working your way up as you become more familiar with it. It's especially good for use in breads, pancakes, and cookies! No matter how you choose to use it, this ancient grain will add delicious flavor and wholesome nutrition to baked goods in your restaurant, bakery or cafe. This 10 Kg bag will keep you well-stocked for all of your culinary needs!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>Spelt Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602139697226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>51104</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602135666762</id>
+    <published>2021-06-14T18:53:35-04:00</published>
+    <updated>2021-06-14T18:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-potato-flour-10-kg"/>
+    <title>Millbrook - Potato Flour - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-potato-flour-10-kg-758728.jpg?v=1623735229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Create deliciously moist baked goods, hearty soups and sauces, and other gluten-free delights with this Millbrook potato flour! This flour is made from russet potatoes that are peeled, trimmed, cooked, and ground into a fine powder. Potato flour retains some of the flavor and color of the potatoes it's made with, so it's great for adding a touch of hearty color and savory, earthy flavor to your baked goods! Because this flour is made with whole potatoes, it offers great nutritional benefits: potatoes are a great source of fiber, B vitamins, and iron. Best of all, this potato flour is certified gluten-free, making it a great substitute for flour as a thickener and a great addition to gluten-free flour blends. This product is a great way to produce menu items that your customers with dietary restrictions can enjoy!<br><br>This versatile potato flour makes it easy to create baked goods and menu items that are full of hearty flavor! A bit of potato flour mixed into yeast breads will add irresistible moisture, savory flavor, and a light beige color. It's particularly well suited to gluten-free flour blends, where its absorbency makes it perfect for adding moisture to breads, scones, muffins, and other baked goods that may otherwise turn out dry. Try adding a dash of potato flour to your pancake or waffle batter to create breakfast items that are dense, fluffy, and satisfying! Its thickening properties also make it a great substitute for gluten-based flours in soups, gravies, and sauces.</p>
+<p itemprop="description">To use this potato flour to thicken your dishes, make a slurry of flour and cool water before whisking into hot liquid. Making a slurry beforehand ensures that your soup, sauce, or gravy will be smooth, with no unpleasant lumps of potato flour. No matter how you choose to use it, this versatile potato flour is sure to become a favorite in your busy kitchen! This bulk 10 Kg supply will keep you well-stocked for all of your culinary needs.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Potato Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602135666762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>51105</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602124656714</id>
+    <published>2021-06-14T18:53:34-04:00</published>
+    <updated>2021-06-14T18:53:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-chick-pea-flour-10-kg"/>
+    <title>Millbrook - Chick Pea Flour - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-chick-pea-flour-10-kg-830652.jpg?v=1623735233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Used for centuries in Middle Eastern and South East Asian cuisine, garbanzo bean flour is full of flavor and vital nutrients. Add this ancient ingredient to your pantry with Millbrook garbanzo bean flour! Also known as chickpea flour, gram flour, and besan, garbanzo bean flour is made by grinding garbanzo beans (also known as chickpeas) into a fine powder. Since they're not a grain, garbanzo beans are naturally gluten free; better yet, this flour is processed in Millbrook gluten-free facility, where their products undergo stringent testing to ensure that they don't contain any traces of gluten. That makes this flour perfect for your gluten-free customers, including those with celiac disease! In addition to being gluten free, garbanzo bean flour has a rich, slightly sweet flavor very similar to the taste of chickpeas. It's also loaded with essential nutrients like protein, dietary fiber, and iron, making it a more nutritious alternative to traditional wheat flours!<br><br>In India, France, and Italy, garbanzo bean flour is used to make a light, unleavened pancake that can be eaten alone or used to wrap the ingredients of your choice. For a simple version, try using garbanzo bean flour, water, and a pinch of salt to form a batter that can be perfectly pan-fried. These pancakes can be used to create gluten-free wraps and flatbreads, and because they're vegan, they're perfect for many of your customers with dietary restrictions! Garbanzo bean flour can also be used to make a vegan cheese substitute; when mixed with water and cooked over medium heat until it reaches a roux-like consistency, it forms a creamy, cheesy sauce that's great for vegan dips and spreads.<br><br>Though it's not a 1-to-1 substitute for all-purpose flour, garbanzo bean flour is a versatile addition to your flour arsenal, whether you use it alone or combined with other flours. Garbanzo bean flour is an excellent solution to the perennial issue of texture in gluten-free baking; it has natural binding properties that mimic the "stickiness" of gluten to help bind your baked goods together and give them a sturdy-yet-tender texture that your customers will love! Use it to make savory baked goods like artisan breads, pizza crusts, and crackers. It's also great for sweet treats made with strong flavors that will stand up to the garbanzo bean flour's distinctive taste; use it in a chocolate fudge cake or a warm pumpkin bread!<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chickpeas Flour/Besan</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602124656714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>51101</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6596046553162</id>
+    <published>2021-06-03T10:18:28-04:00</published>
+    <updated>2021-06-03T10:18:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-splash-mango-peach-juice-12-473-ml"/>
+    <title>V8 - Splash Mango Peach Juice - 12 × 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-splash-mango-peach-juice-12-473-ml-537939.png?v=1622771458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">160 calories per serving</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6596046553162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547624722506</id>
+    <published>2021-03-15T22:53:37-04:00</published>
+    <updated>2021-03-15T22:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-white-cookie-icing-228-g"/>
+    <title>Twinkle - White Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-white-cookie-icing-228-g-865814.jpg?v=1615873932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - White Cookie Icing - 228g</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547624722506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55110</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547623575626</id>
+    <published>2021-03-15T22:53:36-04:00</published>
+    <updated>2021-03-15T22:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-pink-cookie-icing-228-g"/>
+    <title>Twinkle - Pink Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-pink-cookie-icing-228-g-111288.png?v=1615873939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Pink Cookie Icing - 228g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547623575626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55112</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547622789194</id>
+    <published>2021-03-15T22:53:35-04:00</published>
+    <updated>2021-03-15T22:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-green-cookie-icing-228-g"/>
+    <title>Twinkle - Green Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-green-cookie-icing-228-g-632265.jpg?v=1615873941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Green Cookie Icing - 228g</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547622789194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55113</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547619250250</id>
+    <published>2021-03-15T22:53:35-04:00</published>
+    <updated>2021-03-15T22:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-red-cookie-icing-228-g"/>
+    <title>Twinkle - Red Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-red-cookie-icing-228-g-906274.jpg?v=1615873933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Red Cookie Icing - 228g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547619250250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55111</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850112528458</id>
+    <published>2021-01-04T15:04:12-05:00</published>
+    <updated>2021-01-04T15:04:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-garlic-spread-4-kg"/>
+    <title>Golden Gate - Garlic Spread - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-garlic-spread-4-kg-331862.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Gate - Garlic Spread - 4 Kg</p>
+<p><span>Garlic Spread - Ideal for premium garlic bread with its buttery colour and robust garlic flavour. Non-hydrogenated, gluten free and kosher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850112528458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>33227</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867752591434</id>
+    <published>2020-12-30T13:29:06-05:00</published>
+    <updated>2020-12-30T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g"/>
+    <title>Nutella - Hazelnut Spread Mini Glass Jars - 64 x 25 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g-918789.jpg?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread Mini Glass Jar, Single Serving Jar!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halal</span></li>
+</ul>
+Nutella - Hazelnut Spread Glass - 64 x 25 g<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867752591434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>601209</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850110988362</id>
+    <published>2020-12-19T22:03:45-05:00</published>
+    <updated>2020-12-19T22:03:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-20-kg"/>
+    <title>Nutella - Hazelnut Spread - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-20-kg-872981.jpg?v=1611514186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            98.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Original Nutella hazelnut chocolate spread!</strong></div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li>Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br>
+</li>
+<li><span class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li><span class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halaal</span></li>
+</ul>
+<p>Nutella - Hazelnut Spread - 20 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850110988362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.99</s:price>
+      <s:sku>67821</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998735933510</id>
+    <published>2020-12-19T00:42:53-05:00</published>
+    <updated>2020-12-19T00:42:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/steep-by-bigelow-organic-green-tea-with-pomegranate-tea-bags-20-box"/>
+    <title>Steep By Bigelow - Organic Green Tea With Pomegranate Tea Bags - 20/Box</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Bigelow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/steep-by-bigelow-organic-green-tea-with-pomegranate-tea-bags-20box-103386.jpg?v=1611511958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bigelow<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Steep - Green With Pomegranate Tea - Pack Of 20</strong></p>
+<p><span>Enjoy the revitalizing effects of green tea with a fruity twist when you serve this Steep by Bigelow organic green tea with pomegranate! This flavorful green tea blend includes organic hibiscus, rose hips, pomegranate peel, and other natural flavors. When brewed, it has a light color and fruity, floral aroma. This green tea comes from the leaves of the Camellia sinensis plant and undergoes a special handling process, leaving the green tea blend more delicate and lower in caffeine than black tea. Additionally, green tea is full of antioxidants that are a great part of any healthy lifestyle. Steep by Bigelow organic teas, such as this green tea with pomegranate, are grown using only natural fertilizers that are free of synthetic pesticides and additives.</span><br><br><span>An organic alternative to standard tea bags, this tea is packed with naturally-delicious flavor in each cup that you steep. Plus, it is made with simple, quality ingredients that are gluten free and non-GMO. Committed to maintaining freshness and flavor, each tea bag is wrapped and sealed in a stay-fresh foil packet to protect the tea from air and moisture. Mix and match flavors and serve these convenient tea bags as-is at the table. This good-for-you, organic tea blend is perfect for your restaurant, coffee shop, office, or cafe!</span><br><br><b>Steeping Instructions:</b><br><span>Bring fresh cold water to a boil. Pour water over tea bag, and steep for about 4 minutes. Remove tea bag. For iced tea, steep a little longer and pour over ice.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/steep-green-with-pomegranate-tea-pack-of-20#product","name":"Steep - Green With Pomegranate Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998735933510","sku":"1BM2609","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/steep-green-with-pomegranate-tea-pack-of-20-bulk-mart_768.gif","description":"Steep - Green With Pomegranate Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Steep"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"},"offers":[{"sku":"1BM2609","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/steep-green-with-pomegranate-tea-pack-of-20?variant=20255595528262","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Fruit Flavored Tea</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>Steep Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998735933510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>231526</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851594559562</id>
+    <published>2020-12-08T00:44:12-05:00</published>
+    <updated>2020-12-08T00:44:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-margarita-mix-syrup-750-mlmonin-margarita-mix-syrup-64-oz"/>
+    <title>Monin - Margarita Mix Syrup - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-margarita-mix-syrup-64-oz-467534.jpg?v=1611511430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Margarita<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Margarita Mix Syrup - 64 Oz</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851594559562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>48112</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851593773130</id>
+    <published>2020-12-08T00:44:11-05:00</published>
+    <updated>2020-12-08T00:44:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-mojito-mix-syrup-750-mlmonin-mojito-mix-syrup-750-ml"/>
+    <title>Monin - Mojito Mix Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-mojito-mix-syrup-750-ml-468169.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Mojito Mix<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Mojito Mix Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851593773130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48113</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851593314378</id>
+    <published>2020-12-08T00:44:10-05:00</published>
+    <updated>2020-12-08T00:44:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-grenadine-syrup-750-ml"/>
+    <title>Monin - Grenadine Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-grenadine-syrup-750-ml-945318.jpg?v=1611511242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Grenadine flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Grenadine Syrup - 750 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851593314378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48104</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851588071498</id>
+    <published>2020-12-08T00:44:09-05:00</published>
+    <updated>2020-12-08T00:44:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-lychee-syrup-1-lmonin-lychee-syrup-1-l"/>
+    <title>Monin - Lychee Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-lychee-syrup-1-l-717295.jpg?v=1611513277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Lychee<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Lychee Syrup - 1 L</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851588071498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48109</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587874890</id>
+    <published>2020-12-08T00:44:08-05:00</published>
+    <updated>2020-12-08T00:44:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-ruby-red-grapefruit-syrup-1-lmonin-ruby-red-grapefruit-syrup-1-l"/>
+    <title>Monin - Ruby Red Grapefruit Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-ruby-red-grapefruit-syrup-1-l-525174.jpg?v=1611514251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Red Ruby<span data-mce-fragment="1"> Grapefruit </span>flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Ruby Red Grapefruit Syrup - 1 L</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587874890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587285066</id>
+    <published>2020-12-08T00:44:07-05:00</published>
+    <updated>2020-12-08T00:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-watermelon-syrup-1-lmonin-watermelon-syrup-1-l"/>
+    <title>Monin - Watermelon Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-watermelon-syrup-1-l-444078.jpg?v=1611513279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Watermelon<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Watermelon Syrup - 1 L</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587285066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587088458</id>
+    <published>2020-12-08T00:44:06-05:00</published>
+    <updated>2020-12-08T00:44:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-guava-syrup-750-mlmonin-guava-syrup-750-ml"/>
+    <title>Monin - Guava Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-guava-syrup-750-ml-215404.jpg?v=1611511003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Guava flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Guava Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587088458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48105</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851586826314</id>
+    <published>2020-12-08T00:44:05-05:00</published>
+    <updated>2020-12-08T00:44:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-white-sangria-mix-syrup-750-ml"/>
+    <title>Monin - White Sangria Mix Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-white-sangria-mix-syrup-750-ml-616252.jpg?v=1611511175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium White Sangria Mix<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - White Sangria Mix Syrup - 750 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851586826314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48126</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/nut-butter-spread.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-31T14:00:38-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4811799035978</id>
+    <published>2020-12-31T14:00:38-05:00</published>
+    <updated>2020-12-31T14:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cedar-creek-tahini-sauce-2-kg"/>
+    <title>Cedar Creek - Tahini Sauce - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Beirut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-creek-tahini-sauce-2-kg-605807.jpg?v=1611509619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beirut<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cedar Creek - Tahini Sauce - 2 Kg</p>
+<p><strong>Tahini</strong></p>
+<p><span data-mce-fragment="1">Tahini is the base of many Middle Eastern dishes like hummus, baba ghanoush, halva, and other sauces and dressings. To create homemade hummus, combine 1/4 cup of this tahini with 2 cans of chick peas, 1/4 cup of olive oil, 1/4 cup of reserved chick pea liquid or water, and cumin, lemon juice, salt, and garlic to taste! This tahini is also a good substitute for peanut butter for those with allergies to peanuts and tree nuts. It can be served on crackers or on toast for a delicious, hearty snack!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tahini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811799035978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>551013</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811792351306</id>
+    <published>2020-12-31T14:00:36-05:00</published>
+    <updated>2020-12-31T14:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/beirut-tahini-sesame-paste-2-lbs"/>
+    <title>Beirut - Tahini, Sesame Paste - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Beirut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/beirut-tahini-sesame-paste-2-lbs-982905.jpg?v=1624072753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beirut<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beirut - Tahini Extra 100% Sesame Paste - 2 Lbs</p>
+<p><strong>Tahini</strong></p>
+<p><span data-mce-fragment="1">Tahini is the base of many Middle Eastern dishes like hummus, baba ghanoush, halva, and other sauces and dressings. To create homemade hummus, combine 1/4 cup of this tahini with 2 cans of chick peas, 1/4 cup of olive oil, 1/4 cup of reserved chick pea liquid or water, and cumin, lemon juice, salt, and garlic to taste! This tahini is also a good substitute for peanut butter for those with allergies to peanuts and tree nuts. It can be served on crackers or on toast for a delicious, hearty snack!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tahini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811792351306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>551012</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867752591434</id>
+    <published>2020-12-30T13:29:06-05:00</published>
+    <updated>2020-12-30T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g"/>
+    <title>Nutella - Hazelnut Spread Mini Glass Jars - 64 x 25 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g-918789.jpg?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread Mini Glass Jar, Single Serving Jar!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halal</span></li>
+</ul>
+Nutella - Hazelnut Spread Glass - 64 x 25 g<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867752591434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>601209</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850100109386</id>
+    <published>2020-12-19T22:13:21-05:00</published>
+    <updated>2020-12-19T22:13:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-peanut-butter-smooth-cups-200-x-18-g"/>
+    <title>Kraft Heinz - Peanut Butter Smooth Cups - 200 x 18 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-peanut-butter-smooth-cups-200-x-18-g-480947.png?v=1611514127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kraft Heinz - Peanut Butter Smooth - 200 x 18 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Ready to eat. Open the portion cup and scoop.</span></li>
+<li><span class="a-list-item">Available in full fat and light options in convenient easy to use portion cups.</span></li>
+<li><span class="a-list-item">Free of trans fat and cholesterol-free</span></li>
+<li><span class="a-list-item">One 18g portion = one serving size</span></li>
+<li><span class="a-list-item">A source of four essential nutrients: Vitamin E, Niacin, Folate, and Magnesium</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850100109386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>510221</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850110988362</id>
+    <published>2020-12-19T22:03:45-05:00</published>
+    <updated>2020-12-19T22:03:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-20-kg"/>
+    <title>Nutella - Hazelnut Spread - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-20-kg-872981.jpg?v=1611514186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            98.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Original Nutella hazelnut chocolate spread!</strong></div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li>Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br>
+</li>
+<li><span class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li><span class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halaal</span></li>
+</ul>
+<p>Nutella - Hazelnut Spread - 20 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850110988362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.99</s:price>
+      <s:sku>67821</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850103156810</id>
+    <published>2020-12-19T21:40:22-05:00</published>
+    <updated>2020-12-19T21:40:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-peanut-butter-pail-10-kg"/>
+    <title>Kraft Heinz - Peanut Butter Pail - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-peanut-butter-pail-10-kg-764810.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="saofud-jwuemu-l37jtv-ncgfnl" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Kraft Smooth Peanut Butter is a family favourite and a Canadian classic. With its signature delicious, nutty taste and irresistable, creamy texture, Kraft Smooth Peanut Butter is made with high quality dry-roasted peanuts to bring out the best flavour and aroma. Try Kraft Peanut Butter on your toast, sandwiches and fruits or vegetables. This smooth peanut butter is also great for using in sauces, marinades, smoothies, cookies and other pastries. Or, you can eat this tasty peanut butter by the spoonful as a quick snack! Kraft Peanut Butter is Canada's #1 Peanut Butter. Make Together, Stick Together.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">One 1KG Jar of Kraft Smooth Peanut Butter</span></li>
+<li><span class="a-list-item">Made with high quality dry-roasted peanuts</span></li>
+<li><span class="a-list-item">Signature delicious, nutty taste and creamy texture</span></li>
+<li><span class="a-list-item">Great for using in sauces, marinades, smoothies, cookies and other pastries</span></li>
+<li><span class="a-list-item">Canada's #1 Peanut Butter</span></li>
+</ul>
+<div class="product-info-description" data-mce-fragment="1">
+<ul data-mce-fragment="1"></ul>
+</div>
+Kraft Heinz - Peanut Butter Pail - 10 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peanut Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850103156810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>09081</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850102829130</id>
+    <published>2020-12-19T21:40:21-05:00</published>
+    <updated>2020-12-19T21:40:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-peanut-butter-smooth-2-kgkraft-heinz-peanut-butter-smooth-2-kg"/>
+    <title>Kraft Heinz - Peanut Butter Smooth - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-peanut-butter-smooth-2-kg-287470.jpg?v=1611514368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large" data-mce-fragment="1">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="saofud-jwuemu-l37jtv-ncgfnl" data-cel-widget="productDescription_feature_div" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div" data-mce-fragment="1">
+<div id="productDescription" class="a-section a-spacing-small" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong>Kraft Smooth Peanut Butter is a family favourite and a Canadian classic.</strong></p>
+<p data-mce-fragment="1">With its signature delicious, nutty taste and irresistable, creamy texture, Kraft Smooth Peanut Butter is made with high quality dry-roasted peanuts to bring out the best flavour and aroma. Try Kraft Peanut Butter on your toast, sandwiches and fruits or vegetables. This smooth peanut butter is also great for using in sauces, marinades, smoothies, cookies and other pastries. Or, you can eat this tasty peanut butter by the spoonful as a quick snack! Kraft Peanut Butter is Canada's #1 Peanut Butter. Make Together, Stick Together.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1">Made with high quality dry-roasted peanuts<br>
+</li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Signature delicious, nutty taste and creamy texture</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Great for using in sauces, marinades, smoothies, cookies and other pastries</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Canada's #1 Peanut Butter</span></li>
+</ul>
+Kraft Heinz - Peanut Butter Smooth - 2 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peanut Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850102829130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>09083</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850102796362</id>
+    <published>2020-12-19T21:40:20-05:00</published>
+    <updated>2020-12-19T21:40:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-peanut-butter-smooth-1-kg"/>
+    <title>Kraft Heinz - Peanut Butter Smooth - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-peanut-butter-smooth-1-kg-452461.jpg?v=1611510765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<div data-mce-fragment="1" class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-mce-fragment="1" data-cel-widget="productDescription_feature_div" data-csa-c-id="saofud-jwuemu-l37jtv-ncgfnl" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1" data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div data-mce-fragment="1" class="a-section a-spacing-small" id="productDescription">
+<p data-mce-fragment="1"><strong>Kraft Smooth Peanut Butter is a family favourite and a Canadian classic.</strong></p>
+<p data-mce-fragment="1">With its signature delicious, nutty taste and irresistable, creamy texture, Kraft Smooth Peanut Butter is made with high quality dry-roasted peanuts to bring out the best flavour and aroma. Try Kraft Peanut Butter on your toast, sandwiches and fruits or vegetables. This smooth peanut butter is also great for using in sauces, marinades, smoothies, cookies and other pastries. Or, you can eat this tasty peanut butter by the spoonful as a quick snack! Kraft Peanut Butter is Canada's #1 Peanut Butter. Make Together, Stick Together.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1">Made with high quality dry-roasted peanuts<br>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Signature delicious, nutty taste and creamy texture</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Great for using in sauces, marinades, smoothies, cookies and other pastries</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Canada's #1 Peanut Butter</span></li>
+</ul>
+Kraft Heinz - Peanut Butter Smooth - 2 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peanut Butter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850102796362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>09082</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850118787146</id>
+    <published>2020-12-19T21:31:22-05:00</published>
+    <updated>2020-12-19T21:31:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aladdin-dips-tahini-sauce-2-l"/>
+    <title>Aladdin Dips - Tahini Sauce - 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aladdin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AladdinDips-TahiniSauce-2L.jpg?v=1624125869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aladdin<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tahini</strong></p>
+<p><span data-mce-fragment="1">Tahini is the base of many Middle Eastern dishes like hummus, baba ghanoush, halva, and other sauces and dressings. To create homemade hummus, combine 1/4 cup of this tahini with 2 cans of chick peas, 1/4 cup of olive oil, 1/4 cup of reserved chick pea liquid or water, and cumin, lemon juice, salt, and garlic to taste! This tahini is also a good substitute for peanut butter for those with allergies to peanuts and tree nuts. It can be served on crackers or on toast for a delicious, hearty snack!</span></p>
+<p>Aladdin Dips - Tahini Sauce - 2 L Cooler Item</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tahini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850118787146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>90163</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4695914905674</id>
+    <published>2020-07-23T12:44:14-04:00</published>
+    <updated>2020-07-23T12:44:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-easy-to-use-piping-bagnutella-hazelnut-spread-easy-to-use-piping-bag-1-kg"/>
+    <title>Nutella - Hazelnut Spread Easy To Use Piping Bag - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-easy-to-use-piping-bag-1-kg-339278.jpg?v=1611512252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99 - 59.99
+            <a href="https://bulkmart.ca/products/nutella-hazelnut-spread-easy-to-use-piping-bagnutella-hazelnut-spread-easy-to-use-piping-bag-1-kg">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br>
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halaal</span></li>
+</ul>
+Nutella - Hazelnut Spread Easy To Use Piping Bag - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4695914905674</id>
+      <title>1 Kg</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>67822</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4695914905674</id>
+      <title>6 X 1 Kg</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>67823</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4695913726026</id>
+    <published>2020-07-23T12:41:40-04:00</published>
+    <updated>2020-07-23T12:41:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-with-cocoa-food-service-bucket-3-kgnutella-hazelnut-spread-with-cocoa-3-kg"/>
+    <title>Nutella - Hazelnut Spread With Cocoa - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-with-cocoa-3-kg-780373.jpg?v=1611514127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread!</strong></div>
+<ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Gluten-free, Certified Kosher, Vegetarian &amp; Halaal</span></li>
+</ul>
+Nutella - Hazelnut Spread With Cocoa - Food Service Bucket - 3 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4695913726026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>67824</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4695913398346</id>
+    <published>2020-07-23T12:40:55-04:00</published>
+    <updated>2020-07-23T12:40:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-with-cocoanutella-hazelnut-spread-with-cocoa-725-g"/>
+    <title>Nutella - Hazelnut Spread With Cocoa - 725 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-with-cocoa-725-g-288934.png?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halaal</span></li>
+</ul>
+Nutella - Hazelnut Spread With Cocoa - 725 g</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4695913398346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>67825</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887486967878</id>
+    <published>2018-11-28T14:59:40-05:00</published>
+    <updated>2018-11-28T14:59:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gedik-tahini-sesame-paste-18-kggedik-tahini-sesame-paste-18-kg"/>
+    <title>Gedik -  Tahini, Sesame Paste - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gedik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-tahini-sesame-paste-18-kg-524210.jpg?v=1611510187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gedik<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gedik - Tahini - 18 Kg</p>
+<p><strong>Tahini</strong></p>
+<p><span data-mce-fragment="1">Tahini is the base of many Middle Eastern dishes like hummus, baba ghanoush, halva, and other sauces and dressings. To create homemade hummus, combine 1/4 cup of this tahini with 2 cans of chick peas, 1/4 cup of olive oil, 1/4 cup of reserved chick pea liquid or water, and cumin, lemon juice, salt, and garlic to taste! This tahini is also a good substitute for peanut butter for those with allergies to peanuts and tree nuts. It can be served on crackers or on toast for a delicious, hearty snack!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-tahini-18-kg#product","name":"Gedik -  Tahini - 18 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486967878","sku":"iGBM408","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-tahini-18-kg-bulk-mart_268.jpg","description":"Gedik - Tahini - 18 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"iGBM408","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"83.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-tahini-18-kg?variant=19271353958470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tahini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887486967878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>551014</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458197574</id>
+    <published>2018-11-28T14:55:13-05:00</published>
+    <updated>2018-11-28T14:55:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/beirut-tahini-sesame-paste-18-kg"/>
+    <title>Beirut - Tahini, Sesame Paste - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Beirut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/beirut-tahini-sesame-paste-18-kg-228486.jpg?v=1624076409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beirut<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beirut - Tahini - 18 Kg</p>
+<p><strong>Tahini</strong></p>
+<p><span data-mce-fragment="1">Tahini is the base of many Middle Eastern dishes like hummus, baba ghanoush, halva, and other sauces and dressings. To create homemade hummus, combine 1/4 cup of this tahini with 2 cans of chick peas, 1/4 cup of olive oil, 1/4 cup of reserved chick pea liquid or water, and cumin, lemon juice, salt, and garlic to taste! This tahini is also a good substitute for peanut butter for those with allergies to peanuts and tree nuts. It can be served on crackers or on toast for a delicious, hearty snack!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tahini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458197574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>551011</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

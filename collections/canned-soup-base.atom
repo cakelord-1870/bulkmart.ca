@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/canned-soup-base.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-12T15:17:17-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4877133905994</id>
+    <published>2021-01-12T15:17:17-05:00</published>
+    <updated>2021-01-12T15:17:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toro-instant-potato-flakes-25-kg"/>
+    <title>Toro - Instant Potato Flakes - 25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toro-instant-potato-flakes-25-kg-231999.jpg?v=1611512972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toro - Instant Potato Flakes - 25 Kg</p>
+<p><span>Whip up large batches of delicious mashed potatoes in no time with these instant potato flakes! Made from real potatoes that are cooked to perfection and dehydrated, these instant flakes deliver the made-from-scratch flavor your customers crave without all of the time-consuming prep work.</span></p>
+<p><span> Use them to create creamy mashed potatoes to serve next to your signature entrees, or shape the prepared product into mouthwatering potato pancakes! No matter how you choose to use it, this product will save time in your busy kitchen while allowing you to offer a product customers will love. This supply will keep you well-stocked for all of your culinary needs.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4877133905994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>669900</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3939401596998</id>
+    <published>2021-01-12T15:17:03-05:00</published>
+    <updated>2021-01-12T15:17:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/whipp-complete-instant-mashed-potato-2-41-kg"/>
+    <title>Whipp - Complete Instant Mashed Potato - 2.41 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Best American Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whipp-complete-instant-mashed-potato-241-kg-720895.jpg?v=1611513638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Best American Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Best American Foods - Whipp Complete Instant Mashed Potato - 5.5 Lbs</strong></p>
+<p><span>Whip up large batches of delicious mashed potatoes in no time with these instant potato flakes! Made from real potatoes that are cooked to perfection and dehydrated, these instant flakes deliver the made-from-scratch flavor your customers crave without all of the time-consuming prep work.</span></p>
+<p><span>Use them to create creamy mashed potatoes to serve next to your signature entrees, or shape the prepared product into mouthwatering potato pancakes! No matter how you choose to use it, this product will save time in your busy kitchen while allowing you to offer a product customers will love. This supply will keep you well-stocked for all of your culinary needs.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3939401596998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>669901</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887461441606</id>
+    <published>2020-10-12T19:37:58-04:00</published>
+    <updated>2020-10-12T19:37:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-classic-chicken-noodle-soup-4-lbs-1"/>
+    <title>Campbell&apos;s - Classic Chicken Noodle Soup - 4 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-classic-chicken-noodle-soup-4-lbs-148882.jpg?v=1611509189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Classic Chicken Noodle Soup - 4 Lbs</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with <span data-mce-fragment="1">fresh noodles and lean chicken</span></span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887461441606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>05125</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802784067658</id>
+    <published>2020-10-12T18:53:00-04:00</published>
+    <updated>2020-10-12T18:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-beef-broth-900-ml"/>
+    <title>Campbell&apos;s - Beef Broth - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-beef-broth-900-ml-531318.jpg?v=1611509675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of beef broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking beef for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this beef broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</p>
+<div class="flex-container"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802784067658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>05649</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802783871050</id>
+    <published>2020-10-12T18:52:59-04:00</published>
+    <updated>2020-10-12T18:52:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-broth-900-ml"/>
+    <title>Campbell&apos;s - Chicken Broth - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-broth-900-ml-294136.jpg?v=1611509310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of chicken broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking chicken for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this chicken broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</p>
+<div class="flex-container"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802783871050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>052154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802783608906</id>
+    <published>2020-10-12T18:52:57-04:00</published>
+    <updated>2020-10-12T18:52:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-broth-48-oz"/>
+    <title>Campbell&apos;s - Chicken Broth - 48 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-broth-48-oz-474474.jpg?v=1611509075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of chicken broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking chicken for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this chicken broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</p>
+<div class="flex-container"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802783608906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>052150</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802782560330</id>
+    <published>2020-10-12T18:52:56-04:00</published>
+    <updated>2020-10-12T18:52:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-broth-no-salt-900-ml"/>
+    <title>Campbell&apos;s - Chicken Broth No Salt - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-broth-no-salt-900-ml-694555.jpg?v=1611510185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of chicken broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking chicken for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this chicken broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</p>
+<div class="flex-container"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802782560330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>08554</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802782462026</id>
+    <published>2020-10-12T18:52:55-04:00</published>
+    <updated>2020-10-12T18:52:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-vegetable-broth-900-ml"/>
+    <title>Campbell&apos;s - Vegetable Broth - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-vegetable-broth-900-ml-315380.jpg?v=1611509799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of vegetable broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking vegetables for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this <span data-mce-fragment="1">vegetables </span>broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back <span data-mce-fragment="1">for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802782462026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>052158</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802781610058</id>
+    <published>2020-10-12T18:52:53-04:00</published>
+    <updated>2020-10-12T18:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-vegetable-broth-900-ml"/>
+    <title>Aurora - Vegetable Broth - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Aurora-VegetableBroth-900ml.jpg?v=1624133397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of vegetable broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking vegetables for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this<span> </span><span data-mce-fragment="1">vegetables </span>broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back <span data-mce-fragment="1">for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802781610058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>21450</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802781478986</id>
+    <published>2020-10-12T18:52:52-04:00</published>
+    <updated>2020-10-12T18:52:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-chicken-broth-900-ml"/>
+    <title>Aurora - Chicken Broth - 900 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Aurora-ChickenBroth-900ml.jpg?v=1624132763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Treat your customers to the rich and satisfying taste of chicken broth!</h2>
+<p><span>A versatile addition to your kitchen, this broth is made from slow cooking chicken for hours. This broth offers a comforting, home-style taste without sacrificing kitchen preparation time. Quickly and easily prepare flavorful entrees with this wholesome broth and provide great service at your school, restaurant, or diner!</span></p>
+<h3 class="item-header">Add Versatility and Flavor</h3>
+<p>Pour this chicken broth over poultry for juicy, tender entrees or use as an ingredient to make soups. To create dishes that will keep your customers coming back for more, add this broth to pot pie fillings, pasta or potato dishes, casseroles, and more!</p>
+<div class="flex-container"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802781478986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>05987</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690260983882</id>
+    <published>2020-07-18T12:57:15-04:00</published>
+    <updated>2020-07-18T12:57:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-hearty-beef-gravy-condensed-soup-48-oz"/>
+    <title>Campbell&apos;s - Hearty Beef Gravy Condensed Soup - 48 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-hearty-beef-gravy-condensed-soup-48-oz-412158.jpg?v=1611510280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Hearty Beef Gravy Condensed Soup - 48 Oz.</strong></p>
+<p><span>Packing Available = 12 / Case</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with Hearty Beef Gravy </span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690260983882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.89</s:price>
+      <s:sku>05154</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690258755658</id>
+    <published>2020-07-18T12:55:11-04:00</published>
+    <updated>2020-07-18T12:55:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-cream-of-mushroom-condensed-soup-48-oz"/>
+    <title>Campbell&apos;s - Cream Of Mushroom Condensed Soup - 48 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-cream-of-mushroom-condensed-soup-48-oz-618014.jpg?v=1611509191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Cream Of Mushroom Condensed Soup - 48 Oz</strong></p>
+<p>Packing Available = 12 / Case</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with Condensed<span> Cream Of Mushroom</span></span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690258755658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.29</s:price>
+      <s:sku>052154</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690257018954</id>
+    <published>2020-07-18T12:54:19-04:00</published>
+    <updated>2020-07-18T12:54:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-cream-of-chicken-condensed-soup-48-oz"/>
+    <title>Campbell&apos;s - Cream Of Chicken Condensed Soup - 48 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-cream-of-chicken-condensed-soup-48-oz-872405.jpg?v=1611512435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Cream Of Chicken Condensed Soup - 48 Oz</strong></p>
+<p>Packing Available = 12 / Case</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with Condensed<span> Cream Of Chicken </span></span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690257018954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>05665</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690255839306</id>
+    <published>2020-07-18T12:53:27-04:00</published>
+    <updated>2020-07-18T12:53:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-tomato-condensed-soup-48-oz"/>
+    <title>Campbell&apos;s - Tomato Condensed Soup - 48 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-tomato-condensed-soup-48-oz-603673.jpg?v=1611509198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong>Campbell's - Tomato Condensed Soup - 48 Oz</strong></p>
+<p>Packing Available = 24 / Case</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with best quality tomatoes</span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690255839306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>051215</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690244436042</id>
+    <published>2020-07-18T12:47:01-04:00</published>
+    <updated>2020-07-18T12:47:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-noodle-condensed-soup-48-oz"/>
+    <title>Campbell&apos;s - Chicken Noodle Condensed Soup - 48 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-noodle-condensed-soup-48-oz-427099.jpg?v=1611511054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Chicken Noodle Condensed Soup - 48 Oz</strong></p>
+<p>Packing Available: 12/ Case</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Canadian classic made with fresh noodles and lean chicken</span></li>
+<li><span class="a-list-item">Low fat and low cholesterol</span></li>
+<li><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></li>
+<li><span class="a-list-item">No artificial colors or flavors</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690244436042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>051525</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689501061194</id>
+    <published>2020-07-17T21:37:40-04:00</published>
+    <updated>2020-07-17T21:37:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-with-rice-227-ml"/>
+    <title>Campbell&apos;s - Chicken With Rice - 227 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-with-rice-227-ml-617402.jpg?v=1611510513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Chicken Rice - 227 ml</strong></p>
+<p><span>Delicious and satisfying with fresh carrots, long-grain rice, seasoned chicken, and celery in a lightly herbed broth. Never made with artificial colours or flavours.</span></p>
+<p><span>Packing Available = 24 / Case</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Canadian classic made with Chicken Rice </span></li>
+<li><span class="a-list-item">Low fat and low cholesterol</span></li>
+<li><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></li>
+<li><span class="a-list-item">No artificial colors or flavors</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689501061194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>002548</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689500307530</id>
+    <published>2020-07-17T21:37:14-04:00</published>
+    <updated>2020-07-17T21:37:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-noodle-227-ml"/>
+    <title>Campbell&apos;s - Chicken Noodle - 227 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-noodle-227-ml-703342.jpg?v=1611509134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Chicken Noodle - 227 ml</strong></p>
+<p>Packing Available = 24 / Case<br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Canadian classic made with fresh noodles and lean chicken</span></li>
+<li><span class="a-list-item">Low fat and low cholesterol</span></li>
+<li><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></li>
+<li><span class="a-list-item">Only 70 calories per serving</span></li>
+<li><span class="a-list-item">No artificial colors or flavors</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689500307530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>05989</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689500012618</id>
+    <published>2020-07-17T21:36:34-04:00</published>
+    <updated>2020-07-17T21:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-vegetable-condensed-soup-227-ml"/>
+    <title>Campbell&apos;s - Vegetable Condensed Soup- 227 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-vegetable-condensed-soup-227-ml-913821.jpg?v=1611509740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Vegetable Condensed Soup- 227 ml</strong></p>
+<p>Packing Available = 24 / Case<br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with best quality vegetables</span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689500012618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>051248</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689497227338</id>
+    <published>2020-07-17T21:33:18-04:00</published>
+    <updated>2020-07-17T21:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-cream-of-mushroom-condensed-soup-284-ml"/>
+    <title>Campbell&apos;s - Cream Of Mushroom Condensed Soup - 284 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-cream-of-mushroom-condensed-soup-284-ml-654856.jpg?v=1611509313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Cream Of Mushroom Condensed Soup - 284 ml.</strong></p>
+<p><span>Packing Available = 48 / Case</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with Condensed<span> Cream Of Mushroom</span></span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689497227338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>052154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689496375370</id>
+    <published>2020-07-17T21:32:23-04:00</published>
+    <updated>2020-07-17T21:32:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-chicken-noodles-condensed-soup-284-ml"/>
+    <title>Campbell&apos;s - Chicken Noodles Condensed Soup - 284 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-chicken-noodles-condensed-soup-284-ml-935098.jpg?v=1611509076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Chicken Noodles Condensed Soup - 284 ml</strong></p>
+<p><span style="font-size: 1.4em;">Packing Available = 48 / Case</span><br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Canadian classic made with fresh noodles and lean chicken</span></li>
+<li><span class="a-list-item">Low fat and low cholesterol</span></li>
+<li><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></li>
+<li><span class="a-list-item">No artificial colors or flavors</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689496375370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.15</s:price>
+      <s:sku>052158</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689494638666</id>
+    <published>2020-07-17T21:30:20-04:00</published>
+    <updated>2020-07-17T21:30:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-vegetable-condensed-soup-284-ml"/>
+    <title>Campbell&apos;s - Vegetable Condensed Soup - 284 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-vegetable-condensed-soup-284-ml-966961.jpg?v=1611514246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 1.4em;">Campbell's - Vegetable Condensed Soup - 284 ml.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Campbell’s® Vegetable soup makes a satisfying and delicious lunchtime pairing with a sandwich or salad. It also provides 1 full serving of vegetables per 250 mL bowl without any artificial colours or flavours.</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<p><span style="font-size: 1.4em;">Packing Available = 48 / Case</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689494638666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.15</s:price>
+      <s:sku>051487</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4682250453066</id>
+    <published>2020-07-14T16:41:07-04:00</published>
+    <updated>2020-07-14T16:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-tomato-soup-227-ml"/>
+    <title>Campbell&apos;s - Tomato Soup - 227 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-tomato-soup-227-ml-917779.jpg?v=1611509191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Tomato Soup - 227 ml</strong></p>
+<p>Packing Available = 24 / Case<br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with best quality tomatoes</span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4682250453066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>053213</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4682235871306</id>
+    <published>2020-07-14T16:34:34-04:00</published>
+    <updated>2020-07-14T16:34:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-tomato-soup-condensed-soup-284-ml"/>
+    <title>Campbell&apos;s - Tomato Soup Condensed Soup - 284 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-tomato-soup-condensed-soup-284-ml-871811.jpg?v=1611510222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Campbell's - Tomato Soup Condensed Soup - 284 ml</strong></p>
+<p>Packing Available = 48 / Case<br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Canadian classic made with best quality tomatoes</span></strong></li>
+<li><strong><span class="a-list-item">Low fat and low cholesterol</span></strong></li>
+<li><strong><span class="a-list-item">Comfort food that is perfect for any meal or snack</span></strong></li>
+<li><strong><span class="a-list-item">No artificial colors or flavors</span></strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4682235871306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>053565</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3959059480646</id>
+    <published>2020-03-28T23:50:33-04:00</published>
+    <updated>2020-03-28T23:50:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knorr-professional-concentrated-liquid-beef-base-946-ml"/>
+    <title>Knorr - Professional Concentrated Liquid Beef Base - 946 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Knorr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-professional-concentrated-liquid-beef-base-946-ml-434243.jpg?v=1611510830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knorr<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knorr - Professional Concentrated Liquid Beef Base - 946 ml</strong></p>
+<p> </p>
+<ul class="ufs-product-usplist">
+<li>Concentrated base instantly creates beef broths and stocks</li>
+<li>Offers exceptional flavour, colour, and aroma</li>
+<li>Liquid concentrate delivers better flavour and shorter prep times than paste bases</li>
+<li>Contains no artificial flavours, colours, or preservatives</li>
+<li>Knorr® Liquid Concentrated Bases deliver versatility, scratch-like cooking and exceptional flavour, colour and aroma—with shorter prep time and greater flexibility.<br>
+</li>
+<li>Deliver simple, clean food with ease. Knorr® Bases are reinvented by our chefs with your kitchen and your customers in mind.</li>
+</ul>
+<div class="pdp-row">
+<h3>Ingredients</h3>
+<p>Beef stock (water, concentrated beef stock), maltodextrin, salt, sugar, yeast extract, onion powder, beef extract, beef fat, natural flavour, dimethylpolysiloxane.</p>
+</div>
+<div class="pdp-row">
+<h3>Nutrition Information</h3>
+<table class="striped-table">
+<thead>
+<tr>
+<th style="width: 255.333px;"><br></th>
+<th style="width: 256.667px;"></th>
+</tr>
+</thead>
+</table>
+<div class="footnote">
+<p>*% of Reference Intake of an average adult (8400kj/2000kcal)</p>
+</div>
+</div>
+<div class="pdp-row">
+<h3>Additives</h3>
+<ul>
+<li class="checked">No artificial preservatives</li>
+<li class="checked">No artificial colours and flavours</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3959059480646</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>051545</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4490492837962</id>
+    <published>2020-01-30T19:09:49-05:00</published>
+    <updated>2020-01-30T19:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knorr-professional-liquid-hollandaise-sauce-1-l"/>
+    <title>Knorr - Professional Liquid Hollandaise Sauce - 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Knorr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knorr-professional-liquid-hollandaise-sauce-1-l-406101.jpg?v=1611510339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knorr<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knorr - Professional Liquid Hollandaise Sauce - 1 L</strong></p>
+<ul class="ufs-product-usplist">
+<li>Ready-to-Use Hollandaise sauce saves you valuable time and labour costs</li>
+<li>Can be held warm for up to four hours</li>
+<li>Minimize waste and save you money</li>
+<li>Ideal for banquets and catering</li>
+</ul>
+<h3>Description</h3>
+<p>Repertoire Ready-to-Use Hollandaise sauce saves you valuable time and labour costs; just heat and serve. Repertoire makes it easy to serve gourmet sauces where you may never have thought possible!</p>
+<h3>Ingredients</h3>
+<p>Modified palm and canola oils, water, enzyme modified liquid egg yolk, skim milk powder, liquid yolk, salt, sugar, lactic acid, xanthan gum, natural and artificial flavour, guar gum, yeast extract, corn and potato maltodextrin, dextrose, carob bean gum, whey powder. Contains: Egg, milk, wheat.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Soup &amp; Base</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4490492837962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>051545</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

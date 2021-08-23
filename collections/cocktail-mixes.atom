@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/cocktail-mixes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-07T00:49:25-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848724607050</id>
+    <published>2020-12-07T00:49:25-05:00</published>
+    <updated>2020-12-07T00:49:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-coconut-cream-syrup-2-x-2-l"/>
+    <title>Lynch - Coconut Cream Syrup - 2 x 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-coconut-cream-syrup-2-x-2-l-108683.png?v=1611512141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch - Coconut Cream Syrup - 2 x 2 L</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A sweet coconut cream flavoured syrup, ideal for alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, corn syrup, water, artificial flavour, citric acid, sodium benzoate, potassium sorbate, colour, cellulose gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Coconut Cream Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848724607050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>231451</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848629645386</id>
+    <published>2020-12-07T00:49:24-05:00</published>
+    <updated>2020-12-07T00:49:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-coconut-cream-syrup-2-l"/>
+    <title>Lynch - Coconut Cream Syrup - 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-coconut-cream-syrup-2-l-399938.png?v=1611510936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch - Coconut Cream Syrup - 2 L</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A sweet coconut cream flavoured syrup, ideal for alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, corn syrup, water, artificial flavour, citric acid, sodium benzoate, potassium sorbate, colour, cellulose gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Coconut Cream Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848629645386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>231450</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848761077834</id>
+    <published>2020-12-07T00:41:54-05:00</published>
+    <updated>2020-12-07T00:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lime-bar-mix-crystals-800g"/>
+    <title>Lynch Bar Choice - Lime Bar Mix Crystals - 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lime-bar-mix-crystals-800g-337191.jpg?v=1611510578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch Bar Choice - Lime Bar Mix Crystals - 800g</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lime flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavour, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848761077834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>593028</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848759046218</id>
+    <published>2020-12-07T00:41:54-05:00</published>
+    <updated>2020-12-07T00:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lime-bar-mix-6-x-800g"/>
+    <title>Lynch Bar Choice - Lime Bar Mix - 6 x 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lime-bar-mix-6-x-800g-774747.jpg?v=1611511477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch Bar Choice - Lime Bar Mix Crystals - 6 x 800g</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lime flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavour, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848759046218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>593027</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848757276746</id>
+    <published>2020-12-07T00:41:53-05:00</published>
+    <updated>2020-12-07T00:41:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lemon-bar-mix-6-x-800g"/>
+    <title>Lynch Bar Choice - Lemon Bar Mix - 6 x 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lemon-bar-mix-6-x-800g-205644.png?v=1611512255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch Bar Choice - Lemon Bar Mix Crystals - 6 x 800g</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lemon flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavor, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848757276746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>593025</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848755572810</id>
+    <published>2020-12-07T00:41:53-05:00</published>
+    <updated>2020-12-07T00:41:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lemon-bar-mix-crystals-800g"/>
+    <title>Lynch Bar Choice - Lemon Bar Mix Crystals - 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lemon-bar-mix-crystals-800g-939103.png?v=1611514247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch Bar Choice - Lemon Bar Mix Crystals - 800g</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lemon flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and sitr until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavor, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848755572810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>593026</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848766320714</id>
+    <published>2020-12-06T23:06:58-05:00</published>
+    <updated>2020-12-06T23:06:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-grenadine-syrup-2-x-2-l"/>
+    <title>Lynch Bar Choice - Grenadine Syrup - 2 x 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-grenadine-syrup-2-x-2-l-543720.jpg?v=1611513514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>The pro's choice - a premium blend of only the finest ingredients including natural flavour.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> Corn syrup, glucose-fructose, water, artificial flavour, citric acid, sodium benzoate, colour</p>
+</div>
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td>Yield</td>
+<td>4 L</td>
+</tr>
+<tr>
+<td>Serving Size</td>
+<td>30 ML</td>
+</tr>
+<tr>
+<td>Servings</td>
+<td>133</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>SCC</td>
+<td>20062802600516</td>
+</tr>
+<tr>
+<td>Gross Weight</td>
+<td>12.6 lbs / 5.7 kgs</td>
+</tr>
+<tr>
+<td>Case Dimensions (LxWxH)</td>
+<td>26 x 13 x 20 CM</td>
+</tr>
+<tr>
+<td>Case Cube (mᶾ, ftᶾ)</td>
+<td>0.01 / 0.24</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Shelf Life</td>
+<td>730 Days</td>
+</tr>
+</tbody>
+</table>
+<p>Lynch Bar Choice - Grenadine Syrup - 2 x 2 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848766320714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>94693</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848763732042</id>
+    <published>2020-12-06T23:06:57-05:00</published>
+    <updated>2020-12-06T23:06:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-grenadine-syrup-2-llynch-bar-choice-grenadine-syrup-2-l"/>
+    <title>Lynch Bar Choice - Grenadine Syrup - 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-grenadine-syrup-2-l-311881.jpg?v=1611513275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>The pro's choice - a premium blend of only the finest ingredients including natural flavour.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p> Corn syrup, glucose-fructose, water, artificial flavour, citric acid, sodium benzoate, colour</p>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>Yield</td>
+<td>4 L</td>
+</tr>
+<tr>
+<td>Serving Size</td>
+<td>30 ML</td>
+</tr>
+<tr>
+<td>Servings</td>
+<td>133</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>SCC</td>
+<td>20062802600516</td>
+</tr>
+<tr>
+<td>Gross Weight</td>
+<td>12.6 lbs / 5.7 kgs</td>
+</tr>
+<tr>
+<td>Case Dimensions (LxWxH)</td>
+<td>26 x 13 x 20 CM</td>
+</tr>
+<tr>
+<td>Case Cube (mᶾ, ftᶾ)</td>
+<td>0.01 / 0.24</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Shelf Life</td>
+<td>730 Days</td>
+</tr>
+</tbody>
+</table>
+<p>Lynch Bar Choice - Grenadine Syrup - 2 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848763732042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>94692</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773791400010</id>
+    <published>2020-09-21T19:13:07-04:00</published>
+    <updated>2020-09-21T19:13:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-mrs-t-blue-raspberry-martini-cocktail-mix-6-x-1-l-case"/>
+    <title>Mott&apos;s Mr &amp; Mrs T - Blue Raspberry Martini Cocktail Mix - 6 x 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mott&apos;s Mr &amp; Mrs T</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/motts-mr-mrs-t-blue-raspberry-martini-cocktail-mix-6-x-1-l-233882.jpg?v=1611511419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mott&#39;s Mr &amp; Mrs T<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A cocktail made from gin (or vodka) puts a twist on the classic Martini with vivid colour and irresistibly sweet and tart blue raspberry flavour. </span><br><br><span><strong>Mott’s Mr &amp; Mrs T</strong> is the category leader in cocktail mixes that provides an easy solution for mixing cocktails/mocktails when entertaining at home. Since consumers like variety, Mott’s Mr &amp; Mrs T is offering more variety to choose from to make it easier for consumers have more diversity on hand. </span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Ready to use. Pour this mix with vodka and ice in a shaker.</span></li>
+<li><span class="a-list-item">Make a pitcher and share with friends. Finally the weekend is here!</span></li>
+<li><span class="a-list-item">Flavoured with Blue Raspberry</span></li>
+<li><span class="a-list-item">Made from scratch taste</span></li>
+<li><span class="a-list-item">Naturally Flavoured</span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/margarita-bar-mix-case#product","name":"Margarita Bar Mix - Case","itemCondition":"https://schema.org/NewCondition","mpn":"3967607603270","sku":"MBMBM62119","description":"Margarita Bar Mix - Case...","category":"FOOD","brand":{"@type":"Brand","name":"Pure Haven"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Margarita Bar Mix - Case","sku":"MBMBM62119","@type":"Offer","priceCurrency":"CAD","price":"23.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/margarita-bar-mix-case?variant=29545071280198","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Mix</s:tag>
+    <s:tag>Martini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773791400010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>124878</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773790711882</id>
+    <published>2020-09-21T19:13:05-04:00</published>
+    <updated>2020-09-21T19:13:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-mrs-t-strawberry-daiquiri-margarita-mix-6-x-1-l-case"/>
+    <title>Mott&apos;s Mr &amp; Mrs T - Strawberry Daiquiri Margarita Mix - 6 x 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mott&apos;s Mr &amp; Mrs T</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/motts-mr-mrs-t-strawberry-daiquiri-margarita-mix-6-x-1-l-439280.jpg?v=1611511177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mott&#39;s Mr &amp; Mrs T<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Mott's Mr &amp; Mrs T - Strawberry Daiquiri Margarita Mix - 6 x 1 L / Case</span></strong></li>
+<li><span class="a-list-item">Twelve 1 liter bottles</span></li>
+<li><span class="a-list-item">Made with premium, quality ingredients</span></li>
+<li><span class="a-list-item">Perfected with juicy strawberry flavor</span></li>
+<li><span class="a-list-item">Made from scratch taste</span></li>
+<li><span class="a-list-item"><span>The juicy flavor of fresh, plump strawberries and just the right amount of sweetener will surely make a scrumptious strawberry daiquiri every time.</span></span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/margarita-bar-mix-case#product","name":"Margarita Bar Mix - Case","itemCondition":"https://schema.org/NewCondition","mpn":"3967607603270","sku":"MBMBM62119","description":"Margarita Bar Mix - Case...","category":"FOOD","brand":{"@type":"Brand","name":"Pure Haven"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Margarita Bar Mix - Case","sku":"MBMBM62119","@type":"Offer","priceCurrency":"CAD","price":"23.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/margarita-bar-mix-case?variant=29545071280198","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Mix</s:tag>
+    <s:tag>Margarita</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773790711882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>5458</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4412643180618</id>
+    <published>2019-12-03T12:47:13-05:00</published>
+    <updated>2019-12-03T12:47:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mott-s-roses-grenadine-739-ml"/>
+    <title>Mott’s - Rose&apos;s Grenadine - 739 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mott&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/motts-roses-grenadine-739-ml-212874.jpg?v=1611511358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mott&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rose's Grenadine has a thick rich taste of pomegranates, a vital ingredient for many classic drinks and cocktails.</p>
+<p>Mott’s - Rose's Grenadine - 739 ml</p>
+<div class="product-description-text product-description-text--product-details-page">
+<p class="product-description-text__text"> </p>
+</div>
+<div class="product-description-text product-description-text--product-details-page"></div>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crosbys-blackstrap-molasses-5-kg#product","name":"Crosby&#039;s Blackstrap -  Molasses - 5 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953080533062","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crosbys-blackstrap-molasses-5-kg-bulk-mart_729.jpg","description":"Crosby&#039;s Blackstrap - Molasses - 5 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Crosby's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"3BM3952","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crosbys-blackstrap-molasses-5-kg?variant=29479136329798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4412643180618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>94694</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3967607603270</id>
+    <published>2019-08-24T16:43:50-04:00</published>
+    <updated>2019-08-24T16:43:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/margarita-bar-mix-case"/>
+    <title>Mott&apos;s Mr &amp; Mrs T - Margarita Cocktail Mix - 6 x 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mott&apos;s Mr &amp; Mrs T</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/motts-mr-mrs-t-margarita-cocktail-mix-6-x-1-l-671010.jpg?v=1611512436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mott&#39;s Mr &amp; Mrs T<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A cocktail with a tequila or vodka base. A mouth-watering combination of lime and agave nectar, perfected with a hint of orange for a tangy sweet experience.<br></p>
+<p><span><strong>Mott’s Mr &amp; Mrs T</strong> is the category leader in cocktail mixes that provides an easy solution for mixing cocktails/mocktails when entertaining at home. Since consumers like variety, Mott’s Mr &amp; Mrs T is offering more variety to choose from to make it easier for consumers have more diversity on hand. <br></span></p>
+<p><span>The tangy sweet taste of fresh lime and just the right amount of sweetener perfectly accented by a squeeze of orange. There’s no need to travel south of the border to enjoy a delicious margarita.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/margarita-bar-mix-case#product","name":"Margarita Bar Mix - Case","itemCondition":"https://schema.org/NewCondition","mpn":"3967607603270","sku":"MBMBM62119","description":"Margarita Bar Mix - Case...","category":"FOOD","brand":{"@type":"Brand","name":"Pure Haven"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Margarita Bar Mix - Case","sku":"MBMBM62119","@type":"Offer","priceCurrency":"CAD","price":"23.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/margarita-bar-mix-case?variant=29545071280198","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Mix</s:tag>
+    <s:tag>Margarita</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3967607603270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>145489</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3881224175686</id>
+    <published>2019-06-27T13:19:05-04:00</published>
+    <updated>2019-06-27T13:19:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pina-colada-bar-mix-6-cs"/>
+    <title>Mott&apos;s Mr &amp; Mrs T - Pina Colada Cocktail Mix - 6 x 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mott&apos;s Mr &amp; Mrs T</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/motts-mr-mrs-t-pina-colada-cocktail-mix-6-x-1-l-924571.jpg?v=1611512559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mott&#39;s Mr &amp; Mrs T<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b><br></b></div>
+<br>
+<h2 data-mce-fragment="1"><strong data-mce-fragment="1">Mr and Mrs T Pina Colada Mix</strong></h2>
+<div data-mce-fragment="1">The Mr. and Mrs. T Pina Colada Mix is a delicious blend with perfect pineapple and coconut flavors. It helps prepare delicious cocktails in less time and with minimum effort. The bulk case of Mr. and Mrs. T Pina Colada Mix containing 6 bottles is a good buy for bars, restaurants, and pubs.</div>
+<div data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Mott's Mr &amp; Mrs T - Pina Colada Bar Mix - 6 x 1 L / Case</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Six 1 liter bottles</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Made with premium, quality ingredients</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfected with pineapple and coconut flavors</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Made from scratch taste</span></li>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pina-colada-bar-mix-6-cs#product","name":"Pina Colada Bar Mix - 6 / Cs","itemCondition":"https://schema.org/NewCondition","mpn":"3881224175686","sku":"PCBMBM62119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pina-colada-bar-mix-6-cs-bulk-mart_859.jpg","description":"Pina Colada Bar Mix - 6 / Cs...","category":"FOOD","brand":{"@type":"Brand","name":"Pure Haven"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"40"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Pina Colada Bar Mix - 6 / Cs","sku":"PCBMBM62119","@type":"Offer","priceCurrency":"CAD","price":"24.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pina-colada-bar-mix-6-cs?variant=29222533857350","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Mix</s:tag>
+    <s:tag>Pina Colada</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3881224175686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>1548791</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

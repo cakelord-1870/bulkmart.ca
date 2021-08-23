@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bar-drink-crystals.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-07T00:42:01-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848782999626</id>
+    <published>2020-12-07T00:42:01-05:00</published>
+    <updated>2020-12-07T00:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-watermelon-drink-crystals-450g"/>
+    <title>Fresh Plus - Watermelon Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-watermelon-drink-crystals-450g-231728.png?v=1611510452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-watermelon-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Watermelon Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782999626</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593023</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782999626</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593024</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848782704714</id>
+    <published>2020-12-07T00:42:00-05:00</published>
+    <updated>2020-12-07T00:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-cherry-drink-crystals-450g"/>
+    <title>Fresh Plus - Cherry Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-cherry-drink-crystals-450g-297405.png?v=1611510994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-cherry-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Cherry Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782704714</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593003</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782704714</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593004</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848782540874</id>
+    <published>2020-12-07T00:42:00-05:00</published>
+    <updated>2020-12-07T00:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-tropical-drink-crystals-450g"/>
+    <title>Fresh Plus - Tropical Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-tropical-drink-crystals-450g-968961.png?v=1611509970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-tropical-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Tropical Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782540874</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593021</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782540874</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593022</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848782114890</id>
+    <published>2020-12-07T00:41:59-05:00</published>
+    <updated>2020-12-07T00:41:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-blue-raspberry-drink-crystals-450g"/>
+    <title>Fresh Plus - Blue Raspberry Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-blue-raspberry-drink-crystals-450g-825526.png?v=1611510130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-blue-raspberry-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fresh Plus - Blue Raspberry Drink Mix Crystals - 450g</strong></p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782114890</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593001</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848782114890</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593002</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848781885514</id>
+    <published>2020-12-07T00:41:59-05:00</published>
+    <updated>2020-12-07T00:41:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-raspberry-drink-crystals-450g"/>
+    <title>Fresh Plus - Raspberry Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-raspberry-drink-crystals-450g-325201.png?v=1611513941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-raspberry-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Raspberry Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781885514</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593019</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781885514</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593020</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848781525066</id>
+    <published>2020-12-07T00:41:58-05:00</published>
+    <updated>2020-12-07T00:41:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-peach-drink-crystals-450g"/>
+    <title>Fresh Plus - Peach Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-peach-drink-crystals-450g-557699.png?v=1611510038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-peach-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Peach Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781525066</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781525066</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593016</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848781262922</id>
+    <published>2020-12-07T00:41:57-05:00</published>
+    <updated>2020-12-07T00:41:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-fruit-punch-drink-crystals-450g"/>
+    <title>Fresh Plus - Fruit Punch Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-fruit-punch-drink-crystals-450g-836726.png?v=1611513151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-fruit-punch-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Fruit Punch Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS </h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781262922</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593005</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781262922</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593006</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848781066314</id>
+    <published>2020-12-07T00:41:57-05:00</published>
+    <updated>2020-12-07T00:41:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-orange-drink-crystals-450g"/>
+    <title>Fresh Plus - Orange Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-orange-drink-crystals-450g-549865.png?v=1611510274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-orange-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Orange Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781066314</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848781066314</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593014</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848780443722</id>
+    <published>2020-12-07T00:41:56-05:00</published>
+    <updated>2020-12-07T00:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-lemonade-drink-crystals-450g"/>
+    <title>Fresh Plus - Lemonade Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-lemonade-drink-crystals-450g-967843.png?v=1611511120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-lemonade-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Lemonade Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848780443722</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593011</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848780443722</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593012</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848779624522</id>
+    <published>2020-12-07T00:41:56-05:00</published>
+    <updated>2020-12-07T00:41:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-grape-drink-crystals-450g"/>
+    <title>Fresh Plus - Grape Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-grape-drink-crystals-450g-788437.png?v=1611514429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-grape-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Grape Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848779624522</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593007</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848779624522</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593008</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848778936394</id>
+    <published>2020-12-07T00:41:55-05:00</published>
+    <updated>2020-12-07T00:41:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-pink-lemonade-drink-crystals-450g"/>
+    <title>Fresh Plus - Pink Lemonade Drink Crystals - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-pink-lemonade-drink-crystals-450g-803476.png?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-pink-lemonade-drink-crystals-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fresh Plus - Pink Lemonade Drink Mix Crystals - 450g</p>
+<h2 class="headline">Beat the heat with a cool slushy or granita made from this Drink Crystals!</h2>
+<p><span>Guests will start craving your colorful slushies as soon as they see them at your carnival cart or concession stand. Keep up with the demand for these refreshing treats with this  slushy Crystals! With the large amount of servings per container, your venue will be in good supply. Simply pair it with a compatible pump for fast, efficient service.</span></p>
+<h4><strong>Use Ideas</strong></h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+<h3 class="item-header">Awesome Flavor</h3>
+<p>Great flavors at a great value, and this flavor enhances the appearance, color, and taste of your icy cold drinks. The colors and flavors are sure to boost impulse sales.</p>
+<h3 class="item-header">Great for Slushies, Snow Cones<br>
+</h3>
+<p>Just a small amount of these Crystals will help you make a large number of profitable drinks! You can even begin offering light and sweet granitas to put a new spin on your coffee shop or cafe's drink menu.</p>
+<p><strong>﻿</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>Lynch Fresh Plus Drink Crystals are packed with authentic fruit taste.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great as a drink crystal and is also ideal as a slush.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric and/or malic acid and/or sodium citrate, natural and/or artificial flavour, ascorbic acid (vitamin c - 270mg/100g), colour, tricalcium phosphate and/or silicon dioxide, may contain cellulose and/or arabic gum</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848778936394</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593017</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848778936394</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593018</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848776446026</id>
+    <published>2020-12-07T00:41:55-05:00</published>
+    <updated>2020-12-07T00:41:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fresh-plus-iced-tea-mix-450g"/>
+    <title>Fresh Plus - Iced Tea Mix - 450g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fresh-plus-iced-tea-mix-450g-194985.jpg?v=1611509914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99 - 38.99
+            <a href="https://bulkmart.ca/products/fresh-plus-iced-tea-mix-450g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fresh Plus - Iced Tea Drink Mix Crystals - 450g</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A cool and refreshing beverage, perfect for quenching your thirst. Made with high quality instant tea, this is a favourite with kids and adults alike!</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Can be used for both alcoholic and non-alcoholic drinks; add lemon or lime.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>DRINK: Add contents of package (450 g) to 4.5 L (160 fl oz) of cold water. Mix until dissolved. Chill. Stir before serving. SLUSH: Mix 2 pouches (900 g) of flavour crystals with 4 L (140 fl oz) cold water and put into machine. Rinse container using 2L (70 fl oz) of cold water and pour into machine. A total of 6L (210 fl oz) cold water is used. Products take approximately 1 hour to become a slushie.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, instant tea, artificial &amp; natural flavour, tricalcium phosphate, caramel, colour.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848776446026</id>
+      <title>450 g</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>593009</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848776446026</id>
+      <title>12 x 450 g</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>593010</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848761077834</id>
+    <published>2020-12-07T00:41:54-05:00</published>
+    <updated>2020-12-07T00:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lime-bar-mix-crystals-800g"/>
+    <title>Lynch Bar Choice - Lime Bar Mix Crystals - 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lime-bar-mix-crystals-800g-337191.jpg?v=1611510578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch Bar Choice - Lime Bar Mix Crystals - 800g</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lime flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavour, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848761077834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>593028</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848759046218</id>
+    <published>2020-12-07T00:41:54-05:00</published>
+    <updated>2020-12-07T00:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lime-bar-mix-6-x-800g"/>
+    <title>Lynch Bar Choice - Lime Bar Mix - 6 x 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lime-bar-mix-6-x-800g-774747.jpg?v=1611511477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch Bar Choice - Lime Bar Mix Crystals - 6 x 800g</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lime flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavour, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848759046218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>593027</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848757276746</id>
+    <published>2020-12-07T00:41:53-05:00</published>
+    <updated>2020-12-07T00:41:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lemon-bar-mix-6-x-800g"/>
+    <title>Lynch Bar Choice - Lemon Bar Mix - 6 x 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lemon-bar-mix-6-x-800g-205644.png?v=1611512255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch Bar Choice - Lemon Bar Mix Crystals - 6 x 800g</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lemon flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and stir until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavor, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848757276746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>593025</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848755572810</id>
+    <published>2020-12-07T00:41:53-05:00</published>
+    <updated>2020-12-07T00:41:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-bar-choice-lemon-bar-mix-crystals-800g"/>
+    <title>Lynch Bar Choice - Lemon Bar Mix Crystals - 800g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-bar-choice-lemon-bar-mix-crystals-800g-939103.png?v=1611514247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch Bar Choice - Lemon Bar Mix Crystals - 800g</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A strong sour lemon flavour ideal for both alcoholic and non-alcoholic beverages.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Great for a variety of alcoholic and non-alcoholic drinks.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Fill a 4L container halfway with water, add contents of package and sitr until dissolved. Add water to fill the remainder of the container.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar, citric acid, natural flavor, tricalcium phosphate, quillaia extract, colour, gum Arabic.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Drink Mixes</s:tag>
+    <s:tag>Crystal Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848755572810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>593026</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

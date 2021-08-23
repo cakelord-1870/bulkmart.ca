@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-fish.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T19:55:01-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4867243638858</id>
+    <published>2020-12-30T19:55:01-05:00</published>
+    <updated>2020-12-30T19:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-lemon-pepper-battered-cod-fillets-580-g"/>
+    <title>Janes - Lemon Pepper Battered Cod Fillets - 580 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-lemon-pepper-battered-cod-fillets-580-g-895738.jpg?v=1611514370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Lemon Pepper Battered Cod Fillets - 580 g</p>
+<p><span>Try our </span><em>ultimates</em><span> Lemon Pepper Battered Cod Fillets — whole fillets in a delicious battered coating of toasted wheat crumbs Don’t forget the tartar sauce for an authentic experience!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867243638858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>25141</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867242655818</id>
+    <published>2020-12-30T19:54:59-05:00</published>
+    <updated>2020-12-30T19:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-tavern-battered-cod-615-g"/>
+    <title>Janes - Tavern Battered Cod - 615 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-tavern-battered-cod-615-g-529371.jpg?v=1611514546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Tavern Battered Cod - 615 g</p>
+<p><span>Try our </span><em>ultimates</em><span> Tavern Battered Cod Fillets — whole cod fillets in a delicious battered coating of toasted wheat crumbs and beer. Don’t forget the tartar sauce for an authentic experience!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867242655818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>25143</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867259400266</id>
+    <published>2020-12-29T20:39:02-05:00</published>
+    <updated>2020-12-29T20:39:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/teja-1-7-oz-traditional-battered-cod-taco-portions-10-lbsteja-1-7-oz-traditional-battered-cod-taco-portions-10-lbs"/>
+    <title>Teja - 1.7 Oz Traditional Battered Cod Taco Portions - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Teja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/teja-17-oz-traditional-battered-cod-taco-portions-10-lbs-744783.png?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teja<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Teja - 1.7 Oz Traditional Battered Cod Taco Portions - 10 Lbs</strong></p>
+<p>Battered to perfection. These portions are hand cut for a perfect Taco and work well for small fish &amp; chip meals. Being pre-battered brings easy preparation into the kitchen and convenient portion control to the plate for a reasonable price</p>
+<p><span>This excellent item was created with a Mexican influence in mind! Cut to fit perfectly in a standard tortilla this product takes some of the work out of preparing this popular item. Fresh salsa, cabbage or lettuce with a tasty sauce and you will have your customer coming back for more. Although created with a taco concept in mind this product is also ideal for a smaller portion fish &amp; chip with senior or kids meals in mind.</span></p>
+<ul>
+<li>Ready for the oven or Deep fryer.</li>
+<li>One of the lightest batters in the industry “Less batter, more Fish.”</li>
+<li>Tight sizing spec for more control on actual food cost.</li>
+<li>Individually quick frozen.</li>
+<li>Great for kids or seniors, Fish &amp; Chips sized.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867259400266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>034248</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867251470410</id>
+    <published>2020-12-29T20:39:01-05:00</published>
+    <updated>2020-12-29T20:39:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-tuna-steaks-454-g"/>
+    <title>Ocean Jewel - Tuna Steaks - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-tuna-steaks-454-g-806974.jpg?v=1611513942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - Tuna Steaks - 454 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Tuna</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867251470410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>034238</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867250716746</id>
+    <published>2020-12-29T20:39:00-05:00</published>
+    <updated>2020-12-29T20:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-tuna-poke-ivp-1-5cm-10-lbs"/>
+    <title>Toppits - Tuna Poke IVP 1.5cm - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-tuna-poke-ivp-15cm-10-lbs-399800.jpg?v=1611513218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            151.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Tuna Poke IVP 1.5cm - 10 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Tuna</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867250716746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">151.49</s:price>
+      <s:sku>034249</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867239444554</id>
+    <published>2020-12-29T20:38:59-05:00</published>
+    <updated>2020-12-29T20:38:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/seacore-whole-cleaned-barramundi-sea-bass-1-kg"/>
+    <title>Seacore - Whole Cleaned Barramundi (sea bass) - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Seacore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/seacore-whole-cleaned-barramundi-sea-bass-1-kg-718271.jpg?v=1611513570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seacore<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Seacore - Whole Cleaned <strong>Barramundi (<span data-mce-fragment="1">seabass)</span></strong> - 1 Kg</p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barramundi</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Sea Bass Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867239444554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>034247</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867236724810</id>
+    <published>2020-12-29T20:38:58-05:00</published>
+    <updated>2020-12-29T20:38:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/seacore-house-cut-halibut-portions-380-g"/>
+    <title>Seacore - House Cut Halibut Portions - 380 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Seacore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/seacore-house-cut-halibut-portions-380-g-314954.jpg?v=1611512737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seacore<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Seacore - House Cut Halibut Portions - 380 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Halibut Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867236724810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>034246</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867236200522</id>
+    <published>2020-12-29T20:38:57-05:00</published>
+    <updated>2020-12-29T20:38:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/seacore-house-cut-albacore-tuna-340-g"/>
+    <title>Seacore - House Cut Albacore Tuna - 340 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Seacore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/seacore-house-cut-albacore-tuna-340-g-162775.jpg?v=1611514722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seacore<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Seacore - House Cut Albacore Tuna - 340 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Tuna</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867236200522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>034245</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867235479626</id>
+    <published>2020-12-29T20:38:56-05:00</published>
+    <updated>2020-12-29T20:38:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-red-snapper-fillets-6-8-oz-400-g"/>
+    <title>Ocean Prime - Red Snapper Fillets 6-8 Oz - 400 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-red-snapper-fillets-6-8-oz-400-g-837974.jpg?v=1611514130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - Red Snapper Fillets 6-8 Oz - 400 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Red Snapper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867235479626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>034240</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867226009674</id>
+    <published>2020-12-29T20:38:56-05:00</published>
+    <updated>2020-12-29T20:38:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-neptune-smoked-mackerel-200-g"/>
+    <title>Ocean Jewel - Neptune Smoked Mackerel - 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-neptune-smoked-mackerel-200-g-538603.jpg?v=1611512671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - Neptune Smoked Mackerel - 200 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Mackerel Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867226009674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>034237</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867224895562</id>
+    <published>2020-12-29T20:38:55-05:00</published>
+    <updated>2020-12-29T20:38:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oceanic-fisheries-7-oz-pacific-cod-loins-10-lbs"/>
+    <title>Oceanic Fisheries - 7 Oz Pacific Cod Loins - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Oceanic Fisheries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oceanic-fisheries-7-oz-pacific-cod-loins-10-lbs-295965.jpg?v=1611513399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oceanic Fisheries<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oceanic Fisheries - 7 Oz Pacific Cod Loins - 10 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867224895562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>034244</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867224207434</id>
+    <published>2020-12-29T20:38:54-05:00</published>
+    <updated>2020-12-29T20:38:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-silverside-2-lbs"/>
+    <title>Ocean Prime - Silverside - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-silverside-2-lbs-527208.png?v=1611511473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - Silverside - 2 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Siversides</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867224207434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>034241</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867223519306</id>
+    <published>2020-12-29T20:38:53-05:00</published>
+    <updated>2020-12-29T20:38:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-dragon-baby-cuttlefish-350-gocean-dragon-baby-cuttlefish-350-g"/>
+    <title>Ocean Dragon - Baby Cuttlefish - 350 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-dragon-baby-cuttlefish-350-g-895491.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Dragon - Baby Cuttlefish - 350 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cuttlefish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867223519306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.39</s:price>
+      <s:sku>034235</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867222962250</id>
+    <published>2020-12-29T20:38:52-05:00</published>
+    <updated>2020-12-29T20:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-tilapia-fillets-5-7-oz-908-g"/>
+    <title>Ocean Prime - Tilapia Fillets 5-7 Oz - 908 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-tilapia-fillets-5-7-oz-908-g-871706.png?v=1611514366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - Tilapia Fillets 5-7 Oz - 908 g</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Tilapia Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867222962250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>034243</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867222536266</id>
+    <published>2020-12-29T20:38:51-05:00</published>
+    <updated>2020-12-29T20:38:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-4-5-oz-sole-fillets-2-5-lbsocean-prime-sole-fillets-4-5-oz-2-5-lbs"/>
+    <title>Ocean Prime - Sole Fillets 4-5 Oz - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-sole-fillets-4-5-oz-25-lbs-267201.jpg?v=1611514546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - Sole Fillets 4-5 Oz - 2.5 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Sole Fillets</s:tag>
+    <s:tag>Sole Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867222536266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>034242</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867220635722</id>
+    <published>2020-12-29T20:38:50-05:00</published>
+    <updated>2020-12-29T20:38:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-4-oz-battered-atlantic-cod-fillets-10-lbs"/>
+    <title>Ocean Jewel - 4 Oz Battered Atlantic Cod Fillets - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-4-oz-battered-atlantic-cod-fillets-10-lbs-207417.jpg?v=1611512918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 4 Oz Battered Atlantic Cod Fillets - 10 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867220635722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>034236</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867209920586</id>
+    <published>2020-12-29T20:38:49-05:00</published>
+    <updated>2020-12-29T20:38:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-11-12-oz-cuttlefish-clean-2-lbs"/>
+    <title>Ocean Prime - 11-12 Oz Cuttlefish Clean - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-11-12-oz-cuttlefish-clean-2-lbs-202228.jpg?v=1611511237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 11-12 Oz Cuttlefish Clean - 2 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cuttlefish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867209920586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>034239</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867218276426</id>
+    <published>2020-12-29T19:34:14-05:00</published>
+    <updated>2020-12-29T19:34:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-smoked-steelhead-salmon-400-g"/>
+    <title>Toppits - Smoked Steelhead Salmon - 400 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-smoked-steelhead-salmon-400-g-424293.jpg?v=1611514664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Smoked Steelhead Salmon - 400 g</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867218276426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>034234</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867217588298</id>
+    <published>2020-12-29T19:34:13-05:00</published>
+    <updated>2020-12-29T19:34:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-atlantic-salmon-skin-on-10-kgtoppits-atlantic-salmon-skin-on-10-kg"/>
+    <title>Toppits - Atlantic Salmon Skin On - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-atlantic-salmon-skin-on-10-kg-223579.jpg?v=1611513455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            259.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Atlantic Salmon Skin On - 10 Kg </strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867217588298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">259.99</s:price>
+      <s:sku>034232</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867216474186</id>
+    <published>2020-12-29T19:34:12-05:00</published>
+    <updated>2020-12-29T19:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/norwegian-fjord-smoked-steelhead-salmon-550-gnorwegian-fjord-smoked-steelhead-salmon-550-g"/>
+    <title>Norwegian Fjord - Smoked Steelhead Salmon - 550 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Norwegian Fjord</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/norwegian-fjord-smoked-steelhead-salmon-550-g-281418.jpg?v=1611512072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norwegian Fjord<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Norwegian Fjord - Smoked Steelhead Salmon - 550 g</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867216474186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>034229</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867215949898</id>
+    <published>2020-12-29T19:34:11-05:00</published>
+    <updated>2020-12-29T19:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-4-oz-wild-pacific-salmon-portions-10-lbstoppits-4-oz-wild-pacific-salmon-portions-10-lbs"/>
+    <title>Toppits - 4 Oz Wild Pacific Salmon Portions - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-4-oz-wild-pacific-salmon-portions-10-lbs-814808.jpg?v=1611513034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 4 Oz Wild Pacific Salmon Portions - 10 Lbs</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867215949898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>034231</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867215130698</id>
+    <published>2020-12-29T19:34:10-05:00</published>
+    <updated>2020-12-29T19:34:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-atlantic-salmon-skin-on-10-lbs"/>
+    <title>Toppits - Atlantic Salmon Skin On - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-atlantic-salmon-skin-on-10-lbs-716537.jpg?v=1611512611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Atlantic Salmon Skin On - 10 Lbs</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867215130698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>034233</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867213557834</id>
+    <published>2020-12-29T19:34:09-05:00</published>
+    <updated>2020-12-29T19:34:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nanuk-sliced-smoked-sockeye-85-gnanuk-sliced-smoked-sockeye-salmon-85-g"/>
+    <title>Nanuk - Sliced Smoked Sockeye Salmon - 85 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nanuk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nanuk-sliced-smoked-sockeye-salmon-85-g-941298.png?v=1611511297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nanuk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nanuk - Sliced Smoked Sockeye Salmon - 85 g</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867213557834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>034228</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867213000778</id>
+    <published>2020-12-29T19:34:08-05:00</published>
+    <updated>2020-12-29T19:34:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nanuk-sliced-smoked-coho-salmon-300-g"/>
+    <title>Nanuk - Sliced Smoked Coho Salmon - 300 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nanuk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nanuk-sliced-smoked-coho-salmon-300-g-629661.jpg?v=1611513699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nanuk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nanuk - Sliced Smoked Coho Salmon - 300 g</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867213000778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>034227</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867212017738</id>
+    <published>2020-12-29T19:34:07-05:00</published>
+    <updated>2020-12-29T19:34:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oceanic-fisheries-4-oz-pacific-salmon-loins-1-lbsoceanic-fisheries-4-oz-pacific-salmon-loins-1-lbs"/>
+    <title>Oceanic Fisheries - 4 Oz Pacific Salmon Loins - 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Oceanic Fisheries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oceanic-fisheries-4-oz-pacific-salmon-loins-1-lbs-551202.jpg?v=1611512670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oceanic Fisheries<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oceanic Fisheries - 4 Oz Pacific Salmon Loins - 1 Lbs</strong></p>
+<p>Great for restaurants, caterers, and delis, wholesale salmon is a versatile protein to incorporate into your menu. You can use our selection of smoked salmon in classic breakfast and lunch sandwiches, or choose salmon fillets to pair with roasted vegetables. Plus, salmon is full of nutrients, so you can appeal to health-conscious customers.</p>
+<p><br>Whether you want to expand your breakfast menu or you need another main course option for your next catered event, wholesale salmon is a great option for you. This fish is a good source of protein that can appeal to health-conscious customers. Additionally, we offer salmon in large quantities to allow you to prepare for busy meal services. For related products, check out our, spice blends, and seafood sauces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fish</s:tag>
+    <s:tag>Salmon Fish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867212017738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>034230</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frosting-icing.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-15T22:58:07-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6547667288138</id>
+    <published>2021-03-15T22:58:07-04:00</published>
+    <updated>2021-03-15T22:58:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-whipped-topping-gold-label-4-kg"/>
+    <title>Rich&apos;s - Whipped Topping Gold Label - 4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-whipped-topping-gold-label-4-kg-308777.jpg?v=1615873384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich's - Whipped Topping Gold Label - 4 Kg</p>
+<p><span>Liquid topping that was designed to offer greater stability at a higher temperature and at high-speed mixing. Packaged in 4kg carton. 4 cartons per case.</span></p>
+<h2 class="title">INGREDIENTS</h2>
+<p>WATER, GLUCOSE-FRUCTOSE, HYDROGENATED VEGETABLE OIL (PALM, PALM KERNEL, COCONUT AND/OR COTTONSEED), SUGAR, SODIUM CASEINATE (A MILK DERIVATIVE), MODIFIED CELLULOSE, LACTYLIC ESTERS OF FATTY ACIDS, SODIUM STEAROYL-2-LACTYLATE, DIPOTASSIUM PHOSPHATE, SALT, NATURAL FLAVOUR (CONTAINS MILK INGREDIENTS), MONO AND DIGLYCERIDES, XANTHAN GUM, COLOUR.</p>
+<p>CONTAINS: MILK</p>
+<h2 class="title">TIPS &amp; HANDLING</h2>
+<p class="text">KEEP REFRIGERATED THAW UNDER REFRIGERATION 2-7 C (35°-44°F) FOR 24-48 HOURS BEFORE USE. SHAKE WELL BEFORE OPENING DIRECTIONS FOR USE: POUR INTO CHILLED BOWL (LIQUID DESSERT TOPPING SHOULD NOT EXCEED 20% CAPACITY OF THE BOWL). MIX ON MEDIUM OR HIGH SPEED UNTIL SOFT PEAKS FORM AND GLOSS DISAPPEARS. IDEAL WHIPPING TEMPERATURE FOR PRODUCT IS 7-10 C (45°-50°F). TEMPERATURE WHIPPING SPEED BOWL SIZE AND AMOUNT OF PRODUCT WHIPPED AFFECT WHIPPING TIME. WHIPPING AT COLDER TEMPERATURES RESULTS IN SLIGHTLY LONGER WHIPPING TIME AND A GLOSSY APPEARANCE. WHIPPING AT WARMER TEMPERATURES RESULTS IN A SHORTER WHIPPING TIME AND A DULL APPEARANCE. COLDER AND WARMER WHIPPING TEMPERATURES SLIGHTLY REDUCE YIELD. WHIPPED PRODUCT MUST BE STORED UNDER REFRIGERATION AND CAN BE FROZEN.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547667288138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>66220</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547624722506</id>
+    <published>2021-03-15T22:53:37-04:00</published>
+    <updated>2021-03-15T22:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-white-cookie-icing-228-g"/>
+    <title>Twinkle - White Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-white-cookie-icing-228-g-865814.jpg?v=1615873932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - White Cookie Icing - 228g</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547624722506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55110</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547623575626</id>
+    <published>2021-03-15T22:53:36-04:00</published>
+    <updated>2021-03-15T22:53:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-pink-cookie-icing-228-g"/>
+    <title>Twinkle - Pink Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-pink-cookie-icing-228-g-111288.png?v=1615873939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Pink Cookie Icing - 228g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547623575626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55112</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547622789194</id>
+    <published>2021-03-15T22:53:35-04:00</published>
+    <updated>2021-03-15T22:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-green-cookie-icing-228-g"/>
+    <title>Twinkle - Green Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-green-cookie-icing-228-g-632265.jpg?v=1615873941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Green Cookie Icing - 228g</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547622789194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55113</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6547619250250</id>
+    <published>2021-03-15T22:53:35-04:00</published>
+    <updated>2021-03-15T22:53:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/twinkle-red-cookie-icing-228-g"/>
+    <title>Twinkle - Red Cookie Icing - 228 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Twinkle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/twinkle-red-cookie-icing-228-g-906274.jpg?v=1615873933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinkle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinkle - Red Cookie Icing - 228g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Personalize your desserts with messages or create unique patterns on your baked goods using Twinkle's Cookie Icing. This product has a resealable and easy-to-use bottle tip and looks great on its own or combined with other Twinkle baking décor products.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Peanut and Nut free and Gluten free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Icing</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6547619250250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>55111</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6538179739722</id>
+    <published>2021-03-15T22:53:34-04:00</published>
+    <updated>2021-03-15T22:53:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/caneggs-egg-powder-spray-dried-2-kg"/>
+    <title>Caneggs - Egg Powder Spray Dried - 2 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Caneggs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/caneggs-egg-powder-spray-dried-2-kg-832448.jpg?v=1615871040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caneggs<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Egg white powder (albumen) made from Canadian farmed pasteurized spray-dried liquid egg whites.</span></p>
+<p><b>Ingredients:<br></b><span>Egg white, Citric Acid, Baker’s Yeast</span></p>
+<p><b>Additional Information:<br></b><span>Egg White Powder contains all 9 essential amino acids: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine.</span></p>
+<p>NOTE:<br>* Egg White Powder is an allergen. Use standard precaution measures before use.<br>* Please consult your physician and/or personal trainer for personalized information on your daily requirements.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Egg Powder</s:tag>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6538179739722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>55114</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812716343370</id>
+    <published>2020-10-22T00:26:44-04:00</published>
+    <updated>2020-10-22T00:26:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-meringue-powder-300-g"/>
+    <title>Mccall&apos;s - Meringue Powder - 300 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-meringue-powder-300-g-375418.jpg?v=1611511305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Meringue Powder 300 g</h1>
+<p>Primarily used to make royal icing and buttercream to add body and stability. It helps royal icing dry quickly without cracking and provides stability for easy pipping. Meringue powder can also be used to replace egg whites in recipes that look for egg whites beaten to stiff peaks, such as angel food cakes, meringue cookies, and other toppings.<br><br>To make royal icing:<br></p>
+<ul>
+<li>40 g (5 Level tbsp) Meringue Powder</li>
+<li>5 g (1 tsp) Cream of Tartar</li>
+<li>190 g warm water</li>
+<li>1 kg (7 cups) Icing Sugar</li>
+<li>Item #: 420</li>
+<li>Size: 300 g / 10 oz.</li>
+</ul>
+<ol>
+<li>Mix meringue powder, cream of tartar, water and hand whisk until foamy.</li>
+<li>Add icing sugar.</li>
+<li>Using a flat beater, mix at low speed for 10 mins.</li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Meringue Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812716343370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>34506</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812716212298</id>
+    <published>2020-10-22T00:26:42-04:00</published>
+    <updated>2020-10-22T00:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-whip-cream-stabilizer-350-g"/>
+    <title>Mccall&apos;s - Whip Cream Stabilizer - 350 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-whip-cream-stabilizer-350-g-258097.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Whip Cream Stabilizer - 350 g</strong></p>
+<p><span>Instant whip cream stabilizer for creams and mousses</span><br><span>freeze thaw stable . Helps to stabilize whipped cream and keeps it from weeping when cakes are refrigerated for several hours before serving. Two tablespoon per 500 grams of whipping cream.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:tag>Whip Cream Stabilizer</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812716212298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>34507</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812701663306</id>
+    <published>2020-10-22T00:26:40-04:00</published>
+    <updated>2020-10-22T00:26:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-whipped-topping-gold-label-4-x-4-kg"/>
+    <title>Rich&apos;s - Whipped Topping Gold Label - 4 x 4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-whipped-topping-gold-label-4-kg-320653.jpg?v=1611512381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            95.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich's - Whipped Topping Gold Label - 4 x 4 Kg</p>
+<p><span>Liquid topping that was designed to offer greater stability at a higher temperature and at high-speed mixing. Packaged in 4kg carton. 4 cartons per case.</span></p>
+<h2 class="title">INGREDIENTS</h2>
+<p>WATER, GLUCOSE-FRUCTOSE, HYDROGENATED VEGETABLE OIL (PALM, PALM KERNEL, COCONUT AND/OR COTTONSEED), SUGAR, SODIUM CASEINATE (A MILK DERIVATIVE), MODIFIED CELLULOSE, LACTYLIC ESTERS OF FATTY ACIDS, SODIUM STEAROYL-2-LACTYLATE, DIPOTASSIUM PHOSPHATE, SALT, NATURAL FLAVOUR (CONTAINS MILK INGREDIENTS), MONO AND DIGLYCERIDES, XANTHAN GUM, COLOUR.</p>
+<p>CONTAINS: MILK</p>
+<h2 class="title">TIPS &amp; HANDLING</h2>
+<p class="text">KEEP REFRIGERATED THAW UNDER REFRIGERATION 2-7 C (35°-44°F) FOR 24-48 HOURS BEFORE USE. SHAKE WELL BEFORE OPENING DIRECTIONS FOR USE: POUR INTO CHILLED BOWL (LIQUID DESSERT TOPPING SHOULD NOT EXCEED 20% CAPACITY OF THE BOWL). MIX ON MEDIUM OR HIGH SPEED UNTIL SOFT PEAKS FORM AND GLOSS DISAPPEARS. IDEAL WHIPPING TEMPERATURE FOR PRODUCT IS 7-10 C (45°-50°F). TEMPERATURE WHIPPING SPEED BOWL SIZE AND AMOUNT OF PRODUCT WHIPPED AFFECT WHIPPING TIME. WHIPPING AT COLDER TEMPERATURES RESULTS IN SLIGHTLY LONGER WHIPPING TIME AND A GLOSSY APPEARANCE. WHIPPING AT WARMER TEMPERATURES RESULTS IN A SHORTER WHIPPING TIME AND A DULL APPEARANCE. COLDER AND WARMER WHIPPING TEMPERATURES SLIGHTLY REDUCE YIELD. WHIPPED PRODUCT MUST BE STORED UNDER REFRIGERATION AND CAN BE FROZEN.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812701663306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.99</s:price>
+      <s:sku>34511</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812698583114</id>
+    <published>2020-10-22T00:26:38-04:00</published>
+    <updated>2020-10-22T00:26:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-vanilla-heatn-ice-icing-5-4-kg"/>
+    <title>Rich&apos;s - Vanilla Heat&apos;N Ice Icing - 5.4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-vanilla-heatn-ice-icing-54-kg-426006.jpg?v=1611513277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Add the finishing touch to your desserts with Rich's Allen vanilla Heat n' Ice donut &amp; roll icing!</strong> This icing delivers rich, sweet vanilla flavor with a visually-appealing shine that is sure to enhance the taste and presentation of your offerings. <strong>Use it for dipping your donuts and other pastries or for drizzling atop bundt cakes, scones, and sweet rolls to merchandise at your donut shop or in your cafe's bakery case.</strong></span><br><br><span>This pre-whipped icing is ready to use and does not require you to mix any ingredients prior to use. It is perfect for bulk and last minute orders and reduces the possibility of human error happening when making your own recipe, allowing your staff to devote more time to decorating your baked goods! For best results, place the desired amount of icing in your icing warmer and heat to 100 degrees Fahrenheit. Dip or drizzle onto your baked goods and allow the icing to dry for 2-5 minutes. Cover any unused icing and store at room temperature.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812698583114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>34509</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812696682570</id>
+    <published>2020-10-22T00:26:36-04:00</published>
+    <updated>2020-10-22T00:26:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-chocolate-heatn-ice%E2%84%A2-icing-5-4-kg"/>
+    <title>Rich&apos;s - Chocolate HEAT&apos;N ICE™ Icing - 5.4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-chocolate-heatn-ice-icing-54-kg-265245.jpg?v=1611511479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rich's - Chocolate Heat and Ice Icing - 5.4 Kg</p>
+<p><span>Chocolate, flat donut and roll icing used for dipping, drizzling and pouring over product. Recommend heating before use. Packaged in 12-lb pail.</span></p>
+<h2 class="title">INGREDIENTS</h2>
+<p>INGREDIENTS FOR CANADIAN MARKET: ICING SUGAR, WATER, GLUCOSE-FRUCTOSE, GLUCOSE SYRUP, MODIFIED PALM OIL, GLUCOSE SYRUP SOLIDS, SOYBEAN OIL, COCOA, ALKALI PROCESSED COCOA, MODIFIED TAPIOCA STARCH, SOYA LECITHIN, CITRIC ACID, PRESERVATIVE (POTASSIUM SORBATE), NATURAL AND ARTIFICIAL FLAVOUR.</p>
+<p>CONTAINS: SOYA</p>
+<h2 class="title">TIPS &amp; HANDLING</h2>
+<p class="text">1. STORE AT ROOM TEMPERATURE. 2. PLACE DESIRED AMOUNT OF HEAT 'N ICE ICING IN ICING WARMER, HEAT TO 110 F (43 C). 3. DIP OR DRIZZLE ICING ON SWEET GOOD, ALLOW TO DRY 2 - 5 MINUTES. 4. TURN OFF ICING WARMER WHEN FINISHED. 5. SCRAPE ICING OFF SIDES OF WARMER. 6. COVER UNUSED ICING.</p>
+<h2 class="title">STORAGE</h2>
+<ul>
+<li>Frozen:<span> </span><strong class="number-label">270 DAYS</strong>
+</li>
+<li>Refrigerated:<span> </span><strong class="number-label">270 DAYS</strong>
+</li>
+<li>Ambient:<span> </span><strong class="number-label">270 DAYS</strong>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812696682570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>34508</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812694519882</id>
+    <published>2020-10-22T00:26:34-04:00</published>
+    <updated>2020-10-22T00:26:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-string-icing-1-kg"/>
+    <title>Dawn - String Icing - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-string-icing-1-kg-829235.jpg?v=1611513939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.99 - 71.99
+            <a href="https://bulkmart.ca/products/dawn-string-icing-1-kg">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn -<em>01292341 </em>String Icing - 1 Kg</strong></p>
+<p><strong>SPECIALTY PASTRY ICINGS </strong></p>
+<p><strong>Whether you need a chocolate icing that provides smooth coverage for that decadent donut, or a high-sheen white icing for wrapped pastries, Dawn’s donut and pastry icings provide you with a great finish. And with no pre-mixing required, they’re also incredibly easy to use. • Easy to Use • Consistent Workability • Exceptional Stability</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812694519882</id>
+      <title>1 Kg</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>34501</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812694519882</id>
+      <title>12 x 1 Kg</title>
+      <s:price currency="CAD">71.99</s:price>
+      <s:sku>34502</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966864392262</id>
+    <published>2020-10-22T00:26:33-04:00</published>
+    <updated>2020-10-22T00:26:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-velvetop-whipped-vanilla-icing-and-filling-liquid-4-kg"/>
+    <title>Dawn - Velvetop Whipped Vanilla Icing and Filling Liquid - 4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-velvetop-whipped-vanilla-icing-and-filling-liquid-4-kg-493648.jpg?v=1611509494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - 0492687 Velvetop Whipped Vanilla Icing and Filling Liquid - 4 x 4 Kg</strong></p>
+<p>Customers seek premium, indulgent bakery offerings, and Dawn makes it easy to turn simple offerings into indulgent products your customers will love. From cakes and brownies to cupcakes and donuts, our Dawn Exceptional® Fudge Icings and Bases, Whipped Icings, and Specialty Icings will keep your customers coming back for more.</p>
+<p>Whipped Icings to Smile About Our light and airy whipped icings deliver the perfect balance of delicious taste, creamy texture, and visual appeal. Whether used for cake icing, icing layers, or a filling, the opportunities are endless to broaden your portfolio with products that keep customers smiling.</p>
+<p><span>Our light and airy whipped icings deliver the perfect balance of delicious taste, creamy texture, and visual appeal. Whether used for cake icing, icing layers, or a filling, the opportunities are endless to broaden your portfolio with products that keep customers smiling.</span></p>
+<h3><span>Features:</span></h3>
+<ul>
+<li><span>Superior, delicious flavor</span></li>
+<li><span>Excellent handling — holds decorating edge for days</span></li>
+<li><span>Light, whipped flavor — no waxy mouth feel</span></li>
+<li><span>Easy to pipe with consistent flow — less strain on hands and wrists</span></li>
+<li><span>Holds colors and flavors well</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dawn-vanilla-icing-and-filling-whipping-cream-8-lbs#product","name":"Dawn - Vanilla Icing And Filling - Whipping Cream - 8 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3966864392262","sku":"0BM1098","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-vanilla-icing-and-filling-whipping-cream-8-lbs-bulk-mart_345.jpg","description":"Dawn - Vanilla Icing And Filling - Whipping Cream - 8 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Dawn"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"},"offers":[{"sku":"0BM1098","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dawn-vanilla-icing-and-filling-whipping-cream-8-lbs?variant=29541594431558","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966864392262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>34504</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4520362934346</id>
+    <published>2020-03-03T15:42:01-05:00</published>
+    <updated>2020-03-03T15:42:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-velvetop-chocolate-whipped-icing-and-filling-liquid-4-x-4-kg"/>
+    <title>Dawn - Velvetop Chocolate whipped Icing and Filling Liquid - 4 x 4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-velvetop-chocolate-whipped-icing-and-filling-liquid-4-x-4-kg-200133.jpg?v=1611510935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - 00492695 Veletop Chocolate whipped Icing and Filling Liquid - 4 x 4 Kg</strong></p>
+<p>Customers seek premium, indulgent bakery offerings, and Dawn makes it easy to turn simple offerings into indulgent products your customers will love. From cakes and brownies to cupcakes and donuts, our Dawn Exceptional® Fudge Icings and Bases, Whipped Icings, and Specialty Icings will keep your customers coming back for more.</p>
+<p>Whipped Icings to Smile About Our light and airy whipped icings deliver the perfect balance of delicious taste, creamy texture, and visual appeal. Whether used for cake icing, icing layers, or a filling, the opportunities are endless to broaden your portfolio with products that keep customers smiling.</p>
+<p>Features:<br></p>
+<ul>
+<li><span>Superior, delicious flavor</span></li>
+<li><span>Excellent handling — holds decorating edge for days</span></li>
+<li><span>Light, whipped flavor — no waxy mouth feel</span></li>
+<li><span>Easy to pipe with consistent flow — less strain on hands and wrists</span></li>
+<li><span>Holds colors and flavors well</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4520362934346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>34503</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4520362442826</id>
+    <published>2020-03-03T15:40:59-05:00</published>
+    <updated>2020-03-03T15:40:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-velvetop-whipped-vanilla-icing-and-filling-liquid-4-x-4-kg"/>
+    <title>Dawn - Velvetop Whipped Vanilla Icing and Filling Liquid - 4 x 4 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-velvetop-whipped-vanilla-icing-and-filling-liquid-4-x-4-kg-457348.jpg?v=1611511295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - 0492687 Velvetop Whipped Vanilla Icing and Filling Liquid - 4 x 4 Kg</strong></p>
+<p>Customers seek premium, indulgent bakery offerings, and Dawn makes it easy to turn simple offerings into indulgent products your customers will love. From cakes and brownies to cupcakes and donuts, our Dawn Exceptional® Fudge Icings and Bases, Whipped Icings, and Specialty Icings will keep your customers coming back for more.</p>
+<p>Whipped Icings to Smile About Our light and airy whipped icings deliver the perfect balance of delicious taste, creamy texture, and visual appeal. Whether used for cake icing, icing layers, or a filling, the opportunities are endless to broaden your portfolio with products that keep customers smiling.</p>
+<p><span>Our light and airy whipped icings deliver the perfect balance of delicious taste, creamy texture, and visual appeal. Whether used for cake icing, icing layers, or a filling, the opportunities are endless to broaden your portfolio with products that keep customers smiling.</span></p>
+<h3><span>Features:</span></h3>
+<ul>
+<li><span>Superior, delicious flavor</span></li>
+<li><span>Excellent handling — holds decorating edge for days</span></li>
+<li><span>Light, whipped flavor — no waxy mouth feel</span></li>
+<li><span>Easy to pipe with consistent flow — less strain on hands and wrists</span></li>
+<li><span>Holds colors and flavors well</span></li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dawn-vanilla-icing-and-filling-whipping-cream-4-x-kg#product","name":"Dawn - Vanilla Icing And Filling - Whipping Cream - 4 x 4 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"DAlCR3510BM1098","sku":"0BM1098","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-vanilla-icing-and-filling-whipping-cream-4-x-kg-bulk-mart-893.jpg","description":"Dawn - Vanilla Icing And Filling - Whipping Cream - 4 x 4 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Dawn"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"52"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"16"},"offers":[{"name":"Dawn - Vanilla Icing And Filling - Whipping Cream - 4 x 4 Kg","sku":"0BM1098","mpn":"DAlCR3510BM1098","@type":"Offer","priceCurrency":"CAD","price":"79.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dawn-vanilla-icing-and-filling-whipping-cream-4-x-kg?variant=31804061417546","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frosting &amp; Icing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4520362442826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>34505</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

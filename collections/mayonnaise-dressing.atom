@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/mayonnaise-dressing.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-19T22:12:57-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4815448080458</id>
+    <published>2020-12-19T22:12:57-05:00</published>
+    <updated>2020-12-19T22:12:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-wings-mayonnaise-portions-200-x-15-ml"/>
+    <title>PC Wings - Mayonnaise Portions - 200 x 15 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-wings-mayonnaise-portions-200-x-14-g-490027.png?v=1611513211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PC Wings - Mayonnaise Portions - 200 x 15 ml</p>
+<p><span><strong>A must-have condiment for fried favorites</strong> like fried chicken, shrimp, fish sticks, and crab cakes, this sauce will deliver just the right amount of bold flavor! Quickly and easily enhance your seafood dishes with the zesty taste of this classic condiment. Bursting with flavor, this sauce is the perfect fusion of sweet pickle relish and creamy mayonnaise peppered with savory onion powder, herbs, and spices. Made from natural ingredients, this sauce will delight your customers with the classic taste they know and love.</span><br><br><span><strong>The texture of this condiment </strong>is slightly thicker than other sauces. It has a creamy consistency that tastes cool and tangy over grilled or pan-fried chicken, fish and deep fried foods. Save the hassle and kitchen prep time mixing sauce from scratch with this packet that is ready to serve! It still has a homemade taste that's sure to please your seafood-loving patrons. Spice up the menu offerings at your restaurant or diner, and offer this rich, creamy, zesty sauce.</span></p>
+<p><span><strong>Enhance the flavor of virtually any recipe with the iconic taste of these packets!</strong> Its rich, thick consistency is perfect for dipping or spreading while its versatile taste is perfect for complementing a variety of dishes and appetizers. These packets are great for offering at convenience stores, catered events, on the go and quick-service eateries, and allow you to eliminate condiment pumps and portion cups at your self-serve condiment stations to enhance the convenience for your customers and effectively minimize product waste and cleanup of your counters.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/grace-hot-pepper-sauce-355-ml#product","name":"Grace -  Hot Pepper Sauce - 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887490080838","sku":"17BM997","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-hot-pepper-sauce-355-ml-bulk-mart_595.jpg","description":"Grace - Hot Pepper Sauce - 355 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Grace"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"17BM997","mpn":"","priceCurrency":"CAD","price":"3.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/grace-hot-pepper-sauce-355-ml?variant=19271359037510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Mayonnaise Portions</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815448080458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>552314</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805332762698</id>
+    <published>2020-10-15T16:28:32-04:00</published>
+    <updated>2020-10-15T16:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-smoked-peach-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Smoked Peach Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-smoked-peach-dressing-378-l-825284.jpg?v=1611510223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99 - 59.99
+            <a href="https://bulkmart.ca/products/hellmanns-smoked-peach-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - Smoked Peach Vinaigrette  Dressing - 3.78 L</strong></p>
+<h3>Ingredients</h3>
+<p>Water, cider vinegar, soybean oil, sugar, peach puree concentrate, peach juice concentrate, salt, modified corn starch, prepared mustard (water, vinegar, mustard seeds, salt), spices, onion powder, xanthan gum, dehydrated garlic, malic acid, sorbic acid and calcium disodium edta (used to protect quality), paprika, natural flavours, annatto extract (colour), natural smoke flavour.</p>
+<div class="pdp-row">
+<h3>Additives</h3>
+<ul>
+<li class="checked">No added MSG</li>
+<li class="checked">No artificial colours and flavours</li>
+</ul>
+</div>
+<div class="pdp-row">
+<h3>Dietary Information</h3>
+<ul>
+<li class="checked">Gluten Free</li>
+<li class="checked">Suitable for Vegetarians</li>
+<li>Made with real peach puree; introduces guests to trendy, exciting new flavours</li>
+<li>Excels as an ingredient in marinades, dips, and more</li>
+<li>Specially developed for use in restaurants, hospitality, and other commercial applications</li>
+<li>Smoked Peach Salad Dressing is ideal for putting a flavourful twist on green salads and grain bowls</li>
+</ul>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805332762698</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>059251</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805332762698</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>059871</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805332238410</id>
+    <published>2020-10-15T16:28:31-04:00</published>
+    <updated>2020-10-15T16:28:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-spicy-hatch-chile-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Spicy Hatch Chile Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-spicy-hatch-chile-dressing-378-l-297617.jpg?v=1611510407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99 - 63.99
+            <a href="https://bulkmart.ca/products/hellmanns-spicy-hatch-chile-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - Spicy Hatch Chili Vinaigrette<span data-mce-fragment="1"> </span>Dressing - 3.78 L</strong></p>
+<h3>Ingredients</h3>
+<p>Water, soybean oil, tomatillo puree, distilled vinegar, sugar, salt, hatch chile peppers, dehydrated onion, cilantro, jalapeno pepper puree, dehydrated green bell pepper, xanthan gum, natural flavours, sorbic acid and calcium disodium edta (used to protect quality), yeast extract.</p>
+<div class="pdp-row">
+<h3>Additives</h3>
+<ul>
+<li class="checked">No added MSG</li>
+<li class="checked">No artificial colours and flavours</li>
+</ul>
+</div>
+<div class="pdp-row">
+<h3>Dietary Information</h3>
+<ul>
+<li class="checked">Gluten Free</li>
+<li class="checked">Suitable for Vegetarians</li>
+<li>Spicy Hatch Chile Salad Dressing is ideal for putting a flavourful twist on green salads and grain bowls</li>
+<li>Made with real Hatch chile pepper; introduces guests to trendy, exciting new flavours</li>
+<li>Excels as an ingredient in marinades, dips, and more</li>
+<li>Specially developed for use in restaurants, hospitality, and other commercial applications</li>
+</ul>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805332238410</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>059324</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805332238410</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>059213</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805330763850</id>
+    <published>2020-10-15T16:28:29-04:00</published>
+    <updated>2020-10-15T16:28:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-lemon-zaatar-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Lemon Zaatar Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-lemon-zaatar-dressing-378-l-965020.jpg?v=1611510405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99 - 63.99
+            <a href="https://bulkmart.ca/products/hellmanns-lemon-zaatar-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - Lemon Za'atar Vinaigrette<span data-mce-fragment="1"> </span>Dressing - 3.78 L</strong></p>
+<h3>Ingredients</h3>
+<p>Water, soybean oil, vinegar (distilled, red wine), sugar, salt, dehydrated onion, dehydrated garlic, natural flavours, lemon juice concentrate, oregano, xanthan gum, spice, onion powder, sorbic acid and calcium disodium edta (used to protect quality), black pepper, lemon peel, sesame seeds, marjoram.</p>
+<p><span><strong>Add more variety to your menu</strong> and introduce your guests to vibrant new flavours with Hellmann’s Lemon Za’atar Salad Dressing. Made with real za’atar seasoning and inspired by culinary trends of Middle Eastern cuisine, this vinaigrette salad dressing offers a flavourful, unique alternative to more traditional dressing choices. It clings exceptionally well to green salads, makes a great accompaniment for grain bowls, and can also serve as an ingredient in dips, marinades, and more.</span></p>
+<div class="c-product-copy-v2-content__item">
+<strong>Enjoy a taste of Middle Eastern cuisine</strong> without leaving home by adding this flavourful vinaigrette to your salad or grain bowl or using it as an ingredient in dips or marinades. Made with real lemon, quality ingredients and spices, this dressing allows your passion for food to shine.<br>• Plant Based<br>• No Artificial Colours or Flavours<br>• Gluten-Free<br>• Vegetarian<br>
+</div>
+<div class="c-product-copy-v2-content__item">Allergy Information: Contains SESAME</div>
+<div class="c-product-copy-v2-content__item">
+<div class="pdp-row">
+<h3>Additives</h3>
+<ul>
+<li class="checked">No added MSG</li>
+<li class="checked">No artificial colours and flavours</li>
+</ul>
+</div>
+<div class="pdp-row">
+<h3>Dietary Information</h3>
+<ul>
+<li class="checked">Gluten Free</li>
+<li class="checked">Suitable for Vegetarians</li>
+</ul>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805330763850</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>025966</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805330763850</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>059214</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805330272330</id>
+    <published>2020-10-15T16:28:28-04:00</published>
+    <updated>2020-10-15T16:28:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-creamy-coleslaw-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Creamy Coleslaw Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-creamy-coleslaw-dressing-378-l-983074.jpg?v=1611510943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99 - 46.99
+            <a href="https://bulkmart.ca/products/hellmanns-creamy-coleslaw-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - 1 Gallon Creamy Coleslaw Dressing - 3.78 L</strong></p>
+<p><span>A silky, sweet and creamy dressing specially developed for making coleslaw salads - just add shredded cabbage! Perfectly balanced with onion, garlic and a hint of mustard.</span></p>
+<h3>Ingredients</h3>
+<p>Soybean oil, glucose fructose, water, vinegar, liquid egg yolk, salt, spices, potassium chloride, xanthan gum, onion &amp; garlic powder, celery seed, potassium sorbate, calcium disodium edta. Contains: Mustard, egg.</p>
+<h3>Allergens</h3>
+<ul>
+<li class="checked">Contains mustard and it´s derivatives</li>
+<li class="checked">Contains eggs and their derivatives</li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805330272330</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>059324</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805330272330</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>059215</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805329190986</id>
+    <published>2020-10-15T16:28:27-04:00</published>
+    <updated>2020-10-15T16:28:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-light-italian-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Italian Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-italian-dressing-378-l-623364.jpg?v=1611510280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99 - 44.99
+            <a href="https://bulkmart.ca/products/hellmanns-light-italian-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - LightItalian Vinaigrette Dressing - 3.78 L</strong></p>
+<h3>Ingredients</h3>
+<p>Water, soybean oil, vinegar, corn syrup, maltodextrin, skim milk powder, salt, potassium chloride, cellulose gel, garlic &amp; onion powder, spices &amp; herbs, dried garlic, dried red bell peppers, cellulose gum, potassium sorbate, xanthan gum, propylene glycol alginate, calcium disodium edta, colour, contains: milk, mustard</p>
+<div class="pdp-row_top">
+<ul class="ufs-product-usplist">
+<li>Italian salad dressing delivers lightly emulsified vinaigrette texture premium mouth feel</li>
+<li>No artificial colours or high fructose corn syrup</li>
+<li>Ideal as a dressing or an ingredient in marinades, glazes, and more</li>
+<li>Gluten-free; colours from natural sources</li>
+<li>
+<div class="pdp-row">
+<h3>Additives</h3>
+<ul>
+<li class="checked">No artificial colours</li>
+</ul>
+</div>
+<div class="pdp-row">
+<h3>Allergens</h3>
+<ul>
+<li class="checked">Contains mustard and it´s derivatives</li>
+<li class="checked">Contains milk and it´s derivatives</li>
+</ul>
+</div>
+<div class="pdp-row">
+<h3>Dietary Information</h3>
+<ul>
+<li class="checked">Gluten Free</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805329190986</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>0598741</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805329190986</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>059324</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805328765002</id>
+    <published>2020-10-15T16:28:25-04:00</published>
+    <updated>2020-10-15T16:28:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-balsamic-vinaigrette-dressing-3-78-l"/>
+    <title>Hellmann&apos;s - Balsamic Vinaigrette Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-balsamic-vinaigrette-dressing-378-l-539683.jpg?v=1611510224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99 - 56.99
+            <a href="https://bulkmart.ca/products/hellmanns-balsamic-vinaigrette-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - Balsamic Vinaigrette Dressing - 3.78 L</strong></p>
+<h3>Ingredients</h3>
+<p>Water, soybean &amp; extra virigin olive oil, balsamic vinegar (wine vinegar, concentrated grape must, colour), sugar, red wine vinegar, salt, dried minced garlic &amp; onion, natural flavour, dried red bell peppers, spice, xanthan gum, concentrated lemon juice, sorbic acid, propylene glycol alginate, calcium disodium edta.</p>
+<ul class="ufs-product-usplist">
+<li>Premium balsamic vinaigrette salad dressing is a versatile choice for any commercial kitchen</li>
+<li>Combines subtle onion and herb notes with the sweet, acidic flavour profile of balsamic vinegar</li>
+<li>Ideal as a dressing or as an ingredient in marinades, glazes, and finishing sauces</li>
+<li>Shelf-stable salad dressing container for convenient long-term storage</li>
+<li><span>With its balanced acidity and subtle onion and herb notes, Hellmann's Classics Balsamic Vinaigrette Salad Dressing makes a versatile addition to any commercial kitchen. This gluten-free balsamic vinegar dressing is made with real, simple ingredients that your guests can trust, and it contains no high fructose corn syrup or artificial flavours. It has a subtly sweet, balanced flavour profile, making it a delicious addition to marinades, glazes, finishing sauces, and other recipes. This salad dressing has a hand-whisked vinaigrette texture and can be shaken to create a natural emulsion. It has a premium look and mouth feel that is sure to leave your guests with a positive impression.</span></li>
+<li class="checked"><strong>Gluten Free</strong></li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l#product","name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","mpn":"CON350BM943","sku":"50BM943","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l-bulk-mart_988.jpg","description":"Hellmann&#039;s - Greek Vinaigrette Salad Dressing - 3.78 L...","category":"FOOD","brand":{"@type":"Brand","name":"Hellmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"offers":[{"name":"Hellmann’s - Greek Vinaigrette Salad Dressing - 3.78 L","sku":"50BM943","mpn":"CON350BM943","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hellmanns-greek-vinaigrette-salad-dressing-3-78-l?variant=19271369228358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Hellmann&apos;s</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805328765002</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>059125</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805328765002</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>059124</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803080814666</id>
+    <published>2020-10-15T16:23:36-04:00</published>
+    <updated>2020-10-15T16:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-real-mayonnaise-16-l"/>
+    <title>Cibona - Real Mayonnaise - 16 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-real-mayonnaise-16-l-531380.jpg?v=1611509431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona -  Real Mayonnaise  - 16 L</strong></p>
+<p>All our mayonnaises are kosher and carefully prepared by Cibona in a separate facility. Sold in traditional or convenient squeezable formats.</p>
+<p>Exported throughout North America (FDA approved).</p>
+<p>• Real mayonnaise - A timeless classic, rich in flavour!</p>
+<p>• Light mayonnaise - 50% less fat than our regular mayonnaise</p>
+<p>• Salad dressing - Even less fat than our light mayonnaise</p>
+<p><span><strong>Complement any sandwich with the rich, creamy taste and texture of this real mayonnaise! </strong></span><span>Proudly made with real, simple ingredients like cage-free eggs, oil, and vinegar, this mayonnaise features the perfect balance of acidic and sweet flavors that are sure to enhance your menu items. An ideal condiment for sandwiches, wraps, and burgers, craft classic turkey clubs, avocado BLTs between multigrain bread, or use to finish off your po'boy sandwiches. Create the ultimate grilled cheese by spreading this mayonnaise on the outsides of the white bread and frying - the tanginess of the mayonnaise pairs exceptionally well with sharp cheddar for a perfect menu every time. It's also great for creating large batches of bound salads like chicken salad, potato salad, or tuna salad. This creamy condiment adds flavor and richness to your signature homemade picnic sides. You can even serve it alongside crispy french fries for an alternative to ketchup for dipping!</span><br><br><span><strong>This real mayonnaise is sure to become a staple in your busy establishment!</strong> This handy gallon container provides a bulk supply that ensures you'll remain well-stocked with this popular condiment even during your busiest hours. To ensure freshness, refrigerate this product immediately after opening.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/palace-real-mayonnaise-3-8-l#product","name":"Palace -  Real Mayonnaise  - 3.8 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887520292934","sku":".8BM765","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/palace-real-mayonnaise-3-8-l-bulk-mart_159.jpg","description":"Palace - Real Mayonnaise - 3.8 L.","category":"FOOD","brand":{"@type":"Brand","name":"Palace"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"},"offers":[{"sku":".8BM765","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"11.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/palace-real-mayonnaise-3-8-l?variant=19271410516038","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Mayonnaise</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803080814666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>90013</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803080159306</id>
+    <published>2020-10-15T16:23:35-04:00</published>
+    <updated>2020-10-15T16:23:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-real-mayonnaise-4-l"/>
+    <title>Cibona -  Real Mayonnaise  - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-real-mayonnaise-4-l-339926.jpg?v=1611510224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona -  Real Mayonnaise  - 4 L</strong></p>
+<p>All our mayonnaises are kosher and carefully prepared by Cibona in a separate facility. Sold in traditional or convenient squeezable formats.</p>
+<p>Exported throughout North America (FDA approved).</p>
+<p>• Real mayonnaise - A timeless classic, rich in flavour!</p>
+<p>• Light mayonnaise - 50% less fat than our regular mayonnaise</p>
+<p>• Salad dressing - Even less fat than our light mayonnaise</p>
+<p><span><strong>Complement any sandwich with the rich, creamy taste and texture of this real mayonnaise! </strong></span><span>Proudly made with real, simple ingredients like cage-free eggs, oil, and vinegar, this mayonnaise features the perfect balance of acidic and sweet flavors that are sure to enhance your menu items. An ideal condiment for sandwiches, wraps, and burgers, craft classic turkey clubs, avocado BLTs between multigrain bread, or use to finish off your po'boy sandwiches. Create the ultimate grilled cheese by spreading this mayonnaise on the outsides of the white bread and frying - the tanginess of the mayonnaise pairs exceptionally well with sharp cheddar for a perfect menu every time. It's also great for creating large batches of bound salads like chicken salad, potato salad, or tuna salad. This creamy condiment adds flavor and richness to your signature homemade picnic sides. You can even serve it alongside crispy french fries for an alternative to ketchup for dipping!</span><br><br><span><strong>This real mayonnaise is sure to become a staple in your busy establishment!</strong> This handy gallon container provides a bulk supply that ensures you'll remain well-stocked with this popular condiment even during your busiest hours. To ensure freshness, refrigerate this product immediately after opening.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/palace-real-mayonnaise-3-8-l#product","name":"Palace -  Real Mayonnaise  - 3.8 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887520292934","sku":".8BM765","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/palace-real-mayonnaise-3-8-l-bulk-mart_159.jpg","description":"Palace - Real Mayonnaise - 3.8 L.","category":"FOOD","brand":{"@type":"Brand","name":"Palace"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"},"offers":[{"sku":".8BM765","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"11.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/palace-real-mayonnaise-3-8-l?variant=19271410516038","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Mayonnaise</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803080159306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>90014</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803076096074</id>
+    <published>2020-10-15T16:23:33-04:00</published>
+    <updated>2020-10-15T16:23:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-light-1-2-the-fat-mayonnaise-4-l"/>
+    <title>Hellmann&apos;s - Light 1/2 The Fat Mayonnaise - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-light-12-the-fat-mayonnaise-4-l-255838.png?v=1611510881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - Light 1/2 The Fat Mayonnaise Type Dressing - 4 L</strong></p>
+<p><span>Hellmann's® Light ½ the Fat Mayonnaise Type Dressing has 50% l ess fat and 50% fewer calories of Hellmann’s® Real Mayonnaise, and starts with Canadian-sourced ingredients including free-run eggs from Canadian farmers.</span></p>
+<div class="pdp-row">
+<h3>Ingredients</h3>
+<p>WATER, CANOLA OIL, MODIFIED CORN &amp; POTATO STARCH, SUGAR, LIQUID WHOLE EGG, VINEGAR, SALT, CONCENTRATED LEMON JUICE, SORBIC ACID (MAINTAINS QUALITY), SPICES, NATURAL COLOUR, NATURAL FLAVOUR, CALCIUM DISODIUM EDTA (MAINTAINS FLAVOUR). CONTAINS: EGG</p>
+</div>
+<div class="pdp-row">
+<h3>Allergen Information</h3>
+<p>Egg</p>
+<div class="pdp-row">
+<h3>Preparation</h3>
+<p>Ready to use.</p>
+</div>
+<div class="pdp-row">
+<h3>Yield</h3>
+<p>532 average servings per case</p>
+</div>
+<div class="pdp-row">
+<h3>Benefits</h3>
+<p>Attracts guests seeking and selecting based on local and food preferences. Enables operators to offer great tasting, healthier menu items.</p>
+</div>
+<div class="pdp-row">
+<h3>Shelf Life</h3>
+<p>270 days</p>
+</div>
+<div class="pdp-row">
+<h3>Tips</h3>
+<p>Ideal for sandwiches, sandwich and wrap filling, Caesar and Coleslaw dressings.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mayonnaise</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803076096074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>90016</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803074195530</id>
+    <published>2020-10-15T16:23:32-04:00</published>
+    <updated>2020-10-15T16:23:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hellmanns-light-1-2-the-fat-mayonnaise-squeeze-bottle-750-ml"/>
+    <title>Hellmann&apos;s - Light 1/2 The Fat Mayonnaise Squeeze Bottle - 750 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hellmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hellmanns-light-12-the-fat-mayonnaise-squeeze-bottle-750-ml-635440.jpg?v=1611510339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hellmann&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hellmann's - 1/2 Fat Squeeze Mayonnaise Type Dressing - 750 ml</strong></p>
+<div class="c-product-copy-v2-content__item"></div>
+<p> </p>
+<div class="c-product-copy-v2-content__item">Hellmann’s Light mayonnaise is the ideal dressing for sandwiches, salads and burgers</div>
+<div class="c-product-copy-v2-content__item">Contains: Milk and it's derivates, Eggs and their derivates, Mustard and it's derivates</div>
+<div class="c-product-copy-v2-content__item"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mayonnaise</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803074195530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>90017</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887498534982</id>
+    <published>2020-10-15T14:59:35-04:00</published>
+    <updated>2020-10-15T14:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-blue-cheese-crumble-dressing-3-78-l"/>
+    <title>Kraft - Blue Cheese Crumble Dressing - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-blue-cheese-crumble-dressing-378-l-326868.jpg?v=1611512018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99 - 59.99
+            <a href="https://bulkmart.ca/products/kraft-blue-cheese-crumble-dressing-3-78-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kraft - Blue Cheese Crumble Dressing - 3.78 L</strong></p>
+<p><strong>Enjoy the delicious and creamy taste of KRAFT Dressing, rich with flavor and the perfect complement to your favorite salads and dishes.</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kraft-blue-cheese-crumble-dressing-3-78-l#product","name":"Kraft -  Blue Cheese Crumble Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887498534982","sku":"14BM928","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-blue-cheese-crumble-dressing-3-78-l-bulk-mart_240.jpg","description":"Kraft - Blue Cheese Crumble Dressing - 3.78 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kraft"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"14BM928","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"26.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kraft-blue-cheese-crumble-dressing-3-78-l?variant=19271374864454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kraft</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887498534982</id>
+      <title>3.78 L</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>14BM928</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887498534982</id>
+      <title>2 x 3.78 L</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>14BM929</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805305532490</id>
+    <published>2020-10-15T14:06:28-04:00</published>
+    <updated>2020-10-15T14:06:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-golden-italian-dressing-4-l"/>
+    <title>Cibona - Golden Italian Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-golden-italian-dressing-4-l-628864.jpg?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.49 - 31.99
+            <a href="https://bulkmart.ca/products/cibona-golden-italian-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Golden Italian Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805305532490</id>
+      <title>4 L</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>023984</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805305532490</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>023456</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805305008202</id>
+    <published>2020-10-15T14:06:27-04:00</published>
+    <updated>2020-10-15T14:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-french-dressing-4-l"/>
+    <title>Cibona - French Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-french-dressing-4-l-346097.jpg?v=1611509731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99 - 29.99
+            <a href="https://bulkmart.ca/products/cibona-french-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - French Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805305008202</id>
+      <title>4 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>023456</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805305008202</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>023587</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805303992394</id>
+    <published>2020-10-15T14:06:25-04:00</published>
+    <updated>2020-10-15T14:06:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-creamy-garlic-dressing-4-l"/>
+    <title>Cibona - Creamy Garlic Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-creamy-garlic-dressing-4-l-843958.jpg?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99 - 32.99
+            <a href="https://bulkmart.ca/products/cibona-creamy-garlic-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Creamy Garlic Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805303992394</id>
+      <title>4 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>023974</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805303992394</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>023455</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805303173194</id>
+    <published>2020-10-15T14:06:24-04:00</published>
+    <updated>2020-10-15T14:06:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-creamy-cucumber-dressing-4-l"/>
+    <title>Cibona - Creamy Cucumber Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-creamy-cucumber-dressing-4-l-182790.jpg?v=1611509317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99 - 31.99
+            <a href="https://bulkmart.ca/products/cibona-creamy-cucumber-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Creamy Cucumber Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805303173194</id>
+      <title>4 L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>023124</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805303173194</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>023214</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805302026314</id>
+    <published>2020-10-15T14:06:22-04:00</published>
+    <updated>2020-10-15T14:06:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-creamy-coleslaw-dressing-4-l"/>
+    <title>Cibona - Creamy Coleslaw Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-creamy-coleslaw-dressing-4-l-442512.jpg?v=1611509858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99 - 30.99
+            <a href="https://bulkmart.ca/products/cibona-creamy-coleslaw-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Creamy Coleslaw Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805302026314</id>
+      <title>4 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>02394</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805302026314</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>02365</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805301239882</id>
+    <published>2020-10-15T14:06:19-04:00</published>
+    <updated>2020-10-15T14:06:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-creamy-caesar-dressing-4-l"/>
+    <title>Cibona - Creamy Caesar Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-creamy-caesar-dressing-4-l-146504.jpg?v=1611509496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99 - 29.99
+            <a href="https://bulkmart.ca/products/cibona-creamy-caesar-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Creamy Caesar Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805301239882</id>
+      <title>4 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>023645</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805301239882</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>02315</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531794502</id>
+    <published>2020-08-13T23:41:54-04:00</published>
+    <updated>2020-08-13T23:41:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-ranch-style-dressing-4-l"/>
+    <title>Select - Ranch Style Dressing - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-ranch-style-dressing-4-l-835278.jpg?v=1611513457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Serve your customers with the Gourmet Taste with Affordable Price with Select Salad Dressing!</strong></p>
+<p><span>We take great care to ensure each and every Select branded foodservice product is packed with the taste, quality and consistency that you depend on.</span></p>
+<p><span><strong>Easily whip up batches of cool, Salad dressing!</strong> The refreshing taste makes the perfect accompaniment to traditional home-style meals or fish filets. Serve signature dressing side dishes, and let your patrons enjoy just the right amount with their sandwiches and wraps. This dressing is a smart addition to any restaurant, sub shop, or diner-it offers a gourmet taste at an affordable price!<br><br><strong>Using this smooth dressing as a base</strong>, you'll be able to mix in your own assortment of  vegetables for flavorsome dish that's ready to serve! has a unique, tangy blend of flavors. This trans-fat free dressing will taste unlike any other at your salad bar, as it combines tart vinegar, savory mustard, the freshest eggs, and a pinch of sugar, salt, and spices. Slightly salty and sweet, this cool and tangy dressing tastes great over mild fried foods, burgers, hot dogs, and barbequed meats!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Select</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531794502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>089112</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4169589981254</id>
+    <published>2019-10-02T17:59:54-04:00</published>
+    <updated>2019-10-02T17:59:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-ranch-style-dressing-4-l"/>
+    <title>Cibona - Ranch Style Dressing - 4  L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-ranch-style-dressing-4-l-133046.jpg?v=1611510126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99 - 30.99
+            <a href="https://bulkmart.ca/products/cibona-ranch-style-dressing-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cibona - Ranch Style Dressing - 4  L</strong></p>
+<p><strong>Salad Dressings</strong></p>
+<p>Cibona : All our salad dressings are kosher, lactose-free, and trans fat-free. Expertly balanced and prepared with canola oil, they are processed in a separate facility. Our wide selection includes all your favorite flavours in light or creamy versions, and more! Exported throughout North America (FDA approved).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cibona</s:tag>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4169589981254</id>
+      <title>4 L</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>023215</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4169589981254</id>
+      <title>2 x 4 L</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>023655</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3959307862086</id>
+    <published>2019-08-15T21:45:46-04:00</published>
+    <updated>2019-08-15T21:45:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/renees-gourmet-caesar-dressing-and-dip-3-78-l"/>
+    <title>Renée&apos;s - Gourmet Caesar Dressing and Dip - 3.78 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Renees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/renees-gourmet-caesar-dressing-and-dip-378-l-434898.jpg?v=1611512016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Renees<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Renée's - Gourmet Caesar Dressing and Dip - 3.78 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/renees-gourmet-caesar-dressing-and-dip-3-78-l#product","name":"Ren&eacute;e&#039;s - Gourmet Caesar Dressing and Dip - 3.78 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3959307862086","sku":"54BM949","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/renees-gourmet-caesar-dressing-and-dip-3-78-l-bulk-mart_375.jpg","description":"Ren&eacute;e&#039;s - Gourmet Caesar Dressing and Dip - 3.78 L.","category":"FOOD","brand":{"@type":"Brand","name":"Renees"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"32"},"offers":[{"sku":"54BM949","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/renees-gourmet-caesar-dressing-and-dip-3-78-l?variant=29507139108934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"32"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3959307862086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>54BM949</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531860038</id>
+    <published>2018-11-28T15:08:07-05:00</published>
+    <updated>2018-11-28T15:08:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-ranch-style-dressing-2-x-4-l"/>
+    <title>Select - Ranch Style Dressing - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-ranch-style-dressing-2-x-4-l-151497.jpg?v=1611513283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Serve your customers with the Gourmet Taste with Affordable Price with Select Salad Dressing!</strong></p>
+<p><span>We take great care to ensure each and every Select branded foodservice product is packed with the taste, quality and consistency that you depend on.</span></p>
+<p><span><strong>Easily whip up batches of cool, Salad dressing!</strong> The refreshing taste makes the perfect accompaniment to traditional home-style meals or fish filets. Serve signature dressing side dishes, and let your patrons enjoy just the right amount with their sandwiches and wraps. This dressing is a smart addition to any restaurant, sub shop, or diner-it offers a gourmet taste at an affordable price!<br><br><strong>Using this smooth dressing as a base</strong>, you'll be able to mix in your own assortment of  vegetables for flavorsome dish that's ready to serve! has a unique, tangy blend of flavors. This trans-fat free dressing will taste unlike any other at your salad bar, as it combines tart vinegar, savory mustard, the freshest eggs, and a pinch of sugar, salt, and spices. Slightly salty and sweet, this cool and tangy dressing tastes great over mild fried foods, burgers, hot dogs, and barbequed meats!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Select</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531860038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>089012</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531139142</id>
+    <published>2018-11-28T15:08:00-05:00</published>
+    <updated>2018-11-28T15:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-italian-dressing-2-x-4-l"/>
+    <title>Select - Italian Dressing - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-italian-dressing-2-x-4-l-233757.jpg?v=1611513277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Serve your customers with the Gourmet Taste with Affordable Price with Select Salad Dressing!</strong></p>
+<p><span>We take great care to ensure each and every Select branded foodservice product is packed with the taste, quality and consistency that you depend on.</span></p>
+<p><span><strong>Easily whip up batches of cool, Salad dressing!</strong> The refreshing taste makes the perfect accompaniment to traditional home-style meals or fish filets. Serve signature dressing side dishes, and let your patrons enjoy just the right amount with their sandwiches and wraps. This dressing is a smart addition to any restaurant, sub shop, or diner-it offers a gourmet taste at an affordable price!<br><br><strong>Using this smooth dressing as a base</strong>, you'll be able to mix in your own assortment of  vegetables for flavorsome dish that's ready to serve! has a unique, tangy blend of flavors. This trans-fat free dressing will taste unlike any other at your salad bar, as it combines tart vinegar, savory mustard, the freshest eggs, and a pinch of sugar, salt, and spices. Slightly salty and sweet, this cool and tangy dressing tastes great over mild fried foods, burgers, hot dogs, and barbequed meats!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Select</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531139142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>089314</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531073606</id>
+    <published>2018-11-28T15:07:59-05:00</published>
+    <updated>2018-11-28T15:07:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-italian-dressing-4-l"/>
+    <title>Select - Italian Dressing - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-italian-dressing-4-l-128702.jpg?v=1611512976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Serve your customers with the Gourmet Taste with Affordable Price with Select Salad Dressing!</strong></p>
+<p><span>We take great care to ensure each and every Select branded foodservice product is packed with the taste, quality and consistency that you depend on.</span></p>
+<p><span><strong>Easily whip up batches of cool, Salad dressing!</strong> The refreshing taste makes the perfect accompaniment to traditional home-style meals or fish filets. Serve signature dressing side dishes, and let your patrons enjoy just the right amount with their sandwiches and wraps. This dressing is a smart addition to any restaurant, sub shop, or diner-it offers a gourmet taste at an affordable price!<br><br><strong>Using this smooth dressing as a base</strong>, you'll be able to mix in your own assortment of  vegetables for flavorsome dish that's ready to serve! has a unique, tangy blend of flavors. This trans-fat free dressing will taste unlike any other at your salad bar, as it combines tart vinegar, savory mustard, the freshest eggs, and a pinch of sugar, salt, and spices. Slightly salty and sweet, this cool and tangy dressing tastes great over mild fried foods, burgers, hot dogs, and barbequed meats!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/select-italian-dressing-4-l#product","name":"Select -  Italian Dressing - 4  L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887531073606","sku":"14BM740","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-italian-dressing-4-l-bulk-mart_231.jpg","description":"Select - Italian Dressing - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Select"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"},"offers":[{"sku":"14BM740","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/select-italian-dressing-4-l?variant=19271427391558","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Select</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531073606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>089215</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887530647622</id>
+    <published>2018-11-28T15:07:53-05:00</published>
+    <updated>2018-11-28T15:07:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-french-dressing-2-x-4-l"/>
+    <title>Select - French Dressing - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-french-dressing-2-x-4-l-921353.jpg?v=1611512855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Serve your customers with the Gourmet Taste with Affordable Price with Select Salad Dressing!</strong></p>
+<p><span>We take great care to ensure each and every Select branded foodservice product is packed with the taste, quality and consistency that you depend on.</span></p>
+<p><span><strong>Easily whip up batches of cool, Salad dressing!</strong> The refreshing taste makes the perfect accompaniment to traditional home-style meals or fish filets. Serve signature dressing side dishes, and let your patrons enjoy just the right amount with their sandwiches and wraps. This dressing is a smart addition to any restaurant, sub shop, or diner-it offers a gourmet taste at an affordable price!<br><br><strong>Using this smooth dressing as a base</strong>, you'll be able to mix in your own assortment of  vegetables for flavorsome dish that's ready to serve! has a unique, tangy blend of flavors. This trans-fat free dressing will taste unlike any other at your salad bar, as it combines tart vinegar, savory mustard, the freshest eggs, and a pinch of sugar, salt, and spices. Slightly salty and sweet, this cool and tangy dressing tastes great over mild fried foods, burgers, hot dogs, and barbequed meats!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/select-french-dressing-2-x-4-l#product","name":"Select -  French Dressing - 2 x 4  L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887530647622","sku":"17BM745","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-french-dressing-2-x-4-l-bulk-mart_833.jpg","description":"Select - French Dressing - 2 x 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Select"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"17BM745","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"33.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/select-french-dressing-2-x-4-l?variant=19271426834502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dressing</s:tag>
+    <s:tag>Select</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887530647622</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>089212</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

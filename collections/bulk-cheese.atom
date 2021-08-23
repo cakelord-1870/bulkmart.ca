@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bulk-cheese.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-04T21:30:42-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4832380584010</id>
+    <published>2021-01-04T21:30:42-05:00</published>
+    <updated>2021-01-04T21:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/black-diamond-high-protein-white-mild-cheese-400gblack-diamond-high-protein-white-mild-cheese-400g"/>
+    <title>Black Diamond - High Protein White Mild Cheese - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Black Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-high-protein-white-mild-cheese-400g-723299.jpg?v=1611514428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Diamond<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Diamond - High Protein White Mild Cheese - 400g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832380584010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>92121</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832355582026</id>
+    <published>2021-01-04T21:30:41-05:00</published>
+    <updated>2021-01-04T21:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/krinos-bulgarian-white-brined-sheeps-milk-cheese-1-kgkrinos-bulgarian-white-brined-sheeps-milk-cheese-1-kg"/>
+    <title>Krinos - Bulgarian White Brined Sheep&apos;s Milk Cheese - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Krinos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-bulgarian-white-brined-sheeps-milk-cheese-1-kg-400312.jpg?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Krinos<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Krinos - Bulgarian White Brined Sheep's Milk Cheese - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832355582026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>92125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832354795594</id>
+    <published>2021-01-04T21:30:41-05:00</published>
+    <updated>2021-01-04T21:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tre-stelle-halloumi-cheese-200-gtre-stelle-halloumi-cheese-200-g"/>
+    <title>Tre Stelle - Halloumi Cheese - 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Tre Stelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tre-stelle-halloumi-cheese-200-g-250321.png?v=1611514843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tre Stelle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tre Stelle - Halloumi Cheese - 200 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloumi</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832354795594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.29</s:price>
+      <s:sku>92136</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832342573130</id>
+    <published>2021-01-04T21:30:40-05:00</published>
+    <updated>2021-01-04T21:30:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tre-stelle-traditional-feta-light-400gtre-stelle-traditional-feta-light-400g"/>
+    <title>Tre Stelle - Traditional Feta Light - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Tre Stelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tre-stelle-traditional-feta-light-400g-733344.jpg?v=1611512855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tre Stelle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tre Stelle - Traditional Feta Light - 400g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Tre Stelle Feta is a traditional feta famous for its creamy smooth and slightly salty taste. Produced in Canada and made with 100% pure fresh milk.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feta Cheese</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832342573130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>92137</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832341688394</id>
+    <published>2021-01-04T21:30:39-05:00</published>
+    <updated>2021-01-04T21:30:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/krinos-sheeps-milk-feta-400gkrinos-sheeps-milk-feta-400g"/>
+    <title>Krinos - Sheep&apos;s Milk Feta - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Krinos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-sheeps-milk-feta-400g-996036.jpg?v=1611511650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Krinos<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Krinos - Sheep's Milk Feta - 400g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feta Cheese</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832341688394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>92127</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830920802378</id>
+    <published>2021-01-04T21:30:38-05:00</published>
+    <updated>2021-01-04T21:30:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/salerno-mini-friulano-cheese-475gsalerno-mini-friulano-cheese-475g"/>
+    <title>Salerno Mini Friulano Cheese - 475g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Salerno</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/salerno-mini-friulano-cheese-475g-876093.jpg?v=1611514604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salerno<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Salerno Mini Friulano Cheese - 475g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830920802378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>92130</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830916345930</id>
+    <published>2021-01-04T21:30:37-05:00</published>
+    <updated>2021-01-04T21:30:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/santa-lucia-fior-de-latte-250gsanta-lucia-fior-di-latte-250g"/>
+    <title>Santa Lucia - Fior Di Latte - 250g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Santa Lucia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-fior-di-latte-250g-318414.jpg?v=1611512371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Santa Lucia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa Lucia - Fior Di Latte - 250g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fior Di Latta</s:tag>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830916345930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>92133</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830912446538</id>
+    <published>2021-01-04T21:30:36-05:00</published>
+    <updated>2021-01-04T21:30:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/santa-lucia-fior-di-latta-3-kgsanta-lucia-fior-di-latta-3-kg"/>
+    <title>Santa Lucia - Fior Di Latta - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Santa Lucia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-fior-di-latta-3-kg-943594.jpg?v=1611514669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Santa Lucia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa Lucia - Fior Di Latta - 3 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fior Di Latta</s:tag>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830912446538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>92132</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830912118858</id>
+    <published>2021-01-04T21:30:35-05:00</published>
+    <updated>2021-01-04T21:30:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/santa-lucia-fior-di-latta-1-5-kgsanta-lucia-fior-di-latta-1-5-kg"/>
+    <title>Santa Lucia - Fior Di Latta - 1.5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Santa Lucia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-fior-di-latta-15-kg-474234.jpg?v=1611512670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Santa Lucia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa Lucia - Fior Di Latta - 1.5 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fior Di Latta</s:tag>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830912118858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>92131</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829138223178</id>
+    <published>2021-01-04T21:30:35-05:00</published>
+    <updated>2021-01-04T21:30:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/black-diamond-pre-cut-sub-slice-2kgblack-diamond-pre-cut-sub-slice-2kg"/>
+    <title>Black Diamond - Pre Cut Sub Slice - 2Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Black Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-pre-cut-sub-slice-2kg-225090.jpg?v=1611509131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Diamond<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Diamond - Pre Cut Sub Slice - 2Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg#product","name":"Black Diamond -  Mild Cheddar Cheese - 2.27 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951561941062","sku":"4BM2024","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-mild-cheddar-cheese-2-27-kg-bulk-mart_541.jpg","description":"Black Diamond - Mild Cheddar Cheese - 2.27 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Black Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"4BM2024","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.27"},"mpn":"","priceCurrency":"CAD","price":"43.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg?variant=19882403201094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829138223178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>92122</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829096771658</id>
+    <published>2021-01-04T21:30:34-05:00</published>
+    <updated>2021-01-04T21:30:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/black-diamond-marble-cheddar-cheese-2-27-kg"/>
+    <title>Black Diamond -  Marble Cheddar Cheese - 2.27 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Black Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-marble-cheddar-cheese-227-kg-417555.png?v=1611509791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Diamond<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Black Diamond -  Marble Cheddar Cheese - 2.27 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg#product","name":"Black Diamond -  Mild Cheddar Cheese - 2.27 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951561941062","sku":"4BM2024","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-mild-cheddar-cheese-2-27-kg-bulk-mart_541.jpg","description":"Black Diamond - Mild Cheddar Cheese - 2.27 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Black Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"4BM2024","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.27"},"mpn":"","priceCurrency":"CAD","price":"43.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg?variant=19882403201094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheddar Cheese</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829096771658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.49</s:price>
+      <s:sku>92120</s:sku>
+      <s:grams>2270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829084352586</id>
+    <published>2021-01-04T21:30:33-05:00</published>
+    <updated>2021-01-04T21:30:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/santa-lucia-sweet-provolone-18-99-per-kg-avg-weight-3-kg"/>
+    <title>Santa Lucia - Sweet Provolone -$18.99 Per Kg - Avg Weight 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Santa Lucia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-sweet-provolone-1899-per-kg-avg-weight-3-kg-953039.jpg?v=1611512371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Santa Lucia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa Lucia - Sweet Provolone -$18.99 Per Kg - Avg Weight</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Provolone</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829084352586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>92135</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829060366410</id>
+    <published>2021-01-04T21:30:32-05:00</published>
+    <updated>2021-01-04T21:30:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/salerno-grated-romano-cheese-2-5-kgsalerno-grated-romano-cheese-2-5-kg"/>
+    <title>Salerno - Grated Romano Cheese - 2.5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Salerno</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/salerno-grated-romano-cheese-25-kg-864606.jpg?v=1611513515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salerno<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            55.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Salerno - Grated Romano Cheese - 2.5 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Romano Cheese</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829060366410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.99</s:price>
+      <s:sku>92129</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829059940426</id>
+    <published>2021-01-04T21:30:31-05:00</published>
+    <updated>2021-01-04T21:30:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/country-farms-dairy-palm-cubes-2-kgcountry-farms-dairy-palm-cubes-2-kg-country-farms-dairy-palm-cubes-2-kg"/>
+    <title>Country Farms  - Dairy Palm Cubes - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Country Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/country-farms-dairy-palm-cubes-2-kg-143433.png?v=1611510187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Country Farms<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Country Farms  - Dairy Palm Cubes - 2 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829059940426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>92123</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829054533706</id>
+    <published>2021-01-04T21:30:30-05:00</published>
+    <updated>2021-01-04T21:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/salerno-grated-parmesan-romano-cheese-2-5-kg"/>
+    <title>Salerno - Grated Parmesan Romano Cheese - 2.5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Salerno</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/salerno-grated-parmesan-romano-cheese-25-kg-749429.jpg?v=1611514843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salerno<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Salerno - Grated Parmesan Romano Cheese - 2.5 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Romano Cheese</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829054533706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>92128</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829053321290</id>
+    <published>2021-01-04T21:30:29-05:00</published>
+    <updated>2021-01-04T21:30:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/krinos-kashkaval-cheese-1-kgkrinos-kashkaval-cheese-1-kg"/>
+    <title>Krinos - Kashkaval Cheese - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Krinos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-kashkaval-cheese-1-kg-555359.jpg?v=1611512793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Krinos<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Krinos - Kashkaval Cheese - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sheep Cheese</s:tag>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829053321290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>92126</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829046538314</id>
+    <published>2021-01-04T21:30:29-05:00</published>
+    <updated>2021-01-04T21:30:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/santa-lucia-friulano-wheel-1-kgsanta-lucia-friulano-wheel-1-kg"/>
+    <title>Santa Lucia - Friulano Wheel - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Santa Lucia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-friulano-wheel-1-kg-824826.png?v=1611513160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Santa Lucia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Santa Lucia - Friulano Wheel - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829046538314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>92134</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829046079562</id>
+    <published>2021-01-04T21:30:28-05:00</published>
+    <updated>2021-01-04T21:30:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grana-padano-grated-1-kg"/>
+    <title>Grana - Padano Grated - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Tre Stelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grana-padano-grated-1-kg-343523.jpg?v=1611513996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tre Stelle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grana - Padano Grated - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Specialty Cheeses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829046079562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>92124</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829133570122</id>
+    <published>2021-01-04T18:48:53-05:00</published>
+    <updated>2021-01-04T18:48:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/country-farms-shredded-mozzarella-italian-style-2kgcountry-farms-shredded-mozzarella-italian-style-2kg"/>
+    <title>Country Farms - Shredded Mozzarella Italian Style - 2Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Country Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/country-farms-shredded-mozzarella-italian-style-2kg-592250.jpg?v=1611509676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Country Farms<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Country Farms - Shredded Mozzarella Italian Style - 2Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg#product","name":"Black Diamond -  Mild Cheddar Cheese - 2.27 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951561941062","sku":"4BM2024","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/black-diamond-mild-cheddar-cheese-2-27-kg-bulk-mart_541.jpg","description":"Black Diamond - Mild Cheddar Cheese - 2.27 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Black Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"4BM2024","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.27"},"mpn":"","priceCurrency":"CAD","price":"43.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/black-diamond-mild-cheddar-cheese-2-27-kg?variant=19882403201094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mozzarella</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829133570122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>90235</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829085040714</id>
+    <published>2021-01-04T18:48:52-05:00</published>
+    <updated>2021-01-04T18:48:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/emma-shredded-mozzarella-cheese-20-2-5-kg"/>
+    <title>Emma - Shredded Mozzarella Cheese 20% - 2.5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Emma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/emma-shredded-mozzarella-cheese-20-25-kg-133531.jpg?v=1611514611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Emma<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emma - Shredded Mozzarella Cheese 20% - 2.5 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mozzarella</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829085040714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>90236</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4829066002506</id>
+    <published>2021-01-04T18:48:51-05:00</published>
+    <updated>2021-01-04T18:48:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ricolli-mozzarella-block-2-3-kgracolli-mozzarella-block-2-3-kg"/>
+    <title>Racolli - Mozzarella Block - 2.3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Racolli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/racolli-mozzarella-block-23-kg-801809.jpg?v=1611511473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Racolli<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Racolli - Mozzarella Block - 2.3 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mozzarella</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4829066002506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>90237</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830907957322</id>
+    <published>2021-01-04T18:26:44-05:00</published>
+    <updated>2021-01-04T18:26:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/marie-kade-labneh-soft-white-cheese-500g"/>
+    <title>Marie Kade - Labneh Soft White Cheese - 500g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Marie Kade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/marie-kade-labneh-soft-white-cheese-500g-532837.jpg?v=1611514066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marie Kade<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Marie Kade - Labneh Soft White Cheese - 500g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Labneh</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830907957322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>90234</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4830905008202</id>
+    <published>2021-01-04T18:26:42-05:00</published>
+    <updated>2021-01-04T18:26:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/icim-turkish-labneh-550gicim-turkish-labneh-550g"/>
+    <title>ICIM - Turkish Labneh - 550g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ICIM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/icim-turkish-labneh-550g-722030.jpg?v=1611510513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ICIM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ICIM - Turkish Labneh - 550g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg#product","name":"AAA -  Feta Hard Cheese - 3 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3936653606982","sku":"2BM2077","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aaa-feta-hard-cheese-3-kg-bulk-mart_358.png","description":"AAA - Feta Hard Cheese - 3 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"AAA"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"2BM2077","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aaa-feta-hard-cheese-3-kg?variant=29417164079174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Labneh</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4830905008202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>90233</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832344080458</id>
+    <published>2021-01-04T17:28:27-05:00</published>
+    <updated>2021-01-04T17:28:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mori-nu-firm-tofu-340gmori-nu-firm-tofu-340g"/>
+    <title>Mori Nu - Firm Tofu - 340g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mori Nu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mori-nu-firm-tofu-340g-707753.jpg?v=1611514002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mori Nu<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mori Nu - Firm Tofu - 340g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tofu</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832344080458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>90231</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832343490634</id>
+    <published>2021-01-04T17:28:27-05:00</published>
+    <updated>2021-01-04T17:28:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mori-nu-soft-tofu-340gmori-nu-soft-tofu-340g"/>
+    <title>Mori Nu - Soft Tofu - 340g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mori Nu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mori-nu-soft-tofu-340g-453634.png?v=1611512252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mori Nu<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mori Nu - Soft Tofu - 340g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tofu</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832343490634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>90232</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

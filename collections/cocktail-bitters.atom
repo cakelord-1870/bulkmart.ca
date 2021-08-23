@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/cocktail-bitters.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-19T16:31:11-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4854183755850</id>
+    <published>2020-12-19T16:31:11-05:00</published>
+    <updated>2020-12-19T16:31:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stappj-bitter-red-24-x-100-ml"/>
+    <title>Stappj - Bitter Red - 24 x 100 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Stappj</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stappj-bitter-red-24-x-100-ml-484511.jpg?v=1611513273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stappj<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Stappj - Bitter Red - 24 x 100 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><span>STAPPJ Bitter Red sparkling drink is a wonderfully interesting non-alcoholic aperitif famous in Italy. Produced with water, sugar, fruit flavors, spices and herbs; the flavor is intensely stimulating. Excellent for mixed cocktails!24 bottles - 100 mL per bottle</span></div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bitters</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854183755850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>123018</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854182182986</id>
+    <published>2020-12-19T16:31:10-05:00</published>
+    <updated>2020-12-19T16:31:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crodino-non-alcoholic-aperitif-48-x-100-ml"/>
+    <title>Crodino - Bitter Non Alcoholic Aperitif - 48 x 100 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crodino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crodino-bitter-non-alcoholic-aperitif-48-x-100-ml-744906.jpg?v=1611509493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crodino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Crodino - Non Alcoholic Aperitif - 48 x 100 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bitters</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854182182986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>123014</s:sku>
+      <s:grams>12247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854180216906</id>
+    <published>2020-12-19T16:31:09-05:00</published>
+    <updated>2020-12-19T16:31:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gioia-bitter-24-x-100-ml"/>
+    <title>Gioia - Bitter Red Non-alcoholic Aperitif - 24 x 100 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gioia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gioia-bitter-red-non-alcoholic-aperitif-24-x-100-ml-703572.png?v=1611513452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gioia<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Gioia - Bitter Red Non alcoholic Aperitif - 24 x 100 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Gioia Bitter is an Italian herbal carbonated beverage commonly consumed as an aperitif. It has a bitter-sweet flavour, moderately syrupy.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• Product of Italy</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bitters</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854180216906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>123017</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851615137866</id>
+    <published>2020-12-19T16:31:09-05:00</published>
+    <updated>2020-12-19T16:31:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gioia-bitter-12-x-1-l"/>
+    <title>Gioia - Bitter Non-alcoholic Aperitif - 12 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gioia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gioia-bitter-non-alcoholic-aperitif-12-x-1-l-676538.jpg?v=1611511651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gioia<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Gioia - Bitter - 12 x 1 L</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Non-alcoholic aperitif</span></li>
+<li><span class="a-list-item">Italian aperitif</span></li>
+<li><span class="a-list-item">Product of Italy</span></li>
+<li><span class="a-list-item">Plastic Bottle</span></li>
+</ul>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bitters</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851615137866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>123016</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851613925450</id>
+    <published>2020-12-19T16:31:08-05:00</published>
+    <updated>2020-12-19T16:31:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gioia-bitter-1-l"/>
+    <title>Gioia - Bitter Non-alcoholic Aperitif - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gioia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gioia-bitter-non-alcoholic-aperitif-1-l-764243.jpg?v=1611510575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gioia<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Gioia - Bitter - 1 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Non-alcoholic aperitif</span></li>
+<li><span class="a-list-item">Italian aperitif</span></li>
+<li><span class="a-list-item">Product of Italy</span></li>
+<li><span class="a-list-item">Plastic Bottle</span></li>
+</ul>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bitters</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851613925450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>123015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

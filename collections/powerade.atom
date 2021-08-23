@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/powerade.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-18T00:00:20-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4770889793610</id>
+    <published>2020-09-18T00:00:20-04:00</published>
+    <updated>2020-09-18T00:00:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ultra-white-cherry-12-x-710-ml"/>
+    <title>Powerade - Ultra White Cherry - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ultra-white-cherry-12-x-710-ml-202141.jpg?v=1611511294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Powerade - Ultra White Cherry- 12 x 710 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Orange flavoured sports drink.<br>Convenient pack of 24<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium.<br>Made with natural flavours.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-grape-12-x-710-ml#product","name":"Powerade - Grape - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730756166","sku":"BM2479","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-grape-12-x-710-ml-bulk-mart_143.gif","description":"Powerade - Grape - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"BM2479","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-grape-12-x-710-ml?variant=20255581732934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770889793610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>645645</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770889564234</id>
+    <published>2020-09-18T00:00:19-04:00</published>
+    <updated>2020-09-18T00:00:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-blue-raspberry-cherry-12-x-710-ml"/>
+    <title>Powerade - Blue Raspberry Cherry - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-blue-raspberry-cherry-12-x-710-ml-266947.jpg?v=1611514190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"><strong>Powerade - Blue Raspberry Cherry- 12 x 710 ml</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications" data-mce-fragment="1">Orange flavoured sports drink.<br data-mce-fragment="1">Convenient pack of 24<br data-mce-fragment="1">Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium.<br data-mce-fragment="1">Made with natural flavours.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770889564234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>1549789</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770888777802</id>
+    <published>2020-09-18T00:00:18-04:00</published>
+    <updated>2020-09-18T00:00:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-zero-strawberry-12-x-710-ml"/>
+    <title>Powerade - Zero Strawberry - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-zero-strawberry-12-x-710-ml-775977.jpg?v=1611514604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Powerade - Zero Strawberry - 12 x 710 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Orange flavoured sports drink.<br>Convenient pack of 24<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium.<br>Made with natural flavours.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-grape-12-x-710-ml#product","name":"Powerade - Grape - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730756166","sku":"BM2479","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-grape-12-x-710-ml-bulk-mart_143.gif","description":"Powerade - Grape - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"BM2479","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-grape-12-x-710-ml?variant=20255581732934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770888777802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>656985</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731018310</id>
+    <published>2020-09-18T00:00:17-04:00</published>
+    <updated>2020-09-18T00:00:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-h2o-plus-kiwi-strawberry-12-x-710-ml"/>
+    <title>Powerade - H2O Plus Kiwi Strawberry - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-h2o-plus-kiwi-strawberry-12-x-710-ml-772689.jpg?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - H2O Plus Kiwi Strawberry - 12 x 710 ml</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731018310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66440</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730985542</id>
+    <published>2020-09-18T00:00:15-04:00</published>
+    <updated>2020-09-18T00:00:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-strawberry-lemonade-12-x-710-ml"/>
+    <title>Powerade - ION4 Strawberry Lemonade - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-strawberry-lemonade-12-x-710-ml-773416.jpg?v=1611514369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Powerade - ION4 Strawberry Lemonade - 12 x 710 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Orange flavoured sports drink.<br>Convenient pack of 24<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium.<br>Made with natural flavours.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-strawberry-lemonade-12-x-710-ml#product","name":"Powerade - Strawberry Lemonade - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730985542","sku":"BM2481","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-strawberry-lemonade-12-x-710-ml-bulk-mart_128.gif","description":"Powerade - Strawberry Lemonade - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"},"offers":[{"sku":"BM2481","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-strawberry-lemonade-12-x-710-ml?variant=20255582355526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"58"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730985542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66450</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730952774</id>
+    <published>2020-09-18T00:00:14-04:00</published>
+    <updated>2020-09-18T00:00:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-orange-12-x-710-ml"/>
+    <title>Powerade - ION4 Orange - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-orange-12-x-710-ml-490532.jpg?v=1611513517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - ION4 Orange - 12 x 710 ml</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Orange flavoured sports drink<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium<br>Made with natural flavours<br>With B3, B6 and B12 vitamins</div>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-orange-12-x-710-ml#product","name":"Powerade - Orange - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730952774","sku":"BM2478","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-orange-12-x-710-ml-bulk-mart_812.gif","description":"Powerade - Orange - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2478","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-orange-12-x-710-ml?variant=20255582289990","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730952774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66448</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730920006</id>
+    <published>2020-09-18T00:00:13-04:00</published>
+    <updated>2020-09-18T00:00:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-orange-24-x-591-ml"/>
+    <title>Powerade - ION4 Orange - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-orange-24-x-591-ml-992876.jpg?v=1611514608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Powerade - ION4 Orange - 24 x 591 ml</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">POWERADE is a great tasting sports drink made with natural flavours. Formulated with an exclusive ION4 Advanced Electrolyte System, POWERADE helps replenish sodium, potassium, calcium and magnesium. It also contains vitamins B3, B6 and B12.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Orange flavoured sports drink.<br>Convenient pack of 24<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium.<br>Made with natural flavours.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-orange-24-x-591-ml#product","name":"Powerade - Orange - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730920006","sku":"BM2477","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-orange-24-x-591-ml-bulk-mart_623.gif","description":"Powerade - Orange - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM2477","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-orange-24-x-591-ml?variant=20255582224454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730920006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>66448</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730887238</id>
+    <published>2020-09-18T00:00:12-04:00</published>
+    <updated>2020-09-18T00:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-h2o-plus-mixed-berry-12-x-710-ml"/>
+    <title>Powerade - H2O Plus Mixed Berry - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-h2o-plus-mixed-berry-12-x-710-ml-323451.jpg?v=1611511427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - H2O Plus Mixed Berry - 12 x 710 ml</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-mixed-berry-12-x-710-ml#product","name":"Powerade - Mixed Berry - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730887238","sku":"BM2474","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-mixed-berry-12-x-710-ml-bulk-mart_408.gif","description":"Powerade - Mixed Berry - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"BM2474","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-mixed-berry-12-x-710-ml?variant=20255582126150","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730887238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66441</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730821702</id>
+    <published>2020-09-18T00:00:11-04:00</published>
+    <updated>2020-09-18T00:00:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-melon-pineapple-12-x-710-ml"/>
+    <title>Powerade - ION4 Melon Pineapple - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-melon-pineapple-12-x-710-ml-714647.jpg?v=1611511301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - ION4 Melon Pineapple - 12 x 710 ml</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">This is the Introducing Powerade® ION4, the next generation of Powerade® with an improved blend of electrolytes. Helps replenish your body before, during, and after sports. This is the evolutION4 of Powerade®Voici Powerade® ION4,</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Reverse Osmosis Water, Sugar/glucose-fructose, Maltodextrin, Citric Acid, Natural Flavour, Potassium Citrate, Salt, Potassium Phosphate, Colour </div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-melon-pineapple-12-x-710-ml#product","name":"Powerade - Melon Pineapple - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730821702","sku":"BM2480","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-melon-pineapple-12-x-710-ml-bulk-mart_944.gif","description":"Powerade - Melon Pineapple - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"BM2480","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-melon-pineapple-12-x-710-ml?variant=20255581896774","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730821702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66446</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730788934</id>
+    <published>2020-09-18T00:00:10-04:00</published>
+    <updated>2020-09-18T00:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-lemon-lime-12-x-710-ml"/>
+    <title>Powerade - ION4 Lemon Lime - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-lemon-lime-12-x-710-ml-172663.jpg?v=1611514722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Powerade - ION4 Lemon Lime - 12 x 710 ml</strong></div>
+<div></div>
+<ul>
+<li>Powered by unique ION4 Advanced Electrolyte System to help replenish the four electrolytes you lose when you sweat: sodium, potassium, calcium and magnesium.</li>
+<li>Sweat, hydrate, help replenish electrolytes, repeat.</li>
+<li>Everything a sports drink should be plus vitamins B3, B6 and B12.</li>
+<li>A 6% carbohydrate solution gives you the energy power through.</li>
+</ul>
+<p><br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-lemon-lime-12-x-710-ml#product","name":"Powerade - Lemon Lime - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730788934","sku":"BM2482","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-lemon-lime-12-x-710-ml-bulk-mart_864.gif","description":"Powerade - Lemon Lime - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"BM2482","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-lemon-lime-12-x-710-ml?variant=20255581831238","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730788934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66445</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730756166</id>
+    <published>2020-09-18T00:00:09-04:00</published>
+    <updated>2020-09-18T00:00:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-grape-12-x-710-ml"/>
+    <title>Powerade - ION4 Grape - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-grape-12-x-710-ml-943396.png?v=1611512791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<div class="Polaris-Header-Title__TitleAndSubtitleWrapper_40sxf" data-mce-fragment="1">
+<div class="Polaris-Header-Title_2qj8j" data-mce-fragment="1">
+<h1 class="Polaris-DisplayText_1u0t8 Polaris-DisplayText--sizeLarge_61dxo" data-mce-fragment="1">Powerade - ION4 Grape - 12 x 710 ml</h1>
+</div>
+</div>
+</div>
+<div class="Polaris-Page-Header__ActionMenuWrapper_1g0ed" data-mce-fragment="1">
+<div class="Polaris-ActionMenu_1hlnt" data-mce-fragment="1">
+<div class="Polaris-ActionMenu-Actions__ActionsLayout_w56ri" data-mce-fragment="1"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730756166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66442</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730690630</id>
+    <published>2020-09-18T00:00:08-04:00</published>
+    <updated>2020-09-18T00:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-fruit-punch-12-x-710-ml"/>
+    <title>Powerade - ION4 Fruit Punch - 12 x 710 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-fruit-punch-12-x-710-ml-973472.jpg?v=1611513644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - ION4 Fruit Punch - 12 x 710 ml</strong></p>
+<p><span>POWERADE is a great tasting sports drink made with natural flavours.</span></p>
+<p><span>Fruit Punch flavoured sports drink<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium<br>Made with natural flavours<br>With B3, B6 and B12 vitamins</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-fruit-punch-12-x-710-ml#product","name":"Powerade - Fruit Punch - 12 x 710 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730690630","sku":"BM2476","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-fruit-punch-12-x-710-ml-bulk-mart_320.gif","description":"Powerade - Fruit Punch - 12 x 710 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"},"offers":[{"sku":"BM2476","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-fruit-punch-12-x-710-ml?variant=20255581503558","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730690630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66443</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730657862</id>
+    <published>2020-09-18T00:00:06-04:00</published>
+    <updated>2020-09-18T00:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-fruit-punch-24-x-591-ml"/>
+    <title>Powerade - ION4 Fruit Punch - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-fruit-punch-24-x-591-ml-920004.jpg?v=1611511655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - ION4 Fruit Punch - 24 x 591 ml</strong></p>
+<p><span>POWERADE is a great tasting sports drink made with natural flavours.</span></p>
+<p><span>Fruit Punch flavoured sports drink<br>Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium<br>Made with natural flavours<br>With B3, B6 and B12 vitamins</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-fruit-punch-24-x-591-ml#product","name":"Powerade - Fruit Punch - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730657862","sku":"BM2475","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-fruit-punch-24-x-591-ml-bulk-mart_249.gif","description":"Powerade - Fruit Punch - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"BM2475","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-fruit-punch-24-x-591-ml?variant=20255581438022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730657862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>66444</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730854470</id>
+    <published>2020-09-17T18:17:56-04:00</published>
+    <updated>2020-09-17T18:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerade-ion4-mixed-berry-24-x-591-ml"/>
+    <title>Powerade - ION4 Mixed Berry - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Powerade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-ion4-mixed-berry-24-x-591-ml-962662.jpg?v=1611514841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Powerade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Powerade - ION4 Mixed Berry - 24 x 591 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Mixed Berry flavoured sports drink</span></li>
+<li><span class="a-list-item">Convenient pack of 6</span></li>
+<li><span class="a-list-item">Formulated with an exclusive ION4 Advanced Electrolyte System that helps replenish sodium, potassium, calcium and magnesium</span></li>
+<li><span class="a-list-item">Made with natural flavours</span></li>
+<li><span class="a-list-item">With B3, B6 and B12 vitamins</span></li>
+<li><span class="a-list-item">Supports energy metabolism and helps provide energy to working muscles</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/powerade-mixed-berry-24-x-591-ml#product","name":"Powerade - Mixed Berry - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730854470","sku":"BM2473","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerade-mixed-berry-24-x-591-ml-bulk-mart_724.gif","description":"Powerade - Mixed Berry - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Powerade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"BM2473","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/powerade-mixed-berry-24-x-591-ml?variant=20255582027846","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powerade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730854470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66447</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

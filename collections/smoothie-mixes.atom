@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/smoothie-mixes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-09T11:30:44-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4851600425034</id>
+    <published>2020-12-09T11:30:44-05:00</published>
+    <updated>2020-12-09T11:30:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-strawberry-banana-smoothie-mix-46-oz"/>
+    <title>Monin - Strawberry Banana Smoothie Mix - 46 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-strawberry-banana-smoothie-mix-46-oz-913513.jpg?v=1611512678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Whip up delicious frozen drinks in no time with this Monin 46 fl. oz. strawberry banana fruit smoothie mix!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This ready-to-use smoothie mix makes it incredibly easy to make premium drinks in a matter of minutes - simply pour over ice, blend until smooth, and serve! Able to stand on its own with no added flavors or mixes, this high quality smoothie mix delivers an irresistible taste that can't be beaten. A popular flavor amongst customers of all ages, upgrade your signature beverages with this mix!</p>
+<h3 class="item-header">Creamy Strawberry Banana Flavor</h3>
+<p>Boasting a sweet, rich and creamy strawberry banana flavor and aroma, this strawberry banana smoothie mix is made with fresh, natural ingredients, including real strawberries and bananas, and contains no preservatives. Offer premium strawberry fruit smoothies, or craft popular alcoholic drinks like a frozen daiquiri or strawberry banana colada. You can even use this mix to create milkshakes and frappes, making it an extremely profitable addition to your coffee shop, cafe, bar, or restaurant.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Strawberry Banana Smoothie - 46 Oz</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monin</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851600425034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851599999050</id>
+    <published>2020-12-09T11:30:43-05:00</published>
+    <updated>2020-12-09T11:30:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-wildberry-fruit-smoothie-mix-46-oz"/>
+    <title>Monin - Wildberry Fruit Smoothie Mix - 46 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-wildberry-fruit-smoothie-mix-46-oz-814297.jpg?v=1611512193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Whip up delicious frozen drinks in no time with this Monin 46 fl. oz. wildberry fruit smoothie mix!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This ready-to-use smoothie mix makes it incredibly easy to make premium drinks in a matter of minutes - simply pour over ice, blend until smooth, and serve! Able to stand on its own with no added flavors or mixes, this high quality smoothie mix delivers an irresistible taste that can't be beaten. A popular flavor amongst customers of all ages, upgrade your signature beverages with this mix!</p>
+<h3 class="item-header">Juicy Wildberry Banana Flavor</h3>
+<p>Combining the tastes and aromas of blackberry, black raspberry, red raspberry and blueberry, this wildberry smoothie mix is made with fresh, natural ingredients, including fresh berries picked at the peak of ripeness, and contains no preservatives. Offer premium wildberry fruit smoothies, or craft popular alcoholic drinks like a frozen daiquiri or wildberry margarita. You can even use this mix to create milkshakes and frosted berry lemonades, making it an extremely profitable addition to your coffee shop, cafe, bar, or restaurant.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Wildberry Fruit Smoothie Mix - 46 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monin</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851599999050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851599474762</id>
+    <published>2020-12-09T11:30:42-05:00</published>
+    <updated>2020-12-09T11:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-peach-smoothie-mix-46-oz"/>
+    <title>Monin - Peach Smoothie Mix - 46 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-peach-smoothie-mix-46-oz-656832.jpg?v=1611511180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Whip up delicious frozen drinks in no time with this Monin 46 fl. oz. peach fruit smoothie mix!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This ready-to-use smoothie mix makes it incredibly easy to make premium drinks in a matter of minutes - simply pour over ice, blend until smooth, and serve! Able to stand on its own with no added flavors or mixes, this high quality smoothie mix delivers an irresistible taste that can't be beaten. A popular flavor amongst customers of all ages, upgrade your signature beverages with this mix!</p>
+<h3 class="item-header">Juicy Peach Flavor</h3>
+<p>Boasting a sweet, rich and creamy peach flavor and aroma, this peach smoothie mix is made with fresh, natural ingredients, including fresh peaches picked at the peak of ripeness, and contains no preservatives. Offer premium peach fruit smoothies, or craft popular alcoholic drinks like a frozen daiquiri or peach colada. You can even use this mix to create milkshakes and frozen fruit lemonades, making it an extremely profitable addition to your coffee shop, cafe, bar, or restaurant.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Peach Smoothie - 46 Oz</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monin</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851599474762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851598753866</id>
+    <published>2020-12-09T11:30:41-05:00</published>
+    <updated>2020-12-09T11:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-mango-smoothie-46-ozmonin-mango-smoothie-mix-46-oz"/>
+    <title>Monin - Mango Smoothie Mix - 46 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-mango-smoothie-mix-46-oz-559268.jpg?v=1611513399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Whip up delicious frozen drinks in no time with this Monin 46 fl. oz. mango fruit smoothie mix!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This ready-to-use smoothie mix makes it incredibly easy to make premium drinks in a matter of minutes - simply pour over ice, blend until smooth, and serve! Able to stand on its own with no added flavors or mixes, this high quality smoothie mix delivers an irresistible taste that can't be beaten. A popular flavor amongst customers of all ages, upgrade your signature beverages with this mix!</p>
+<h3 class="item-header">Tropical Mango Flavor</h3>
+<p>Boasting a sweet, tropical mango flavor and aroma, this mango smoothie mix is made with fresh, natural ingredients, including fresh mangoes picked at the peak of ripeness, and contains no preservatives. Offer premium mango fruit smoothies, or craft popular alcoholic drinks like a frozen daiquiri or mango margarita. You can even use this mix to create milkshakes and frappes, making it an extremely profitable addition to your coffee shop, cafe, bar, or restaurant.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Mango Smoothie - 46 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monin</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851598753866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851594887242</id>
+    <published>2020-12-09T11:30:40-05:00</published>
+    <updated>2020-12-09T11:30:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-pina-colada-smoothie-mix-46-oz"/>
+    <title>Monin - Pina Colada Smoothie Mix - 46 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-pina-colada-smoothie-mix-46-oz-725809.jpg?v=1611511836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Whip up delicious frozen drinks in no time with this Monin 46 fl. oz. pina colada fruit smoothie mix!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This ready-to-use smoothie mix makes it incredibly easy to make premium drinks in a matter of minutes - simply pour over ice, blend until smooth, and serve! Able to stand on its own with no added flavors or mixes, this high quality smoothie mix delivers an irresistible taste that can't be beaten. A popular flavor amongst customers of all ages, upgrade your signature beverages with this mix!</p>
+<h3 class="item-header">Creamy Pina Colada Flavor</h3>
+<p>Boasting a sweet, rich and creamy pina colada flavor and aroma, this pina colada smoothie mix is made with fresh, natural ingredients, including real coconuts, and contains no preservatives. Offer premium pina colada fruit smoothies and mocktails, or add in your favorite rum to craft a classic alcoholic pina colada.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Pina Colada Smoothie - 46 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monin</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851594887242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851630309450</id>
+    <published>2020-12-07T18:07:47-05:00</published>
+    <updated>2020-12-07T18:07:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-lemonade-smoothie-mix-64-oz"/>
+    <title>Torani - Lemonade Smoothie Mix - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-lemonade-smoothie-mix-64-oz-599248.jpg?v=1611511901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Torani - Lemon Smoothie - 64 Oz</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>Real lemons, really versatile. It’s delicious on its own and incredible as a versatile base. Simply blend with Torani Syrups for a one-of-a-kind lemonade your customers are sure to love.</span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span><strong>Enhance your smoothie selection with this Torani 64 fl. oz. lemonade smoothie mix!</strong> There's no doubt that fruit smoothies are profitable menu items. Make sure to fill your bar, coffee shop, or cafe's drink menu with a variety of flavorful smoothies, including this summertime favorite. This mix delivers a refreshing lemonade flavor and classic yellow color, while its large capacity means you'll be able to satisfy dozens of customers before needing a replacement. </span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>The 64 fl. oz. container also features a large handle that makes pouring easy and a resealable cap that's great for keeping unused product fresh. Save time and costs from buying smoothie ingredients and lessen kitchen preparation time with this premade mix that's made with real fruit, no artificial colors, and no artificial flavors. Simply pour over ice and blend - it's that easy!<br></span></div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851630309450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1123012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851629916234</id>
+    <published>2020-12-07T18:07:47-05:00</published>
+    <updated>2020-12-07T18:07:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-strawberry-banana-smoothie-mix-64-oz"/>
+    <title>Torani - Strawberry Banana Smoothie Mix - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-strawberry-banana-smoothie-mix-64-oz-564977.jpg?v=1611512078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Torani - Strawberry Banana Smoothie - 64 Oz</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>There's no doubt that fruit smoothies are profitable menu items. Make sure to enhance your bar, coffee shop, or cafe's drink menu with a variety of flavorful smoothies, including a top-selling strawberry banana-flavored smoothie made from this Torani 64 fl. oz. mix! This mix delivers a refreshing, full-bodied strawberry banana flavor and vivid color, while its large capacity means you'll be able to satisfy dozens of customers before needing a replacement.</span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span></span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>The 64 fl. oz. container also features a large handle that makes pouring easy and a resealable cap that's great for keeping unused product fresh. Save time and costs from buying smoothie ingredients and lessen kitchen preparation time with this premade mix that's made with real fruit, no artificial colors, and no artificial flavors. Simply pour over ice and blend - it's that easy!</span></div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851629916234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1123018</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851629260874</id>
+    <published>2020-12-07T18:07:46-05:00</published>
+    <updated>2020-12-07T18:07:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-wild-berry-fruit-smoothie-mix-64-oz"/>
+    <title>Torani - Wild Berry Fruit Smoothie Mix - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-wild-berry-fruit-smoothie-mix-64-oz-841934.jpg?v=1611512502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Torani - Wild Berry Fruit Smoothie Mix - 64 Oz</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>There's no doubt that fruit smoothies are profitable menu items. Make sure to enhance your bar, coffee shop, or cafe's drink menu with a variety of flavorful smoothies, including a top-selling wildberry-flavored smoothie made from this Torani 64 fl. oz. mix! This mix delivers a refreshing blend of raspberry, blackberry, and blueberry flavors and vivid color, while its large capacity means you'll be able to satisfy dozens of customers before needing a replacement. </span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span></span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>The 64 fl. oz. container also features a large handle that makes pouring easy and a resealable cap that's great for keeping unused product fresh. Save time and costs from buying smoothie ingredients and lessen kitchen preparation time with this premade mix that's made with real fruit, no artificial colors, and no artificial flavors. Simply pour over ice and blend - it's that easy!</span></div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851629260874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1123040</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851628965962</id>
+    <published>2020-12-07T18:07:44-05:00</published>
+    <updated>2020-12-07T18:07:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-strawberry-smoothie-mix-64-oz"/>
+    <title>Torani - Strawberry Smoothie Mix - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-strawberry-smoothie-mix-64-oz-259603.jpg?v=1611513944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Torani - Strawberry Smoothie - 64 Oz</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Make sure to enhance your bar, coffee shop, or cafe's drink menu with a variety of flavorful smoothies, including a top-selling strawberry-flavored smoothie made from this Torani 64 fl. oz. mix!</h2>
+<p><span>This mix delivers a refreshing, full-bodied strawberry flavor and vivid red color, while its large capacity means you'll be able to satisfy dozens of customers before needing a replacement. The 64 fl. oz. container also features a large handle that makes pouring easy and a resealable cap that's great for keeping unused product fresh. Save time and costs from buying smoothie ingredients and lessen kitchen preparation time with this premade mix that's made with real fruit, no artificial colors, and no artificial flavors. Simply pour over ice and blend - it's that easy!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>This strawberry smoothie offers you an easy way to add a popular flavor to your menu! Bursting with fresh-picked strawberry flavor, this mix is sure to satisfy your customers. Whether you serve it on its own or mix it with other ingredients or real fruit, this strawberry smoothie mix is sure to be a hit!</p>
+<h3 class="item-header">Suggested Recipe: Real Fruit Tea Smoothie</h3>
+<p>6 fl. oz. any Torani Real Fruit Smoothie Mix<br>2 fl. oz. brewed tea, chilled (black, green or roobios)<br>2 cups ice<br><br>Fill cup with ice and fill 3/4 full with Torani Real Fruit Smoothie Mix. Add chilled brewed tea to top line of cup. Pour contents into blender pitcher, and blend until smooth.</p>
+<div class="detail-section textimage-right-template">
+<div class="flex-container">
+<div class="template-text">
+<h3 class="item-header">Suggested Recipe: Strawberries and Cream Smoothie</h3>
+<p>3 fl. oz. Torani Strawberry Real Fruit Smoothie Mix<br>3 fl. oz. Torani Real Cream Frappe Base<br>2 cups ice<br><br>Combine ice and Torani in a blender pitcher and blend until smooth.</p>
+</div>
+</div>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851628965962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1123019</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851627327562</id>
+    <published>2020-12-07T18:07:44-05:00</published>
+    <updated>2020-12-07T18:07:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-mango-smoothie-mix-64-oz"/>
+    <title>Torani - Mango Smoothie Mix - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-mango-smoothie-mix-64-oz-786858.jpg?v=1611511899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Torani - Mango Smoothie - 64 Oz</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>More mango, please. Perfectly balanced sweet and tangy Kent mangos, blended to perfection, keep you coming back for more of this smooth, refreshing favorite.</span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">There's no doubt that fruit smoothies are profitable menu items.</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong>Make sure to enhance your bar, coffee shop, or cafe's drink menu</strong> with a variety of flavorful smoothies, including a top-selling mango-flavored smoothie made from this Torani 64 fl. oz. mix! This mix delivers a refreshing, full-bodied mango flavor and vivid orange color, while its large capacity means you'll be able to satisfy dozens of customers before needing a replacement.<br>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span>The 64 fl. oz. container also features a large handle that makes pouring easy and a resealable cap that's great for keeping unused product fresh. Save time and costs from buying smoothie ingredients and lessen kitchen preparation time with this premade mix that's made with real fruit, no artificial colors, and no artificial flavors. Simply pour over ice and blend - it's that easy!</span></div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851627327562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1123013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801168375882</id>
+    <published>2020-10-12T13:51:29-04:00</published>
+    <updated>2020-10-12T13:51:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swad-kesar-mango-pulp-3-1-kg"/>
+    <title>Swad - Kesar Mango Pulp - 3.1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-31-kg-827418.jpg?v=1611514430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swad<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Swad - Kesar Mango Pulp - 3.1 Kg</strong></p>
+<p><span>This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g#product","name":"Swad -  Kesar Mango Pulp - 850 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887536021574","sku":"gPBM295","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-850-g-bulk-mart_265.jpg","description":"Swad - Kesar Mango Pulp - 850 g.","category":"FOOD","brand":{"@type":"Brand","name":"Swad"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"gPBM295","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g?variant=19271437746246","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801168375882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>12407</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887536021574</id>
+    <published>2020-10-12T13:51:26-04:00</published>
+    <updated>2020-10-12T13:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zaika-kesar-mango-pulp-850-g"/>
+    <title>Zaika -  Kesar Mango Pulp - 850 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Zaika</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zaika-kesar-mango-pulp-850-g-165382.jpg?v=1611512497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaika<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Zaika -  Kesar Mango Pulp - 850 g</strong></p>
+<p><span>This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g#product","name":"Swad -  Kesar Mango Pulp - 850 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887536021574","sku":"gPBM295","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-850-g-bulk-mart_265.jpg","description":"Swad - Kesar Mango Pulp - 850 g.","category":"FOOD","brand":{"@type":"Brand","name":"Swad"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"gPBM295","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g?variant=19271437746246","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887536021574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>12408</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887535923270</id>
+    <published>2018-11-28T15:08:45-05:00</published>
+    <updated>2018-11-28T15:08:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swad-kesar-mango-pulp-24-x-850-g"/>
+    <title>Swad -  Kesar Mango Pulp - 24 x 850 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-24-x-850-g-275816.png?v=1611512731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swad<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Swad - Kesar Mango Pulp - 24 x 850 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887535923270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>12406</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

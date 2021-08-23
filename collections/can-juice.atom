@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/can-juice.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-22T23:16:01-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4773753094218</id>
+    <published>2020-09-22T23:16:01-04:00</published>
+    <updated>2020-09-22T23:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-juice-24-156-ml"/>
+    <title>Heinz - Tomato Juice - 24 × 156 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-juice-24-156-ml-851020.jpg?v=1611510276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Heinz - Tomato Juice - 24 × 156 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong></strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Heinz Tomato Juice is made from 2 simple ingredients – tomatoes and salt – every 156ml cup contains 1 full serving of vegetables, and it is a source of Vitamin A, Vitamin C, iron and folate. Our products have No artificial colours, No artificial flavours, No added sugar.</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">•1 serving contains 2 full servings of vegetables and 25 mg of lycopene as well as a source of vitamin a, vitamin c, iron and folate<br data-mce-fragment="1">•No artificial colours, No artificial flavours, No added sugar<br data-mce-fragment="1">•Made in Canada with fresh locally grown Tomatoes<br data-mce-fragment="1">•Heinz Tomato Juice is made with quality ripe tomatoes, picked from field and packed within hours<br data-mce-fragment="1">•Various usage occasions: as an ingredient, as a mixer or as a tasty drink on its own</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Heinz</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773753094218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>85634</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773752176714</id>
+    <published>2020-09-22T23:15:59-04:00</published>
+    <updated>2020-09-22T23:15:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-juice-24-284-ml"/>
+    <title>Heinz - Tomato Juice - 24 × 284 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-juice-24-284-ml-866794.jpg?v=1611510581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong>Heinz - Tomato Juice - 24 × 284 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong></strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">Heinz Tomato Juice is made from 2 simple ingredients – tomatoes and salt – every 156ml cup contains 1 full serving of vegetables, and it is a source of Vitamin A, Vitamin C, iron and folate. Our products have No artificial colours, No artificial flavours, No added sugar.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">•1 serving contains 2 full servings of vegetables and 25 mg of lycopene as well as a source of vitamin a, vitamin c, iron and folate<br data-mce-fragment="1">•No artificial colours, No artificial flavours, No added sugar<br data-mce-fragment="1">•Made in Canada with fresh locally grown Tomatoes<br data-mce-fragment="1">•Heinz Tomato Juice is made with quality ripe tomatoes, picked from field and packed within hours<br data-mce-fragment="1">•Various usage occasions: as an ingredient, as a mixer or as a tasty drink on its own</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Heinz</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773752176714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>342</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773750079562</id>
+    <published>2020-09-22T22:35:56-04:00</published>
+    <updated>2020-09-22T22:35:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-watermelon-fruit-juice-cocktail-24-x-680-ml"/>
+    <title>Arizona - Watermelon Fruit Juice Cocktail - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-WatermelonFruitJuiceCocktail-24x680ml.jpg?v=1623977057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Details:</strong></li>
+<li data-mce-fragment="1">Fortified with Vitamin C.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li data-mce-fragment="1">Made with the finest quality ingredients.</li>
+<li data-mce-fragment="1">Tasty, refreshing drink.</li>
+<li data-mce-fragment="1">No artificial flavours, colours or preservatives</li>
+<li data-mce-fragment="1">Sweetened with cane sugar</li>
+<li data-mce-fragment="1">Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773750079562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>324234</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773749948490</id>
+    <published>2020-09-22T22:35:55-04:00</published>
+    <updated>2020-09-22T22:35:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-kiwi-strawberry-fruit-juice-cocktail-24-x-680-ml"/>
+    <title>Arizona - Kiwi Strawberry Fruit Juice Cocktail - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-KiwiStrawberryFruitJuiceCocktail-24x680ml.jpg?v=1623976710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Details:</strong></li>
+<li>Fortified with Vitamin C.<br>
+</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773749948490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>23423</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773747687498</id>
+    <published>2020-09-22T22:35:54-04:00</published>
+    <updated>2020-09-22T22:35:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-orangeade-24-x-680-ml"/>
+    <title>Arizona - Orangeade - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-Orangeade-24x680ml.jpg?v=1623977072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Details:</strong></li>
+<li>Fortified with Vitamin C.<br>
+</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773747687498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>234235</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773747228746</id>
+    <published>2020-09-22T22:35:53-04:00</published>
+    <updated>2020-09-22T22:35:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-lemonade-24-x-680-ml"/>
+    <title>Arizona - Lemonade - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-lemonade-24-x-680-ml-972215.jpg?v=1623994793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Details:</strong></li>
+<li>Fortified with Vitamin C.<br>
+</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773747228746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>45612</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773746475082</id>
+    <published>2020-09-22T22:35:51-04:00</published>
+    <updated>2020-09-22T22:35:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-grapeade-24-x-680-ml"/>
+    <title>Arizona - Grapeade - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-Grapeade-24x680ml.jpg?v=1623976515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b>Arizona - Grapeade - 24 x 680 ml</b></div>
+<ul>
+<li>Fortified with Vitamin C.<br>
+</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773746475082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>213145</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773745066058</id>
+    <published>2020-09-22T22:35:50-04:00</published>
+    <updated>2020-09-22T22:35:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-rx-energy-herbal-tonic-24-x-680-ml"/>
+    <title>Arizona - RX Energy Herbal Tonic- 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-RXEnergyHerbalTonic-24x680ml.jpg?v=1623976838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li><strong>Details:</strong></li>
+<li>Fortified with Vitamin C.<br>
+</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773745066058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>68567</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773743132746</id>
+    <published>2020-09-22T22:35:49-04:00</published>
+    <updated>2020-09-22T22:35:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-fruit-punch-juice-cocktail-24-x-680-ml"/>
+    <title>Arizona - Fruit Punch Juice Cocktail - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-fruit-punch-juice-cocktail-24-x-680-ml-369475.jpg?v=1611508954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><b>Arizona - Fruit Punch Juice Cocktail - 24 x 680 ml</b></div>
+<div><b></b></div>
+<ul>
+<li>Fortified with Vitamin C.</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773743132746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>353446</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773739659338</id>
+    <published>2020-09-22T22:35:48-04:00</published>
+    <updated>2020-09-22T22:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-mucho-mango-fruit-juice-cocktail-24-x-680-ml"/>
+    <title>Arizona  - Mucho Mango Fruit Juice Cocktail - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-mucho-mango-fruit-juice-cocktail-24-x-680-ml-578963.jpg?v=1611509138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona  - Mucho Mango Fruit Juice Cocktail - 24 x 680 ml</strong></p>
+<ul>
+<li>Fortified with Vitamin C.</li>
+<li>Sweet, yet the light flavour is ideal when you're craving a taste of the exotic.</li>
+<li>Made with the finest quality ingredients.</li>
+<li>Tasty, refreshing drink.</li>
+<li>No artificial flavours, colours or preservatives</li>
+<li>Sweetened with cane sugar</li>
+<li>Available in 680 ml big can.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Canned Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773739659338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>13123</s:sku>
+      <s:grams>16500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771968942154</id>
+    <published>2020-09-18T16:31:15-04:00</published>
+    <updated>2020-09-18T16:31:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-6-x-330-ml-984067.jpg?v=1611511779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 6 x 330 ml</strong></p>
+<p>Sparkling grapefruit beverage with 16% grapefruit juice from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated grapefruit juice, grapefruit purée), Carbon dioxide, Citric acid, Natural flavour.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Transform any ordinary moment with<span> </span><strong>our favourite sparkling</strong><span> </span><strong>grapefruit drink</strong>, Sanpellegrino Pompelmo.</p>
+<p>Amazingly zesty and thirst-quenching,<span> </span><strong>the gorgeous sun-ripened grapefruit from the citrus groves in the Mediterranean</strong><span> </span>gives Sanpellegrino Pompelmo its unique characteristics.</p>
+<p>An opaque yellow in colour with just the right amount of carbonation, the aroma of juicy grapefruit fills the nose.</p>
+<p>A sip starts sweet but ends bittersweet, with a lingering taste of<span> </span><strong>juicy squeezed grapefruit<span> </span></strong>that dances across your tongue.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732722246","sku":"BM2649","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml-bulk-mart_359.jpg","description":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"BM2649","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml?variant=20255588220998","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771968942154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009057</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771967270986</id>
+    <published>2020-09-18T16:31:08-04:00</published>
+    <updated>2020-09-18T16:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-melograno-arancia-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Melograno &amp; Arancia Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-melograno-arancia-sparkling-beverage-6-x-330-ml-626175.jpg?v=1611514549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 6 x 330 ml</strong></p>
+<p>Sparkling pomegranate &amp; orange beverage with 11% orange and 5% pomegranate juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, concentrated pomegranate juice, orange purée), Carbon dioxide, Anthocyanin, Natural flavour, Citric acid.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> The glistening rosey-red and light effervescence of Sanpellegrino Melograno &amp; Arancia is lust at first sight.</p>
+<p>Made with the<span> </span><strong>delicious juices of orange and</strong><span> </span><strong>pomegranate</strong>, Melograno &amp; Arancia blooms with a bouquet of gently squeezed orange juice tainted with the exciting scent of glamorous pomegranate.</p>
+<p><strong>Notes of sun-ripened oranges blend expertly with elegant pomegranate</strong><span> </span>creating a fresh tartness that is just on the right side of sweet.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml#product","name":"San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732656710","sku":"BM2651","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml-bulk-mart_544.jpg","description":"San Pellegrino - Pomegranate &amp;amp; Orange Sparkling Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"BM2651","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml?variant=20255588155462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771967270986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009055</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771965042762</id>
+    <published>2020-09-18T16:31:00-04:00</published>
+    <updated>2020-09-18T16:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-limonata-lemon-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Limonata Lemon Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-limonata-lemon-sparkling-beverage-6-x-330-ml-187542.jpg?v=1611512433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Limonata Lemon Sparkling Beverage - 6 x 330 ml</p>
+<p>Sparkling lemon beverage with 16% lemon juice from concentrate.</p>
+<p>Water, Sugar, Lemon juice, Concentrated lemon juice, Carbon dioxide, Natural flavour, Pectin.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Be transported to the lemon groves of Italy with Sanpellegrino Limonata.</p>
+<p>With 16% of<span> </span><strong>juices of</strong><span> </span><strong>ripe lemons from southern Italy</strong>, Sanpellegrino Limonata is in a league of its own.</p>
+<p>With its intense bouquet of the tasty<strong><span> </span>zest and squeezed juice</strong><span> </span>of lemons, Limonata has a soothing opal white colour that is punctuated with clean, crisp bubbles.</p>
+<p>Smooth on the palate, Sanpellegrino Limonata is a delicately balanced drink with fresh and tart notes that linger in the mouth, with the perfect sweet touch to end.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Lemon Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732591174","sku":"BM2648","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml-bulk-mart_525.jpg","description":"San Pellegrino - Lemon Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"},"offers":[{"sku":"BM2648","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml?variant=20255588024390","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771965042762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009053</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771963240522</id>
+    <published>2020-09-18T16:30:50-04:00</published>
+    <updated>2020-09-18T16:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-clementina-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Clementina Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-clementina-sparkling-beverage-6-x-330-ml-746079.jpg?v=1611512194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Clementine Carbonated Beverage - 6 x 330 ml</p>
+<p>Sparkling clementine beverage with 9% mandarine, 5% orange and 2% clementine juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated mandarin juice, concentrated orange juice, concentrated clementine juice, orange purée), Carbon dioxide, Natural flavour, Citric acid, Abthocyanin.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> </p>
+<p>The delicate and<span> </span><strong>unforgettable taste of juicy fruits</strong><span> </span>transports you to Southern Italy scents, a scenic landscape where the sun always shines.</p>
+<p>Sanpellegrino Clementina opens with a lovely bouquet of ripe clementine and orange on the nose which forms the most<span> </span><strong>refreshing and rich taste</strong><span> </span>in the mouth accentuated by the delightful flavor of clementine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771963240522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009051</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771961503818</id>
+    <published>2020-09-18T16:30:44-04:00</published>
+    <updated>2020-09-18T16:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-aranciata-rossa-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Aranciata Rossa Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-aranciata-rossa-sparkling-beverage-6-x-330-ml-462976.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml</strong></p>
+<p>Sparkling blood orange and orange beverage with 17% orange and 3% blood orange juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, concentrated blood orange juice, orange purée), Carbon dioxide, Natural flavour, Abthocyanin, Citric acid, Pectin, Paprika.</p>
+<p>Sanpellegrino Aranciata Rossa is made from<span> </span><strong>oranges and</strong><span> </span><strong>blood oranges from<span> </span></strong><strong>Italy</strong><span> </span>and get their unique colour and taste from the conditions of the land in which they are grown.</p>
+<p>Characterised by its<span> </span><strong>red-orange colour</strong>, Aranciata Rossa has a delicate scent that fills your nose with notes of ripe oranges.</p>
+<p>Lightly carbonated for that refreshing full-mouth sensation, it starts off on a sweet note and ends with the invigorating taste of<span> </span><strong>juicy squeezed orange.</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml#product","name":"San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732460102","sku":"BM2647","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml-bulk-mart_565.jpg","description":"San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"BM2647","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml?variant=20255587795014","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771961503818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009049</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771958423626</id>
+    <published>2020-09-18T16:30:36-04:00</published>
+    <updated>2020-09-18T16:30:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-aranciata-orange-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Aranciata Orange Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-aranciata-orange-sparkling-beverage-6-x-330-ml-380666.jpg?v=1611512191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Aranciata Orange Sparkling Beverage - 24 x 330 ml</p>
+<p>Sparkling orange beverage with 20% orange juice from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, orange purée), Carbon Dioxide, Citric acid, Pectin, Natural flavour.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Sanpellegrino Aranciata is Italy’s famous aranciata, with a history dating back to 1932. </p>
+<p>The quality of the ingredients gives the iconic Aranciata its lively orange colour, with <strong>fine bubbles that are pleasantly visible</strong> to the eye.</p>
+<p> Delicate on the nose with notes of <strong>juicy squeezed orange</strong>, Sanpellegrino Aranciata has a medium sweetness that is balanced with subtle bitter notes of natural orange. This carries through to a caramelised orange finish, creating a truly unique taste that dances in the mouth.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Orange Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732394566","sku":"BM2646","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml-bulk-mart_217.jpg","description":"San Pellegrino - Orange Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"},"offers":[{"sku":"BM2646","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml?variant=20255587729478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771958423626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009047</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4694548480074</id>
+    <published>2020-07-22T15:10:37-04:00</published>
+    <updated>2020-07-22T15:10:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/minute-maid-orange-juice-24-341-ml"/>
+    <title>Minute Maid - Orange Juice - 24 × 341 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Minute Maid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/minute-maid-orange-juice-24-341-ml-991198.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minute Maid<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Minute Maid - Orange Juice - 24 × 341 ml</strong></p>
+<p>Made with high quality<span> </span><strong>Minute Maid® 100% Fruit Juice</strong><span> </span>captures the fruit's taste and aroma. Never Sweetened.</p>
+<ul>
+<li>Bottles and cans that are sold without refrigeration should be used by the date stamped on the package.</li>
+<li>These products may be stored at room temperature. Any unused portions should be refrigerated after opening.</li>
+<li>Freezing cans or bottles is not recommended.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Minute Maid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4694548480074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>23421</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4694537601098</id>
+    <published>2020-07-22T15:06:39-04:00</published>
+    <updated>2020-07-22T15:06:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/minute-maid-apple-juice-24-341-ml"/>
+    <title>Minute Maid - Apple Juice - 24 × 341 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Minute Maid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/minute-maid-apple-juice-24-341-ml-171318.jpg?v=1611511596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minute Maid<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="--tagline"><strong>100% APPLE JUICE FROM CONCENTRATE WITH ADDED VITAMIN C</strong></p>
+<p class="--tagline"><strong><span>Filtered water, concentrated apple juice, ascorbic acid (vitamin c)</span></strong></p>
+<p>Made with high quality<span> </span><strong>Minute Maid® 100% Fruit Juice</strong><span> </span>captures the fruit's taste and aroma. Never Sweetened.</p>
+<ul>
+<li>Bottles and cans that are sold without refrigeration should be used by the date stamped on the package.</li>
+<li>These products may be stored at room temperature. Any unused portions should be refrigerated after opening.</li>
+<li>Freezing cans or bottles is not recommended.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Minute Maid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4694537601098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>7454</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4525373587530</id>
+    <published>2020-03-10T00:13:59-04:00</published>
+    <updated>2020-03-10T00:13:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-cocktail-pineapple-passion-mango-12-x-340-ml"/>
+    <title>Dole - Cocktail Pineapple Passion Mango - 12 x 340 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-cocktail-pineapple-passion-mango-12-x-340-ml-346664.jpg?v=1611509857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Dole - Cocktail Pineapple Passion Mango - 12 x 340 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong></strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Dole® juices and cocktails offer great taste that consumers know and trust. Dole® Pineapple Passion Mango Juice Cocktail is no exception and is an excellent source of Vitamin C.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Dole</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4525373587530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>63453</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4525372768330</id>
+    <published>2020-03-10T00:12:34-04:00</published>
+    <updated>2020-03-10T00:12:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-cocktail-strawberry-kiwi-12-x-340-ml"/>
+    <title>Dole - Cocktail Strawberry Kiwi - 12 x 340 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-cocktail-strawberry-kiwi-12-x-340-ml-343524.jpg?v=1611510934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Dole - Cocktail Strawberry Kiwi - 12 x 340 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Dole® juices and cocktails offer great taste that consumers know and trust. Dole® Strawberry Kiwi Juice Cocktail is no exception and is an excellent source of Vitamin C.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• An excellent source of Vitamin C<br>• Juice cocktail<br>• Great taste consumers know and trust</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Dole</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4525372768330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>23421</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4525372112970</id>
+    <published>2020-03-10T00:11:22-04:00</published>
+    <updated>2020-03-10T00:11:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-100-apple-juice-12-x-340-ml"/>
+    <title>Dole - 100% Apple Juice - 12 x 340 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-100-apple-juice-12-x-340-ml-359413.jpg?v=1611513338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Dole - %100 Apple Juice - 12 x 340 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Dole® juices and cocktails offer great taste that consumers know and trust. Dole® %100 Apple Juice is no exception and is an excellent source of Vitamin C.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• An excellent source of Vitamin C<br>• Juice cocktail<br>• Great taste consumers know and trust</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Dole</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4525372112970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>664655</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4525368574026</id>
+    <published>2020-03-10T00:06:25-04:00</published>
+    <updated>2020-03-10T00:06:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-100-orange-juice-12-x-340-ml"/>
+    <title>Dole - 100% Orange Juice - 12 x 340 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-100-orange-juice-12-x-340-ml-158527.jpg?v=1611509742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Dole - 100% Orange Juice - 12 x 340 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Dole® juices and cocktails offer great taste that consumers know and trust. Dole® 100% Orange Juice  is no exception and is an excellent source of Vitamin C.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• An excellent source of Vitamin C<br>• Juice cocktail<br>• Great taste consumers know and trust</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Dole</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4525368574026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>346345</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4503738908746</id>
+    <published>2020-02-12T20:46:57-05:00</published>
+    <updated>2020-02-12T20:46:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vimto-sparkling-fruit-flavour-drink-24-x-330ml"/>
+    <title>Vimto - Sparkling Fruit Flavour Drink - 24 x 330ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Vimto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vimto-sparkling-fruit-flavour-drink-24-x-330ml-645666.jpg?v=1611513696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vimto<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="40oar7-ed5a9g-6we3lj-aq2dpg" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p><strong>Vimto - Sparkling Fruit Flavour Drink - 24 x 330ml</strong></p>
+<p>Vimto Sparkling Cans 24x330ml Fizzy mixed fruit juice drink made with the delicious secret Vimto flavour, sugar and sweeteners. Ingredients Carbonated Water,Sugar,Mixed Fruit Juices from Concentrate 3% (Grape, Blackcurrant, Cherry, Raspberry),Vimto Flavourings (including Natural Extracts of Fruits, Herbs, Barley Malt and Spices),Citric Acid,Natural Colour (Anthocyanins),Preservatives (Potassium Sorbate, Sodium Benzoate),Flavourings,Antioxidant (Ascorbic Acid),Acidity Regulator (Sodium Citrate),Sweeteners (Acesulfame K, Sucralose) Nutrition per 100 mls Energy 109kJ/26kcal Protein Trace Carbohydrate 6.3g Fat Trace</p>
+</div>
+</div>
+</div>
+</div>
+<div data-cel-widget="aplusBrandStory_feature_div" data-csa-c-id="jzz59x-hrh9b5-4rnktw-azd5p0" data-feature-name="aplusBrandStory" class="celwidget" id="aplusBrandStory_feature_div"><br></div>
+<div id="cpsia-product-safety-warning_feature_div"><br></div>
+<div data-cel-widget="sponsoredProducts2_feature_div" data-csa-c-id="jqljs3-i087hz-knbj4r-fqot5n" data-feature-name="sponsoredProducts2" class="celwidget" id="sponsoredProducts2_feature_div"><br></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/vimto-sparkling-fruit-flavour-drink-24-x-330ml#product","name":"Vimto Sparkling Fruit Flavour Drink - 24 x 330ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4503738908746","sku":"BM2663","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vimto-sparkling-fruit-flavour-drink-24-x-330ml-bulk-mart_179.jpg","description":"Vimto Sparkling Fruit Flavour Drink - 24 x 330ml&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Pakola"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"},"offers":[{"sku":"BM2663","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/vimto-sparkling-fruit-flavour-drink-24-x-330ml?variant=31753851306058","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Juice</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:tag>Vimto</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4503738908746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>08746</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998732722246</id>
+    <published>2019-02-21T00:48:58-05:00</published>
+    <updated>2019-02-21T00:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-24-x-330-ml"/>
+    <title>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-24-x-330-ml-509652.jpg?v=1611512853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 24 x 330 ml</p>
+<p>Sparkling grapefruit beverage with 16% grapefruit juice from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated grapefruit juice, grapefruit purée), Carbon dioxide, Citric acid, Natural flavour.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Transform any ordinary moment with<span> </span><strong>our favourite sparkling</strong><span> </span><strong>grapefruit drink</strong>, Sanpellegrino Pompelmo.</p>
+<p>Amazingly zesty and thirst-quenching,<span> </span><strong>the gorgeous sun-ripened grapefruit from the citrus groves in the Mediterranean</strong><span> </span>gives Sanpellegrino Pompelmo its unique characteristics.</p>
+<p>An opaque yellow in colour with just the right amount of carbonation, the aroma of juicy grapefruit fills the nose.</p>
+<p>A sip starts sweet but ends bittersweet, with a lingering taste of<span> </span><strong>juicy squeezed grapefruit<span> </span></strong>that dances across your tongue.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732722246","sku":"BM2649","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml-bulk-mart_359.jpg","description":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"BM2649","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml?variant=20255588220998","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998732722246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>009056</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998732656710</id>
+    <published>2019-02-21T00:48:58-05:00</published>
+    <updated>2019-02-21T00:48:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-melograno-arancia-sparkling-beverage-24-x-330-ml"/>
+    <title>San Pellegrino - Melograno &amp; Arancia Sparkling Beverage - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-melograno-arancia-sparkling-beverage-24-x-330-ml-757604.jpg?v=1611513877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 24 x 330 ml</strong></p>
+<p>Sparkling pomegranate &amp; orange beverage with 11% orange and 5% pomegranate juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, concentrated pomegranate juice, orange purée), Carbon dioxide, Anthocyanin, Natural flavour, Citric acid.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> The glistening rosey-red and light effervescence of Sanpellegrino Melograno &amp; Arancia is lust at first sight.</p>
+<p>Made with the<span> </span><strong>delicious juices of orange and</strong><span> </span><strong>pomegranate</strong>, Melograno &amp; Arancia blooms with a bouquet of gently squeezed orange juice tainted with the exciting scent of glamorous pomegranate.</p>
+<p><strong>Notes of sun-ripened oranges blend expertly with elegant pomegranate</strong><span> </span>creating a fresh tartness that is just on the right side of sweet.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml#product","name":"San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732656710","sku":"BM2651","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml-bulk-mart_544.jpg","description":"San Pellegrino - Pomegranate &amp;amp; Orange Sparkling Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"BM2651","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml?variant=20255588155462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998732656710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>009054</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

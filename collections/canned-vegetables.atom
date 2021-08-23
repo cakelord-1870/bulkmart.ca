@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/canned-vegetables.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-07-07T20:14:23-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6614268149834</id>
+    <published>2021-07-07T20:14:23-04:00</published>
+    <updated>2021-07-07T20:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/supreme-whole-dill-pickle-20-l"/>
+    <title>Supreme - Whole Dill Pickle - 20 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/supreme-whole-dill-pickle-large-20-l-235050.jpg?v=1625757062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6614268149834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>22901</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850114887754</id>
+    <published>2021-01-04T15:04:19-05:00</published>
+    <updated>2021-01-04T15:04:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cedar-creek-garlic-sauce-375-g"/>
+    <title>Cedar Creek - Garlic Sauce - 375 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cedar Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-creek-garlic-sauce-375-g-715830.jpg?v=1611509429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cedar Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cedar Creek - Garlic Sauce - 375 g</strong></p>
+<p>Garlic sauce is a sauce prepared using garlic as a primary ingredient. It is typically a pungent sauce, with the depth of garlic flavor determined by the amount of garlic used. The garlic is typically crushed or finely diced. Simple garlic sauce is composed of garlic and another ingredient to suspend the tuber via emulsion, such as oil, butter or mayonnaise. Various additional ingredients can be used to prepare the sauce.<br><br>Garlic sauce can be used to add flavor to many foods and dishes, such as steak, fish, seafood, mutton, chops, chicken, eggs and vegetables. It is also used as a condiment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850114887754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>33221</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850114854986</id>
+    <published>2021-01-04T15:04:19-05:00</published>
+    <updated>2021-01-04T15:04:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cedar-creek-garlic-sauce-4-54-kg"/>
+    <title>Cedar Creek - Garlic Sauce - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cedar Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-creek-garlic-sauce-454-kg-136419.jpg?v=1611509317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cedar Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cedar Creek - Garlic Sauce - 4.54 Kg</strong></p>
+<p><span>Garlic sauce is a sauce prepared using garlic as a primary ingredient. It is typically a pungent sauce, with the depth of garlic flavor determined by the amount of garlic used. The garlic is typically crushed or finely diced. Simple garlic sauce is composed of garlic and another ingredient to suspend the tuber via emulsion, such as oil, butter or mayonnaise. Various additional ingredients can be used to prepare the sauce.</span><br><br><span>Garlic sauce can be used to add flavor to many foods and dishes, such as steak, fish, seafood, mutton, chops, chicken, eggs and vegetables. It is also used as a condiment.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850114854986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>33222</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850114396234</id>
+    <published>2021-01-04T15:04:18-05:00</published>
+    <updated>2021-01-04T15:04:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/delmare-chopped-garlic-in-oil-8-kg"/>
+    <title>Delmare - Chopped Garlic In Oil - 8 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Delmare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/delmare-chopped-garlic-in-oil-8-kg-935971.png?v=1611509970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delmare<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Delmare - Chopped Garlic In Oil - 8 Kg</strong></p>
+<p><span>We offer a variety of Garlic Products, spreads and purees to enhance every palate. Many of our products are available in pureed form, to facilitate the bulk inclusion of these ingredients in recipes for food production or preparation. Each pureed product has a unique flavour that can be used to satisfy the taste of the discerning consumer. The packaging options are varied and can be customized to your needs – in water, in canola, sunflower, avocado or olive oil. We at Delmare, take pride in the fact that all of our spreads are Trans Fat Free, made with non-hydrogenated margarine. A much healthier alternative</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Chopped Garlic</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850114396234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>33224</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850114068554</id>
+    <published>2021-01-04T15:04:16-05:00</published>
+    <updated>2021-01-04T15:04:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/delmare-chopped-garlic-in-oil-4-kg"/>
+    <title>Delmare - Chopped Garlic In Oil - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Delmare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/delmare-chopped-garlic-in-oil-4-kg-385102.png?v=1611510336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delmare<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Delmare - Chopped Garlic In Oil - 4 Kg</p>
+<p>We offer a variety of Garlic Products, spreads and purees to enhance every palate. Many of our products are available in pureed form, to facilitate the bulk inclusion of these ingredients in recipes for food production or preparation. Each pureed product has a unique flavour that can be used to satisfy the taste of the discerning consumer. The packaging options are varied and can be customized to your needs – in water, in canola, sunflower, avocado or olive oil. We at Delmare, take pride in the fact that all of our spreads are Trans Fat Free, made with non-hydrogenated margarine. A much healthier alternative</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Chopped Garlic</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850114068554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>33223</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850113380426</id>
+    <published>2021-01-04T15:04:15-05:00</published>
+    <updated>2021-01-04T15:04:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/delmare-garlic-spread-8-kg"/>
+    <title>Delmare - Garlic Spread - 8 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Delmare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/delmare-garlic-spread-8-kg-761979.jpg?v=1611512731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delmare<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Delmare - Garlic Spread - 4 Kg</strong></p>
+<p><span>In spread form, Garlic applied to breads, buns or baguettes offers an alternative method from which one can benefit from the taste and health benefits of Garlic. Our, roasted garlic spread is softer, easily spreadable and mellower than fresh garlic. It can add richness and flavour to pasta, potatoes, dips, or as a spread on bread or buns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850113380426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>33226</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850113314890</id>
+    <published>2021-01-04T15:04:14-05:00</published>
+    <updated>2021-01-04T15:04:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/delmare-garlic-spread-4-kg"/>
+    <title>Delmare - Garlic Spread - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Delmare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/delmare-garlic-spread-4-kg-754413.jpg?v=1611509853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Delmare<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Delmare - Garlic Spread - 4 Kg</strong></p>
+<p><span>In spread form, Garlic applied to breads, buns or baguettes offers an alternative method from which one can benefit from the taste and health benefits of Garlic. Our, roasted garlic spread is softer, easily spreadable and mellower than fresh garlic. It can add richness and flavour to pasta, potatoes, dips, or as a spread on bread or buns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850113314890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>33225</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850112528458</id>
+    <published>2021-01-04T15:04:12-05:00</published>
+    <updated>2021-01-04T15:04:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-garlic-spread-4-kg"/>
+    <title>Golden Gate - Garlic Spread - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-garlic-spread-4-kg-331862.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Gate - Garlic Spread - 4 Kg</p>
+<p><span>Garlic Spread - Ideal for premium garlic bread with its buttery colour and robust garlic flavour. Non-hydrogenated, gluten free and kosher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850112528458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>33227</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821154627658</id>
+    <published>2020-12-31T12:52:02-05:00</published>
+    <updated>2020-12-31T12:52:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-jalapeno-peppers-dried-475-g"/>
+    <title>Belle Donne Spices - Jalapeno Peppers Dried - 475 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-jalapeno-peppers-dried-475-g-128298.png?v=1611509371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Jalapeno Peppers Dried - 475 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peppers</s:tag>
+    <s:tag>Whole Spices</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821154627658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>44125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867810099274</id>
+    <published>2020-12-29T18:29:44-05:00</published>
+    <updated>2020-12-29T18:29:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frangiulia-baresana-olives-1-7-l"/>
+    <title>Frangiulia - Baresana Olives - 1.7 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Frangiulia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frangiulia-baresana-olives-17-l-283835.png?v=1611510228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frangiulia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Frangiulia - Baresana Olives - 1.7 L</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div>
+</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg#product","name":"Krinos - Moroccan Black Olives - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887500959814","sku":"12BM303","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-moroccan-black-olives-1-kg-bulk-mart_441.jpg","description":"Krinos - Moroccan Black Olives - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Krinos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"12BM303","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg?variant=19271379091526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baresana Olives</s:tag>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867810099274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>221026</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867803938890</id>
+    <published>2020-12-29T18:29:43-05:00</published>
+    <updated>2020-12-29T18:29:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dora-mediterranean-mixed-olives-5-kg"/>
+    <title>Dora - Mediterranean Mixed Olives - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-mediterranean-mixed-olives-5-kg-540580.jpg?v=1611510223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dora - Mediterranean Mixed Olives - 5 Kg</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div>
+</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg#product","name":"Krinos - Moroccan Black Olives - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887500959814","sku":"12BM303","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-moroccan-black-olives-1-kg-bulk-mart_441.jpg","description":"Krinos - Moroccan Black Olives - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Krinos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"12BM303","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg?variant=19271379091526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Mixed Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867803938890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>221024</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867796795466</id>
+    <published>2020-12-29T18:29:42-05:00</published>
+    <updated>2020-12-29T18:29:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dora-sweet-sicilian-nocellara-olives-5-kg"/>
+    <title>Dora - Sweet Sicilian Nocellara Olives - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-sweet-sicilian-nocellara-olives-5-kg-236700.jpg?v=1611510889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dora - Sweet Sicilian Nocellara Olives - 5 Kg</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div>
+</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg#product","name":"Krinos - Moroccan Black Olives - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887500959814","sku":"12BM303","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-moroccan-black-olives-1-kg-bulk-mart_441.jpg","description":"Krinos - Moroccan Black Olives - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Krinos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"12BM303","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg?variant=19271379091526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Nocellara Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867796795466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>221025</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867790504010</id>
+    <published>2020-12-29T18:29:42-05:00</published>
+    <updated>2020-12-29T18:29:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/attica-moroccan-olives-4-53-kg"/>
+    <title>Attica - Moroccan Olives - 4.53 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Attica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/attica-moroccan-olives-453-kg-497675.jpg?v=1624076357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Attica<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Attica - Moroccan Olives - 4.53 Kg</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div>
+</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg#product","name":"Krinos - Moroccan Black Olives - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887500959814","sku":"12BM303","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/krinos-moroccan-black-olives-1-kg-bulk-mart_441.jpg","description":"Krinos - Moroccan Black Olives - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Krinos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"12BM303","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/krinos-moroccan-black-olives-1-kg?variant=19271379091526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Moroccan Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867790504010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>221023</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867784933450</id>
+    <published>2020-12-29T18:29:41-05:00</published>
+    <updated>2020-12-29T18:29:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/attica-black-dry-olives-bag-2-kg"/>
+    <title>Attica -  Black Dry Olives Bag - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Attica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Attica-BlackDryOlivesBag-2Kg.jpg?v=1624073201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Attica<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Attica -  Black Dry Olives Bag - 2 Kg</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867784933450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>221021</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867779592266</id>
+    <published>2020-12-29T18:29:40-05:00</published>
+    <updated>2020-12-29T18:29:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/attica-jumbo-kalamata-olives-pitted-5-kg"/>
+    <title>Attica - Jumbo Kalamata Olives Pitted - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Attica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/attica-jumbo-kalamata-olives-pitted-5-kg-541976.jpg?v=1624076358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Attica<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Attica - Jumbo Kalamata Olives Pitted - 5 Kg</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>Olives are one of the world's most widely enjoyed foods. Olives can be added to salads, meat and poultry dishes and, of course, pizza.</p>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<p>One single olive contains calcium and iron, Vitamins A&amp;C and E. Research studies have also shown that the monounsaturated fat found in olives can help to decrease blood pressure.</p>
+<h3 class="item-header">Delicious, Versatile Ingredient</h3>
+<p>Olives are firm in texture, sweeter and nuttier in comparison to green olives, and a popularly used in Greek and Italian dishes. They are great for topping pizzas, subs, and salads, incorporating them into pasta dishes, or blending up as part of tangy and sweet vinaigrettes or tapenades. Olives taste great when paired with sundried tomatoes, roasted red peppers, artichokes, and feta cheese.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kalamata Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:tag>Pitted Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867779592266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>221022</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854216294474</id>
+    <published>2020-12-19T18:17:23-05:00</published>
+    <updated>2020-12-19T18:17:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-stuffed-manzanilla-olives-6-x-2-lunico-stuffed-manzanilla-olives-6-x-2-l"/>
+    <title>Unico - Stuffed Manzanilla Olives - 6 x 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-stuffed-manzanilla-olives-6-x-2-l-483639.jpg?v=1611512258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Bring a fresh taste to any salad, vegetable platter, or drink with these manzanilla stuffed olives! Perfect for adding an extra zest of savory flavor to any dish, these manzanilla stuffed olives make a welcome addition to your sandwich shop, bar, or Italian restaurant. </p>
+<p itemprop="description"><br>Manzanilla olives are light green in color with a firm texture. Featuring a slightly bitter and smoky taste, they undergo a process known as a "Spanish cure." During this curing process, the olives are thoroughly washed for 10-12 hours, then fermented for approximately three or four months. After all that time, each olive is sure to be cultivated to perfection!<br><br>From classic martinis and Greek salads to pasta and tapas, these large stuffed manzanilla olives will be the ideal addition to any recipe. Use them to enhance your olive bar, salad bar, pasta salads, and flatbreads! A simple yet fresh product, they can often be found in martini glasses during cocktail hour. These manzanilla stuffed cocktail olives offer the perfect finishing touch to your meals and they are ready to serve.</p>
+<p>Unico - Stuffed Manzanilla Olives - 2 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Manzanilla Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854216294474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>54715</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854215999562</id>
+    <published>2020-12-19T18:17:22-05:00</published>
+    <updated>2020-12-19T18:17:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-stuffed-manzanilla-olives-2-l"/>
+    <title>Unico - Stuffed Manzanilla Olives - 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-stuffed-manzanilla-olives-2-l-204237.jpg?v=1611513570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Bring a fresh taste to any salad, vegetable platter, or drink with these manzanilla stuffed olives! Perfect for adding an extra zest of savory flavor to any dish, these manzanilla stuffed olives make a welcome addition to your sandwich shop, bar, or Italian restaurant. </p>
+<p itemprop="description"><br>Manzanilla olives are light green in color with a firm texture. Featuring a slightly bitter and smoky taste, they undergo a process known as a "Spanish cure." During this curing process, the olives are thoroughly washed for 10-12 hours, then fermented for approximately three or four months. After all that time, each olive is sure to be cultivated to perfection!<br><br>From classic martinis and Greek salads to pasta and tapas, these large stuffed manzanilla olives will be the ideal addition to any recipe. Use them to enhance your olive bar, salad bar, pasta salads, and flatbreads! A simple yet fresh product, they can often be found in martini glasses during cocktail hour. These manzanilla stuffed cocktail olives offer the perfect finishing touch to your meals and they are ready to serve.</p>
+<p>Unico - Stuffed Manzanilla Olives - 2 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Manzanilla Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854215999562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.49</s:price>
+      <s:sku>54714</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854215180362</id>
+    <published>2020-12-19T18:17:22-05:00</published>
+    <updated>2020-12-19T18:17:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-stuffed-manzanilla-olives-2-x-4-l"/>
+    <title>Cibona - Stuffed Manzanilla Olives - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-stuffed-manzanilla-olives-2-x-4-l-520549.jpg?v=1611510699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Bring a fresh taste to any salad, vegetable platter, or drink with these manzanilla stuffed olives! Perfect for adding an extra zest of savory flavor to any dish, these manzanilla stuffed olives make a welcome addition to your sandwich shop, bar, or Italian restaurant. </p>
+<p itemprop="description"><br>Manzanilla olives are light green in color with a firm texture. Featuring a slightly bitter and smoky taste, they undergo a process known as a "Spanish cure." During this curing process, the olives are thoroughly washed for 10-12 hours, then fermented for approximately three or four months. After all that time, each olive is sure to be cultivated to perfection!<br><br>From classic martinis and Greek salads to pasta and tapas, these large stuffed manzanilla olives will be the ideal addition to any recipe. Use them to enhance your olive bar, salad bar, pasta salads, and flatbreads! A simple yet fresh product, they can often be found in martini glasses during cocktail hour. These manzanilla stuffed cocktail olives offer the perfect finishing touch to your meals and they are ready to serve.</p>
+<p>Cibona - Stuffed Manzanilla Olives - 2 x 4 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Manzanilla Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854215180362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>54712</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854212722762</id>
+    <published>2020-12-19T18:17:21-05:00</published>
+    <updated>2020-12-19T18:17:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-stuffed-manzanilla-olives-4-l"/>
+    <title>Cibona - Stuffed Manzanilla Olives - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-stuffed-manzanilla-olives-4-l-931839.jpg?v=1611509370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Bring a fresh taste to any salad, vegetable platter, or drink with these manzanilla stuffed olives! Perfect for adding an extra zest of savory flavor to any dish, these manzanilla stuffed olives make a welcome addition to your sandwich shop, bar, or Italian restaurant. </p>
+<p itemprop="description"><br>Manzanilla olives are light green in color with a firm texture. Featuring a slightly bitter and smoky taste, they undergo a process known as a "Spanish cure." During this curing process, the olives are thoroughly washed for 10-12 hours, then fermented for approximately three or four months. After all that time, each olive is sure to be cultivated to perfection!<br><br>From classic martinis and Greek salads to pasta and tapas, these large stuffed manzanilla olives will be the ideal addition to any recipe. Use them to enhance your olive bar, salad bar, pasta salads, and flatbreads! A simple yet fresh product, they can often be found in martini glasses during cocktail hour. These manzanilla stuffed cocktail olives offer the perfect finishing touch to your meals and they are ready to serve.</p>
+<p>Cibona - Stuffed Manzanilla Olives - 4 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Manzanilla Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854212722762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>54713</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854210723914</id>
+    <published>2020-12-19T18:03:41-05:00</published>
+    <updated>2020-12-19T18:03:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-sour-pickled-onions-4-l"/>
+    <title>Cibona - Sour Pickled Onions - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-sour-pickled-onions-4-l-761306.jpg?v=1611509671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Cibona - Sour Onions - 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Add a touch of class and sophistication to your establishment with these white pearl cocktail onions!</h2>
+<p><span>Delicate, bite-sized pearl onions are packed with brine and savory spices to create a delicious treat that's perfect for adding complex umami flavor to your cocktails and entrees. These alluring alliums have a mild onion flavor that is neither spicy nor pungent and is accompanied by salty overtones to bring out their rich savoriness!</span></p>
+<h3 class="item-header">Classic Cocktail Garnish</h3>
+<p>As their name implies, these onions are a perfect garnish to savory cocktails! Create a classic Gibson by combining 2.5 oz. of gin or vodka with 0.5 oz. vermouth in a mixing glass with ice. Stir and strain the contents into a chilled cocktail glass, garnish with a couple of cocktail onions, and serve! They also make for a great addition to other savory martinis and Bloody Marys.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Don't be afraid to bring cocktail onions out from behind the bar! They make a great addition to charcuterie boards: serve them alongside thinly sliced meats, hard cheeses, and other pickled treats like pepperoncini and cornichons. You can also add a few to your salads for a zesty bite that your customers are sure to love! Try wrapping a cocktail onion with ground beef or pork to create a delightfully flavorful meatball, or even grilling them with roasted vegetables or on kebabs. No matter how you choose to present them, these cocktail onions are a versatile ingredient that's sure to become a favorite in your kitchen and bar!</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Cocktail Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854210723914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.49</s:price>
+      <s:sku>332561</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854209642570</id>
+    <published>2020-12-19T18:03:40-05:00</published>
+    <updated>2020-12-19T18:03:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-sour-pickled-onions-2-x-4-l"/>
+    <title>Cibona - Sour Pickled Onions - 2 x 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-sour-pickled-onions-2-x-4-l-580777.jpg?v=1611509796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Cibona - Sour Cocktail Onions - 2 x 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Add a touch of class and sophistication to your establishment with these white pearl cocktail onions!</h2>
+<p><span>Delicate, bite-sized pearl onions are packed with brine and savory spices to create a delicious treat that's perfect for adding complex umami flavor to your cocktails and entrees. These alluring alliums have a mild onion flavor that is neither spicy nor pungent and is accompanied by salty overtones to bring out their rich savoriness!</span></p>
+<h3 class="item-header">Classic Cocktail Garnish</h3>
+<p>As their name implies, these onions are a perfect garnish to savory cocktails! Create a classic Gibson by combining 2.5 oz. of gin or vodka with 0.5 oz. vermouth in a mixing glass with ice. Stir and strain the contents into a chilled cocktail glass, garnish with a couple of cocktail onions, and serve! They also make for a great addition to other savory martinis and Bloody Marys.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Don't be afraid to bring cocktail onions out from behind the bar! They make a great addition to charcuterie boards: serve them alongside thinly sliced meats, hard cheeses, and other pickled treats like pepperoncini and cornichons. You can also add a few to your salads for a zesty bite that your customers are sure to love! Try wrapping a cocktail onion with ground beef or pork to create a delightfully flavorful meatball, or even grilling them with roasted vegetables or on kebabs. No matter how you choose to present them, these cocktail onions are a versatile ingredient that's sure to become a favorite in your kitchen and bar!</p>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Cocktail Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854209642570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>332560</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854207610954</id>
+    <published>2020-12-19T18:03:39-05:00</published>
+    <updated>2020-12-19T18:03:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-sweet-pickled-onions-2-x-4-l"/>
+    <title>Cibona - Sweet Pickled Onions - 2 x 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-sweet-pickled-onions-2-x-4-l-713886.jpg?v=1611509922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Cibona - Sweet Onions - 2 x 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Add a touch of class and sophistication to your establishment with these white pearl cocktail onions!</h2>
+<p><span>Delicate, bite-sized pearl onions are packed with brine and savory spices to create a delicious treat that's perfect for adding complex umami flavor to your cocktails and entrees. These alluring alliums have a mild onion flavor that is neither spicy nor pungent and is accompanied by salty overtones to bring out their rich savoriness!</span></p>
+<h3 class="item-header">Classic Cocktail Garnish</h3>
+<p>As their name implies, these onions are a perfect garnish to savory cocktails! Create a classic Gibson by combining 2.5 oz. of gin or vodka with 0.5 oz. vermouth in a mixing glass with ice. Stir and strain the contents into a chilled cocktail glass, garnish with a couple of cocktail onions, and serve! They also make for a great addition to other savory martinis and Bloody Marys.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Don't be afraid to bring cocktail onions out from behind the bar! They make a great addition to charcuterie boards: serve them alongside thinly sliced meats, hard cheeses, and other pickled treats like pepperoncini and cornichons. You can also add a few to your salads for a zesty bite that your customers are sure to love! Try wrapping a cocktail onion with ground beef or pork to create a delightfully flavorful meatball, or even grilling them with roasted vegetables or on kebabs. No matter how you choose to present them, these cocktail onions are a versatile ingredient that's sure to become a favorite in your kitchen and bar!</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Cocktail Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854207610954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>332562</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854206726218</id>
+    <published>2020-12-19T18:03:38-05:00</published>
+    <updated>2020-12-19T18:03:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-sweet-pickled-onions-4-l"/>
+    <title>Cibona - Sweet Pickled Onions - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-sweet-pickled-onions-4-l-266745.jpg?v=1611509624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Cibona - Sweet Cocktail Onions - 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Add a touch of class and sophistication to your establishment with these white pearl cocktail onions!</h2>
+<p><span>Delicate, bite-sized pearl onions are packed with brine and savory spices to create a delicious treat that's perfect for adding complex umami flavor to your cocktails and entrees. These alluring alliums have a mild onion flavor that is neither spicy nor pungent and is accompanied by salty overtones to bring out their rich savoriness!</span></p>
+<h3 class="item-header">Classic Cocktail Garnish</h3>
+<p>As their name implies, these onions are a perfect garnish to savory cocktails! Create a classic Gibson by combining 2.5 oz. of gin or vodka with 0.5 oz. vermouth in a mixing glass with ice. Stir and strain the contents into a chilled cocktail glass, garnish with a couple of cocktail onions, and serve! They also make for a great addition to other savory martinis and Bloody Marys.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Don't be afraid to bring cocktail onions out from behind the bar! They make a great addition to charcuterie boards: serve them alongside thinly sliced meats, hard cheeses, and other pickled treats like pepperoncini and cornichons. You can also add a few to your salads for a zesty bite that your customers are sure to love! Try wrapping a cocktail onion with ground beef or pork to create a delightfully flavorful meatball, or even grilling them with roasted vegetables or on kebabs. No matter how you choose to present them, these cocktail onions are a versatile ingredient that's sure to become a favorite in your kitchen and bar!</p>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Cocktail Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854206726218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>332563</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854218293322</id>
+    <published>2020-12-19T18:03:13-05:00</published>
+    <updated>2020-12-19T18:03:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-cocktail-olives-2-x-4-l"/>
+    <title>Cibona - Cocktail Olives - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-cocktail-olives-2-x-4-l-158900.jpg?v=1611509439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Perfect for adding an extra zest of savory flavor to any dish, these pitted olives make a welcome addition to your sandwich shop, bar, or Italian restaurant. Bring a fresh taste to any salad, vegetable platter, or drink with pitted cocktail olives! Each jar of olives full of wholesome flavor and authentic taste. </span></p>
+<p>Cibona - Cocktail Olives - 2 x 4 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Olives</s:tag>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:tag>Pitted Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854218293322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.49</s:price>
+      <s:sku>9610</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854217506890</id>
+    <published>2020-12-19T18:03:12-05:00</published>
+    <updated>2020-12-19T18:03:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cibona-cocktail-olives-4-lcibona-cocktail-olives-4-l"/>
+    <title>Cibona - Cocktail Olives - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cibona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cibona-cocktail-olives-4-l-852729.jpg?v=1611509731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cibona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bring a fresh taste to any salad, vegetable platter, or drink with pitted cocktail olives! Each jar of olives full of wholesome flavor and authentic taste. Perfect for adding an extra zest of savory flavor to any dish, these pitted olives make a welcome addition to your sandwich shop, bar, or Italian restaurant.</span></p>
+<p>Cibona - Cocktail Olives - 4 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocktail Olives</s:tag>
+    <s:tag>Green Olives</s:tag>
+    <s:tag>Olives</s:tag>
+    <s:tag>Pitted Olives</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854217506890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>9611</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

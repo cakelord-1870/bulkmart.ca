@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/fresh-vegetables.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-29T20:37:33-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/2035714785350</id>
+    <published>2020-11-29T20:37:33-05:00</published>
+    <updated>2020-11-29T20:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/green-cabbage-50-lbs-casegreen-cabbage-50-lbs-case"/>
+    <title>Green Cabbage - 50 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/green-cabbage-50-lbs-case-682406.jpg?v=1611510226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Cabbage - 50 Lbs / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035714785350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>49187</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3940413210694</id>
+    <published>2020-11-29T20:31:34-05:00</published>
+    <updated>2020-11-29T20:31:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cherry-tomatoes-per-pack"/>
+    <title>Cherry Tomatoes  -  Per Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cherry-tomatoes-per-pack-651095.jpg?v=1611512438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cherry Tomatoes  -  Per Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cherry-tomatoes-per-pack#product","name":"Cherry Tomatoes - Per Pack","itemCondition":"https://schema.org/NewCondition","mpn":"3940413210694","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cherry-tomatoes-per-pack-bulk-mart_520.jpg","description":"Cherry Tomatoes - Per Pack...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"52"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"180"},"gtin13":"PrTomGBM32819","offers":[{"name":"Cherry Tomatoes - Per Pack","sku":"BM32819","gtin13":"PrTomGBM32819","@type":"Offer","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cherry-tomatoes-per-pack?variant=29432372592710","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Tomatoes</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3940413210694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>49167</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2035717636166</id>
+    <published>2020-11-28T19:14:20-05:00</published>
+    <updated>2020-11-28T19:14:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-cabbage-each"/>
+    <title>Red Cabbage - Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-cabbage-each-585265.jpg?v=1611514066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Cabbage - Each</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-cabbage-each#product","name":"Red Cabbage - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2035717636166","sku":"BM32919","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-cabbage-each-bulk-mart_337.jpg","description":"Red Cabbage - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"BM32919","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-cabbage-each?variant=20595791429702","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035717636166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>49227</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4172661227590</id>
+    <published>2020-11-28T19:14:07-05:00</published>
+    <updated>2020-11-28T19:14:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/spring-mix-fresh-pack-11-oz"/>
+    <title>Spring Mix Fresh pack - 11 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/spring-mix-fresh-pack-11-oz-979792.jpg?v=1611513998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spring Mix Fresh pack - 11 Oz</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/spring-mix-fresh-per-pack#product","name":"Spring Mix Fresh - Per Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4172661227590","sku":"BM32919","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/spring-mix-fresh-3-lbs-bulk-mart_581_c51d21fa-5b86-4007-bc35-ae452f5464d5.jpg","description":"Spring Mix Fresh - 3 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"BM32919","weight":{"@type":"QuantitativeValue","unitText":"g","value":"400"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/spring-mix-fresh-per-pack?variant=30319668625478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4172661227590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>49243</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4491585617994</id>
+    <published>2020-01-31T19:26:44-05:00</published>
+    <updated>2020-01-31T19:26:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/baby-arugula-2-lbs"/>
+    <title>Baby Arugula - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Arugula - 2 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4491585617994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>49151</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4465081876554</id>
+    <published>2020-01-10T18:24:30-05:00</published>
+    <updated>2020-01-10T18:24:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/orange-bell-peppers-2-5-lbs-pack"/>
+    <title>Orange Bell Peppers - 2.5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/orange-bell-peppers-5-lbs-pack-175295.jpg?v=1611512319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Bell Peppers </p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Peppers</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4465081876554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>49209</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4465081548874</id>
+    <published>2020-01-10T18:22:50-05:00</published>
+    <updated>2020-01-10T18:22:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/yellow-bell-peppers-5-lbs-packyellow-bell-peppers-5-lbs-pack"/>
+    <title>Yellow Bell Peppers  - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yellow-bell-peppers-5-lbs-pack-133568.jpg?v=1611514308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yellow Bell Peppers  - Per Pack - 5 Lbs Approx.</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Peppers</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4465081548874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>49247</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4405907423306</id>
+    <published>2019-11-30T15:40:01-05:00</published>
+    <updated>2019-11-30T15:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/green-thai-chili-pepper-per-bag"/>
+    <title>Green Thai Chili Pepper - Per Bag</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/green-thai-chili-pepper-per-bag-971183.jpg?v=1611513940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Thai Chili Pepper - Per Bag</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/green-thai-chili-pepper-per-bag#product","name":"Green Thai Chili Pepper - Per Bag","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4405907423306","sku":"BM32719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/green-thai-chili-pepper-per-pack-bulk-mart_199_099b6a77-20f2-4f10-b228-a44181d42687.jpg","description":"Green Thai Chili Pepper - Per Bag.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"BM32719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/green-thai-chili-pepper-per-bag?variant=31410128027722","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Peppers</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4405907423306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>49190</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4297261482058</id>
+    <published>2019-10-22T12:14:06-04:00</published>
+    <updated>2019-10-22T12:14:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/turnip-25-lbs-bag"/>
+    <title>Turnip - 25 Lbs / Bag</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/turnip-25-lbs-bag-104439.jpg?v=1611514067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Turnip - 25 Lbs / Bag</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/turnip-25-lbs-bag#product","name":"Turnip - 25 Lbs / Bag","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4297261482058","sku":"BM32719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/turnip-25-lbs-bag-bulk-mart_963.jpg","description":"Turnip - 25 Lbs / Bag.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"BM32719","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"mpn":"","priceCurrency":"CAD","price":"25.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/turnip-25-lbs-bag?variant=30950414483530","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Root Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4297261482058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>49246</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3973578293318</id>
+    <published>2019-08-31T13:12:28-04:00</published>
+    <updated>2019-08-31T13:12:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-thai-chili-pepper-per-pack"/>
+    <title>Red Thai Chili Pepper - Per Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-thai-chili-pepper-per-pack-416231.png?v=1611511596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Thai Chili Pepper - Per Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-thai-chili-pepper-per-pack#product","name":"Red Thai Chili Pepper - Per Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3973578293318","sku":"BM32719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-thai-chili-pepper-per-pack-bulk-mart_702.png","description":"Red Thai Chili Pepper - Per Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"BM32719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-thai-chili-pepper-per-pack?variant=29571617521734","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Peppers</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3973578293318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>49230</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3965876731974</id>
+    <published>2019-08-22T15:38:33-04:00</published>
+    <updated>2019-08-22T15:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mushrooms-brown-whole-5-lbs"/>
+    <title>Mushrooms Brown Whole - 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mushrooms-brown-whole-5-lbs-179052.png?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mushrooms Brown Whole - 5 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Mushrooms</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3965876731974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>49207</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3956214857798</id>
+    <published>2019-08-12T12:36:09-04:00</published>
+    <updated>2019-08-12T12:36:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/carrots-10-lbs"/>
+    <title>Carrots - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/carrots-10-lbs-685822.jpg?v=1611512916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Carrots - 10 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Root Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3956214857798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>49163</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3946287726662</id>
+    <published>2019-07-30T17:34:55-04:00</published>
+    <updated>2019-07-30T17:34:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/baby-spinach-pack-11-oz"/>
+    <title>Baby Spinach Pack - 11 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Spinach Pack - 11 Oz</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3946287726662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>49154</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3946128769094</id>
+    <published>2019-07-30T13:45:07-04:00</published>
+    <updated>2019-07-30T13:45:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/leek-per-bag"/>
+    <title>Leek - Per Bag</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/leek-per-bag-435515.jpg?v=1611511777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Leek - Per Bag</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/leek-per-bag#product","name":"Leek - Per Bag","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946128769094","sku":"BM2019621","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/leek-per-bag-bulk-mart_478.jpg","description":"Leek - Per Bag.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"},"offers":[{"sku":"BM2019621","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.1"},"priceCurrency":"CAD","price":"11.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/leek-per-bag?variant=29453108641862","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Herbs</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3946128769094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>49199</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3939639033926</id>
+    <published>2019-07-22T15:50:59-04:00</published>
+    <updated>2019-07-22T15:50:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cauliflower-each"/>
+    <title>Cauliflower - Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cauliflower-each-588246.jpg?v=1611514724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cauliflower - Each</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3939639033926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>49165</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938092253254</id>
+    <published>2019-07-20T12:49:45-04:00</published>
+    <updated>2019-07-20T12:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lemon-113-case"/>
+    <title>Lemon - 113 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lemon-113-case-717103.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon - 113 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938092253254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>49200</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938091565126</id>
+    <published>2019-07-20T12:48:13-04:00</published>
+    <updated>2019-07-20T12:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lime-200-caselime-230-case"/>
+    <title>Lime - 230 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lime-230-case-120930.jpg?v=1611511899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lime - 230 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lime-200-case#product","name":"Lime - 200 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938091565126","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lime-200-case-bulk-mart_854.jpg","description":"Lime - 200 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"26.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lime-200-case?variant=29423320367174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938091565126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>49203</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938081996870</id>
+    <published>2019-07-20T12:24:40-04:00</published>
+    <updated>2019-07-20T12:24:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/celery-3-pack"/>
+    <title>Celery - 3 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/celery-3-pack-912491.jpg?v=1611509497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celery - 3 / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938081996870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>49166</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3929405587526</id>
+    <published>2019-07-10T10:36:06-04:00</published>
+    <updated>2019-07-10T10:36:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cucumber-english-3-packcucumber-english-3-pack"/>
+    <title>Cucumber English - 3 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cucumber-english-3-pack-152625.png?v=1611510222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cucumber English - 3 / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cucumber</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3929405587526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>49175</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3884830392390</id>
+    <published>2019-07-02T00:19:23-04:00</published>
+    <updated>2019-07-02T00:19:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dill-fresh-pack"/>
+    <title>Dill Fresh / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dill-fresh-pack-836967.jpg?v=1611513092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dill Fresh / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Herbs</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3884830392390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>49178</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3884819284038</id>
+    <published>2019-07-02T00:01:46-04:00</published>
+    <updated>2019-07-02T00:01:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-beets-loose-5-lbs"/>
+    <title>Golden Beets Loose - 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-beets-loose-5-lbs-123918.jpg?v=1611510123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Beets Loose - 5 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-beets-loose-5-lbs#product","name":"Golden Beets Loose - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3884819284038","sku":"BM32719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-beets-loose-5-lbs-bulk-mart_860.jpg","description":"Golden Beets Loose - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"33"},"offers":[{"sku":"BM32719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-beets-loose-5-lbs?variant=29236320469062","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"33"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Root Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3884819284038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>49183</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3882170155078</id>
+    <published>2019-06-28T18:58:42-04:00</published>
+    <updated>2019-06-28T18:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-bell-peppers-2-5-lbs-pack"/>
+    <title>Red Bell Peppers - 2.5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-bell-peppers-5-lbs-pack-867376.jpg?v=1611511653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Bell Peppers </p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Peppers</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3882170155078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>49225</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3881213460550</id>
+    <published>2019-06-27T13:00:54-04:00</published>
+    <updated>2019-06-27T13:00:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/asparagus-fresh-per-bunch"/>
+    <title>Asparagus Fresh - Per Bunch</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/asparagus-fresh-per-bunch-614482.jpg?v=1624068940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Asparagus Fresh - Per Bunch</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Leafy Vegetables</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3881213460550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>49149</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3880833450054</id>
+    <published>2019-06-27T02:26:16-04:00</published>
+    <updated>2019-06-27T02:26:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chives-fresh-3-packchives-fresh-3-pack"/>
+    <title>Chives Fresh - 3 Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chives-fresh-3-pack-415805.jpg?v=1611509314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><strong>Chives Fresh - 3 Pack</strong></p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Herbs</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3880833450054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>49170</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3880359362630</id>
+    <published>2019-06-26T13:22:54-04:00</published>
+    <updated>2019-06-26T13:22:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tarragon-fresh-3-pack"/>
+    <title>Tarragon Fresh - 3 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tarragon-fresh-3-pack-699414.jpg?v=1611513760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tarragon Fresh - 3 / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/tarragon-3-pack#product","name":"Tarragon- 3 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3880359362630","sku":"1BM2719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tarragon-3-pack-bulk-mart_807.jpg","description":"Tarragon- 3 / Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM2719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/tarragon-3-pack?variant=29219213443142","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Herbs</s:tag>
+    <s:tag>Fresh Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3880359362630</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>49244</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

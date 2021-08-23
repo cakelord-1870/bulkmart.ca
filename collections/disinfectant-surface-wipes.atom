@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/disinfectant-surface-wipes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-02-09T22:41:17-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4898613493834</id>
+    <published>2021-02-09T22:41:17-05:00</published>
+    <updated>2021-02-09T22:41:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-800-pack"/>
+    <title>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 800/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-800pack-914877.jpg?v=1613034464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 800/Pack</p>
+<p><span style="font-size: 1.4em;"><strong>DETAILS</strong></span><br></p>
+<div id="ccs-mkt-desc">
+<ul>
+<li>Kills 99.9% of viruses and bacteria</li>
+<li>For use at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings</li>
+<li>Pop-up container for easy dispensing</li>
+<li>Lemon scented</li>
+<li>May be used to clean or decontaminate critical or semi-critical medical devices prior to sterilization or high-level disinfection</li>
+<li>Drug Identification Number (DIN): 02502739</li>
+<li>Use directly onto hard surfaces and inanimate objects</li>
+<li>
+<ul role="presentation"></ul>
+<span style="font-size: 1.4em;">MADE IN CANADA</span><br>
+</li>
+<li>Each wipe is 17 cm x 20 cm</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4898613493834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>96738</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4897216102474</id>
+    <published>2021-02-08T11:48:47-05:00</published>
+    <updated>2021-02-08T11:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-100-pack"/>
+    <title>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 100/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-100pack-833248.jpg?v=1612834555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 100/Pack</p>
+<h2>DETAILS</h2>
+<div id="ccs-mkt-desc">
+<ul>
+<li>Kills 99.9% of viruses and bacteria</li>
+<li>For use at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings</li>
+<li>Pop-up container for easy dispensing</li>
+<li>Lemon scented</li>
+<li>May be used to clean or decontaminate critical or semi-critical medical devices prior to sterilization or high-level disinfection</li>
+<li>Drug Identification Number (DIN): 02502739</li>
+<li>MADE IN CANADA</li>
+<li>Each wipe is 17 cm x 20 cm</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4897216102474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>225501</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4847180611658</id>
+    <published>2020-12-18T19:18:58-05:00</published>
+    <updated>2020-12-18T19:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vega-70-alcohol-wipes-100-wipes"/>
+    <title>VEGA - 70% Alcohol Wipes - 100 Wipes</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>VEGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vega-70-alcohol-wipes-100-wipes-927577.jpg?v=1611513756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VEGA<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>VEGA - 70% Alcohol Wipes - 100 Wipes / Pack</strong></p>
+<p><span>VEGA - Kills 99.9% of germs, Alcohol Disinfecting antibacterial Wipes that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use. For External use only.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 100 wipes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4847180611658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>225500</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4847183724618</id>
+    <published>2020-12-01T15:46:14-05:00</published>
+    <updated>2020-12-01T15:46:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/carmel-cleaning-and-disinfecting-wipes-150-wipes"/>
+    <title>Carmel - Cleaning And Disinfecting Wipes - 150 Wipes</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Carmel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/carmel-cleaning-and-disinfecting-wipes-150-wipes-181933.jpg?v=1611512319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carmel<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Carmel - Cleaning And Disinfecting Wipes - 150 Wipes</strong></p>
+<p><span>Alcohol Disinfecting antibacterial Wipes eliminate 99.9% of all bacteria, that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 150 wipes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4847183724618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>225502</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4740001595466</id>
+    <published>2020-08-21T14:17:27-04:00</published>
+    <updated>2020-08-21T14:17:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vega-cleaning-and-disinfecting-wipes-80-wipes-pack"/>
+    <title>VEGA - Cleaning And Disinfecting Wipes - 80 Wipes / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>VEGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vega-cleaning-and-disinfecting-wipes-80-wipes-pack-151238.jpg?v=1611512969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VEGA<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>VEGA - Cleaning And Disinfecting Wipes - 80 Wipes / Pack</strong></p>
+<p><span>VEGA - Alcohol Disinfecting antibacterial Wipes that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 80 wipes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4740001595466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>01245</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4739998187594</id>
+    <published>2020-08-21T14:13:01-04:00</published>
+    <updated>2020-08-21T14:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vega-alcohol-disinfecting-wipes-100-wipes-pack"/>
+    <title>VEGA - Alcohol Disinfecting Wipes -100 Wipes / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>VEGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vega-alcohol-disinfecting-wipes-100-wipes-pack-610690.jpg?v=1611514428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VEGA<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>VEGA - Alcohol Wipes -100 Wipes / Pack</span></p>
+<p><span>VEGA - Alcohol Disinfecting antibacterial Wipes that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 100 wipes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4739998187594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>12488</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4540029272138</id>
+    <published>2020-07-23T18:57:18-04:00</published>
+    <updated>2020-07-23T18:57:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lysol-disinfecting-wipes-lemon-spring-80-wipes-pack"/>
+    <title>Lysol - Disinfecting Wipes (Lemon , Spring) - 80 Wipes / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lysol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lysol-disinfecting-wipes-lemon-spring-80-wipes-pack-431752.jpg?v=1611512069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lysol<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lysol - Disinfecting Wipes (Lemon , Spring) 80 Wipes / Pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4540029272138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>55001</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4112607477830</id>
+    <published>2020-07-23T18:57:17-04:00</published>
+    <updated>2020-07-23T18:57:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lysol-disinfecting-wipes-lemon-spring-80-ct-6-x-packs"/>
+    <title>Lysol - Disinfecting Wipes (Lemon , Spring) 80 ct - 6 x Packs</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lysol</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lysol-disinfecting-wipes-lemon-spring-80-ct-6-x-packs-314943.jpg?v=1611511063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lysol<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lysol - Disinfecting Wipes (Lemon , Spring) 80 ct - 6 x Packs</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4112607477830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>55002</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4681759031370</id>
+    <published>2020-07-14T11:18:42-04:00</published>
+    <updated>2020-07-14T11:18:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vega-cleaning-and-disinfecting-wipes-400-wipes-bucket"/>
+    <title>VEGA - Cleaning And Disinfecting Wipes - 400 Wipes / Bucket</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>VEGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vega-cleaning-and-disinfecting-wipes-400-wipes-bucket-942398.jpg?v=1611512970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VEGA<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>VEGA - Cleaning And Disinfecting Wipes - 400 Wipes / Bucket</strong></p>
+<p><span>General cleaning wet wipes that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 400 wipes</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<ul>
+<li>Vega Disinfecting Wipes. 400 wipes per tub</li>
+<li>400 wipes per bucket</li>
+<li>Large size Wipe18x18cm</li>
+<li>Thick 40gsm Wipe</li>
+<li>Eliminates 99.9% of all bacteria</li>
+<li>Disinfects all washable household and industrial surfaces.</li>
+<li>Perfect for all sanitation needs, deodorized with a crisp lemon scent</li>
+</ul>
+</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">
+<ul>
+<li>General Disinfecting Wipes</li>
+<li>400 Wipes per Tub</li>
+<li>Large 18x18cm wipe</li>
+<li>Eliminates 99.9% of Bacteria</li>
+<li>Lemon Scent</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4681759031370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>01459</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

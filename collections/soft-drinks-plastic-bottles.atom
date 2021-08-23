@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/soft-drinks-plastic-bottles.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-26T11:42:23-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/1998727675974</id>
+    <published>2021-03-26T11:42:23-04:00</published>
+    <updated>2021-03-26T11:42:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/c-plus-orange-soda-24-x-500-ml-pack"/>
+    <title>C-Plus - Orange Soda - 24 x 500 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>C-PLUS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/c-plus-orange-soda-24-x-500-ml-pack-656975.jpg?v=1616864572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>C-PLUS<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>C-Plus - Orange Soda - 24 x 500 ml</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">C’plus Orange Burst is a great tasting orange flavoured sparkling beverage. It contains just the right amount of Sunkist Juice® to deliver a refreshing fruity orange taste.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Contains 4% of Sunkist Juice® and natural flavour<br>A convenient size that can be consumed on its own or while entertaining family and friends<br>Best enjoyed chilled to experience the full refreshing burst of orange flavour.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/c-plus-orange-soda-24-x-500-ml#product","name":"C-Plus -  Orange Soda - 24 x 500 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998727675974","sku":"BM2387","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/c-plus-orange-soda-24-x-500-ml-bulk-mart_622.jpg","description":"C-Plus - Orange Soda - 24 x 500 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"C-PLUS"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"BM2387","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/c-plus-orange-soda-24-x-500-ml?variant=20255574163526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998727675974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2387</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729773126</id>
+    <published>2020-11-29T00:35:11-05:00</published>
+    <updated>2020-11-29T00:35:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-original-soda-2-l-each"/>
+    <title>Pepsi - Original Soda 2 L - Each</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-original-12-x-355-ml-579556.jpg?v=1611514547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pepsi - Original Soda- 2 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pepsi-original-soda-2-l#product","name":"Pepsi  - Original Soda- 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729773126","sku":"BM2447","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-original-soda-2-l-bulk-mart_288.jpg","description":"Pepsi - Original Soda- 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Pepsi"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"},"offers":[{"sku":"BM2447","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pepsi-original-soda-2-l?variant=20255579832390","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729773126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>BM2447</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729740358</id>
+    <published>2020-11-29T00:35:10-05:00</published>
+    <updated>2020-11-29T00:35:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-original-24-x-591-ml"/>
+    <title>Pepsi  - Original - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-original-24-x-591-ml-294575.jpg?v=1611514664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pepsi - Original - 24 x 591 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pepsi-original-24-x-591-ml#product","name":"Pepsi  - Original - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729740358","sku":"BM2446","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-original-24-x-591-ml-bulk-mart_248.jpg","description":"Pepsi - Original - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Pepsi"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2446","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"30.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pepsi-original-24-x-591-ml?variant=20255579734086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729740358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BM2446</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729642054</id>
+    <published>2020-09-27T13:55:27-04:00</published>
+    <updated>2020-09-27T13:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-diet-soda-24-x-591-ml"/>
+    <title>Pepsi  - Diet Soda- 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-diet-soda-24-x-591-ml-727608.png?v=1611511898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pepsi - Diet Soda- 24 x 591 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Light, crisp and refreshing taste of Diet Pepsi soft drink</span></li>
+<li><span class="a-list-item">Nothing refreshes like a Diet Pepsi</span></li>
+<li><span class="a-list-item">Zero Sugar. Zero Calories.</span></li>
+<li><span class="a-list-item">Pack of 24, 591mL per pack</span></li>
+<li><span class="a-list-item">Please note that where temperatures can drop below 0° Celsius, beverages may freeze and cause containers to burst when exposed to sub-zero temperatures.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pepsi-diet-soda-24-x-591-ml#product","name":"Pepsi  - Diet Soda- 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729642054","sku":"BM2449","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-diet-soda-24-x-591-ml-bulk-mart_910.jpg","description":"Pepsi - Diet Soda- 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Pepsi"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"BM2449","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"29.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pepsi-diet-soda-24-x-591-ml?variant=20255579504710","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729642054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2449</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772110827594</id>
+    <published>2020-09-27T13:05:49-04:00</published>
+    <updated>2020-09-27T13:05:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mountain-dew-baja-blast-24-x-591-ml"/>
+    <title>Mountain Dew - Baja Blast - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mountain Dew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mountain-dew-baja-blast-24-x-591-ml-611414.jpg?v=1611512976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Dew<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Mountain Dew - Baja Blast - 24 x 591 ml</strong></div>
+<div></div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>The exhilarating taste of DEW with a blast of tropical lime flavor<br>
+</li>
+<li><span class="a-list-item">Mtn Dew Baja Blast soda exhilarates and quenches with its one of a kind, bold taste</span></li>
+<li><span class="a-list-item">Chuggable intense refreshment</span></li>
+<li><span class="a-list-item">Crack open a cold can of Mtn Dew Baja Blast and refresh your taste buds<span> </span></span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crush-cream-soda-2-l#product","name":"Crush -  Cream Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729216070","sku":"BM2433","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-cream-soda-2-l-bulk-mart_857.jpg","description":"Crush - Cream Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Crush"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"BM2433","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crush-cream-soda-2-l?variant=20255578456134","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772110827594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>362290</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729543750</id>
+    <published>2020-09-27T13:05:48-04:00</published>
+    <updated>2020-09-27T13:05:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mountain-dew-original-soda-24-x-591-ml"/>
+    <title>Mountain Dew - Original Soda - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mountain Dew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mountain-dew-original-soda-24-x-591-ml-212165.jpg?v=1611513278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Dew<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mountain Dew - Original Soda - 24 x 591 ml</strong></p>
+<p><span>The original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW</span><sup>®</sup><span>.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mugs-root-beer-soda-24-x-591-ml#product","name":"Mugs Root Beer -  Soda - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729543750","sku":"BM2443","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mugs-root-beer-soda-24-x-591-ml-bulk-mart_955.jpg","description":"Mugs Root Beer - Soda - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Mugs Root Beer"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"BM2443","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"29.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mugs-root-beer-soda-24-x-591-ml?variant=20255579209798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729543750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>BM2443</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729412678</id>
+    <published>2020-09-26T18:29:57-04:00</published>
+    <updated>2020-09-26T18:29:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-pepper-original-soda-24-x-591-ml"/>
+    <title>Dr Pepper -  Original Soda - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dr Pepper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-24-x-591-ml-822459.jpg?v=1611510186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Pepper<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Pepper - Original Soda - 24 x 591 ml</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Dr Pepper is always original. A signature blend of 23 flavours makes every sip truly unique. There's nothing like a Dr Pepper. Enjoy the One of a Kind taste of Dr Pepper!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Unique blend of 23 flavours<br>• Perfect for all celebrations and occasions<br>• Dr Pepper is the always one of a kind treat</div>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dr-pepper-original-soda-24-x-591-ml#product","name":"Dr Pepper -  Original Soda - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729412678","sku":"BM2439","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-24-x-591-ml-bulk-mart_638.jpg","description":"Dr Pepper - Original Soda - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Dr Pepper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"BM2439","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"29.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dr-pepper-original-soda-24-x-591-ml?variant=20255578947654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729412678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2439</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729314374</id>
+    <published>2020-09-26T18:23:09-04:00</published>
+    <updated>2020-09-26T18:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crush-orange-soda-24-x-591-ml"/>
+    <title>Crush -  Orange Soda - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crush</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-orange-soda-24-x-591-ml-104465.jpg?v=1611509729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crush<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crush -  Orange Soda - 24 x 591 ml</strong></p>
+<p><span>Crush offers an exciting rush of flavor and fun in every sip. As the original orange soda, Crush has a long history of delighting consumers with a wide range of crowd-pleasing fruity flavors. Available in Orange, Grape, Strawberry, Pineapple, Watermelon, Peach, and Diet Orange, Crush has enough variety for the whole family to enjoy.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Orange Crush* is like drinking a party, wrapped in a brilliant burst of orange flavour! This 24-pack of 591 mL is a convenient format to treat your taste buds-and your friends-to a tidal wave of taste.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Intense burst of orange flavour<br>• The first in a family of fun flavours</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crush-orange-soda-24-x-591-ml#product","name":"Crush -  Orange Soda - 24 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729314374","sku":"BM2436","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-orange-soda-24-x-591-ml-bulk-mart_891.jpg","description":"Crush - Orange Soda - 24 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Crush"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2436","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"29.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crush-orange-soda-24-x-591-ml?variant=20255578718278","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729314374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2436</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729117766</id>
+    <published>2020-09-26T17:41:34-04:00</published>
+    <updated>2020-09-26T17:41:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/7up-regular-soda-24-x-591-ml"/>
+    <title>7Up -  Regular Soda - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>7 UP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/7Up-RegularSoda-24x591ml.jpg?v=1623985187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7 UP<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>7Up - Regular Soda - 24 x 591 ml</strong></p>
+<p><strong></strong><span>Get inspired to mix it up a little with </span><em>7UP</em><span>! Crisp and refreshing, it mixes into all kinds of drinks, cocktails, punches, baked goods, and more.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">7UP® is a refreshing lemon lime carbonated soft drink. It is a clear, caffeine free beverage made with real lemon and lime flavour. This 24-pack of 591ml bottle is perfect for sharing with friends and family.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Refreshing lemon and lime flavours<br>• 100% Natural Flavours<br>• Caffeine Free</div>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729117766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2429</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773717606474</id>
+    <published>2020-09-23T16:39:17-04:00</published>
+    <updated>2020-09-23T16:39:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestea-lemon-zero-sugar-iced-tea-12-x-500-ml"/>
+    <title>Nestea - Lemon Zero Sugar Iced Tea - 12 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestea-lemon-zero-sugar-iced-tea-12-x-500-ml-364566.jpg?v=1611511481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestea<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Nestea - Lemon Zero Sugar Iced Tea - 12 x 500 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span data-mce-fragment="1">We’re not allowed to call this the best green tea ever, but you are!</span></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<br data-mce-fragment="1"><span data-mce-fragment="1">Refreshingly different, our perfectly balanced blend of real green tea and natural lemon flavour is made with zero preservatives and contains tea polyphenols. Yes, that’s a good thing.</span>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Real Tea, Real Refreshing: NESTEA is Canada's favourite Iced Tea brand. Available in single serve bottles deliciously blended with real green tea and lemon - perfect for refreshment when you're on the go! Naturally flavoured, no preservatives or artificial flavours.</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">
+<ul>
+<li>Made with real tea</li>
+<li>Deliciously blended with natural flavours.</li>
+<li>No preservatives or added colours</li>
+<li>Convenient package for when you're on-the-go.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Nestea</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773717606474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>Nest1223</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737866822</id>
+    <published>2020-09-18T12:31:23-04:00</published>
+    <updated>2020-09-18T12:31:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-island-soda-pineapple-drink-2-l"/>
+    <title>Grace - Island Soda Pineapple Drink - 2 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-pineapple-drink-2-l-730114.jpg?v=1611511650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available as Grace Island Soda Pineapple - 9 x 2 LTR</p>
+<h4>Ingredients</h4>
+<p>Carbonated water, sugar / glucose-fructose, ginger extract, natural and artificial flavour, citric acid, sodium benzoate, colour</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Pineapple - Grace Famous Island Soda! The bottle is new, the label is unique, but with the same taste you always enjoyed. Grace Soda has evolved to become the new Grace Famous Island Soda. Our roots are in the islands, our flavours are inspired by its people and now, with two new flavours and a unique twist, literally under the cap.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/grace-island-soda-pineapple-9-x-2-ltr#product","name":"Grace Island Soda - Pineapple - 9 x 2 LTR","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998737866822","sku":"BM2626","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-pineapple-9-x-2-ltr-bulk-mart_243.jpg","description":"Grace Island Soda Pineapple - 9 x 2 LTR Ingredients Carbonated water, sugar / Glucose-fructose, ginger extract, natural and artificial flavour, citric acid, sodium benzoate, colour.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Grace Island Soda"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"63"},"offers":[{"sku":"BM2626","priceCurrency":"CAD","price":"0.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/grace-island-soda-pineapple-9-x-2-ltr?variant=20255601918022","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"63"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grace</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737866822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.69</s:price>
+      <s:sku>BM2626</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737670214</id>
+    <published>2020-09-18T12:29:11-04:00</published>
+    <updated>2020-09-18T12:29:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-island-soda-ginger-beer-2-l"/>
+    <title>Grace - Island Soda Ginger Beer - 2 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-ginger-beer-2-l-538878.jpg?v=1611512494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grace Island Soda Ginger Beer - 9 x 2 LTR</p>
+<h4>Ingredients</h4>
+<p>Carbonated water, sugar / glucose-fructose, natural and artificial flavour, citric acid, sodium benzoate, colour</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<section class="css-1avgzwm eqaamsw0">
+<div class="css-1ev1b0e eqaamsw1">
+<div class="css-190aten e1mpbtcv0">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Grace Gingerbeer 2L - Grace Famous Island Soda! The bottle is new, the label is unique, but with the same taste you always enjoyed. Grace Soda has evolved to become the new Grace Famous Island Soda. Our roots are in the islands, our flavours are inspired by its people and now, with two new flavours and a unique twist, literally under the cap.</div>
+</div>
+</div>
+</section>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/grace-island-soda-ginger-beer-2-ltr#product","name":"Grace Island Soda - Ginger Beer - 2 LTR","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998737670214","sku":"BM2627","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-ginger-beer-2-ltr-bulk-mart_878.jpg","description":"Grace Island Soda Ginger Beer - 9 x 2 LTR Ingredients Carbonated water, sugar / Glucose-fructose, natural and artificial flavour, citric acid, sodium benzoate, colour.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Grace Island Soda"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM2627","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"priceCurrency":"CAD","price":"0.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/grace-island-soda-ginger-beer-2-ltr?variant=20255601557574","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grace</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737670214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.69</s:price>
+      <s:sku>BM2627</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737571910</id>
+    <published>2020-09-18T12:27:22-04:00</published>
+    <updated>2020-09-18T12:27:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-island-soda-kola-champagne-2-l"/>
+    <title>Grace - Island Soda Kola Champagne - 2 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-kola-champagne-2-l-925973.jpg?v=1611511238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Island Soda Kola Champagne - 2 L</strong></p>
+<p>Kola Champagne - Grace Famous Island Soda! The bottle is new, the label is unique, but with the same taste you always enjoyed. Grace Soda has evolved to become the new Grace Famous Island Soda. Our roots are in the islands, our flavours are inspired by its people and now, with two new flavours and a unique twist, literally under the cap.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/grace-island-soda-cream-2-l#product","name":"Grace Island Soda - Cream Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998737571910","sku":"BM2628","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-island-soda-cream-2-l-bulk-mart_249.jpg","description":"Grace Island Soda - Cream Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Grace Island Soda"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM2628","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/grace-island-soda-cream-2-l?variant=20255600377926","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grace</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737571910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.69</s:price>
+      <s:sku>BM2628</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728495174</id>
+    <published>2020-09-17T14:43:37-04:00</published>
+    <updated>2020-09-17T14:43:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-life-24-x-500-ml"/>
+    <title>Coca-Cola -  Life - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-life-24-x-500-ml-993163.jpg?v=1611514487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola -  Life - 24 x 500 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/coca-cola-life-24-x-500-ml#product","name":"Coca-Cola -  Life - 24 x 500 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728495174","sku":"BM2414","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-life-24-x-500-ml-bulk-mart_761.jpg","description":"Coca-Cola - Life - 24 x 500 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Coca-Cola"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"BM2414","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"32.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/coca-cola-life-24-x-500-ml?variant=20255576719430","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728495174</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>BM2414</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728331334</id>
+    <published>2020-09-17T14:43:36-04:00</published>
+    <updated>2020-09-17T14:43:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-diet-24-x-500-ml-pack"/>
+    <title>Coca-Cola - Diet - 24 x 500 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-diet-24-x-500-ml-pack-660104.jpg?v=1611510452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola - Diet - 24 x 500 ml</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Diet Coke is the original sparkling beverage for those who want great flavour without the calories - a drink for those with great taste.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Bring home the bold crisp taste of Diet Coke.<br>Made with zero sugar and zero calories.<br>For a refreshing taste enjoy chilled.<br>Perfect size to be enjoyed with meals.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<div class="text cmp-text__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eBecause it\u0027s fizzing delicious. Diet Coke delivers a distinct, unique and lighter taste to Coca-Cola Classic.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="e99c8921-199e-68c0-1370-94d5e278e018">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p>Because it's fizzing delicious. Diet Coke delivers a distinct, unique and lighter taste to Coca-Cola Classic.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--default--5 aem-GridColumn--offset--default--0">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"false","paddingDesktop":"none","text":"\u003cp\u003eit’s the one and only diet coke®. it’s your deliciously fizzy go-to companion. it might have a brand new look, but it’s the same calorie free diet coke® you know and love. when you need that delicious boost to unabashedly live your life…look no further.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="c0d9cf96-2a65-b850-232b-4401ba292795">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p>it’s the one and only diet coke®. it’s your deliciously fizzy go-to companion. it might have a brand new look, but it’s the same calorie free diet coke® you know and love. when you need that delicious boost to unabashedly live your life…look no further.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728331334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2407</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728069190</id>
+    <published>2020-09-17T14:43:31-04:00</published>
+    <updated>2020-09-17T14:43:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-classic-24-x-500-ml-pack"/>
+    <title>Coca-Cola - Classic - 24 x 500 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-classic-24-x-500-ml-pack-298989.jpg?v=1611509917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola - Classic - 24 x 500 ml</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Enjoy the delicious &amp; refreshing taste of Coca-Cola with meals, on the go, or to share. Serve ice cold for maximum refreshment.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Bring home the authentic, delicious &amp; refreshing taste of Coca-Cola.<br>For crisp, cold taste, enjoy chilled.<br>Made with no artificial flavors or preservatives so you get a full flavor in each sip.<br><span data-mce-fragment="1">Perfect size to be enjoyed with meals.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728069190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>BM2399</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4457101885514</id>
+    <published>2020-01-02T14:29:09-05:00</published>
+    <updated>2020-01-02T14:29:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestea-lemon-iced-green-tea-12-x-500-ml"/>
+    <title>Nestea - Lemon Iced Green Tea - 12 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestea-lemon-iced-green-tea-12-x-500-ml-437035.jpg?v=1611511480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestea<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong>Nestea - Lemon Iced Green Tea - 12 x 500 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<span data-mce-fragment="1">We’re not allowed to call this the best green tea ever, but you are!</span><br data-mce-fragment="1"><span data-mce-fragment="1">Refreshingly different, our perfectly balanced blend of real green tea and natural lemon flavour is made with zero preservatives and contains tea polyphenols. Yes, that’s a good thing.</span>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">Real Tea, Real Refreshing: NESTEA is Canada's favourite Iced Tea brand. Available in single serve bottles deliciously blended with real green tea and lemon - perfect for refreshment when you're on the go! Naturally flavoured, no preservatives or artificial flavours.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">
+<ul>
+<li>Made with real tea</li>
+<li>Deliciously blended with natural flavours.</li>
+<li>No preservatives or added colours</li>
+<li>Convenient package for when you're on-the-go.</li>
+</ul>
+</div>
+<br><script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestea-green-iced-tea-12-x-500-ml#product","name":"Nestea - Green Iced Tea 12 x 500 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4457101885514","sku":"4457101885514","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestea-green-iced-tea-12-x-500-ml-bulk-mart_354.jpg","description":"Nestea - Green Iced Tea 12 x 500 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Nestea"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestea-green-iced-tea-12-x-500-ml?variant=31608609603658","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Nestea</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4457101885514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>Nest12234</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3927527161926</id>
+    <published>2019-07-09T01:11:50-04:00</published>
+    <updated>2019-07-09T01:11:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestea-lemon-iced-tea-12-x-500-ml"/>
+    <title>Nestea - Lemon Iced Tea - 12 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestea-lemon-iced-tea-12-x-500-ml-882136.jpg?v=1611513454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestea<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Nestea - Lemon Iced Tea - 12 x 500 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span data-mce-fragment="1">We’re not allowed to call this the best green tea ever, but you are!</span></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<br data-mce-fragment="1"><span data-mce-fragment="1">Refreshingly different, our perfectly balanced blend of real green tea and natural lemon flavour is made with zero preservatives and contains tea polyphenols. Yes, that’s a good thing.</span>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Real Tea, Real Refreshing: NESTEA is Canada's favourite Iced Tea brand. Available in single serve bottles deliciously blended with real green tea and lemon - perfect for refreshment when you're on the go! Naturally flavoured, no preservatives or artificial flavours.</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">
+<ul>
+<li>Made with real tea</li>
+<li>Deliciously blended with natural flavours.</li>
+<li>No preservatives or added colours</li>
+<li>Convenient package for when you're on-the-go.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Nestea</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3927527161926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>Nest1223</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998727512134</id>
+    <published>2019-03-07T13:04:45-05:00</published>
+    <updated>2019-03-07T13:04:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/a-w-root-beer-2-l-each"/>
+    <title>A&amp;W -  Root Beer 2 L - Each</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>A &amp; W</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aw-root-beer-2-l-each-572049.jpg?v=1623994626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>A &amp; W<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A &amp; W - Root Beer - 2 L</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">The classic A&amp;W Root Beer recipe was first created in 1919 using a blend of roots, bark and berries. Today, A&amp;W Root Beer is still a blend of those delicious flavours. It’s the same creamy, frothy, refreshing beverage you’ve always loved.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Naturally caffeine-free.<br>Bring home the authentic, delicious, creamy taste of A&amp;W Root Beer.<br>Enjoy it chilled in a frosty glass.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998727512134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>BM2383</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728953926</id>
+    <published>2019-02-21T00:47:40-05:00</published>
+    <updated>2019-02-21T00:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprite-regular-2-l-each"/>
+    <title>Sprite - Regular 2 L - Each</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Sprite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprite-regular-2-l-bottle-pack-625397.jpg?v=1611514784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprite<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sprite - Regular - 2 L Plastic Bottle</p>
+<div class="text cmp-text__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eIt\u0027s quench time.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="5c42f283-155b-f35e-ec42-9a53eb5cc2c0">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p><strong>It's quench time.</strong>With its clean, crisp, lemon-lime taste, Sprite quenches your thirst and helps you keep your cool. </p>
+<p>Enjoy the clear lemon-lime refreshment of Sprite with its crisp, clean, great taste. It quenches your thirst, and also pairs well with a variety of food, particularly with spicy food. It is made with 100% natural flavours, and has no colour and no caffeine.</p>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Bring home the authentic, clear &amp; refreshing lemon-lime flavour of Sprite.<br>Made with 100 % natural flavours, no caffeine and no preservatives so you get a full flavour in each sip.<br>For crisp, cold taste, enjoy chilled.<br>Convenient pack of 2L so you have plenty to enjoy.</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sprite-regular-2-l#product","name":"Sprite -  Regular - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728953926","sku":"BM2426","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprite-regular-2-l-bulk-mart_333.jpg","description":"Sprite - Regular - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Sprite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"BM2426","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sprite-regular-2-l?variant=20255577931846","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728953926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>BM2426</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728921158</id>
+    <published>2019-02-21T00:47:40-05:00</published>
+    <updated>2019-02-21T00:47:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprite-regular-24-x-500-ml-pack"/>
+    <title>Sprite - Regular - 24 x 500 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Sprite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprite-regular-24-x-500-ml-pack-863399.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprite<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sprite - Regular - 24 x 500 ml</p>
+<div class="text cmp-text__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eIt\u0027s quench time.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="5c42f283-155b-f35e-ec42-9a53eb5cc2c0">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p><strong>It's quench time.</strong>With its clean, crisp, lemon-lime taste, Sprite quenches your thirst and helps you keep your cool. </p>
+<p>Enjoy the clear lemon-lime refreshment of Sprite with its crisp, clean, great taste. It quenches your thirst, and also pairs well with a variety of food, particularly with spicy food. It is made with 100% natural flavours, and has no colour and no caffeine.</p>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Bring home the authentic, clear &amp; refreshing lemon-lime flavour of Sprite.<br>Made with 100 % natural flavours, no caffeine and no preservatives so you get a full flavour in each sip.<br>For crisp, cold taste, enjoy chilled.<br>Convenient pack of 24 so you have plenty to enjoy.</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728921158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>BM2424</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728790086</id>
+    <published>2019-02-21T00:47:37-05:00</published>
+    <updated>2019-02-21T00:47:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fanta-orange-soda-12-x-473-ml-pack"/>
+    <title>Fanta  - Orange Soda - 12 x 473 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Fanta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fanta-orange-soda-12-x-473-ml-pack-954074.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fanta<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fanta - Orange Soda - 12 x 473 ml</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Made with real fruit juice, Fanta Orange is bright, bubbly and intense fruity refreshment. It is made with 100% natural flavours and colours, and is caffeine free.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Bring home the delicious taste of Fanta.<br>For crisp, cold taste, enjoy chilled.<br>Made with real fruit, 100% natural flavours &amp; colours and no caffeine.<br>Convenient pack of 12 so you have plenty to enjoy.</div>
+<div class="text two-column__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eBe more than one flavour.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="30286adc-c730-b186-9a8a-a1857ca9e72d">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p><strong>Be more than one flavour!</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="text two-column__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div data-instance-id="30286adc-c730-b186-9a8a-a1857ca9e72d" data-design-package="default" data-component-name="text" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eBe more than one flavour.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" class="tccc-cmp tccc-cmp-text">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p><strong>Be more than one flavour!</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--default--5 aem-GridColumn--offset--default--0">
+<div data-instance-id="c8b7f6d9-fed0-e069-1fef-f58148440809" data-design-package="default" data-component-name="text" data-model='{"removeMargin":"false","paddingDesktop":"none","text":"\u003cp\u003eBright, bubbly and popular, Fanta is the soft drink that intensifies fun. Introduced in 1940, Fanta is the second oldest brand of The Coca-Cola Company.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" class="tccc-cmp tccc-cmp-text">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p>Bright, bubbly and popular, Fanta is the soft drink that intensifies fun. Introduced in 1940, Fanta is the second oldest brand of The Coca-Cola Company.</p>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fanta-orange-soda-12-x-473-ml#product","name":"Fanta  - Orange Soda - 12 x 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728790086","sku":"BM2420","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fanta-orange-soda-12-x-473-ml-bulk-mart_226.jpg","description":"Fanta - Orange Soda - 12 x 473 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Fanta"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"},"offers":[{"sku":"BM2420","mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fanta-orange-soda-12-x-473-ml?variant=20255577505862","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728790086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>BM2420</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728626246</id>
+    <published>2019-02-21T00:47:34-05:00</published>
+    <updated>2019-02-21T00:47:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-zero-24-x-500-ml-pack"/>
+    <title>Coca-Cola - Zero - 24 x 500 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-zero-24-x-500-ml-pack-363256.jpg?v=1611510227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola - Zero - 24 x 500 ml</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Great Coca-Cola Taste with Zero Sugar and Zero Calories. Enjoy with meals, on the go, or to share. Serve ice cold for maximum refreshment.</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><br></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<strong>.</strong>Bring home the authentic, delicious &amp; refreshing taste of Coca-Cola Zero Sugar<br><strong>.</strong>For crisp, cold taste, enjoy chilled.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<strong data-mce-fragment="1">.</strong>Zero Sugar and Zero Calories<br><strong data-mce-fragment="1">.</strong>Great Coke Taste. Zero Sugar.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/coca-cola-zero-24-x-500-ml#product","name":"Coca-Cola -  Zero - 24 x 500 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728626246","sku":"BM2412","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-zero-24-x-500-ml-bulk-mart_590.jpg","description":"Coca-Cola - Zero - 24 x 500 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Coca-Cola"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"BM2412","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"32.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/coca-cola-zero-24-x-500-ml?variant=20255577112646","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728626246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM2412</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728364102</id>
+    <published>2019-02-21T00:47:28-05:00</published>
+    <updated>2019-02-21T00:47:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-diet-2-l-bottle-each"/>
+    <title>Coca-Cola - Diet 2 L Bottle - Each</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-diet-2-l-bottle-each-986602.jpg?v=1611510227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola - Diet - 2 L</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Diet Coke is the original sparkling beverage for those who want great flavour without the calories - a drink for those with great taste.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Bring home the bold crisp taste of Diet Coke.<br>Made with zero sugar and zero calories.<br>For a refreshing taste enjoy chilled.<br>Perfect size to be enjoyed with meals.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"></div>
+</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3"><span data-mce-fragment="1"></span></div>
+<div class="text cmp-text__red-box aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--offset--default--2 aem-GridColumn--default--3">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"true","paddingDesktop":"none","text":"\u003cp\u003eBecause it\u0027s fizzing delicious. Diet Coke delivers a distinct, unique and lighter taste to Coca-Cola Classic.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="e99c8921-199e-68c0-1370-94d5e278e018">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p>Because it's fizzing delicious. Diet Coke delivers a distinct, unique and lighter taste to Coca-Cola Classic.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="text aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--10 aem-GridColumn aem-GridColumn--offset--phone--1 aem-GridColumn--default--5 aem-GridColumn--offset--default--0">
+<div class="tccc-cmp tccc-cmp-text" data-template-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/template.hbs" data-style-url="https://shared.coke.com/content/dam/nextgen/components/content/text/default/style.css" data-model='{"removeMargin":"false","paddingDesktop":"none","text":"\u003cp\u003eit’s the one and only diet coke®. it’s your deliciously fizzy go-to companion. it might have a brand new look, but it’s the same calorie free diet coke® you know and love. when you need that delicious boost to unabashedly live your life…look no further.\u003c/p\u003e\r\n","unit":"px","marginMobile":"none","paddingMobile":"none","marginDesktop":"customMargin","customMarginDesktop":"20","bgcolorimageDesktopImage":{},"bgcolorimageMobileImage":{}}' data-component-name="text" data-design-package="default" data-instance-id="c0d9cf96-2a65-b850-232b-4401ba292795">
+<div class="text__container">
+<div class="d-none d-sm-block
+		
+			p-sm-0">
+<p>it’s the one and only diet coke®. it’s your deliciously fizzy go-to companion. it might have a brand new look, but it’s the same calorie free diet coke® you know and love. when you need that delicious boost to unabashedly live your life…look no further.</p>
+<p> </p>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/coca-cola-diet-2-l#product","name":"Coca-Cola -  Diet - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728364102","sku":"BM2409","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-diet-2-l-bulk-mart_202.jpg","description":"Coca-Cola - Diet - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Coca-Cola"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"BM2409","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/coca-cola-diet-2-l?variant=20255576424518","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728364102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>BM2409</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998728167494</id>
+    <published>2019-02-21T00:47:24-05:00</published>
+    <updated>2019-02-21T00:47:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/coca-cola-classic-2-l-bottle-each"/>
+    <title>Coca-Cola - Classic 2 L Bottle - Each</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-classic-2-l-bottle-each-890553.jpg?v=1611509550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coca-Cola - Classic - 2 L</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Enjoy the delicious &amp; refreshing taste of Coca-Cola with meals, on the go, or to share. Serve ice cold for maximum refreshment.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Bring home the authentic, delicious &amp; refreshing taste of Coca-Cola.<br>For crisp, cold taste, enjoy chilled.<br>Made with no artificial flavors or preservatives so you get a full flavor in each sip.<br><span data-mce-fragment="1">Perfect size to be enjoyed with meals.</span><br>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/coca-cola-classic-2-l#product","name":"Coca-Cola -  Classic - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998728167494","sku":"BM2403","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/coca-cola-classic-2-l-bulk-mart_342.jpg","description":"Coca-Cola - Classic - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Coca-Cola"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"BM2403","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/coca-cola-classic-2-l?variant=20255575638086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998728167494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>BM2403</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/shortening.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-13T22:47:20-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4875705188426</id>
+    <published>2021-01-13T22:47:20-05:00</published>
+    <updated>2021-01-13T22:47:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lapaco-10-paper-grease-filter-cone-50-pack"/>
+    <title>Lapaco - 10&quot; Paper Grease Filter Cone - 50 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Lapaco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lapaco-10-paper-grease-filter-cone-500case-764227.jpg?v=1611511059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lapaco<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Lapaco - 10" Paper Grease Filter Cone</h2>
+<p><span>This 10" paper cone oil filter is designed for use with 10" fryer oil cone filter holders. It's perfect for seasonal concession stands, snack bars, or sandwich shops that occasionally fry foods. The 10" paper oil filter cone is made from a 70 micron non-woven material with over-locking stitches for added strength.</span><br><br><span>Regularly filtering your fryer oil with a product like this one will help prolong the oil's life by removing contaminants that can cause off-tastes and oxidation. You'll save money since you won't have to replace the oil as frequently and will also deliver better-tasting fried foods for your customers.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/southland-1-lbs-food-trays-100-250-pack#product","name":"Southland - 1 Lbs Food Trays #100 - 250 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054542590022","sku":"0BM3666","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/southland-1-lbs-food-trays-100-250-pack-bulk-mart_328.gif","description":"Southland - 1 Lbs Food Trays #100 - 250 / Pack.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Southland"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"0BM3666","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/southland-1-lbs-food-trays-100-250-pack?variant=20686509441094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Grease Filter Cone</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4875705188426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>101256</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867742892106</id>
+    <published>2020-12-29T20:02:56-05:00</published>
+    <updated>2020-12-29T20:02:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-nutra-clear-high-performance-canola-deep-frying-oil-17-3-l"/>
+    <title>Bunge - Nutra-Clear High Performance Canola Deep Frying Oil - 17.3 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-nutra-clear-high-performance-canola-deep-frying-oil-173-l-993915.png?v=1611509495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bunge - Nutra-Clear Canola Oil - 17.3 L</p>
+<p>Superior 7–12 Day Fry Life Performance*</p>
+<p>Nutra-Clear® NT® Ultra is a highly stable cooking and frying oil that delivers great tasting fried food. Its 100% high oleic, low linolenic canola content makes Nutra-Clear® NT® Ultra the most stable oil in its category, giving you an exceptionally long fry life, lower food cost and labor savings. As a pure canola oil it is versatile enough to be used in the back of the house for sauces and vinaigrette’s.</p>
+<p>Nutra Clear® NT® Ultra is rated Level 4. Superior performance with a 7-12 day range of quality performance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canola Oil</s:tag>
+    <s:tag>Frying Oil</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867742892106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>225142</s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812166529098</id>
+    <published>2020-10-21T18:08:04-04:00</published>
+    <updated>2020-10-21T18:08:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-liquid-shortening-16-l"/>
+    <title>Bunge - Liquid Shortening - 16 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-liquid-shortening-16-l-519001.jpg?v=1611509436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge - Liquid Shortening Pail Frying Oil / Fryer Oil - 16 L</strong></p>
+<h2 class="headline">Bake, cook, and fry delicious foods with this liquid shortening!</h2>
+<p><span>Designed to handle the most demanding frying situations, this clear liquid shortening can be used in numerous cooking and baking applications. It's perfect for use in recipes that call for melted shortening and will serve as an inexpensive alternative to using liquid butter and margarine. Plus, it has a high smoke point, making it perfect for all of your cooking needs!</span></p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Perfect for baking cakes, frying golden brown French fries and more, this clear liquid shortening is made of 100% hydrogenated oil. It features special anti-foaming additives in its ingredients and zero grams of trans fat per serving! It has a high smoke point of 450 degrees Fahrenheit for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</p>
+<h3 class="item-header">Affordable, Bulk Supply</h3>
+<p>An inexpensive frying option, this clear liquid shortening retains excellent fryer life if filtered daily. Offering versatility and convenience, it makes a great addition to your bakery or concession stand. Save money by stocking your kitchen with this supply.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812166529098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>56914</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4554029727818</id>
+    <published>2020-04-15T13:53:34-04:00</published>
+    <updated>2020-04-15T13:53:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-all-purpose-shortening-nh-39-20-kg"/>
+    <title>Bunge -  All Purpose Shortening NH-39 - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-all-purpose-shortening-nh-39-20-kg-494737.jpg?v=1611509560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge -  All Purpose Shortening NH-39 - 20 Kg</strong></p>
+<p><span><strong>Bake batches of sweet treats to perfection without the trans fatty acids with this versatile zero trans fat all-purpose shortening cube!</strong> Designed to handle the most demanding frying situations, this solid frying shortening is used in numerous general baking applications. Use it to make pound cakes, pie dough, cookies, donuts, breads, icings, and more! It offers a long fry life, less absorption, and maximum performance in every batch. A solid, smooth white shortening is virtually flavorless and odorless. It features a high smoke point for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</span><br><br><span><strong>This shortening cube is solid at room temperature and increases the workability of dough</strong>. To use, simply add this shortening to your fryer, heat to the desired temperature, and add your raw foods to the hot oil. Your finished product will be lighter, better-looking and better-tasting! It adds brilliantly white color to icings, adds rise to cakes, produces the perfect crisp and crumbly texture for baked goods, and helps form high quality pie crust. Versatile and convenient, this all-purpose shortening cube makes a great addition to your bakery or concession stand, and has the added benefit of being trans fat free!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4554029727818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>56913</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887460982854</id>
+    <published>2019-05-13T13:02:08-04:00</published>
+    <updated>2019-05-13T13:02:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-vegetable-frying-shortening-nh-30219-20-kg"/>
+    <title>Bunge -  Vegetable  Frying Shortening NH 30219 - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-vegetable-frying-shortening-nh-30219-20-kg-396300.jpg?v=1611509739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge - Vegetable Frying Shortening NH 30219 - 20 Kg</strong></p>
+<p><span><strong>Bake batches of sweet treats to perfection without the trans fatty acids with this versatile zero trans fat all-purpose shortening cube!</strong> Designed to handle the most demanding frying situations, this solid frying shortening is used in numerous general baking applications. Use it to make pound cakes, pie dough, cookies, donuts, breads, icings, and more! It offers a long fry life, less absorption, and maximum performance in every batch. A solid, smooth white shortening is virtually flavorless and odorless. It features a high smoke point for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</span><br><br><span><strong>This shortening cube is solid at room temperature and increases the workability of dough</strong>. To use, simply add this shortening to your fryer, heat to the desired temperature, and add your raw foods to the hot oil. Your finished product will be lighter, better-looking and better-tasting! It adds brilliantly white color to icings, adds rise to cakes, produces the perfect crisp and crumbly texture for baked goods, and helps form high quality pie crust. Versatile and convenient, this all-purpose shortening cube makes a great addition to your bakery or concession stand, and has the added benefit of being trans fat free!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bunge-vegetable-frying-shortening-nh-30219-20-kg#product","name":"Bunge - Vegetable Frying Shortening NH 30219 - 20 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"VegShFBM578","sku":"hFBM578","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-vegetable-frying-shortening-nh-30219-20-kg-bulk-mart_324.jpg","description":"Bunge - Vegetable Frying Shortening NH 30219 - 20 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Bunge"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"6"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"offers":[{"name":"Bunge - Vegetable Frying Shortening NH 30219 - 20 Kg","sku":"hFBM578","mpn":"VegShFBM578","@type":"Offer","priceCurrency":"CAD","price":"47.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bunge-vegetable-frying-shortening-nh-30219-20-kg?variant=19271296548934","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887460982854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>56912</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887496863814</id>
+    <published>2018-11-28T15:01:36-05:00</published>
+    <updated>2018-11-28T15:01:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/huberts-pure-beef-dripping-20-kg"/>
+    <title>Hubert&apos;s - Pure Beef Dripping - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hubbert&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/huberts-pure-beef-dripping-20-kg-658312.jpg?v=1616773313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hubbert&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            76.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hubert's - Beef Dripping - 20 Kg</p>
+<h2 data-lineheight="34" data-fontsize="34" class="subtitle"><span>A classic cooking fat that delivers beef flavour</span></h2>
+<p>Hubberts Pure Beef Dripping™ is a legacy product that has been made the same way for over 100 years. When a beef roast is cooked in the oven, beef fat is rendered from the meat. This fat collects in the bottom of the roasting pan and imparts a distinct flavour to the food. Hubberts Pure Beef Dripping is made this way by heating beef fat and recovering the rendered tallow. It cooks and improves the flavour of fish fillets, chicken fingers, pork cutlets, potatoes and vegetables. The dripping is lightly filtered so the fat is a pale, golden brown. It still carries a hint of beef flavour and aroma when heated and remains heat stable, therefore reducing the frequency of frying oil changes. No other ingredients are added so it is a clean label product.</p>
+<p><span>20kg in a plastic-lined corrugated cardboard box.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887496863814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">76.99</s:price>
+      <s:sku>485478</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887470026822</id>
+    <published>2018-11-28T14:56:57-05:00</published>
+    <updated>2018-11-28T14:56:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crisco-all-vegetable-shortening-454-g"/>
+    <title>Crisco - All Vegetable Shortening - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Crisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crisco-all-vegetable-shortening-454-g-327701.jpg?v=1611509373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crisco<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crisco - All Vegetable Shortening - 454 g</p>
+<p><span><strong>Bake batches of sweet treats to perfection without the trans fatty acids with this versatile zero trans fat all-purpose shortening cube!</strong> Designed to handle the most demanding frying situations, this solid frying shortening is used in numerous general baking applications. Use it to make pound cakes, pie dough, cookies, donuts, breads, icings, and more! It offers a long fry life, less absorption, and maximum performance in every batch. A solid, smooth white shortening is virtually flavorless and odorless. It features a high smoke point for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</span><br><br><span><strong>This shortening cube is solid at room temperature and increases the workability of dough</strong>. To use, simply add this shortening to your fryer, heat to the desired temperature, and add your raw foods to the hot oil. Your finished product will be lighter, better-looking and better-tasting! It adds brilliantly white color to icings, adds rise to cakes, produces the perfect crisp and crumbly texture for baked goods, and helps form high quality pie crust. Versatile and convenient, this all-purpose shortening cube makes a great addition to your bakery or concession stand, and has the added benefit of being trans fat free!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crisco-all-vegetable-shortening-454-g#product","name":"Crisco -  All Vegetable Shortening - 454 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887470026822","sku":"r1BM577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crisco-all-vegetable-shortening-454-g-bulk-mart_517.jpg","description":"Crisco - All Vegetable Shortening - 454 g.","category":"FOOD","brand":{"@type":"Brand","name":"Crisco"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"r1BM577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crisco-all-vegetable-shortening-454-g?variant=19271319519302","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887470026822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>56916</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887463309382</id>
+    <published>2018-11-28T14:56:01-05:00</published>
+    <updated>2018-11-28T14:56:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/capri-ultra-performance-frying-oil-16-l"/>
+    <title>Capri - Ultra Performance Frying Oil - 16 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Capri</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/capri-ultra-performance-frying-oil-16-l-585123.jpg?v=1611509253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Capri<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capri - 30072 Ultra Performance Frying Oil - 16 L</p>
+<h2 class="headline">Bake, cook, and fry delicious foods with this liquid shortening!</h2>
+<p><span>Designed to handle the most demanding frying situations, this clear liquid shortening can be used in numerous cooking and baking applications. It's perfect for use in recipes that call for melted shortening and will serve as an inexpensive alternative to using liquid butter and margarine. Plus, it has a high smoke point, making it perfect for all of your cooking needs!</span></p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Perfect for baking cakes, frying golden brown French fries and more, this clear liquid shortening is made of 100% hydrogenated oil. It features special anti-foaming additives in its ingredients and zero grams of trans fat per serving! It has a high smoke point of 450 degrees Fahrenheit for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</p>
+<h3 class="item-header">Affordable, Bulk Supply</h3>
+<p>An inexpensive frying option, this clear liquid shortening retains excellent fryer life if filtered daily. Offering versatility and convenience, it makes a great addition to your bakery or concession stand. Save money by stocking your kitchen with this supply.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frying Oil</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887463309382</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>12346</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887460917318</id>
+    <published>2018-11-28T14:55:37-05:00</published>
+    <updated>2018-11-28T14:55:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-all-purpose-shortening-nh-46-20-kg"/>
+    <title>Bunge -  All Purpose Shortening Nh-46 - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-all-purpose-shortening-nh-46-20-kg-290066.jpg?v=1611509250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge - All Purpose Shortening Nh46 - 20 Kg</strong></p>
+<p><span><strong>Bake batches of sweet treats to perfection without the trans fatty acids with this versatile zero trans fat all-purpose shortening cube!</strong> Designed to handle the most demanding frying situations, this solid frying shortening is used in numerous general baking applications. Use it to make pound cakes, pie dough, cookies, donuts, breads, icings, and more! It offers a long fry life, less absorption, and maximum performance in every batch. A solid, smooth white shortening is virtually flavorless and odorless. It features a high smoke point for a more pleasant, less-oily tasting surface than food fried in unsaturated fat.</span><br><br><span><strong>This shortening cube is solid at room temperature and increases the workability of dough</strong>. To use, simply add this shortening to your fryer, heat to the desired temperature, and add your raw foods to the hot oil. Your finished product will be lighter, better-looking and better-tasting! It adds brilliantly white color to icings, adds rise to cakes, produces the perfect crisp and crumbly texture for baked goods, and helps form high quality pie crust. Versatile and convenient, this all-purpose shortening cube makes a great addition to your bakery or concession stand, and has the added benefit of being trans fat free!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bunge-all-purpose-shortening-nh-46-20-kg#product","name":"Bunge -  All Purpose Shortening Nh-46 - 20  Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887460917318","sku":"BNBM573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-all-purpose-shortening-nh-46-20-kg-bulk-mart_713.jpg","description":"Bunge - All Purpose Shortening Nh-46 - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Bunge"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"BNBM573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"46.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bunge-all-purpose-shortening-nh-46-20-kg?variant=19271296319558","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shortening</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887460917318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>56911</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+</feed>

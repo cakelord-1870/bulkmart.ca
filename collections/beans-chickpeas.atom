@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/beans-chickpeas.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-13T13:02:40-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4803108503626</id>
+    <published>2020-10-13T13:02:40-04:00</published>
+    <updated>2020-10-13T13:02:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-multicolor-chickpeas-100-oz"/>
+    <title>Clic - Multicolor Chickpeas - 100  oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-multicolor-chickpeas-100-oz-848455.jpg?v=1611509310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned multicolor chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803108503626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>36458</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887456591942</id>
+    <published>2020-10-13T13:02:37-04:00</published>
+    <updated>2020-10-13T13:02:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-chickpeas-24-x-540-ml"/>
+    <title>Aurora - Chickpeas - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-chickpeas-24-x-540-ml-137092.jpg?v=1624169224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-chickpeas-24-x-540-ml#product","name":"Aurora  - Chickpeas - 24 x 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456591942","sku":"CPBM876","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-chickpeas-24-x-540-ml-bulk-mart_182.jpg","description":"Aurora - Chickpeas - 24 x 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"31"},"offers":[{"sku":"CPBM876","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"13"},"mpn":"","priceCurrency":"CAD","price":"28.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-chickpeas-24-x-540-ml?variant=19271288389702","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"31"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887456591942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>37545</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887456526406</id>
+    <published>2020-10-13T13:02:35-04:00</published>
+    <updated>2020-10-13T13:02:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-chickpeas-540-ml"/>
+    <title>Aurora - Chickpeas - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-chickpeas-540-ml-792745.jpg?v=1624169224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-chickpeas-540-ml#product","name":"Aurora  - Chickpeas - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456526406","sku":"CPBM875","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-chickpeas-540-ml-bulk-mart_984.jpg","description":"Aurora - Chickpeas - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"CPBM875","weight":{"@type":"QuantitativeValue","unitText":"g","value":"540"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-chickpeas-540-ml?variant=19271288225862","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887456526406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>37454</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802795307082</id>
+    <published>2020-10-12T18:19:48-04:00</published>
+    <updated>2020-10-12T18:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-original-beans-in-tomato-sauce-398-ml"/>
+    <title>Heinz - Original Beans In Tomato Sauce - 398 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-original-beans-in-tomato-sauce-398-ml-890853.jpg?v=1611514845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Original Beans In Tomato Sauce - 398 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">398 ml cans of Heinz Original Beans in Tomato Sauce</span></li>
+<li><span class="a-list-item">Use as a base for preparing hearty soups; add to toppings for omelets, hot dogs, and hamburgers</span></li>
+<li><span class="a-list-item">Empty contents of can into heating utensil, cover &amp; heat slowly</span></li>
+<li><span class="a-list-item"><b>Heinz Original Beans in Tomato Sauce</b><span> have a familiar home cooked taste and traditional flavour that complements any meal. Made with No Preservatives, </span><b>Heinz Original Beans in Tomato Sauce</b><span> are a high source of fibre, good source of iron and a source of calcium.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802795307082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku>035659</s:sku>
+      <s:grams>398</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802792489034</id>
+    <published>2020-10-12T18:19:47-04:00</published>
+    <updated>2020-10-12T18:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cedar-red-kidney-beans-540-ml"/>
+    <title>Cedar - Red Kidney Beans - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-red-kidney-beans-540-ml-706839.jpg?v=1611513035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned Red Kidney Beans, Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these red kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These dark red kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, dark red kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of red beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aurora-red-kidney-beans-540-ml#product","name":"Aurora  - Red Kidney Beans - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887457443910","sku":"RKBM882","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-red-kidney-beans-540-ml-bulk-mart_420.jpg","description":"Aurora - Red Kidney Beans - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Aurora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"},"offers":[{"sku":"RKBM882","weight":{"@type":"QuantitativeValue","unitText":"g","value":"540"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aurora-red-kidney-beans-540-ml?variant=19271289503814","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802792489034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>124599</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1928558739526</id>
+    <published>2020-10-12T18:19:47-04:00</published>
+    <updated>2020-10-12T18:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-costena-refried-black-beans-546-ml"/>
+    <title>La Costena -  Refried Black Beans - 546 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>La Costena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-refried-black-beans-546-ml-788242.jpg?v=1611512791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Costena<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>La Costena - Refried Black Beans - 546 ml</strong></p>
+<p><span>La Costena refried black beans, 546 mL Add a taste of Mexico to all your meals with delicious, ready-to-serve refried beans. La Costena beans are one of Mexico's favourites and can be used to prepare a lot of different dishes or used as a side-dish to perfectly complement and add flavour anytime.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/la-costena-refried-black-beans-546-ml#product","name":"La Costena -  Refried Black Beans - 546 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1928558739526","sku":"BM885-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-refried-black-beans-546-ml-bulk-mart_218.jpg","description":"La Costena - Refried Black Beans - 546 ml.","category":"FOOD","brand":{"@type":"Brand","name":"La Costena"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"},"offers":[{"sku":"BM885-1","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/la-costena-refried-black-beans-546-ml?variant=19694419116102","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1928558739526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02485</s:sku>
+      <s:grams>546</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887501647942</id>
+    <published>2020-10-12T18:19:45-04:00</published>
+    <updated>2020-10-12T18:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-costena-whole-pinto-beans-546-ml"/>
+    <title>La Costena -  Whole Pinto Beans - 528 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>La Costena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-whole-pinto-beans-528-ml-968096.jpg?v=1611513097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Costena<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>La Costena -  Whole Pinto Beans - 528 ml</strong></p>
+<p><span>La Costena whole pinto beans, 528.3 mL Add a taste of Mexico to all your meals with delicious, ready-to-serve refried beans. La Costena beans are one of Mexico's favourites and can be used to prepare a lot of different dishes or used as a side-dish to perfectly complement and add flavour anytime.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/la-costena-whole-pinto-beans-546-ml#product","name":"La Costena -  Whole Pinto Beans - 546 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887501647942","sku":"PWBM895","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-whole-pinto-beans-546-ml-bulk-mart_947.jpg","description":"La Costena - Whole Pinto Beans - 546 ml.","category":"FOOD","brand":{"@type":"Brand","name":"La Costena"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"PWBM895","mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/la-costena-whole-pinto-beans-546-ml?variant=19271380303942","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887501647942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>05486</s:sku>
+      <s:grams>528</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887501516870</id>
+    <published>2020-10-12T18:19:44-04:00</published>
+    <updated>2020-10-12T18:19:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-costena-whole-black-bean-528-ml"/>
+    <title>La Costena - Whole Black Beans - 528 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>La Costena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-whole-black-beans-528-ml-981900.jpg?v=1611513699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Costena<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>La Costena - Whole Black Beans - 528 ml</strong></p>
+<p><span>La Costeña whole black beans, 528g are rich and traditional. They are prepared with 100% natural ingredients and no preservatives like onion, tomato, jalapeño pepper, salt and spices. Prepare a bean broth with them and accompany all your meals.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/la-costena-whole-black-bean-528-ml#product","name":"La Costena -  Whole Black Bean - 528 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887501516870","sku":"BBBM889","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-whole-black-bean-528-ml-bulk-mart_325.jpg","description":"La Costena - Whole Black Bean - 528 ml.","category":"FOOD","brand":{"@type":"Brand","name":"La Costena"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"BBBM889","mpn":"","priceCurrency":"CAD","price":"1.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/la-costena-whole-black-bean-528-ml?variant=19271379976262","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887501516870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>015485</s:sku>
+      <s:grams>528</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887501385798</id>
+    <published>2020-10-12T18:19:43-04:00</published>
+    <updated>2020-10-12T18:19:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-costena-refried-pinto-beans-retail-546-ml"/>
+    <title>La Costena -  Refried Pinto Beans - 546 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>La Costena</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-refried-pinto-beans-546-ml-187523.jpg?v=1611513820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Costena<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>La Costena - Refried Pinto Beans - 546 ml</strong></p>
+<p><span>La Costena refried pinto beans, 546 mL Add a taste of Mexico to all your meals with delicious, ready-to-serve refried beans. La Costena beans are one of Mexico's favourites and can be used to prepare a lot of different dishes or used as a side-dish to perfectly complement and add flavour anytime.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/la-costena-refried-pinto-beans-retail-546-ml#product","name":"La Costena -  Refried Pinto Beans Retail - 546 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887501385798","sku":"PRBM891","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-costena-refried-pinto-beans-retail-546-ml-bulk-mart_682.jpg","description":"La Costena - Refried Pinto Beans Retail - 546 ml.","category":"FOOD","brand":{"@type":"Brand","name":"La Costena"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"PRBM891","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/la-costena-refried-pinto-beans-retail-546-ml?variant=19271379779654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887501385798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>03489</s:sku>
+      <s:grams>546</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887459803206</id>
+    <published>2020-07-23T13:40:05-04:00</published>
+    <updated>2020-07-23T13:40:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonduelle-beans-in-tomato-sauce-2-84-l"/>
+    <title>Bonduelle - Beans In Tomato Sauce - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bonduelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonduelle-beans-in-tomato-sauce-284-l-457735.jpg?v=1611509251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonduelle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonduelle -  Beans In Tomato Sauce - 2.84 L</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887459803206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>15788</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887459672134</id>
+    <published>2020-07-23T13:40:04-04:00</published>
+    <updated>2020-07-23T13:40:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonduelie-beans-in-tomato-sauce-6-x-2-84-l"/>
+    <title>Bonduelle - Beans In Tomato Sauce - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bonduelle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonduelle-beans-in-tomato-sauce-6-x-284-l-571547.jpg?v=1611509495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonduelle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            52.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonduelie -  Beans In Tomato Sauce - 6 x 2.84 L</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887459672134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.99</s:price>
+      <s:sku>365598</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539822662</id>
+    <published>2018-11-28T15:09:26-05:00</published>
+    <updated>2018-11-28T15:09:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-white-kidney-beans-540-ml"/>
+    <title>Unico -  White Kidney Beans - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-kidney-beans-540-ml-321248.jpg?v=1611512556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned White Kidney Beans, <span data-mce-fragment="1">"cannellini" beans, </span>Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-white-kidney-beans-540-ml#product","name":"Unico -  White Kidney Beans  - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539822662","sku":"dUBM280","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-kidney-beans-540-ml-bulk-mart_362.jpg","description":"Unico - White Kidney Beans - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"dUBM280","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-white-kidney-beans-540-ml?variant=19271444103238","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539822662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.89</s:price>
+      <s:sku>154865</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539757126</id>
+    <published>2018-11-28T15:09:25-05:00</published>
+    <updated>2018-11-28T15:09:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-white-kidney-beans-24-x-540-ml"/>
+    <title>Unico -  White Kidney Beans - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-kidney-beans-24-x-540-ml-806253.jpg?v=1611513574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned White Kidney Beans, <span data-mce-fragment="1">"cannellini" beans, </span>Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-white-kidney-beans-24-x-540-ml#product","name":"Unico -  White Kidney Beans  - 24 x 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539757126","sku":"dUBM279","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-kidney-beans-24-x-540-ml-bulk-mart_691.jpg","description":"Unico - White Kidney Beans - 24 x 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"dUBM279","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"28.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-white-kidney-beans-24-x-540-ml?variant=19271444004934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539757126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>54960</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539494982</id>
+    <published>2018-11-28T15:09:22-05:00</published>
+    <updated>2018-11-28T15:09:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-romano-beans-540-ml"/>
+    <title>Unico -  Romano Beans - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-romano-beans-540-ml-241927.jpg?v=1611513276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Romano Beans - 540 ml</strong></p>
+<p><span>Versatile, fresh, and packed with flavor, these  beans bring popular and satisfying meals to the table that your customers are sure to love! Each can contains deliciously-crisp, richly-colored beans that are perfect for enhancing salad bars and catering menus. </span><br><br><span>Romano beans are dense and meaty, and hold their shape well during cooking. These beans are packaged in a salt solution that helps the beans retain their distinctive taste and texture, ensuring that you get the best product possible. They may be served on their own with rice, or they can enhance profitable Mexican-style menu items like taco salads and burritos. Great for cooking, these beans can also be blended into soups.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-romano-beans-540-ml#product","name":"Unico -  Romano Beans - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539494982","sku":"RUBM898","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-romano-beans-540-ml-bulk-mart_216.jpg","description":"Unico - Romano Beans - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"},"offers":[{"sku":"RUBM898","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-romano-beans-540-ml?variant=19271443349574","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539494982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>326549</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539396678</id>
+    <published>2018-11-28T15:09:22-05:00</published>
+    <updated>2018-11-28T15:09:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-romano-beans-24-x-540-ml"/>
+    <title>Unico -  Romano Beans - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-romano-beans-24-x-540-ml-587175.jpg?v=1611513455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Romano Beans - 24 x 540 ml</strong></p>
+<p><span>Versatile, fresh, and packed with flavor, these  beans bring popular and satisfying meals to the table that your customers are sure to love! Each can contains deliciously-crisp, richly-colored beans that are perfect for enhancing salad bars and catering menus. </span><br><br><span>Romano beans are dense and meaty, and hold their shape well during cooking. These beans are packaged in a salt solution that helps the beans retain their distinctive taste and texture, ensuring that you get the best product possible. They may be served on their own with rice, or they can enhance profitable Mexican-style menu items like taco salads and burritos. Great for cooking, these beans can also be blended into soups.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-romano-beans-24-x-540-ml#product","name":"Unico -  Romano Beans - 24 x 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539396678","sku":"RUBM897","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-romano-beans-24-x-540-ml-bulk-mart_759.jpg","description":"Unico - Romano Beans - 24 x 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"RUBM897","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"28.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-romano-beans-24-x-540-ml?variant=19271443251270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539396678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>216549</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539265606</id>
+    <published>2018-11-28T15:09:20-05:00</published>
+    <updated>2018-11-28T15:09:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-red-kidney-beans-small-540-ml"/>
+    <title>Unico -  Red Kidney Beans - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-540-ml-302686.jpg?v=1611514723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned Red Kidney Beans, Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these red kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These dark red kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, dark red kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of red beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-kidney-beans-small-540-ml#product","name":"Unico -  Red Kidney Beans Small - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539265606","sku":"RsBM286","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-small-540-ml-bulk-mart_166.jpg","description":"Unico - Red Kidney Beans Small - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"},"offers":[{"sku":"RsBM286","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-kidney-beans-small-540-ml?variant=19271442890822","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539265606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>024546</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539232838</id>
+    <published>2018-11-28T15:09:19-05:00</published>
+    <updated>2018-11-28T15:09:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-red-kidney-beans-small-24-x-540-ml"/>
+    <title>Unico -  Red Kidney Beans - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-24-x-540-ml-810065.jpg?v=1611514070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned Red Kidney Beans, Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these red kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These dark red kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, dark red kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of red beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-kidney-beans-small-24-x-540-ml#product","name":"Unico -  Red Kidney Beans Small - 24 x 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539232838","sku":"RsBM285","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-small-24-x-540-ml-bulk-mart_289.jpg","description":"Unico - Red Kidney Beans Small - 24 x 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"RsBM285","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"28.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-kidney-beans-small-24-x-540-ml?variant=19271442858054","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539232838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>06545</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539167302</id>
+    <published>2018-11-28T15:09:18-05:00</published>
+    <updated>2018-11-28T15:09:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-red-kidney-beans-100-oz"/>
+    <title>Unico -  Red Kidney Beans - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-100-oz-603706.jpg?v=1611512734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned Red Kidney Beans, Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these red kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These dark red kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, dark red kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of red beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-kidney-beans-100-oz#product","name":"Unico -  Red Kidney Beans - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539167302","sku":"URBM284","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-100-oz-bulk-mart_863.jpg","description":"Unico - Red Kidney Beans - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"URBM284","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-kidney-beans-100-oz?variant=19271442759750","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539167302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>02486</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887539101766</id>
+    <published>2018-11-28T15:09:17-05:00</published>
+    <updated>2018-11-28T15:09:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-red-kidney-beans-6-x-100-oz"/>
+    <title>Unico -  Red Kidney Beans - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-6-x-100-oz-129835.jpg?v=1611514193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Canned Red Kidney Beans, Easy To Use, Perfect for great recipes!</strong></p>
+<p><span>Whip up an effortlessly delicious dish with these red kidney beans! Rich in color, firm in texture, and featuring a classic bean shape, these kidney beans are great for incorporating in a variety of dishes. Not only that, but it's easy to include these beans into your menu-they save valuable time cooking dried beans in the kitchen! Canned to maintain optimal texture and freshness, these beans are ready to heat and serve.</span><br><br><span><strong>Great for any recipe..! </strong></span></p>
+<p><span>They increase the productivity and efficiency of your service. These dark red kidney beans maintain their savory, hearty flavor that's sure to please your guests! The perfect addition to soups, stews, salads and more, dark red kidney beans are an excellent source of protein. Toss them in a cold salad, or add them to chili con carne. Offer your guests to a classic Creole dish of red beans and rice to give your guests a southern treat! Great served hearty beef chilis, Tex-Mex fare, and more-the possibilities are endless!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-kidney-beans-6-x-100-oz#product","name":"Unico -  Red Kidney Beans - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887539101766","sku":"URBM283","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-kidney-beans-6-x-100-oz-bulk-mart_823.jpg","description":"Unico - Red Kidney Beans - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"},"offers":[{"sku":"URBM283","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"28.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-kidney-beans-6-x-100-oz?variant=19271442661446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887539101766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>032546</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538544710</id>
+    <published>2018-11-28T15:09:12-05:00</published>
+    <updated>2018-11-28T15:09:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-chickpeas-540-ml"/>
+    <title>Unico - Chickpeas - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-540-ml-313682.jpg?v=1611512437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-chickpeas-540-ml#product","name":"Unico -  Chickpeas  - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887538544710","sku":"USBM199","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-540-ml-bulk-mart_414.jpg","description":"Unico - Chickpeas - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"USBM199","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-chickpeas-540-ml?variant=19271441547334","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538544710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>389458</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538446406</id>
+    <published>2018-11-28T15:09:11-05:00</published>
+    <updated>2018-11-28T15:09:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-chickpeas-24-x-540-ml"/>
+    <title>Unico - Chickpeas - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-24-x-540-ml-254820.jpg?v=1611514371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538446406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>30156</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538282566</id>
+    <published>2018-11-28T15:09:10-05:00</published>
+    <updated>2018-11-28T15:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-chickpeas-100-oz"/>
+    <title>Unico - Chickpeas - 100  oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-100-oz-926915.jpg?v=1611511957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538282566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>30153</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538184262</id>
+    <published>2018-11-28T15:09:09-05:00</published>
+    <updated>2018-11-28T15:09:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-chickpeas-6-x-100-oz"/>
+    <title>Unico - Chickpeas - 6 x 100  oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-6-x-100-oz-103459.jpg?v=1611513156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Look no further than these canned chick peas for a versatile ingredient your customers are sure to love..!</strong></p>
+<p><span>Chick peas have a softer texture and a hearty flavor that can spice up many different meals on your patrons' plates. With no cholesterol and 0 grams of sugar, these protein rich chick peas offer a low calorie option for the health conscious consumer. Toss some on top of leafy lettuce with a drizzle of dressing for a cold and refreshing salad, roast them for a crispy side dish, or grind them to a thick dip mixed with herbs and spices for a one-of-a kind hummus and enjoy!</span><br><br><span>Canned with only water and salt, these chick peas are packed with fresh flavor and homegrown taste. Before the canning process, each batch of chick peas is cared for and nurtured to ensure incomparable quality. These freshly cut chick peas then soak in their savory juice that the canning process helps to preserve, giving you natural chickpea flavor and texture that enhances vegetarian, Indian, and Mediterranean fare, and more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-chickpeas-6-x-100-oz#product","name":"Unico -  Chickpeas - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887538184262","sku":"CUBM190","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-chickpeas-6-x-100-oz-bulk-mart_326.jpg","description":"Unico - Chickpeas - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"CUBM190","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"28.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-chickpeas-6-x-100-oz?variant=19271440957510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Chickpeas</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538184262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>304969</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538085958</id>
+    <published>2018-11-28T15:09:08-05:00</published>
+    <updated>2018-11-28T15:09:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-black-beans-540-ml"/>
+    <title>Unico -  Black Beans - 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-black-beans-540-ml-132202.jpg?v=1611513038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Black Beans - 540 ml</strong></p>
+<p><span>Versatile, fresh, and packed with flavor, these  black beans bring popular and satisfying meals to the table that your customers are sure to love! Each can contains deliciously-crisp, richly-colored black beans that are perfect for enhancing salad bars and catering menus. </span><br><br><span>Black beans are dense and meaty, and hold their shape well during cooking. These black beans are packaged in a salt solution that helps the beans retain their distinctive taste and texture, ensuring that you get the best product possible. They may be served on their own with rice, or they can enhance profitable Mexican-style menu items like taco salads and burritos. Great for cooking, these black beans can also be blended into soups.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-black-beans-540-ml#product","name":"Unico -  Black Beans - 540 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887538085958","sku":"nUBM900","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-black-beans-540-ml-bulk-mart_705.jpg","description":"Unico - Black Beans - 540 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"nUBM900","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-black-beans-540-ml?variant=19271440760902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538085958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>215480</s:sku>
+      <s:grams>540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887538020422</id>
+    <published>2018-11-28T15:09:07-05:00</published>
+    <updated>2018-11-28T15:09:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-black-beans-24-x-540-ml"/>
+    <title>Unico -  Black Beans - 24 x 540 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-black-beans-24-x-540-ml-126637.jpg?v=1611512971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Black Beans - 24 x 540 ml</strong></p>
+<p><span>Versatile, fresh, and packed with flavor, these  black beans bring popular and satisfying meals to the table that your customers are sure to love! Each can contains deliciously-crisp, richly-colored black beans that are perfect for enhancing salad bars and catering menus. </span><br><br><span>Black beans are dense and meaty, and hold their shape well during cooking. These black beans are packaged in a salt solution that helps the beans retain their distinctive taste and texture, ensuring that you get the best product possible. They may be served on their own with rice, or they can enhance profitable Mexican-style menu items like taco salads and burritos. Great for cooking, these black beans can also be blended into soups.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887538020422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>68471</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

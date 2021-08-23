@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/salt-pepper.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-06T19:19:30-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6632920121418</id>
+    <published>2021-08-06T19:19:30-04:00</published>
+    <updated>2021-08-06T19:19:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-mediterranean-sea-salt-fine-1-kg"/>
+    <title>Aurora - Mediterranean Sea Salt Fine - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-mediterranean-sea-salt-fine-1-kg-286464.jpg?v=1628300608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aurora - Mediterranean Sea Salt Fine - 1 Kg</strong></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><span><strong>If you operate any type of foodservice establishment</strong>, then this sea salt is an essential ingredient to have on hand. Thanks to the versatility of this sea salt, it can be used for almost any cooking or baking applications.  You can even sprinkle it on top of soups, salads, and other entrees</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. </span></p>
+<p><span>Since fine sea salt is less refined than table salt, it’s a healthier alternative. It even contains trace amounts of valuable minerals.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6632920121418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>010132</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6604370346058</id>
+    <published>2021-06-18T21:30:02-04:00</published>
+    <updated>2021-06-18T21:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-himalayan-salt-1-2-kg"/>
+    <title>Belle Donne - Himalayan Pink Salt - 1.2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-himalayan-pink-salt-12-kg-321249.png?v=1624069003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Himalayan Pink Salt - 1.2 Kg</p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><strong>Use this all purpose salt</strong><span> </span>for cooking and baking, as well as for seasoning at the table. The uniformly shaped crystals make table salt the best choice for baking where precise measurements are critical.</p>
+<p><span><strong>This Salt is the perfect cooking salt</strong> for your kitchen, steak house, bakery, or other foodservice establishment. Sprinkle it on top of meats or use it as a garnish on baked goods. Since this seasoning has no additives, you can feel good about the ingredients being using in your recipes.</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. Additionally, since it’s not coarse, it won’t add any crunch to your foods.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6604370346058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>12548</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887475728454</id>
+    <published>2021-01-04T19:42:49-05:00</published>
+    <updated>2021-01-04T19:42:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg-case"/>
+    <title>Diamond - Crystal Kosher Salt - 12 x 1.36 Kg/Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/diamond-crystal-kosher-salt-12-x-136-kgcase-488518.jpg?v=1611509914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diamond - Crystal Kosher Salt - 12 x 1.36 Kg</p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><strong>Use this all Kosher salt</strong><span> </span>for cooking and baking, as well as for seasoning at the table. The uniformly shaped crystals make table salt the best choice for baking where precise measurements are critical.</p>
+<p><span><strong>This Salt is the perfect cooking salt</strong> for your kitchen, steak house, bakery, or other foodservice establishment. Sprinkle it on top of meats or use it as a garnish on baked goods. Since this seasoning has no additives, you can feel good about the ingredients being using in your recipes.</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. Additionally, since it’s not coarse, it won’t add any crunch to your foods.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><strong>Use this all Kosher salt</strong><span> </span>for cooking and baking, as well as for seasoning at the table. The uniformly shaped crystals make table salt the best choice for baking where precise measurements are critical.</p>
+<p><span><strong>This Salt is the perfect cooking salt</strong> for your kitchen, steak house, bakery, or other foodservice establishment. Sprinkle it on top of meats or use it as a garnish on baked goods. Since this seasoning has no additives, you can feel good about the ingredients being using in your recipes.</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. Additionally, since it’s not coarse, it won’t add any crunch to your foods.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p>
+<p><span><strong>There is no ingredient more versatile and important in the kitchen than salt;</strong> ensure you are seasoning your foods with a high quality, all-purpose cooking salt, like this Diamond Crystal 3 lb. kosher salt! Certified kosher for Passover, these coarse salt crystals have a well-rounded flavor that, depending on the amount used, can be used in a variety of ways, from dampening bitterness and increasing a food's sweetness to reducing sweetness and increasing umami in your savory dishes. With its large plain salt crystals, this salt is easier to pinch and sprinkle atop your finished foods than table salt, making it a great way to assure your foods are not over salted. Use this versatile ingredient for seasoning meats prior to cooking, rimming margarita glasses, or making marinades. Whether it's blended into sauces, used for garnishing vegetables, or tossed with your popcorn, it will add an extra pinch of savory flavor to anything you make!<br><br><strong>This pure kosher salt contains no additives</strong> and contains 53% less sodium by volume in comparison to regular table salt. This salt is made using a proprietary evaporation process that creates unique hollow, multifaceted salt crystals that are perfect for controlled seasoning in your kitchen. Plus, its shape also influences its adherence to food surfaces, providing your meals with a fuller flavor. When your recipe calls for large quantities of salt, this box features an efficient side pour spout for quick and easy pouring. For a utility salt that dissolves and disperses quickly, stock your kitchen with this versatile salt for all your cooking needs.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg#product","name":"Diamond -  Crystal Kosher Salt - 12 x 1.36 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887475728454","sku":"O7BM836","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/diamond-crystal-kosher-salt-12-x-1-36-kg-bulk-mart_226.jpg","description":"Diamond - Crystal Kosher Salt - 12 x 1.36 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"O7BM836","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"118.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg?variant=19271331151942","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887475728454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>025458</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037478883398</id>
+    <published>2020-11-02T00:21:18-05:00</published>
+    <updated>2020-11-02T00:21:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-mixed-blended-peppercorn-500-g"/>
+    <title>King Of Spice - Mixed Blended Peppercorn - 500 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-mixed-blended-peppercorn-500-g-494122.jpg?v=1611512616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Mixed Blended Peppercorn - 500 g</p>
+<h3 class="item-header">Whole Peppercorns</h3>
+<p>Because this product comes whole, this spice maintains its flavor longer than ground options. It's also more versatile since it can be left whole or ground to a coarse or fine consistency.</p>
+<p><span>This gourmet peppercorn is a great addition to a sachet d'epices for seasoning stews and soups or for garnishing your plates.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-mixed-blended-peppercorn-500-g#product","name":"King Of Spice - Mixed  Blended  Peppercorn - 500 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037478883398","sku":"6BM2850","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-mixed-blended-peppercorn-500-g-bulk-mart_743.gif","description":"King Of Spice - Mixed Blended Peppercorn - 500 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"},"offers":[{"sku":"6BM2850","weight":{"@type":"QuantitativeValue","unitText":"g","value":"500"},"mpn":"","priceCurrency":"CAD","price":"22.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-mixed-blended-peppercorn-500-g?variant=20604585312326","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peppercorns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037478883398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>89763</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037476163654</id>
+    <published>2020-11-02T00:21:17-05:00</published>
+    <updated>2020-11-02T00:21:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-pink-peppercorn-275-g"/>
+    <title>King Of Spice - Pink Peppercorn - 275 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-pink-peppercorn-275-g-378066.jpg?v=1611511293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Pink Peppercorn - 275 g</p>
+<h3 class="item-header">Whole Peppercorns</h3>
+<p>Because this product comes whole, this spice maintains its flavor longer than ground options. It's also more versatile since it can be left whole or ground to a coarse or fine consistency.</p>
+<p><span>This gourmet peppercorn is a great addition to a sachet d'epices for seasoning stews and soups or for garnishing your plates.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-pink-peppercorn-275-g#product","name":"King Of Spice - Pink Peppercorn - 275 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037476163654","sku":"4BM2810","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-pink-peppercorn-275-g-bulk-mart_578.gif","description":"King Of Spice - Pink Peppercorn - 275 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"4BM2810","weight":{"@type":"QuantitativeValue","unitText":"g","value":"275"},"mpn":"","priceCurrency":"CAD","price":"14.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-pink-peppercorn-275-g?variant=20604582199366","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peppercorns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037476163654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>89764</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821157380170</id>
+    <published>2020-11-02T00:20:00-05:00</published>
+    <updated>2020-11-02T00:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-blended-peppercorns-440-g"/>
+    <title>Belle Donne Spices - Blended Peppercorns - 440 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-blended-peppercorns-440-g-796791.jpg?v=1611509134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne Spices - Blended Peppercorns - 440 g</strong></p>
+<h3 class="item-header">Whole Peppercorns</h3>
+<p>Because this product comes whole, this spice maintains its flavor longer than ground options. It's also more versatile since it can be left whole or ground to a coarse or fine consistency.</p>
+<p><span>This gourmet peppercorn is a great addition to a sachet d'epices for seasoning stews and soups or for garnishing your plates.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Peppercorns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821157380170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>89762</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037470167110</id>
+    <published>2020-11-01T18:20:59-05:00</published>
+    <updated>2020-11-01T18:20:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-white-pepper-ground-454-g"/>
+    <title>King Of Spice - White Pepper Ground - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-white-pepper-ground-454-g-293265.jpg?v=1611510400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - White Pepper Ground Jar - 454 g</p>
+<p><span><strong>Pre-made spice blends</strong> like King Of Spice - White Pepper Ground create bold and memorable flavors in your dishes while cutting down on preparation time.</span></p>
+<p><span>Add an extra zesty taste to your appetizers and entrees with this seasoning blend. Its savory combination of granulated garlic, onion, pepper, and spices will enhance many of your signature dishes. No matter what's on the menu, your customers will love the robust flavor of this Regal herbs and garlic blend.</span></p>
+<h3 class="item-header">Versatile Seasoning</h3>
+<p>Perfect for adding to meat rubs, sauces, and marinades, this blend will add some zest to tomato-based dishes, soups, and italian cuisine. Create a signature italian dressing by mixing this seasoning blend with vinegar and oil. You can also sprinkle it on pizza for a one-of-a-kind taste.</p>
+<h3 class="item-header">Saves Prep Time</h3>
+<p>Dehydrated spices retain many of the same nutritional benefits as fresh spices, while offering versatility and shortened kitchen prep time.</p>
+<h3 class="item-header">Pre-Blended</h3>
+<p>This convenient blend will also help to cut down on the amount of individual seasonings used in your recipes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-white-pepper-ground-454-g#product","name":"King Of Spice - White Pepper Ground - 454 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037470167110","sku":"9BM2737","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-white-pepper-ground-454-g-bulk-mart_281.jpg","description":"King Of Spice - White Pepper Ground - 454 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"9BM2737","weight":{"@type":"QuantitativeValue","unitText":"g","value":"454"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-white-pepper-ground-454-g?variant=20604574105670","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ground Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037470167110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>66029</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821179760714</id>
+    <published>2020-11-01T18:20:42-05:00</published>
+    <updated>2020-11-01T18:20:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-black-pepper-ground-450-g"/>
+    <title>Belle Donne Spices - Black Pepper Ground - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-black-pepper-ground-450-g-507982.jpg?v=1611509497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Black Pepper Ground - 450 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ground Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821179760714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>456973</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821179170890</id>
+    <published>2020-11-01T18:20:41-05:00</published>
+    <updated>2020-11-01T18:20:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-black-pepper-cracked-450-g"/>
+    <title>Belle Donne Spices - Black Pepper Cracked - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-black-pepper-cracked-450-g-632198.png?v=1611509317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Black Pepper Cracked - 450 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821179170890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>66020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821178548298</id>
+    <published>2020-11-01T18:20:41-05:00</published>
+    <updated>2020-11-01T18:20:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-whole-black-pepper-450-g"/>
+    <title>Belle Donne Spices - Whole Black Pepper - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-whole-black-pepper-450-g-535539.jpg?v=1611508951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne Spices - Whole Black Pepper - 450 g</strong></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepper</s:tag>
+    <s:tag>Whole Spices</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821178548298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>66024</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821172158538</id>
+    <published>2020-11-01T18:20:40-05:00</published>
+    <updated>2020-11-01T18:20:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-cayenne-pepper-480-g"/>
+    <title>Belle Donne Spices - Cayenne Pepper - 480 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-cayenne-pepper-480-g-321151.jpg?v=1611513570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Cayenne Pepper - 480 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, guacamole, and taco or enchilada sauces for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cayenne Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821172158538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>66022</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821168029770</id>
+    <published>2020-11-01T18:20:39-05:00</published>
+    <updated>2020-11-01T18:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-white-pepper-ground-450-g"/>
+    <title>Belle Donne Spices - White Pepper Ground - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-white-pepper-ground-450-g-661757.jpg?v=1611509015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - White Pepper Ground Jar - 450 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ground Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821168029770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>66023</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819592740938</id>
+    <published>2020-11-01T18:20:39-05:00</published>
+    <updated>2020-11-01T18:20:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-black-pepper-coarse-cracked-530-gclub-house-black-pepper-coarse-cracked-530-g"/>
+    <title>Club House - Black Pepper Coarse Cracked - 530 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-black-pepper-coarse-cracked-530-g-997219.png?v=1611509378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Black Pepper Coarse Cracked - 530 g</strong></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-black-pepper-cracked-454-g#product","name":"King Of Spice - Black Pepper Cracked - 454 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037476884550","sku":"6BM2821","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-black-pepper-cracked-454-g-bulk-mart_921.jpg","description":"King Of Spice - Black Pepper Cracked - 454 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"6BM2821","weight":{"@type":"QuantitativeValue","unitText":"g","value":"454"},"mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-black-pepper-cracked-454-g?variant=20604583018566","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819592740938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66025</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819591495754</id>
+    <published>2020-11-01T18:20:38-05:00</published>
+    <updated>2020-11-01T18:20:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-black-pepper-ground-540-g"/>
+    <title>Club House - Black Pepper Ground - 540 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-black-pepper-ground-540-g-965695.jpg?v=1611509371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Black Pepper Ground Jar - 540 g</strong></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Ground Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819591495754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66026</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819590381642</id>
+    <published>2020-11-01T18:20:37-05:00</published>
+    <updated>2020-11-01T18:20:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-black-pepper-whole-575-gclub-house-black-pepper-whole-575-g"/>
+    <title>Club House - Black Pepper Whole - 575 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-black-pepper-whole-575-g-662574.jpg?v=1611509625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Black Pepper Whole - 575 g</strong></p>
+<h2 class="page-header-2">Bulk Whole Spices Add Flavor to Your Favorite Food and Drink Recipes</h2>
+<p><span>Whole spices are loaded with flavor. They can be used whole for an aesthetically pleasing presentation or ground up just before use for added freshness.</span></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, guacamole, and taco or enchilada sauces for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-black-pepper-whole-454-g#product","name":"King Of Spice - Black Pepper Whole - 454 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037477015622","sku":"WBM2823","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-black-pepper-whole-454-g-bulk-mart_444.gif","description":"King Of Spice - Black Pepper Whole - 454 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"WBM2823","weight":{"@type":"QuantitativeValue","unitText":"g","value":"454"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-black-pepper-whole-454-g?variant=20604583182406","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Pepper</s:tag>
+    <s:tag>Whole Spices</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819590381642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>66027</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819589103690</id>
+    <published>2020-11-01T18:20:36-05:00</published>
+    <updated>2020-11-01T18:20:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-cayenne-pepper-450-g"/>
+    <title>Club House - Cayenne Pepper - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-cayenne-pepper-450-g-753029.jpg?v=1611509318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Cayenne Ground Pepper - 450 g</strong></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, guacamole, and taco or enchilada sauces for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The bulk pack of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-cayenne-pepper-5-lbs#product","name":"King Of Spice - Cayenne Pepper - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037478031430","sku":"5BM2837","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-cayenne-pepper-5-lbs-bulk-mart_913.jpg","description":"King Of Spice - Cayenne Pepper - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"5BM2837","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-cayenne-pepper-5-lbs?variant=20604584329286","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cayenne Pepper</s:tag>
+    <s:tag>Ground Spices</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819589103690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>66028</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819585302602</id>
+    <published>2020-11-01T17:40:03-05:00</published>
+    <updated>2020-11-01T17:40:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-seasoned-salt-1-kgclub-house-seasoned-salt-1-kg"/>
+    <title>Club House - Seasoned Salt - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-seasoned-salt-1-kg-845008.jpg?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Seasoned Salt - 1 Kg</strong></p>
+<p><span>If you’re looking to <strong>cut back on prep time,</strong> then you’ve come to the right place. Thanks to </span><span>seasoned salt, you can add a variety of flavors to your culinary creations. A savory blend of salt, sugar, paprika, cornstarch, and other spices, this seasoning is perfect for spicing up meats, seafood, and vegetables.</span></p>
+<p><span><strong>Additionally, this packing provide you with plenty of seasoning for your signature dishes.</strong> Best of all, this seasoned salt is ready to use, making it ideal for fast-paced environments.</span></p>
+<h3 class="item-header">Consistent Blend</h3>
+<p>This seasoned salt has the just the right amount of each item on its ingredient list, giving it the perfect taste. By having a consistent blend ready to use straight out of the container, your staff won’t have to waste time measuring out individual spices.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-seasoning-salt-5-lbs#product","name":"King Of Spice - Seasoning Salt - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037469020230","sku":"6BM2725","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-seasoning-salt-5-lbs-bulk-mart_165.gif","description":"King Of Spice - Seasoning Salt - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"6BM2725","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-seasoning-salt-5-lbs?variant=20604572598342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:tag>Specialty Blends</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819585302602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>025457</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4818713346122</id>
+    <published>2020-11-01T17:40:01-05:00</published>
+    <updated>2020-11-01T17:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-seasoned-salt-4-3-kg"/>
+    <title>Belle Donne Spices - Seasoned Salt - 4.3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-seasoned-salt-43-kg-973274.png?v=1611509249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Seasoned Salt - 4.3 Kg</p>
+<p><span>If you’re looking to <strong>cut back on prep time,</strong> then you’ve come to the right place. Thanks to </span><span>seasoned salt, you can add a variety of flavors to your culinary creations. A savory blend of salt, sugar, paprika, cornstarch, and other spices, this seasoning is perfect for spicing up meats, seafood, and vegetables.</span></p>
+<p><span><strong>Additionally, this packing provide you with plenty of seasoning for your signature dishes.</strong> Best of all, this seasoned salt is ready to use, making it ideal for fast-paced environments.</span></p>
+<h3 class="item-header">Consistent Blend</h3>
+<p>This seasoned salt has the just the right amount of each item on its ingredient list, giving it the perfect taste. By having a consistent blend ready to use straight out of the container, your staff won’t have to waste time measuring out individual spices.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-seasoning-salt-5-lbs#product","name":"King Of Spice - Seasoning Salt - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037469020230","sku":"6BM2725","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-seasoning-salt-5-lbs-bulk-mart_165.gif","description":"King Of Spice - Seasoning Salt - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"6BM2725","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-seasoning-salt-5-lbs?variant=20604572598342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:tag>Specialty Blends</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4818713346122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>025453</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821171142730</id>
+    <published>2020-11-01T17:39:31-05:00</published>
+    <updated>2020-11-01T17:39:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-seasoned-salt-1-kg"/>
+    <title>Belle Donne Spices - Seasoned Salt - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-seasoned-salt-1-kg-706169.png?v=1611509073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne Spices - Seasoned Salt - 1 Kg</strong></p>
+<p><span>If you’re looking to <strong>cut back on prep time,</strong> then you’ve come to the right place. Thanks to </span><span>seasoned salt, you can add a variety of flavors to your culinary creations. A savory blend of salt, sugar, paprika, cornstarch, and other spices, this seasoning is perfect for spicing up meats, seafood, and vegetables. </span></p>
+<p><span><strong>Additionally, this packing provide you with plenty of seasoning for your signature dishes.</strong> Best of all, this seasoned salt is ready to use, making it ideal for fast-paced environments.</span></p>
+<h3 class="item-header">Consistent Blend</h3>
+<p>This seasoned salt has the just the right amount of each item on its ingredient list, giving it the perfect taste. By having a consistent blend ready to use straight out of the container, your staff won’t have to waste time measuring out individual spices.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821171142730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>025452</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821160329290</id>
+    <published>2020-11-01T17:39:30-05:00</published>
+    <updated>2020-11-01T17:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-garlic-salt-930-g"/>
+    <title>Belle Donne Spices - Garlic Salt - 930 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-garlic-salt-930-g-335926.png?v=1611514245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Garlic Salt - 930 g</p>
+<p><span><strong>A delicious combination of coarse-ground salt and granulated garlic</strong>, garlic salt is sure to bring a savory flavor to your menu items. This ready to use blend has granules that are larger in size than garlic powder, but smaller than minced garlic.</span></p>
+<p><span><strong> Garlic salt is the perfect addition on chicken, pork, beef, seafood, and vegetables.</strong> This seasoning can also be used in marinades, sauces, soups, stews, and chilis. Additionally, this packing provides your restaurant, cafe, or diner with plenty of garlic salt for your culinary creations.</span></p>
+<h3 class="item-header">Adds Flavor and Texture</h3>
+<p>Garlic salt has a robust, zesty flavor and a granulated texture that will enhance all of your savory signature dishes.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Garlic salt is popular in many different recipes, including dry rubs, chili, sauces, marinades, and soups.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821160329290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>025451</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821149450314</id>
+    <published>2020-11-01T17:39:30-05:00</published>
+    <updated>2020-11-01T17:39:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-garlic-salt-4-7-kg"/>
+    <title>Club House - Garlic Salt - 4.7 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-garlic-salt-47-kg-908189.png?v=1611509625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Garlic Salt - 4.7 Kg</strong></p>
+<p><span><strong>A delicious combination of coarse-ground salt and granulated garlic</strong>, garlic salt is sure to bring a savory flavor to your menu items. This ready to use blend has granules that are larger in size than garlic powder, but smaller than minced garlic.</span></p>
+<p><span><strong>Garlic salt is the perfect addition on chicken, pork, beef, seafood, and vegetables.</strong> This seasoning can also be used in marinades, sauces, soups, stews, and chilis. Additionally, this packing provides your restaurant, cafe, or diner with plenty of garlic salt for your culinary creations.</span></p>
+<h3 class="item-header">Adds Flavor and Texture</h3>
+<p>Garlic salt has a robust, zesty flavor and a granulated texture that will enhance all of your savory signature dishes.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Garlic salt is popular in many different recipes, including dry rubs, chili, sauces, marinades, and soups.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821149450314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>025455</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821127430218</id>
+    <published>2020-11-01T17:39:29-05:00</published>
+    <updated>2020-11-01T17:39:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sosalt-bakers-sea-salt-fine-25-kg"/>
+    <title>SoSalt - Bakers Sea Salt Fine - 25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>SoSalt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sosalt-bakers-sea-salt-fine-25-kg-328482.png?v=1611513030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoSalt<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SoSalt - Bakers Sea Salt Fine - 25 Kg</strong></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><span><strong>If you operate any type of foodservice establishment</strong>, then this sea salt is an essential ingredient to have on hand. Thanks to the versatility of this sea salt, it can be used for almost any cooking or baking applications.  You can even sprinkle it on top of soups, salads, and other entrees</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. </span></p>
+<p><span>Since fine sea salt is less refined than table salt, it’s a healthier alternative. It even contains trace amounts of valuable minerals.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821127430218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>025460</s:sku>
+      <s:grams>28000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821126611018</id>
+    <published>2020-11-01T17:39:28-05:00</published>
+    <updated>2020-11-01T17:39:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sosalt-bakers-sea-salt-coarse-25-kg"/>
+    <title>SoSalt - Bakers Sea Salt Coarse - 25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>SoSalt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sosalt-bakers-sea-salt-coarse-25-kg-242941.png?v=1611511901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SoSalt<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SoSalt - Bakers Sea Salt Coarse - 25 Kg</strong></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><span><strong>If you operate any type of foodservice establishment</strong>, then this sea salt is an essential ingredient to have on hand. Thanks to the versatility of this sea salt, it can be used for almost any cooking or baking applications.  You can even sprinkle it on top of soups, salads, and other entrees</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. </span></p>
+<p><span>Since fine sea salt is less refined than table salt, it’s a healthier alternative. It even contains trace amounts of valuable minerals.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821126611018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>025459</s:sku>
+      <s:grams>28000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819601621066</id>
+    <published>2020-11-01T17:39:27-05:00</published>
+    <updated>2020-11-01T17:39:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-celery-salt-900-g"/>
+    <title>Club House - Celery Salt - 900 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-celery-salt-900-g-308311.jpg?v=1611511476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Celery Salt - 900 g</strong></p>
+<p><strong>With a warm and slightly bitter taste</strong>, celery salt is a versatile seasoning to use in many of your signature dishes. Celery salt is made by mixing salt and celery seed, which comes from the dried fruit of the Apium graveolens herb that’s similar to the vegetable celery.</p>
+<p><span><strong>From salad dressings and macaroni salad to coleslaw, meat loaf, and soups, you can use this seasoning in a number of different styles of food</strong>. You can even use it rim the glasses when serving up Bloody Marys.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Celery salt can be used to spice up anything from pickles, potato salad, and coleslaw to salad dressing, pork roast, and stuffing.</p>
+<p class="subhead"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819601621066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>025454</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4818737954890</id>
+    <published>2020-11-01T17:39:26-05:00</published>
+    <updated>2020-11-01T17:39:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-sea-salt-french-mediterranean-1-1-kg"/>
+    <title>Club House - Sea Salt French Mediterranean - 1.1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-sea-salt-french-mediterranean-11-kg-851798.jpg?v=1611511364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Sea Salt French Mediterranean - 1.1 Kg</strong></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><span><strong>If you operate any type of foodservice establishment</strong>, then this sea salt is an essential ingredient to have on hand. Thanks to the versatility of this sea salt, it can be used for almost any cooking or baking applications.  You can even sprinkle it on top of soups, salads, and other entrees</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. </span></p>
+<p><span>Since fine sea salt is less refined than table salt, it’s a healthier alternative. It even contains trace amounts of valuable minerals.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4818737954890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>025456</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

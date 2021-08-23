@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/cake-sponge-mixes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-04T18:14:05-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4812669681738</id>
+    <published>2021-01-04T18:14:05-05:00</published>
+    <updated>2021-01-04T18:14:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jell-o-cheesecake-mix-10-kg"/>
+    <title>JELL-O - Cheesecake Mix - 10 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELL-O</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jell-o-cheesecake-mix-10-kg-183266.png?v=1611512911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELL-O<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Cheesecake Mix - 10 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">One 10kg case of Jell-O Cheesecake Mix</span></li>
+<li><span class="a-list-item">Delicious taste and great texture</span></li>
+<li><span class="a-list-item">Just add milk and blend</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/irek-eggless-white-cake-mix-20-kg#product","name":"IREKS -Eggless White Cake Mix - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3966829887558","sku":"LDBBM82","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/irek-eggless-white-cake-mix-20-kg-bulk-mart_137.jpg","description":"IREKS -Eggless White Cake Mix - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"IREK"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"},"offers":[{"sku":"LDBBM82","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"85.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/irek-eggless-white-cake-mix-20-kg?variant=29541406867526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812669681738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>661254</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812652249162</id>
+    <published>2020-10-22T16:20:10-04:00</published>
+    <updated>2020-10-22T16:20:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/quaker-bran-muffin-mix-20-kg"/>
+    <title>Quaker - Bran Muffin Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Quaker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/quaker-bran-muffin-mix-20-kg-788062.jpg?v=1611511594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quaker<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Quaker - Bran Muffin Mix - 20 Kg - 55577 10470</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812652249162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.99</s:price>
+      <s:sku>146904</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808827797578</id>
+    <published>2020-10-20T00:59:47-04:00</published>
+    <updated>2020-10-20T00:59:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-vanilla-muffin-mix-20-kg"/>
+    <title>Dawn - Vanilla Muffin Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-vanilla-muffin-mix-20-kg-350837.jpg?v=1611510642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            92.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - Vanilla Muffin Mix - 20 Kg</strong></p>
+<p>• High quality and versatile mixes</p>
+<p>• Authentic American recipe</p>
+<p>• In chewy or cakey varieties</p>
+<p>• Create soft, light, fluffy USA style favourites</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808827797578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">92.99</s:price>
+      <s:sku>3698</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808817344586</id>
+    <published>2020-10-20T00:59:46-04:00</published>
+    <updated>2020-10-20T00:59:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-gluten-free-muffin-mix-12-5-kg"/>
+    <title>IREKS - Gluten Free Muffin Mix - 12.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-gluten-free-muffin-mix-125-kg-323288.jpg?v=1611511304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IREKS - Gluten Free Muffin Mix - 12.5 Kg</strong></p>
+<p>Mix for the production of gluten-free muffins - simple, efficient and reliable production - gently aerated crumb texture - pleasant crumb colour</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808817344586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>21748</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808814919754</id>
+    <published>2020-10-20T00:59:44-04:00</published>
+    <updated>2020-10-20T00:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-gluten-free-bread-mix-12-5-kg"/>
+    <title>IREKS - Gluten Free Bread Mix - 12.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-gluten-free-bread-mix-125-kg-272681.jpg?v=1611510575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            117.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IREKS - Gluten Free Bread Mix - 12.5 Kg</strong></p>
+<p>Mix for the production of gluten-free bread - machine and installation-friendly doughs - simple and reliable production using the direct dough method - long-lasting consumption freshness - natural aroma and taste</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808814919754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.99</s:price>
+      <s:sku>65499</s:sku>
+      <s:grams>12500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808814231626</id>
+    <published>2020-10-20T00:59:43-04:00</published>
+    <updated>2020-10-20T00:59:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-corn-bread-mix-25-kg"/>
+    <title>IREKS - Corn Bread Mix - 25 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-corn-bread-mix-25-kg-311905.jpg?v=1611511478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            183.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>IREKS - Corn Bread Mix - 25 Kg</strong></p>
+<p>Mixing time: 4 + 7 minutes Dough temperature: 25° C – 27° C Bulk fermentation time: 20 minutes Scaling weight: 0.480 kg Intermediate proof: none Processing: as desired Final proof: 40 – 50 minutes Baking temperature: 230° C, dropping to 190° C, giving steam Baking time: 30 – 35 minutes, open damper for the last 5 minutes Instructions for use: After the bulk fermentation time, scale dough pieces and mould round. Process as desired, toss in topping, place on setters and allow to prove. Cut before loading and bake giving steam. Topping: coarse maize</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808814231626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">183.99</s:price>
+      <s:sku>3596</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4597149728842</id>
+    <published>2020-05-19T17:54:38-04:00</published>
+    <updated>2020-05-19T17:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-satin-tegral-brownie-mix-20-kg"/>
+    <title>Puratos - Satin Tegral Brownie Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-satin-tegral-brownie-mix-20-kg-436252.jpg?v=1611511596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            122.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Satin Tegral Brownie Mix - 20 Kg</p>
+<p class="lead">Puratos cake mixes enable you to make an endless variety of cake products quickly, easily and cost-effectively. </p>
+<p class="lead"><b>Tegral Brownie</b><span> </span>is a versatile mix for moist, chocolatey and chewy brownies.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4597149728842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.99</s:price>
+      <s:sku>36598</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966849253446</id>
+    <published>2019-08-23T14:07:33-04:00</published>
+    <updated>2019-08-23T14:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-satin-moist-r-cake-mix-20-kg"/>
+    <title>Puratos - Satin Moist R&apos; Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-satin-moist-r-cake-mix-20-kg-349385.jpg?v=1611511542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Moist R' Cake Mix - TFA Free </p>
+<div class="col-md-6 product-image-restrict">
+<div class="carousel-overview">
+<div class="p-padding-bottom image-padding">
+<div aria-hidden="false" class="p-slick__item"><picture class="p-slick__item--rounded"><img class="cq-dd-image forced-scaled-image lazyloaded"></picture></div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div>
+<div class="paragraph">
+<div class="p-editor">
+<p class="lead">Satin, a range of premium cake mixes, is the perfect tool for innovating with tastes and textures. Highly versatile and easy-to-use, Satin mixes deliver the highest level of quality.</p>
+<p class="lead"><b>Satin Moist'R Cake</b><span> </span>is a moist, rich and versatile crème cake mix for loaf cakes and muffins with exceptional shelf life.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966849253446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku>01546</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966848139334</id>
+    <published>2019-08-23T14:03:20-04:00</published>
+    <updated>2019-08-23T14:03:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-tegral-white-sponge-cake-mix-20-kg"/>
+    <title>Puratos - Tegral White Sponge Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-tegral-white-sponge-cake-mix-20-kg-936039.jpg?v=1611513697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            93.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Tegral White Sponge Cake Mix - 20 Kg</p>
+<p class="lead">Puratos cake mixes enable you to make an endless variety of cake products quickly, easily and cost-effectively.</p>
+<p class="lead"><b>Tegral Sponge</b><span> </span>is a moist, rich and consistent sponge cake mix for the preparation of superior European-style sponge cakes and jelly rolls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966848139334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>218782</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966845747270</id>
+    <published>2019-08-23T13:57:46-04:00</published>
+    <updated>2019-08-23T13:57:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-satin-velvet-vanilla-cake-mix-25-kg"/>
+    <title>Puratos - Satin Velvet Vanilla Cake Mix - 25 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-satin-velvet-vanilla-cake-mix-25-kg-951407.jpg?v=1611512190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Satin Velvet Chocolate Cake Mix - 25 Kg</p>
+<p class="lead">Satin, a range of premium cake mixes, is the perfect tool for innovating with tastes and textures. Highly versatile and easy-to-use, Satin mixes deliver the highest level of quality.</p>
+<p class="lead"><b>Satin Vanilla Velvet Cake</b><span> </span>is a moist vanilla crème cake that bakes flat for easy assembly. Most suitable for cupcakes, layer cakes and slab cakes. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966845747270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>326989</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966844108870</id>
+    <published>2019-08-23T13:55:28-04:00</published>
+    <updated>2019-08-23T13:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-satin-velvet-chocolate-cake-mix-25-kg"/>
+    <title>Puratos - Satin Velvet Chocolate Cake Mix - 25 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-satin-velvet-chocolate-cake-mix-25-kg-925483.jpg?v=1611512553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            112.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Satin Velvet Chocolate Cake Mix - 25 Kg</p>
+<p class="lead">Satin, a range of premium cake mixes, is the perfect tool for innovating with tastes and textures. Highly versatile and easy-to-use, Satin mixes deliver the highest level of quality.</p>
+<p class="lead"><b>Satin Chocolate Velvet Cake</b><span> </span>is a moist chocolate crème cake that bakes flat for easy assembly. Most suitable for cupcakes, layer cakes and slab cakes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966844108870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.99</s:price>
+      <s:sku>325970</s:sku>
+      <s:grams>27000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966841946182</id>
+    <published>2019-08-23T13:50:41-04:00</published>
+    <updated>2019-08-23T13:50:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-satin-red-velvet-cake-mix-20-kg"/>
+    <title>Puratos - Satin Red Velvet Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-satin-red-velvet-cake-mix-20-kg-112712.jpg?v=1611512073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Puratos - Satin Red Velvet Cake Mix - 20 Kg</p>
+<p class="lead">Satin, a range of premium cake mixes, is the perfect tool for innovating with tastes and textures. Highly versatile and easy-to-use, Satin mixes deliver the highest level of quality.</p>
+<p class="lead"><b>Satin Red Velvet</b><span> </span>is a moist red velvet crème cake that bakes flat for easy assembly. Most suitablefor cupcakes, layer cakes and slab cakes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966841946182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.99</s:price>
+      <s:sku>06579</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966835753030</id>
+    <published>2019-08-23T13:39:20-04:00</published>
+    <updated>2019-08-23T13:39:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-eggless-chocolate-cake-mix-20-kg"/>
+    <title>IREKS -Eggless Chocolate Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-eggless-chocolate-cake-mix-20-kg-379734.jpg?v=1611511898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            126.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IREKS -Eggless Chocolate Cake Mix - 20 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/irek-eggless-chocolate-cake-mix-20-kg#product","name":"IREKS -Eggless Chocolate Cake Mix - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3966835753030","sku":"LDBBM82","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/irek-eggless-chocolate-cake-mix-20-kg-bulk-mart_150.jpg","description":"IREKS -Eggless Chocolate Cake Mix - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"IREK"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"LDBBM82","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"99.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/irek-eggless-chocolate-cake-mix-20-kg?variant=29541436391494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966835753030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.99</s:price>
+      <s:sku>2140</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966829887558</id>
+    <published>2019-08-23T13:38:48-04:00</published>
+    <updated>2019-08-23T13:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-eggless-white-cake-mix-20-kg"/>
+    <title>IREKS -Eggless White Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-eggless-white-cake-mix-20-kg-810487.jpg?v=1611512371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            106.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IREKS -Eggless White Cake Mix - 20 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/irek-eggless-white-cake-mix-20-kg#product","name":"IREKS -Eggless White Cake Mix - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3966829887558","sku":"LDBBM82","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/irek-eggless-white-cake-mix-20-kg-bulk-mart_137.jpg","description":"IREKS -Eggless White Cake Mix - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"IREK"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"},"offers":[{"sku":"LDBBM82","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"85.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/irek-eggless-white-cake-mix-20-kg?variant=29541406867526","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Sponge Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966829887558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.99</s:price>
+      <s:sku>265490</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

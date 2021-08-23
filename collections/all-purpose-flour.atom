@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/all-purpose-flour.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-16T16:41:07-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6639914713162</id>
+    <published>2021-08-16T16:41:07-04:00</published>
+    <updated>2021-08-16T16:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g"/>
+    <title>Robin Hood - Gluten Free All Purpose flour Blend  - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g-631324.jpg?v=1629180753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1k2abhj eqaamsw7" aria-expanded="true" tabindex="0">
+<div class="css-70qvj9 eqaamsw8">Description</div>
+</div>
+<div class="css-1ev1b0e eqaamsw1">
+<div class="css-190aten e1mpbtcv0">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Robin Hood All Purpose Gluten Free Flour Blend is made from rice flour blended with xanthan gum, pea fibre and potato and tapioca starches. It makes it easy for you to enjoy all your favourite baked goods without gluten. Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Gluten free all purpose flour blend with xanthan gum.<br>• Gluten Free flour blend so versatile it can be used in your everyday baking.<br>• Comes in a convenient resealable bag.<br>• RECOMMENDED FOR MAKING: Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6639914713162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>22220</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3829979611206</id>
+    <published>2020-12-15T11:34:49-05:00</published>
+    <updated>2020-12-15T11:34:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/adm-bakers-roses-all-purpose-flour-20-kg"/>
+    <title>ADM - Bakers Roses All Purpose Flour - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ADM-BakersRosesAllPurposeFlour-20Kg.jpg?v=1623980082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong>ADM - Bakers Five Roses All Purpose Flour - 20 Kg </strong></p>
+<p>Bakers Roses All-Purpose Flour - 20 kg (44 lbs.)<span> (five roses)</span></p>
+<p>Bakers Roses Flour has a rich history, with roots dating back to 1888. Made from the finest Canadian wheat blends, this high-quality refined flour delivers exceptional results in kitchens and bakeries. Ideal for cakes, cookies, breads, dough and pie crust. </p>
+<p><strong>Ingredients:</strong> bleached wheat flour, niacin, thiamin mononitrate, riboflavin, iron, folic acid, ascorbic acid added as a dough conditioner, enzyme added for improved baking. Contains wheat ingredients. <br></p>
+<p><strong>Kosher</strong></p>
+<p>Product of Canada</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3829979611206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>5007</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799276023882</id>
+    <published>2020-10-10T18:06:26-04:00</published>
+    <updated>2020-10-10T18:06:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/p-h-strong-bakers-flour-20-kg"/>
+    <title>P&amp;H - Strong Bakers Flour - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>P&amp;H</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ph-strong-bakers-flour-20-kg-945994.jpg?v=1611511360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;H<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>P&amp;H - Strong Bakers Flour - 20 Kg</p>
+<p>Bread Flour</p>
+<p>An unbleached bakery flour suitable for use in pan and variety breads, soft and hard rolls and sweet dough. The oxidation on Three Stars is designed for good performance in straight-time to sponge-dough baking processes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bread Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799276023882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>50031</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3966068523078</id>
+    <published>2019-08-22T19:36:53-04:00</published>
+    <updated>2019-08-22T19:36:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/adm-three-star-strong-flour-no-ada-712381-20-kg"/>
+    <title>ADM - Three Star Strong Flour (No ADA) 712381 - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/adm-three-star-strong-flour-no-ada-712381-20-kg-835400.jpg?v=1611508714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ADM - Three Star Strong Flour (No ADA) 712381 - 20 Kg</strong></p>
+<p>Bread Flour</p>
+<p>An unbleached bakery flour suitable for use in pan and variety breads, soft and hard rolls and sweet dough. The oxidation on Three Stars is designed for good performance in straight-time to sponge-dough baking processes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bread Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3966068523078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>5002</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887472386118</id>
+    <published>2019-08-22T18:51:19-04:00</published>
+    <updated>2019-08-22T18:51:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dda-bakers-all-purpose-bakers-flour-ap-20-kg"/>
+    <title>DDA Bakers - All Purpose Bakers Flour AP - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>DDA Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dda-bakers-all-purpose-bakers-flour-ap-20-kg-267670.jpg?v=1611510830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DDA Dawn<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>DDA Bakers - Bakers Flour AP - 20 Kg</strong></p>
+<p><span>All purpose flour was designed with one thing in mind: to be all purpose. It works for just about every flour-demanding recipe, including bread, cookies, and cakes. While bread flour holds a higher protein content than that of all purpose flour, all purpose flour does contain quite a bit of protein. This allows the flour to remain firm and hold its structure, while still providing the perfect texture for cakes.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dda-all-purpose-bakers-flour-20-kg#product","name":"DDA - All Purpose Bakers Flour - 20 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"FIDABM71","sku":"IDABM71","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dda-all-purpose-bakers-flour-20-kg-bulk-mart-481.gif","description":"DDA - All Purpose Bakers Flour - 20 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"DDA"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"offers":[{"name":"DDA - All Purpose Bakers Flour - 20 Kg","sku":"IDABM71","mpn":"FIDABM71","@type":"Offer","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dda-all-purpose-bakers-flour-20-kg?variant=19271325089862","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887472386118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>2578</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887525929030</id>
+    <published>2018-11-28T15:07:06-05:00</published>
+    <updated>2018-11-28T15:07:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bakers-hand-all-purpose-flour-10089-20-kg"/>
+    <title>Ardent Mills - Baker&apos;s Hand All Purpose Flour #10089 - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ardent Mills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ardent-mills-bakers-hand-all-purpose-flour-10089-20-kg-470495.jpg?v=1623994740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ardent Mills<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 itemprop="name">Ardent Mills Baker’s Hand All Purpose Flour 20 kg!</h1>
+<ul>
+<li>All purpose flour</li>
+<li>Hard wheat flour category</li>
+<li>360-day shelf life</li>
+<li>20 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887525929030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>5004</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

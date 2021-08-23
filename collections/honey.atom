@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/honey.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-18T14:27:36-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6537905340490</id>
+    <published>2021-03-18T14:27:36-04:00</published>
+    <updated>2021-03-18T14:27:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-wild-blueberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Wild Blueberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-wild-blueberry-jam-mini-jars-kosher-15-x-1-oz-826042.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher honey..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this honey! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure honey to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Honey offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying honey in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar. Collected from sweet honey-comb and containing no additives, this honey provides just the right amount of satisfying sweetness to your customers' dishes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537905340490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>77005</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537905274954</id>
+    <published>2021-03-18T14:27:35-04:00</published>
+    <updated>2021-03-18T14:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-raspberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Raspberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-raspberry-jam-mini-jars-kosher-15-x-1-oz-588281.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537905274954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>77003</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537904848970</id>
+    <published>2021-03-18T14:27:35-04:00</published>
+    <updated>2021-03-18T14:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-orange-marmalade-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Orange Marmalade Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-orange-marmalade-jam-mini-jars-kosher-15-x-1-oz-321152.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537904848970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>77002</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537904422986</id>
+    <published>2021-03-18T14:27:34-04:00</published>
+    <updated>2021-03-18T14:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-apricot-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Apricot Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-apricot-jam-mini-jars-kosher-15-x-1-oz-148856.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537904422986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>77001</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537903177802</id>
+    <published>2021-03-18T14:27:33-04:00</published>
+    <updated>2021-03-18T14:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-strawberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Strawberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-strawberry-jam-mini-jars-kosher-15-x-1-oz-538948.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537903177802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>77004</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850095161418</id>
+    <published>2020-12-19T22:13:29-05:00</published>
+    <updated>2020-12-19T22:13:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/olde-style-honey-200-x-14-g"/>
+    <title>Olde Style - Honey - 200 x 14 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Olde Style</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/olde-style-honey-200-x-14-g-153978.png?v=1611512374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Olde Style<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            50.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Olde Style - Honey - 200 x 14 g</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>W.T. Lynch Foods only uses Canadian produced Honey, to guarantee an excellent product.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>A versatile food that can be put on top of toast, oatmeal, yogurt. Can also be used as a sweetener in tea and coffee.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS </h4>
+<p>Pure Honey.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850095161418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.59</s:price>
+      <s:sku>510231</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850099585098</id>
+    <published>2020-12-19T22:13:22-05:00</published>
+    <updated>2020-12-19T22:13:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-pure-liquid-honey-cups-140-x-14-g"/>
+    <title>Kraft Heinz - Pure Liquid Honey Cups - 140 x 14 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-pure-liquid-honey-cups-140-x-14-g-260261.jpg?v=1611511358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            40.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kraft Heinz - Liquid Honey - 140 x 14 g</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The brand your customers know and love</span></li>
+<li><span class="a-list-item">Great for on-the-go applications</span></li>
+<li><span class="a-list-item">Delicious day-starters, but ideal throughout, including breakfast, lunch, dinner, and irresistible snack times in between</span></li>
+<li><span class="a-list-item">Ready to eat. Open the portion cup and pour.</span></li>
+<li><span class="a-list-item">One 14g portion cup = one serving size</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850099585098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.99</s:price>
+      <s:sku>510224</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803059449930</id>
+    <published>2020-10-13T17:48:32-04:00</published>
+    <updated>2020-10-13T17:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aurora-pure-wildflower-honey-500-g"/>
+    <title>Aurora - Pure Wildflower Honey - 500 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aurora-pure-wildflower-honey-500-g-458423.jpg?v=1624169294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Wild Flower honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803059449930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>90648</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803058630730</id>
+    <published>2020-10-13T17:48:30-04:00</published>
+    <updated>2020-10-13T17:48:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-honey-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Honey Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-honey-mini-jars-kosher-15-x-1-oz-396695.jpg?v=1611509254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher honey..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this honey! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy plastic portion cups bring the syrupy sweetness and traditional taste of pure honey to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Honey offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying honey in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar. Collected from sweet honey-comb and containing no additives, this honey provides just the right amount of satisfying sweetness to your customers' dishes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803058630730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>90358</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803057582154</id>
+    <published>2020-10-13T17:48:29-04:00</published>
+    <updated>2020-10-13T17:48:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/billy-bee-organic-pure-natural-honey-upside-down-squeeze-375-g"/>
+    <title>Billy Bee - Organic Pure Natural Honey Upside Down Squeeze - 375 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Billy Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/billy-bee-organic-pure-natural-honey-upside-down-squeeze-375-g-777125.jpg?v=1611509796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Billy Bee<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Organic Pure Natural Honey Upside Down Squeeze, Liquid Amber honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803057582154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>90145</s:sku>
+      <s:grams>375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803057057866</id>
+    <published>2020-10-13T17:48:27-04:00</published>
+    <updated>2020-10-13T17:48:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/billy-bee-liquid-honey-1-kg"/>
+    <title>Billy Bee - Liquid Honey - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Billy Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/billy-bee-liquid-honey-1-kg-518903.jpg?v=1611510769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Billy Bee<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this natural honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803057057866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>90158</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887469404230</id>
+    <published>2020-10-13T17:48:26-04:00</published>
+    <updated>2020-10-13T17:48:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/choice-pure-honey-15-kg"/>
+    <title>Choice - Pure Honey - 15 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Choice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/choice-pure-honey-15-kg-326136.jpg?v=1611509310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            126.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Pure honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887469404230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.99</s:price>
+      <s:sku>90288</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887498174534</id>
+    <published>2018-11-28T15:01:58-05:00</published>
+    <updated>2018-11-28T15:01:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kirkland-100-pure-liquid-honey-3-kg"/>
+    <title>Kirkland - 100 % Pure Liquid Honey - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Kirkland</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kirkland-100-pure-liquid-honey-3-kg-857029.jpg?v=1611514426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kirkland<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this natural Canadian honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kirkland-honey-3-kg#product","name":"Kirkland - Honey - 3 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"Hon3BM788","sku":"n3BM788","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kirkland-honey-3-kg-bulk-mart_913.jpg","description":"Kirkland - Honey - 3 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"12"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"offers":[{"name":"Kirkland - Honey - 3 Kg","sku":"n3BM788","mpn":"Hon3BM788","@type":"Offer","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kirkland-honey-3-kg?variant=19271374405702","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887498174534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>90815</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887449776198</id>
+    <published>2018-11-28T14:53:37-05:00</published>
+    <updated>2018-11-28T14:53:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/al-shifa-natural-honey-1-kg"/>
+    <title>Al Shifa - Natural Honey - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Al Shifa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AlShifa-NaturalHoney-1Kg.jpg?v=1623986770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Shifa<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this natural honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/al-shifa-honey-natural-1-kg#product","name":"Al Shifa - Honey Natural - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887449776198","sku":"h1BM794","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/al-shifa-honey-natural-1-kg-bulk-mart_759.jpg","description":"Al Shifa - Honey Natural - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Al Shifa"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"h1BM794","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/al-shifa-honey-natural-1-kg?variant=19271276462150","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887449776198</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>90154</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887449743430</id>
+    <published>2018-11-28T14:53:37-05:00</published>
+    <updated>2018-11-28T14:53:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/al-shifa-natural-honey-500-g"/>
+    <title>Al Shifa - Natural Honey - 500 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Al Shifa</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AlShifa-NaturalHoney-500g.jpg?v=1623986835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Shifa<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this natural honey..!</h2>
+<p><span>Looking for honey that's purely sweet and delicious without the additives and preservatives? This all natural honey is perfect for your bakery or restaurant! Whether your establishment specializes in farm-to-table fare or homemade-style baked goods, this honey brings bold flavors and nutrients from the honeybees to the table. Buying in bulk also saves you money and ensures your establishment is always fully supplied with this flavorful sweetener.</span></p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>This all natural honey is a delicious way to get creative in the kitchen! Its fragrant flavor and velvety texture makes it the perfect complement to a variety of savory dishes, from classic honey-baked ham and sweet breads to sticky honey-glazed chicken! Use it to sweeten homemade granola or decadent yogurt parfaits. You can even try dissolving a spoonful to a steaming hot cup of tea. No matter how you choose to use it, your patrons are sure to love its sweet taste and subtle tang!</p>
+<h3 class="item-header">Classic Golden Color</h3>
+<p>This pure honey is collected from sweet honeycomb and is free from unwanted additives. It is naturally gluten-free with a classic golden color and a sweet, light taste.</p>
+<h3 class="item-header">Great Alternative to Sugar</h3>
+<p>This all natural honey is great for stirring into batters and kneading into dough for delectable cakes and lightly sweetened breads. Because it is so sweet, less honey is required to sweeten baked goods than sugar, making it a cost-effective option.</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/al-shifa-honey-natural-500-g#product","name":"Al Shifa - Honey Natural - 500 g","itemCondition":"https://schema.org/NewCondition","mpn":"HonABhBM793","sku":"BhBM793","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/al-shifa-honey-natural-500-g-bulk-mart_300.png","description":"Al Shifa - Honey Natural - 500 g...","category":"FOOD","brand":{"@type":"Brand","name":"Al Shifa"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"59"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.5"},"offers":[{"name":"Al Shifa - Honey Natural - 500 g","sku":"BhBM793","mpn":"HonABhBM793","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/al-shifa-honey-natural-500-g?variant=19271276396614","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887449743430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>9054</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/beans-paste.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-15T13:33:41-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4827683717194</id>
+    <published>2020-11-15T13:33:41-05:00</published>
+    <updated>2020-11-15T13:33:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-vanilla-powder-artificial-1-kg"/>
+    <title>SmartChoice - Vanilla Powder Artificial - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-vanilla-powder-artificial-1-kg-912153.jpg?v=1611511709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Vanilla Powder Artificial - 1 Kg</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanilla Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827683717194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>24181</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827681390666</id>
+    <published>2020-11-15T13:31:31-05:00</published>
+    <updated>2020-11-15T13:31:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lubeca-almond-paste-1-kg"/>
+    <title>Lubeca - 52% Almond Paste - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Lubeca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lubeca-52-almond-paste-1-kg-881281.jpg?v=1611512014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lubeca<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lubeca - Almond Paste - 1 Kg</strong></p>
+<p><span><strong>For a smooth, Almond flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Almond flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Almond Paste</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827681390666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>252728</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827680047178</id>
+    <published>2020-11-15T13:28:38-05:00</published>
+    <updated>2020-11-15T13:28:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nielson-massey-madagascar-bourbon-vanilla-paste-32-oz"/>
+    <title>Nielsen Massey - Madagascar Bourbon Vanilla Paste - 32 Oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Nielsen Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nielsen-massey-madagascar-bourbon-vanilla-paste-32-oz-157199.jpg?v=1611511363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nielsen Massey<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            206.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nielsen Massey - Madagascar Bourbon Vanilla Paste 944 ml - 32 Oz</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanilla Paste</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827680047178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">206.99</s:price>
+      <s:sku>45372</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827679260746</id>
+    <published>2020-11-15T13:21:18-05:00</published>
+    <updated>2020-11-15T13:21:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-madagascar-vanilla-beans-each"/>
+    <title>Belle Donne - Pure Madagascar Vanilla Beans - Each</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-pure-madagascar-vanilla-beans-each-593998.jpg?v=1614096912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Madagascar Vanilla Beans - Each</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vanilla Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827679260746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>879272</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827707637834</id>
+    <published>2020-11-08T14:46:52-05:00</published>
+    <updated>2020-11-08T14:46:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sun-brand-spanish-saffron-threads-12-x-5-g"/>
+    <title>Sun Brand - Spanish Saffron Threads - 12 x 5 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sun Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sun-brand-spanish-saffron-threads-12-x-5-g-417908.jpg?v=1611512793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sun Brand<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            209.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sun Brand - Spanish Saffron Threads - 12 x 5 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>AUTHENTIC SUN BRAND SAFFRON THREADS</strong> — For over one hundred and fifty years, Sun Brand has earned a reputation for sourcing quality spices, seasonings, and culinary ingredients from around the world. You can trust that our saffron is the real thing.</span></li>
+<li><span class="a-list-item"><strong>COOK WITH THE KING OF SPICES</strong> — From ancient civilizations to your kitchen, Sun Brand saffron complements any cuisine, and can easily be added to any diet: vegan, vegetarian, keto, paleo, or gluten-free.</span></li>
+<li><span class="a-list-item"><strong>FOR A HEALTHY LIFESTYLE</strong> — Our pure saffron is filled with natural antioxidants that protect from free radicals and oxidative stress. Also known as “The Sunshine Spice,” it contains key ingredients that have been linked to positive effects on mood, concentration, and lower stress levels.</span></li>
+<li><span class="a-list-item"><strong>A GLOBAL PHENOMENON</strong> — Saffron has a subtle yet distinctive flavour that enhances sweet and savoury dishes alike. Use it in rice, tea, desserts, cakes, biryani, congee, paella, tachin, sauces, and marinades. Outside of the kitchen, saffron can be used for skincare, masks, and pastes to reduce hyperpigmentation or dark spots.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/saffron-5-g#product","name":"Saffron  - 5 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552012358","sku":"onBM813","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/saffron-5-g-bulk-mart_558.jpg","description":"Saffron - 5 g.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"onBM813","weight":{"@type":"QuantitativeValue","unitText":"g","value":"5"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/saffron-5-g?variant=19271465271366","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Saffron</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827707637834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">209.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887552012358</id>
+    <published>2018-11-28T15:11:34-05:00</published>
+    <updated>2018-11-28T15:11:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sun-brand-spanish-saffron-threads-5-g"/>
+    <title>Sun Brand - Spanish Saffron Threads - 5 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Sun Brand</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sun-brand-spanish-saffron-threads-5-g-573519.jpg?v=1611512679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sun Brand<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Sun Brand - Spanish Saffron Threads - 5 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>AUTHENTIC SUN BRAND SAFFRON THREADS</strong> — For over one hundred and fifty years, Sun Brand has earned a reputation for sourcing quality spices, seasonings, and culinary ingredients from around the world. You can trust that our saffron is the real thing.</span></li>
+<li><span class="a-list-item"><strong>COOK WITH THE KING OF SPICES</strong> — From ancient civilizations to your kitchen, Sun Brand saffron complements any cuisine, and can easily be added to any diet: vegan, vegetarian, keto, paleo, or gluten-free.</span></li>
+<li><span class="a-list-item"><strong>FOR A HEALTHY LIFESTYLE</strong> — Our pure saffron is filled with natural antioxidants that protect from free radicals and oxidative stress. Also known as “The Sunshine Spice,” it contains key ingredients that have been linked to positive effects on mood, concentration, and lower stress levels.</span></li>
+<li><span class="a-list-item"><strong>A GLOBAL PHENOMENON</strong> — Saffron has a subtle yet distinctive flavour that enhances sweet and savoury dishes alike. Use it in rice, tea, desserts, cakes, biryani, congee, paella, tachin, sauces, and marinades. Outside of the kitchen, saffron can be used for skincare, masks, and pastes to reduce hyperpigmentation or dark spots.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/saffron-5-g#product","name":"Saffron  - 5 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552012358","sku":"onBM813","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/saffron-5-g-bulk-mart_558.jpg","description":"Saffron - 5 g.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"onBM813","weight":{"@type":"QuantitativeValue","unitText":"g","value":"5"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/saffron-5-g?variant=19271465271366","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Saffron</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887552012358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>onBM813</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

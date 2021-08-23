@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pancake-waffle-mixes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-31T00:29:52-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4850109317194</id>
+    <published>2020-12-31T00:29:52-05:00</published>
+    <updated>2020-12-31T00:29:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ontario-maple-syrup-1-l"/>
+    <title>Ontario - Maple Syrup - 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ontario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ontario-maple-syrup-1-l-717393.jpg?v=1611513031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ontario<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ontario - Maple Syrup - 1 L</p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Maple Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850109317194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>112320</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850109710410</id>
+    <published>2020-12-06T22:33:53-05:00</published>
+    <updated>2020-12-06T22:33:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ontario-maple-syrup-4-lontario-maple-syrup-4-l"/>
+    <title>Ontario - Maple Syrup - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ontario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ontario-maple-syrup-4-l-785136.jpg?v=1611511590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ontario<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Ontario - Maple Syrup - 4L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Maple Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850109710410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>94677</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850109677642</id>
+    <published>2020-12-06T22:33:52-05:00</published>
+    <updated>2020-12-06T22:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ontario-maple-syrup-2-l"/>
+    <title>Ontario - Maple Syrup - 2 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ontario</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ontario-maple-syrup-2-l-965237.jpg?v=1611511776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ontario<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Ontario - Maple Syrup - 2 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Maple Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850109677642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>94676</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850108923978</id>
+    <published>2020-12-06T22:33:52-05:00</published>
+    <updated>2020-12-06T22:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swiss-alpine-table-syrup-4-x-4-lswiss-alpine-table-syrup-4-x-4-l"/>
+    <title>Swiss Alpine - Table Syrup - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swiss Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swiss-alpine-table-syrup-4-x-4-l-287928.jpg?v=1611513939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swiss Alpine<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Swiss Alpine - Table Syrup - 4 x 4 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850108923978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>94683</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850108891210</id>
+    <published>2020-12-06T22:33:51-05:00</published>
+    <updated>2020-12-06T22:33:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swiss-alpine-table-syrup-4-l"/>
+    <title>Swiss Alpine - Table Syrup - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swiss Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swiss-alpine-table-syrup-4-l-716001.jpg?v=1611513637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swiss Alpine<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Swiss Alpine - Table Syrup - 4 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850108891210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>94682</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850108366922</id>
+    <published>2020-12-06T22:33:51-05:00</published>
+    <updated>2020-12-06T22:33:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-mabels-pancake-syrup-2-x-4-l"/>
+    <title>Aunt Mabels - Pancake Syrup - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aunt Mabels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-mabels-pancake-syrup-2-x-4-l-175541.jpg?v=1624076360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Mabels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Aunt Mabels - Pancake Syrup - 2 x 4 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850108366922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>94673</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850107973706</id>
+    <published>2020-12-06T22:33:50-05:00</published>
+    <updated>2020-12-06T22:33:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-mabels-pancake-syrup-4-l"/>
+    <title>Aunt Mabels - Pancake Syrup - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aunt Mabels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-mabels-pancake-syrup-4-l-458399.jpg?v=1624076361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Mabels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Aunt Mabels - Pancake Syrup - 4 L</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850107973706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>94674</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850096242762</id>
+    <published>2020-12-06T22:33:49-05:00</published>
+    <updated>2020-12-06T22:33:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/olde-style-pancake-syrup-120-x-42-5-ml"/>
+    <title>Olde Style - Pancake Syrup - 120 x 42.5 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/olde-style-pancake-syrup-120-x-425-ml-344971.jpg?v=1611513151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Olde Style - Pancake Syrup - 120 x 42.5 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850096242762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>510233</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848803381322</id>
+    <published>2020-12-06T22:33:49-05:00</published>
+    <updated>2020-12-06T22:33:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-plate-scapers-vanilla-syrup-420-mlsmuckers-plate-scapers-vanilla-syrup-420-ml"/>
+    <title>Smuckers -  Plate Scapers Vanilla Syrup - 420 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smuckers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scapers-vanilla-syrup-420-ml-844072.jpg?v=1611513756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smuckers<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Smuckers -  Plate Scapers Vanilla Syrup - 420 ml</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml#product","name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552223814","sku":"2BM3961","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-raspberry-syrup-420-ml-bulk-mart_602.jpg","description":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"55"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup22BM3961","offers":[{"name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","sku":"2BM3961","gtin13":"Syrup22BM3961","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml?variant=20686522351686","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848803381322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>94678</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812650152010</id>
+    <published>2020-10-22T16:20:08-04:00</published>
+    <updated>2020-10-22T16:20:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/quaker-batter-mix-20-kg"/>
+    <title>Quaker - Batter Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Quaker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/quaker-batter-mix-20-kg-952940.jpg?v=1611513454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Quaker<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Quaker - Batter Mix - 20 Kg - 55577 10485</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Batter Mixes</s:tag>
+    <s:tag>Pancake &amp; Waffle Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812650152010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>154880</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812649791562</id>
+    <published>2020-10-22T16:20:07-04:00</published>
+    <updated>2020-10-22T16:20:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-original-pancake-waffle-mix-905-g"/>
+    <title>Aunt Jemima - Original Pancake &amp; Waffle Mix - 905 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AuntJemimaOriginalPancake_WaffleMix.jpg?v=1624073801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aunt Jemima - Original Pancake And Waffle Mix - 905 g</strong></p>
+<h2 class="headline">Quickly create pancakes or waffles for your menu with this pancake and waffle mix!</h2>
+<p><span>Whether you're serving up a hearty breakfast or a sweet, satisfying meal anytime throughout the day, you can be sure that this pancake and waffle mix is just the treat your patrons are looking for. Perfect for restaurants, diners, breakfast buffets, and more, this pancake and waffle mix combines the versatility and convenience you desire with the classic, sweet flavor that your customers crave.</span></p>
+<h3 class="item-header">Convenient Supply</h3>
+<p>With mix of every bag, your establishment will be in good supply for all of your breakfast rushes. Serve your heaping piles of pancakes and waffles on their own, or enhance the final presentation with syrup, butter, fruit, or powdered sugar for a delectably-sweet meal that your patrons will love.</p>
+<h3 class="item-header">Save on Prep Time</h3>
+<p>Preparing batter from scratch can be incredibly time-consuming, but with this easy-to-use mix you can save your busy kitchen staff precious preparation time, and allow for a more efficient service for your hungry guests!</p>
+<h3 class="item-header">Easy to Use</h3>
+<p>With this ready-to-use mix, making light and fluffy pancakes and waffles has never been easier. Simply add the directed amount of water to the mix, and in no time at all you've got soft, golden brown pancakes or waffles to delight your customers' taste buds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pancake &amp; Waffle Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812649791562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>40599</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808822489162</id>
+    <published>2020-10-22T16:19:54-04:00</published>
+    <updated>2020-10-22T16:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-original-pancake-waffle-mix-20-kg"/>
+    <title>Aunt Jemima - Original Pancake &amp; Waffle Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-original-pancake-waffle-mix-20-kg-143960.jpg?v=1624076354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aunt Jemima - Original Pancake and Waffle Mix - 20 Kg</p>
+<h2 class="headline">Quickly create pancakes or waffles for your menu with this pancake and waffle mix!</h2>
+<p><span>Whether you're serving up a hearty breakfast or a sweet, satisfying meal anytime throughout the day, you can be sure that this pancake and waffle mix is just the treat your patrons are looking for. Perfect for restaurants, diners, breakfast buffets, and more, this pancake and waffle mix combines the versatility and convenience you desire with the classic, sweet flavor that your customers crave.</span></p>
+<h3 class="item-header">Convenient Supply</h3>
+<p>With mix of every bag, your establishment will be in good supply for all of your breakfast rushes. Serve your heaping piles of pancakes and waffles on their own, or enhance the final presentation with syrup, butter, fruit, or powdered sugar for a delectably-sweet meal that your patrons will love.</p>
+<h3 class="item-header">Save on Prep Time</h3>
+<p>Preparing batter from scratch can be incredibly time-consuming, but with this easy-to-use mix you can save your busy kitchen staff precious preparation time, and allow for a more efficient service for your hungry guests!</p>
+<h3 class="item-header">Easy to Use</h3>
+<p>With this ready-to-use mix, making light and fluffy pancakes and waffles has never been easier. Simply add the directed amount of water to the mix, and in no time at all you've got soft, golden brown pancakes or waffles to delight your customers' taste buds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pancake &amp; Waffle Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808822489162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>408221</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808821702730</id>
+    <published>2020-10-22T16:19:53-04:00</published>
+    <updated>2020-10-22T16:19:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-complete-buttermilk-pancake-waffle-mix-905-g"/>
+    <title>Aunt Jemima - Complete Buttermilk Pancake &amp; Waffle Mix - 905 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AuntJemima-CompleteButtermilkPancakeMix-905g.jpg?v=1624073432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aunt Jemima - Complete Buttermilk Pancake and Waffle Mix - 905 g</strong></p>
+<h2 class="headline">Quickly create pancakes or waffles for your menu with this pancake and waffle mix!</h2>
+<p><span>Whether you're serving up a hearty breakfast or a sweet, satisfying meal anytime throughout the day, you can be sure that this pancake and waffle mix is just the treat your patrons are looking for. Perfect for restaurants, diners, breakfast buffets, and more, this pancake and waffle mix combines the versatility and convenience you desire with the classic, sweet flavor that your customers crave.</span></p>
+<h3 class="item-header">Convenient Supply</h3>
+<p>With mix of every bag, your establishment will be in good supply for all of your breakfast rushes. Serve your heaping piles of pancakes and waffles on their own, or enhance the final presentation with syrup, butter, fruit, or powdered sugar for a delectably-sweet meal that your patrons will love.</p>
+<h3 class="item-header">Save on Prep Time</h3>
+<p>Preparing batter from scratch can be incredibly time-consuming, but with this easy-to-use mix you can save your busy kitchen staff precious preparation time, and allow for a more efficient service for your hungry guests!</p>
+<h3 class="item-header">Easy to Use</h3>
+<p>With this ready-to-use mix, making light and fluffy pancakes and waffles has never been easier. Simply add the directed amount of water to the mix, and in no time at all you've got soft, golden brown pancakes or waffles to delight your customers' taste buds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pancake &amp; Waffle Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808821702730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>40995</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808820555850</id>
+    <published>2020-10-22T16:19:52-04:00</published>
+    <updated>2020-10-22T16:19:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-deluxe-pancake-mix-20-kg"/>
+    <title>Aunt Jemima - Deluxe Pancake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AuntJemima-DeluxePancakeMix-20Kg.jpg?v=1624073491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aunt Jemima - Deluxe Pancake Mix - 20 Kg</p>
+<h2 class="headline">Quickly create pancakes or waffles for your menu with this pancake and waffle mix!</h2>
+<p><span>Whether you're serving up a hearty breakfast or a sweet, satisfying meal anytime throughout the day, you can be sure that this pancake and waffle mix is just the treat your patrons are looking for. Perfect for restaurants, diners, breakfast buffets, and more, this pancake and waffle mix combines the versatility and convenience you desire with the classic, sweet flavor that your customers crave.</span></p>
+<h3 class="item-header">Convenient Supply</h3>
+<p>With mix of every bag, your establishment will be in good supply for all of your breakfast rushes. Serve your heaping piles of pancakes and waffles on their own, or enhance the final presentation with syrup, butter, fruit, or powdered sugar for a delectably-sweet meal that your patrons will love.</p>
+<h3 class="item-header">Save on Prep Time</h3>
+<p>Preparing batter from scratch can be incredibly time-consuming, but with this easy-to-use mix you can save your busy kitchen staff precious preparation time, and allow for a more efficient service for your hungry guests!</p>
+<h3 class="item-header">Easy to Use</h3>
+<p>With this ready-to-use mix, making light and fluffy pancakes and waffles has never been easier. Simply add the directed amount of water to the mix, and in no time at all you've got soft, golden brown pancakes or waffles to delight your customers' taste buds.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pancake &amp; Waffle Mix</s:tag>
+    <s:tag>Pancake Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808820555850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>405689</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054552322118</id>
+    <published>2019-04-24T01:51:34-04:00</published>
+    <updated>2019-04-24T01:51:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-plate-scraper-chocolate-syrup-420-mlsmuckers-plate-scaper-chocolate-syrup-420-ml"/>
+    <title>Smuckers -  Plate Scaper Chocolate Syrup - 420 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smuckers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scaper-chocolate-syrup-420-ml-339581.jpg?v=1611511961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smuckers<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Smuckers - Plate Scraper Chocolate Syrup - 420 ml</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-chocolate-syrup-420-ml#product","name":"Smuckers - Plate Scraper Chocolate Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552322118","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-chocolate-syrup-420-ml-bulk-mart_496.jpg","description":"Smuckers - Plate Scraper Chocolate Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"31"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup24BM3964","offers":[{"name":"Smuckers - Plate Scraper Chocolate Syrup - 420 ml","sku":"4BM3964","gtin13":"Syrup24BM3964","@type":"Offer","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-chocolate-syrup-420-ml?variant=20686522449990","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054552322118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>94680</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054552289350</id>
+    <published>2019-04-24T01:51:34-04:00</published>
+    <updated>2019-04-24T01:51:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-plate-scaper-caramel-syrup-420-ml"/>
+    <title>Smuckers -  Plate Scaper Caramel Syrup - 420 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smuckers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scaper-caramel-syrup-420-ml-351850.jpg?v=1611513333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smuckers<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Smuckers - Plate Scraper Caramel Syrup - 420 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054552289350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>94679</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054552223814</id>
+    <published>2019-04-24T01:51:32-04:00</published>
+    <updated>2019-04-24T01:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-plate-scaper-raspberry-syrup-420-ml"/>
+    <title>Smuckers -  Plate Scaper Raspberry Syrup - 420 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smuckers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scaper-raspberry-syrup-420-ml-507941.jpg?v=1611513155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smuckers<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Smuckers - Plate Scraper Raspberry Syrup - 420 ml</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml#product","name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552223814","sku":"2BM3961","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-raspberry-syrup-420-ml-bulk-mart_602.jpg","description":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"55"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup22BM3961","offers":[{"name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","sku":"2BM3961","gtin13":"Syrup22BM3961","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml?variant=20686522351686","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:tag>Sweetener Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054552223814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>94681</s:sku>
+      <s:grams>420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054551928902</id>
+    <published>2019-04-24T01:51:26-04:00</published>
+    <updated>2019-04-24T01:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-butter-flavor-syrup-750-ml"/>
+    <title>Aunt Jemima -  Butter Flavor Syrup - 750 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-butter-flavor-syrup-750-ml-875131.jpg?v=1624076363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Aunt Jemima -  Butter Flavor Syrup - 750 ml</strong></p>
+<p><span><strong>Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br><br><span><strong>This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054551928902</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>94670</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054551896134</id>
+    <published>2019-04-24T01:51:25-04:00</published>
+    <updated>2019-04-24T01:51:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-syrup-original-750-ml"/>
+    <title>Aunt Jemima - Syrup Original - 750 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-syrup-original-750-ml-807160.jpg?v=1624076360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Aunt Jemima - Syrup Original - 750 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aunt-jemima-syrup-original-750-ml#product","name":"Aunt Jemima -  Syrup Original - 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551896134","sku":"2BM3951","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-syrup-original-750-ml-bulk-mart_577.jpg","description":"Aunt Jemima - Syrup Original - 750 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Aunt Jemima"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"2BM3951","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aunt-jemima-syrup-original-750-ml?variant=20686522024006","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054551896134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>94672</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054551797830</id>
+    <published>2019-04-24T01:51:24-04:00</published>
+    <updated>2019-04-24T01:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aunt-jemima-syrup-lite-750-ml"/>
+    <title>Aunt Jemima -  Syrup Lite - 750 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aunt Jemima</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-syrup-lite-750-ml-917913.jpg?v=1624076352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aunt Jemima<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong data-mce-fragment="1">Whether you're serving up a hearty breakfast or a sweet, satisfying meal</strong> anytime throughout the day, you can be sure that this syrup is just the treat your patrons are looking for to complement their meal. This syrup combines the convenience you desire with the classic, sweet flavor that your customers crave. Drizzle atop a plentiful tower of pancakes or waffles for a sticky-sweet breakfast treat, or even pair it with powdered sugar, butter, or fruit toppings!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">This syrup's delightful sweetness, traditional taste, and smooth consistency</strong> makes it a deliciously-indulgent accompaniment to a variety of breakfast services. The syrup can be placed on individual dining tables, but holds enough product to keep your hungry patrons in good supply - whether they like a lot or just a little syrup, this bottle has got it covered. The easy-pour opening offers a smooth, steady drizzle to keep the syrup from flooding out, while still evenly coating your breakfast dishes. The cap also helps to keep the syrup from spilling out if the bottle is accidentally knocked over, therefore preventing unwanted messes. Ideal for diners, restaurants, hotels, and more, this syrup is perfect for adding a smooth, sweet flavor to your most popular breakfast offerings.</span></p>
+<p>Aunt Jemima - Syrup Lite - 750 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aunt-jemima-syrup-lite-750-ml#product","name":"Aunt Jemima -  Syrup Lite - 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551797830","sku":"1BM3949","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aunt-jemima-syrup-lite-750-ml-bulk-mart_823.jpg","description":"Aunt Jemima - Syrup Lite - 750 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Aunt Jemima"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"},"offers":[{"sku":"1BM3949","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aunt-jemima-syrup-lite-750-ml?variant=20686521860166","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Syrup</s:tag>
+    <s:tag>Pancake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054551797830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>94671</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

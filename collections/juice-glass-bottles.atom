@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/juice-glass-bottles.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-21T22:44:58-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4773818826826</id>
+    <published>2020-09-21T22:44:58-04:00</published>
+    <updated>2020-09-21T22:44:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-organic-lychee-and-jasmine-tea-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Lychee and Jasmine - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-lychee-and-jasmine-414-ml-764767.jpg?v=1611511478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 47.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-organic-lychee-and-jasmine-tea-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>RISE Kombucha - Organic Lychee and Jasmine - 414 ml</strong></p>
+<p><span>Purple is the colour of royalty and our Lychee &amp; Jasmine kombucha rules. Curious? Its regal hue comes naturally from pea flower. With delicately sweet, delicious lychee on an oolong base, this kombucha is fit for a queen or king!</span></p>
+<p class="p1"><strong>Ingredients:</strong></p>
+<p class="p1">Filtered water, cane sugar*, kombucha culture*, jackfruit*, oolong tea*, blue pea flower, jasmine flower, green tea*, lychee* (natural flavour), xanthan gum, carbon dioxide.<em> </em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818826826</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>RISE18</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818826826</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE19</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773818499146</id>
+    <published>2020-09-21T22:44:57-04:00</published>
+    <updated>2020-09-21T22:44:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-organic-orange-and-turmeric-tea-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Orange and Turmeric - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-orange-and-turmeric-414-ml-866948.jpg?v=1611511427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 49.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-organic-orange-and-turmeric-tea-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>RISE Kombucha - Organic Orange and Turmeric - 414 ml</strong></p>
+<p><span>Our Orange &amp; Turmeric kombucha warms the soul with ginger, vanilla and turmeric on an oolong tea base that tastes bold - never bitter. Plus, it's refreshing so you'll feel brighter and lighter. You can't buy happiness, but you can bottle it!</span></p>
+<p><strong>Ingredients:</strong></p>
+<p class="p1">Filtered water, cane sugar*, carrot juice*, kombucha culture*, oolong tea*, lavender*, chamomile*, fresh ginger juice*, turmeric*, orange juice*, green tea*, vanilla extract*, xanthan gum, carbon dioxide.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818499146</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>RISE22</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818499146</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE23</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773818171466</id>
+    <published>2020-09-21T22:44:56-04:00</published>
+    <updated>2020-09-21T22:44:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-organic-mint-and-chlorophyll-green-tea-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Mint and Chlorophyll Green Tea - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-mint-and-chlorophyll-green-tea-414-ml-485092.jpg?v=1611514193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 49.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-organic-mint-and-chlorophyll-green-tea-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="pr-info-under">
+<div class="pr-ingredients">
+<div class="ingred-cont-pr">
+<div class="title-info"><strong>Ingredients:</strong></div>
+<div class="info-product">Filtered water, kombucha culture, organic fair trade cane sugar, organic fair trade green tea, organic peppermint, chlorophyll.</div>
+<div class="info-product"></div>
+</div>
+</div>
+</div>
+<div class="product-row">
+<div class="title-info">
+<strong>RISE Kombucha - Organic Mint and Chlorophyll Green Tea - 414 ml</strong><br>
+</div>
+<div class="title-info">The greatest digestive tonic (peppermint) and the greatest natural detoxifier (chlorophyll) are combined for your sheer pleasure in this refreshing, detoxifying and revitalizing elixir!<br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818171466</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>RISE20</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773818171466</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE21</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773817221194</id>
+    <published>2020-09-21T22:44:55-04:00</published>
+    <updated>2020-09-21T22:44:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-organic-lemon-grass-green-tea-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Lemon Grass Green Tea - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-lemon-grass-green-tea-414-ml-556455.jpg?v=1611512256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 49.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-organic-lemon-grass-green-tea-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="pr-info-under">
+<div class="pr-ingredients">
+<div class="ingred-cont-pr">
+<div class="title-info"><strong>Ingredients:</strong></div>
+<div class="info-product">Filtered water, cane sugar*, kombucha culture, green tea*, fresh ginger juice*, lemongrass herbal tea, black tea*.</div>
+<div class="info-product"></div>
+<div class="info-product"><strong>RISE Kombucha - Organic Lemon Grass Green Tea - 414 ml</strong></div>
+</div>
+</div>
+</div>
+<div class="product-row">
+<div class="title-info"><br></div>
+<div class="info-product">Staying hydrated doesn’t have to be so blah. Their lemongrass kombucha gets your mojo in gear with an invigorating citrus twist. Your taste buds deserve a little action, too!<br><br>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773817221194</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>RISE16</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773817221194</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE17</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773816631370</id>
+    <published>2020-09-21T22:44:53-04:00</published>
+    <updated>2020-09-21T22:44:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-hibiscus-and-rose-hips-black-tea-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Hibiscus and Rose Hips Black Tea - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-hibiscus-and-rose-hips-black-tea-414-ml-795242.jpg?v=1611513159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 49.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-hibiscus-and-rose-hips-black-tea-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="pr-info-under">
+<div class="pr-ingredients">
+<div class="ingred-cont-pr">
+<div class="info-product">
+<div class="title-info"><strong>RISE Kombucha - Organic Hibiscus and Rose Hips Black Tea - 414 ml</strong></div>
+<div class="title-info"><strong></strong></div>
+<div class="title-info"><strong></strong></div>
+<div class="info-product">Hibiscus flowers and rose hips are not only full of vitamin C, but they also have anti-inflammatory and antioxidant properties as well as a refreshing, tropical taste!</div>
+<div class="info-product"></div>
+<strong>Ingredients:</strong>
+</div>
+<div class="info-product">Filtered water, kombucha culture, organic fair trade cane sugar, organic fair trade black tea, organic ginger, organic hibiscus and rose hip herbal tea.</div>
+</div>
+</div>
+</div>
+<div class="product-row">
+<div class="title-info"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773816631370</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>RISE14</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773816631370</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE15</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773814829130</id>
+    <published>2020-09-21T22:44:52-04:00</published>
+    <updated>2020-09-21T22:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rise-kombucha-organic-fresh-ginger-12-x-414-ml"/>
+    <title>RISE Kombucha - Organic Fresh Ginger White Tea - 414 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>RISE Kombucha</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rise-kombucha-organic-fresh-ginger-white-tea-414-ml-882352.jpg?v=1611512911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RISE Kombucha<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99 - 42.99
+            <a href="https://bulkmart.ca/products/rise-kombucha-organic-fresh-ginger-12-x-414-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>RISE Kombucha - Organic Classic</strong></p>
+<p><span>They didn't just infuse this kombucha with ginger because it's restorative and zen-instilling.  They did it because baby's got bite.  So feel the fizz, it's bubbly, it's awesome, it's actuall perfectly off.</span></p>
+<div class="product_ingeredient_title wow fadeInUp">
+<h2>INGREDIENTS</h2>
+</div>
+<div class="product_ingeredient_txt wow fadeInUp">Filtered water, cane sugar*, kombucha culture*, white tea*, fresh ginger juice*, black tea*,<br>green tea*, xanthan gum, carbon dioxide.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>RISE Kombucha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773814829130</id>
+      <title>12 x 414 ml</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>RISE12</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773814829130</id>
+      <title>414 ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>RISE13</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773797036106</id>
+    <published>2020-09-21T19:37:46-04:00</published>
+    <updated>2020-09-21T19:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-guava-pineapple-nector-12-x-473-ml"/>
+    <title>Tropical Delight - Guava Pineapple Nectar - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-guava-pineapple-nectar-12-x-473-ml-537970.png?v=1611512496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Guava Pineapple Nectar - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773797036106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD17</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773797003338</id>
+    <published>2020-09-21T19:37:45-04:00</published>
+    <updated>2020-09-21T19:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-mango-carrot-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Mango Carrot Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-mango-carrot-juice-12-x-473-ml-181323.png?v=1611513458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Mango Carrot Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773797003338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD19</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773796675658</id>
+    <published>2020-09-21T19:37:44-04:00</published>
+    <updated>2020-09-21T19:37:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-cranberry-cocktail-12-x-473-ml"/>
+    <title>Tropical Delight - Cranberry Cocktail Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-cranberry-cocktail-juice-12-x-473-ml-274192.png?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Cranberry Cocktail Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773796675658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD14</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795823690</id>
+    <published>2020-09-21T19:37:43-04:00</published>
+    <updated>2020-09-21T19:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-carrot-orange-mango-12-x-473-ml"/>
+    <title>Tropical Delight - Carrot Orange Mango Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-carrot-orange-mango-juice-12-x-473-ml-658102.png?v=1611514723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Carrot Orange Mango Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795823690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD13</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795692618</id>
+    <published>2020-09-21T19:37:42-04:00</published>
+    <updated>2020-09-21T19:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-berry-pomegranate-12-x-473-ml"/>
+    <title>Tropical Delight - Berry Pomegranate - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-berry-pomegranate-12-x-473-ml-593071.png?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<ul>
+<li><strong>Tropical Delight - Berry Pomegranate - 12 x 473 ml</strong></li>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795692618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795397706</id>
+    <published>2020-09-21T19:37:41-04:00</published>
+    <updated>2020-09-21T19:37:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-apple-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Apple Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-apple-juice-12-x-473-ml-168208.jpg?v=1611513818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Apple Juice - 12 x 473 ml </strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795397706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD1</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795168330</id>
+    <published>2020-09-21T19:37:40-04:00</published>
+    <updated>2020-09-21T19:37:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-orange-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Orange Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-orange-juice-12-x-473-ml-744387.png?v=1611514369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Orange Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795168330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD1533</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795102794</id>
+    <published>2020-09-21T19:37:39-04:00</published>
+    <updated>2020-09-21T19:37:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-guava-nector-12-x-473-ml"/>
+    <title>Tropical Delight - Guava Nectar- 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-guava-nectar-12-x-473-ml-815615.jpg?v=1611514546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Guava Nectar- 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795102794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD16</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773795070026</id>
+    <published>2020-09-21T19:37:38-04:00</published>
+    <updated>2020-09-21T19:37:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-lemonade-12-x-473-ml"/>
+    <title>Tropical Delight - Lemonade - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-lemonade-12-x-473-ml-225374.png?v=1611513516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Lemonade - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773795070026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD18</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773794742346</id>
+    <published>2020-09-21T19:37:37-04:00</published>
+    <updated>2020-09-21T19:37:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-strawberry-kiwi-12-x-473-ml"/>
+    <title>Tropical Delight - Kiwi Strawberry - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-kiwi-strawberry-12-x-473-ml-186200.png?v=1611514549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Kiwi Strawberry - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773794742346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD1345</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773793988682</id>
+    <published>2020-09-21T19:37:36-04:00</published>
+    <updated>2020-09-21T19:37:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-mango-peach-12-x-473-ml"/>
+    <title>Tropical Delight - Mango Peach - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-mango-peach-12-x-473-ml-889320.png?v=1611514550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Mango Peach - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773793988682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD123</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773793857610</id>
+    <published>2020-09-21T19:37:35-04:00</published>
+    <updated>2020-09-21T19:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-strawberry-banana-12-x-473-ml"/>
+    <title>Tropical Delight - Strawberry Banana - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-strawberry-banana-12-x-473-ml-905120.png?v=1611512376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Strawberry Banana - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773793857610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD186</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773793235018</id>
+    <published>2020-09-21T19:37:33-04:00</published>
+    <updated>2020-09-21T19:37:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-fruit-punch-12-x-473-ml"/>
+    <title>Tropical Delight - Fruit Punch - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-fruit-punch-12-x-473-ml-883583.png?v=1611514065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Fruit Punch - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773793235018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD15</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4694559981642</id>
+    <published>2020-07-22T15:23:26-04:00</published>
+    <updated>2020-07-22T15:23:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-mango-nector-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Mango Nectar Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-mango-nectar-juice-12-x-473-ml-179119.png?v=1611514366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Mango Nectar Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4694559981642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD20</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4694552117322</id>
+    <published>2020-07-22T15:15:41-04:00</published>
+    <updated>2020-07-22T15:15:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-mango-passion-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Mango Passion Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-mango-passion-juice-12-x-473-ml-322651.png?v=1611514312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Mango Passion Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4694552117322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD111</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4694550052938</id>
+    <published>2020-07-22T15:12:23-04:00</published>
+    <updated>2020-07-22T15:12:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-pineapple-ginger-juice-12-x-473-ml"/>
+    <title>Tropical Delight - Pineapple Ginger Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropic Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-pineapple-ginger-juice-12-x-473-ml-955791.png?v=1611512793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Pineapple Ginger Juice - 12 x 473 ml</strong></p>
+<ul>
+<li>No Artificial Colors or Flavors</li>
+<li>No Preservatives</li>
+<li>No High Fructose Corn Syrup</li>
+<li>Pasteurized</li>
+<li>12 x 473ml / 16oz glass</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Glass Bottle</s:tag>
+    <s:tag>Tropical Delight</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4694550052938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>TropicalD1234</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

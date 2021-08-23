@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bottled-coconut-water.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-18T12:14:35-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4771847405642</id>
+    <published>2020-09-18T12:14:35-04:00</published>
+    <updated>2020-09-18T12:14:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vita-coco-100-coconut-water-1-l"/>
+    <title>Vita Coco - 100% Coconut Water - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Vita Coco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vita-coco-100-coconut-water-1-l-983374.jpg?v=1611512022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vita Coco<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Vita Coco - 100% Coconut Water - 1 L</strong></p>
+<h3 class="section-title">Product Details</h3>
+<div class="product-info-description">
+<ul>
+<li>Tetra 100% Coconut Water</li>
+<li>Source of electrolytes</li>
+<li>Gluten-free</li>
+<li>No GMO</li>
+<li>12 × 1 L</li>
+<li><span class="a-list-item">High in potassium, free of fat, cholesterol, and sugar low in acidity</span></li>
+<li><span class="a-list-item">Contains five essential electrolytes-potassium, magnesium, calcium, sodium and phosphorous</span></li>
+<li><span class="a-list-item">Serve chilled or mixed in a cocktail</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Water</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771847405642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>2656596</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771846193226</id>
+    <published>2020-09-18T12:14:34-04:00</published>
+    <updated>2020-09-18T12:14:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropical-delight-tetra-100-coconut-water-1-l"/>
+    <title>Tropical Delight - Tetra 100% Coconut Water - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tropical Delight</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropical-delight-tetra-100-coconut-water-1-l-527087.jpg?v=1611514188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropical Delight<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Tropical Delight - Tetra 100% Coconut Water - 1 L</strong></p>
+<h3 class="section-title">Product Details</h3>
+<div class="product-info-description">
+<ul>
+<li>Tetra 100% Coconut Water</li>
+<li>Source of electrolytes</li>
+<li>Gluten-free</li>
+<li>No GMO</li>
+<li>12 × 1 L</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Water</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771846193226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>6487878</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771837706314</id>
+    <published>2020-09-18T12:14:32-04:00</published>
+    <updated>2020-09-18T12:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-coconut-water-24-x-310-ml"/>
+    <title>Grace -  Coconut Water - 24 x 310 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-coconut-water-24-x-310-ml-839752.jpg?v=1611510036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace -  Coconut Water - 24 x 310 ml</strong></p>
+<h3 class="section-title">Product Details</h3>
+<div class="product-info-description">
+<ul>
+<li>Coconut water with real coconut pieces (pulp/jelly)</li>
+<li>Not from concentrate</li>
+<li>Source of electrolytes</li>
+<li>Gluten-free</li>
+<li>No GMO</li>
+<li>24 × 310 mL</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Water</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771837706314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>1454979</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2025513418822</id>
+    <published>2019-03-15T02:13:36-04:00</published>
+    <updated>2019-03-15T02:13:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-coconut-water-with-pulp-24-x-500-ml"/>
+    <title>Grace -  Coconut Water With Pulp- 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-coconut-water-with-pulp-24-x-500-ml-354504.jpg?v=1611513453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grace - Coconut Water With Pulp- 24 x 500 ml</p>
+<h3 class="section-title">Product Details</h3>
+<div class="product-info-description">
+<ul>
+<li>Coconut water with real coconut pieces (pulp/jelly)</li>
+<li>Not from concentrate</li>
+<li>Source of electrolytes</li>
+<li>Gluten-free</li>
+<li>No GMO</li>
+<li>24 × 500 mL</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Water</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2025513418822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>BM15319</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

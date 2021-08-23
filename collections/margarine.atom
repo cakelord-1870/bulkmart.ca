@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/margarine.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-18T15:18:26-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6541371506762</id>
+    <published>2021-03-18T15:18:26-04:00</published>
+    <updated>2021-03-18T15:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crystal-lactose-free-non-hydrogenated-margarine-907-g"/>
+    <title>Crystal - Lactose Free Non Hydrogenated Margarine - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crystal-lactose-free-non-hydrogenated-margarine-907-g-930458.jpg?v=1616131543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crystal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crystal - Soft Non Hydrogenated Margarine  - 2 Lbs</strong></p>
+<ul>
+<li>No trans fat</li>
+<li>Lactose-free</li>
+<li>Vegan</li>
+<li>Non-hydrogenated</li>
+<li>No artificial flavors</li>
+<li>Source of omega-3 fatty acids</li>
+<li>907g</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p>
+<p><span>With subtle flavour and a soft consistency, Crystal Margarine is formulated to be directly spreadable from refrigerated temperatures and is ideal for most cooking applications. Made from non-hydrogenated vegetable oil and canola oil, our products are vegan, gluten-free, lactose-free and are an excellent source of omega-3 fatty acids.<br><br>We proudly use environmentally friendly packaging. Our Crystal Margarine containers are reusable, dishwasher, and microwave safe.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6541371506762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>665511</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821473984586</id>
+    <published>2020-11-15T12:37:28-05:00</published>
+    <updated>2020-11-15T12:37:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-liquid-margarine-zt-2-85-kg"/>
+    <title>Golden Gate - Liquid Margarine ZT - 2.85 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-liquid-margarine-zt-285-kg-629792.png?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Liquid Margarine ZT - 2.85 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821473984586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>0125458</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4822193832010</id>
+    <published>2020-11-02T00:29:37-05:00</published>
+    <updated>2020-11-02T00:29:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mirage-gluten-free-margarine-13-kg"/>
+    <title>Mirage - Gluten Free Margarine - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mirage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mirage-gluten-free-margarine-13-kg-100536.png?v=1611513696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mirage<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mirage - Gluten Free Margarine Omega-3 - 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4822193832010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>369897</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821480210506</id>
+    <published>2020-11-02T00:29:36-05:00</published>
+    <updated>2020-11-02T00:29:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-margarine-mini-cups-600-x-6-5-g"/>
+    <title>Lactantia - Margarine Mini Cups - 600 x 6.5 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-margarine-mini-cups-600-x-65-g-176817.jpg?v=1611511115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Margarine Mini Cups - 600 x 6.5 g</strong></p>
+<p><strong>Packaged in single serve size: portioned for least amount of waste. Yellow in colour: resembles butter. Pre-portioned in cups: freshness maintained. </strong></p>
+<p><span>It features the same rich butter flavor your customers know and love at a more economical price. Use it for on the go catering events or serve with breakfast. Create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821480210506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>25997</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821478178890</id>
+    <published>2020-11-02T00:29:35-05:00</published>
+    <updated>2020-11-02T00:29:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-unsalted-soft-margarine-4-kg"/>
+    <title>Golden Gate - Unsalted Soft Margarine - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-unsalted-soft-margarine-4-kg-190208.png?v=1611513155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Non-Hydrogenated Margarine Soft Unsalted - 4 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821478178890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>214591</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821477392458</id>
+    <published>2020-11-02T00:29:34-05:00</published>
+    <updated>2020-11-02T00:29:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-mirage-margarine-454-g"/>
+    <title>Golden Gate - Mirage Margarine - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-mirage-margarine-454-g-167043.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Mirage NH Soya Margarine - 454 g</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821477392458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>1549114</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821475262538</id>
+    <published>2020-11-02T00:29:33-05:00</published>
+    <updated>2020-11-02T00:29:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crystal-lactose-free-margarine-nh-10-kg"/>
+    <title>Crystal - Lactose Free Margarine NH - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Crystal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crystal-lactose-free-margarine-nh-10-kg-625317.jpg?v=1611514841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crystal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crystal - Soft Non Hydrogenated Margarine  - 10 Kg</strong></p>
+<ul>
+<li>No trans fat</li>
+<li>Lactose-free</li>
+<li>Vegan</li>
+<li>Non-hydrogenated</li>
+<li>Source of omega-3 fatty acids</li>
+<li>10 kg</li>
+<li>Keep refrigerated</li>
+</ul>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Margarine</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821475262538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>121545</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821474672714</id>
+    <published>2020-11-02T00:29:32-05:00</published>
+    <updated>2020-11-02T00:29:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chef-master-nh-hard-margarine-1-lbs"/>
+    <title>Chef Master - NH Hard Margarine  - 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Chef Master</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chef-master-nh-hard-margarine-1-lbs-486876.jpg?v=1611509499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chef Master<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chef Master - NH Hard Transit Margarine  - 1 Lb</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821474672714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>654489</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815531180106</id>
+    <published>2020-10-26T19:00:24-04:00</published>
+    <updated>2020-10-26T19:00:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-roll-in-margarine-nh-sweet-31168-20-kg"/>
+    <title>Bunge - Roll In Margarine NH Sweet 31168 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-roll-in-margarine-nh-sweet-31168-20-kg-754922.jpg?v=1611509021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bunge - Roll In Margarine NH Sweet 31168 - 20 Kg</strong></p>
+<p><span>Our Bunge portfolio of bakers roll-in margarines are specifically designed to meet the various applications that today’s modern bakers require. Whither you are baking danishes or croissants rest assured that Bunge’s selection of application specific roll-in margarines has you covered.  </span></p>
+<div class="_22_Sd">
+<div class="n4Zpk">Roll-In Margarine</div>
+</div>
+<div class="_22_Sd">
+<div>
+<svg class="_3FJJ6" viewbox="0 0 17.532 12.117" height="12.117" width="17.532" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1.411 1.414)" data-name="Icon | Check Bullit" id="Icon_Check_Bullit"><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(0 3.096)" y2="6.192" x2="5.418" data-name="Line 15" id="Line_15"></line><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(5.418)" y2="9.289" x1="9.289" data-name="Line 16" id="Line_16"></line></g></svg><br>
+</div>
+<div class="n4Zpk">Easy to use</div>
+</div>
+<div class="_22_Sd">
+<div>
+<svg class="_3FJJ6" viewbox="0 0 17.532 12.117" height="12.117" width="17.532" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1.411 1.414)" data-name="Icon | Check Bullit" id="Icon_Check_Bullit"><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(0 3.096)" y2="6.192" x2="5.418" data-name="Line 15" id="Line_15"></line><line stroke-width="2" stroke-linecap="round" stroke="#fff" fill="none" transform="translate(5.418)" y2="9.289" x1="9.289" data-name="Line 16" id="Line_16"></line></g></svg><br>
+</div>
+<div class="n4Zpk">Application optimized</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815531180106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>025054</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815530459210</id>
+    <published>2020-10-26T19:00:23-04:00</published>
+    <updated>2020-10-26T19:00:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richardson-deluxe-bakers-margarine-nh-20967-20-kg"/>
+    <title>Richardson - Deluxe Bakers Margarine NH 20967 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Richardson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richardson-deluxe-bakers-margarine-nh-20967-20-kg-449370.jpg?v=1611512320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Richardson<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Richardson - Deluxe Bakers Margarine NH 20967 - 20 Kg</strong></p>
+<p><span>Formulated to provide consistent functionality and full flavour, our margarines contain lower saturated fat, no cholesterol and fewer calories. Light and buttery, our all-purpose margarines are made from non-hydrogenated vegetable oils and are formulated to be spreadable at refrigerated temperatures. The butter-like consistency makes our canola products ideal for most baking applications.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815530459210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>0215490</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815529508938</id>
+    <published>2020-10-26T19:00:22-04:00</published>
+    <updated>2020-10-26T19:00:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-cremin-nh-icing-base-22181-20-kg"/>
+    <title>Golden Gate - Cremin NH Icing Base 22181 - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-cremin-nh-icing-base-22181-20-kg-653958.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Cremin NH Icing Base 22181 - 20 Kg</strong></p>
+<p>Shop for Margarines,  Icing Base specifically designed to meet the various applications that today’s modern bakers require. Whether you are baking danishes or croissants this Icing base is the important staple in your bakery.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815529508938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>022145</s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3857883037766</id>
+    <published>2019-06-20T03:11:02-04:00</published>
+    <updated>2019-06-20T03:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-white-soft-margarine-nh-13-kg"/>
+    <title>Golden Gate - White Soft Margarine NH - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-white-soft-margarine-nh-13-kg-439985.png?v=1611510406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate -  Margarine Blue- 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-gate-margarine-blue-13-kg#product","name":"Golden Gate -  Margarine Blue- 13 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3857883037766","sku":"BM20619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-margarine-blue-13-kg-bulk-mart_146.jpg","description":"Golden Gate - Margarine Blue- 13 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Golden Gate"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"BM20619","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"13"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-gate-margarine-blue-13-kg?variant=29160504590406","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3857883037766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>1548790</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3857882054726</id>
+    <published>2019-06-20T03:09:59-04:00</published>
+    <updated>2019-06-20T03:09:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-soft-margarine-nh-13-kg"/>
+    <title>Golden Gate - Soft Margarine NH - 13 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-soft-margarine-nh-13-kg-897615.jpg?v=1611512141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Golden Gate - Margarine Soft Soya - 13 Kg</strong></p>
+<p><span>Create a delicious cake that disappears quickly and other delectable treats with this trans free solid margarine. It adds a creamy butter-like flavor to dishes, but contains no cholesterol unlike traditional butter. This margarine is perfect for baking fresh treats to perfection. Plus, it also is an excellent flavor enhancer in sauces, soups, and gravies or use it as a spread. It features the same rich butter flavor your customers know and love at a more economical price. Use it to create delectable and savory dishes that keep your customers coming back for more!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Margarine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3857882054726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>025781</s:sku>
+      <s:grams>14515</s:grams>
+    </s:variant>
+  </entry>
+</feed>

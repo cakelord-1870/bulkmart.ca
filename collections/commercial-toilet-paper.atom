@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/commercial-toilet-paper.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-02-15T18:34:12-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4903987773514</id>
+    <published>2021-02-15T18:34:12-05:00</published>
+    <updated>2021-02-15T18:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b140-select-jumbo-2-ply-toilet-paper-roll-1000-12-rolls"/>
+    <title>Cascades Pro - B140 - Select Jumbo 2 Ply Toilet Paper Roll 1000&apos; - 12 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b140-select-jumbo-2-ply-toilet-paper-roll-1000-12-rolls-979227.jpg?v=1613440075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cascades Pro - B140 - Select Jumbo 2 Ply Toilet Paper Roll 1000' - 12 Rolls</strong></p>
+<div class="product-shortdescription">
+<p>Affordable and long-lasting, Cascades PRO Select® jumbo toilet paper reduces maintenance time in high-traffic restrooms.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>There are some items that every business will need each and every day. For high-traffic public restrooms or commercial bathrooms, Cascades PRO Select® jumbo toilet paper is essential. Delivering an economical 1,000 feet of tissue, this affordable, long-lasting 2-ply toilet paper has the added benefit of being made from 100% recycled fiber. Soft yet strong, this jumbo roll helps cut down on run outs and reduces maintenance time, ensuring customer satisfaction time and time again. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903987773514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>008884</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4903981908042</id>
+    <published>2021-02-15T18:34:12-05:00</published>
+    <updated>2021-02-15T18:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/everest-pro-standard-2-ply-toilet-paper-individually-wrapped-500-sheets-48-case"/>
+    <title>Everest Pro - Standard 2 Ply Toilet Paper Individually Wrapped, 500 Sheets - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Everest Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/everest-pro-standard-2-ply-toilet-paper-individually-wrapped-500-sheets-48case-807276.jpg?v=1613440783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everest Pro - Standard 2 Ply Toilet Paper Individually Wrapped  - 48/Case</p>
+<div class="detail-accordian-header">
+<h3>Description</h3>
+</div>
+<div id="product-tab-desc" class="details-accordian-body">
+<ul>
+<li>Absorbent 2-ply tissue provides quality, value &amp; performance</li>
+<li>Each roll is individually wrapped, ensuring sanitary protection</li>
+<li>Made from 50% virgin/50% recycled materials</li>
+<li>Fits standard bath tissue dispensers</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903981908042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>008889</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4903980040266</id>
+    <published>2021-02-15T18:34:11-05:00</published>
+    <updated>2021-02-15T18:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/everest-pro-2-ply-toilet-paper-roll-individually-wrapped-420-sheets-48-case"/>
+    <title>Everest Pro - 2 Ply Toilet Paper Roll Individually Wrapped, 420 Sheets - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Everest Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/everest-pro-2-ply-toilet-paper-roll-individually-wrapped-420-sheets-48case-520328.jpg?v=1613440786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Everest Pro - Standard 2 Ply Toilet Paper Individually Wrapped 420 Sheets/Roll - 48/Case</p>
+<div class="detail-accordian-header">
+<h3>Description</h3>
+</div>
+<div id="product-tab-desc" class="details-accordian-body">
+<ul>
+<li>Absorbent 2-ply tissue provides quality, value &amp; performance</li>
+<li>Each roll is individually wrapped, ensuring sanitary protection</li>
+<li>Made from 50% virgin/50% recycled materials</li>
+<li>Fits standard bath tissue dispensers</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903980040266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>008888</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4903977549898</id>
+    <published>2021-02-15T18:34:11-05:00</published>
+    <updated>2021-02-15T18:34:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b042-standard-2-ply-toilet-paper-roll-48-case"/>
+    <title>Cascades Pro - B042 Standard 2 Ply Toilet Paper Roll - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascade Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b042-standard-2-ply-toilet-paper-roll-48case-688051.jpg?v=1613440077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Standard Toilet Paper, 2 ply, 500 Sheets</h1>
+<div class="product-shortdescription">
+<p>Cascades PRO Select® standard toilet paper provides the soft and reliable answer for restrooms in retail spaces, foodservice venues and schools.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Cascades PRO Select® standard toilet paper provides the perfect answer for restrooms in retail spaces, foodservice venues and schools, offering an affordable and reliable solution for all your restroom needs. Delivering quality in an environmentally friendly product, this toilet paper is strong yet gentle on skin. Soft and hygienic, cover all the bases with this 100% recycled fiber toilet paper. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-7" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B042_Select_BT_Wrapped_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B042_Select_BT_Wrapped_Web.jpg" class="image-tile"><br></div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903977549898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>008880</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4740104061002</id>
+    <published>2021-02-15T18:33:52-05:00</published>
+    <updated>2021-02-15T18:33:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/t422-toilet-paper-2-ply-individually-wrapped-48-case"/>
+    <title>T422 - Toilet Paper 2 Ply Individually Wrapped - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Everest Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/t422-toilet-paper-2-ply-individually-wrapped-48case-158450.jpg?v=1611512192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Everest Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T422 - 2 Ply Individually Wrapped - Toilet Paper - 48 Rolls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4740104061002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>008893</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504671814</id>
+    <published>2021-02-15T18:33:50-05:00</published>
+    <updated>2021-02-15T18:33:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dura-plus-3-3-core-jrt-jumbo-toilet-paper-165m-8-case"/>
+    <title>Dura Plus - 3.3&quot; Core Jrt Jumbo Toilet Paper 165m - 8/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dura Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dura-plus-33-core-jrt-jumbo-toilet-paper-165m-8case-113477.jpg?v=1611513336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dura Plus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dura Plus -  3.3" Core Jrt Jumbo Toilet Paper 165m - 8/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504671814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>008887</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4903959167050</id>
+    <published>2021-02-15T16:27:49-05:00</published>
+    <updated>2021-02-15T16:27:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frost-150-standard-toilet-paper-metal-dispenser-double-roll-each"/>
+    <title>Frost - 150 Standard Toilet Paper Metal Dispenser Double Roll - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Frost</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frost-150-standard-toilet-paper-metal-dispenser-double-roll-each-814610.jpg?v=1613440850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frost<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Site Location: </strong>Ideal for areas requiring a heavy duty economical dispenser.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dispensing: </strong>Dispenses all standard toilet tissue rolls including 4.2″ x 4.5″, 500 sheet rolls.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features: </strong>Toilet paper holder has concealed self locking device to prevent pilferage and vandalism. Front loading for easy service and maintenance.  Pivot arms hinged on hardened steel rivets.  Tension springs reduce paper consumption and stops free wheeling.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials: </strong>All welded construction of 18 gauge steel.  All surfaces finished in polished chrome.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Weight:</strong> 0.9 kg. (2 lbs.)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dimensions:</strong> 3.1”L x 12.6”W x 4.25”D</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Installation:</strong> For unrestricted access, bottom of unit to floor should not exceed 44″ (111.7).  Mounting screws provided.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Maintenance: </strong>Normal preventative maintenance and cleaning will keep Frost products functioning properly and may extend normal product life. Products should be wiped down with a damp soft cloth periodically. Approved stainless steel cleaner may be used to clean scuffs or fingerprints on stainless surfaces. Do not use harsh detergents or chemical cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Paper Dispenser</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903959167050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>09075</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4903957954634</id>
+    <published>2021-02-15T16:27:48-05:00</published>
+    <updated>2021-02-15T16:27:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frost-146-standard-toilet-paper-metal-dispenser-single-roll-each"/>
+    <title>Frost - 146 Standard Toilet Paper Metal Dispenser Single Roll - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Frost</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frost-146-standard-toilet-paper-metal-dispenser-single-roll-each-890948.jpg?v=1613440848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frost<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-specs flexcroll" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Site Location: </strong>Ideal for areas requiring a heavy duty economical dispenser.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features: </strong>Toilet paper holder has concealed self locking device to prevent pilferage and vandalism. Front loading for easy service and maintenance.  Pivot arms hinged on hardened steel rivets.  Tension springs reduce paper consumption and stops free wheeling.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials:</strong><span data-mce-fragment="1"> </span>All welded construction of 18 gauge steel.  All surfaces finished in polished chrome.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dispensing: </strong>Dispenses all standard toilet tissue rolls including 4.2″ x 4.5″, 500 sheet rolls.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Weight:</strong> 0.45 kg (1 lb.)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dimensions: </strong>3.1”L x 6.4”W x 4.25”D</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Installation:</strong> For unrestricted access, bottom of unit to floor should not exceed 44″ (111.7).  Mounting screws provided.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Maintenance: </strong>Normal preventative maintenance and cleaning will keep Frost products functioning properly and may extend normal product life. Products should be wiped down with a damp soft cloth periodically. Approved stainless steel cleaner may be used to clean scuffs or fingerprints on stainless surfaces. Do not use harsh detergents or chemical cleaners.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Paper Dispenser</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4903957954634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>09074</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785549803594</id>
+    <published>2021-02-15T16:27:47-05:00</published>
+    <updated>2021-02-15T16:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-db12-jumbo-toilet-paper-dispenser-double-roll-9-each"/>
+    <title>Cascades Pro - DB12 Jumbo Toilet Paper Dispenser Double Roll 9&quot;- Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-db12-jumbo-toilet-paper-dispenser-double-roll-9-each-112934.jpg?v=1613440073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-shortdescription" data-mce-fragment="1">
+<p data-mce-fragment="1">Run-outs become a thing of the past with the Cascades PRO® jumbo toilet paper dispenser, double roll, 9".</p>
+</div>
+<div class="btn-aside" data-mce-fragment="1">
+<div class="btn-wrapper" data-mce-fragment="1">
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Created to deliver a healthy clean environment, this jumbo dispenser reduces labor costs with its large capacity and is perfect for keeping high-traffic retail, education and food service facility bathrooms stocked longer. Its sliding panel ensures that you get the maximum value from every roll by limiting access to the reserve roll until the first is depleted, eliminating waste. With less roll changes, thrive in a more productive work place.</p>
+</div>
+</section>
+<section class="related-section content-wrapper -green-border"></section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Paper Dispenser</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785549803594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>09072</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785548918858</id>
+    <published>2021-02-15T16:27:46-05:00</published>
+    <updated>2021-02-15T16:27:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-db09-jumbo-toilet-paper-dispenser-single-roll-9-each"/>
+    <title>Cascades Pro - DB09 Jumbo Toilet Paper Dispenser Single Roll 9&quot;- Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-db09-jumbo-toilet-paper-dispenser-single-roll-9-each-234320.jpg?v=1613440075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-shortdescription" data-mce-fragment="1">
+<p data-mce-fragment="1">The Cascades PRO® universal jumbo toilet paper dispenser, single roll, 9", keeps toilet paper stocked longer.</p>
+</div>
+<div class="btn-aside" data-mce-fragment="1">
+<div class="btn-wrapper" data-mce-fragment="1">
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>This dispenser promotes a healthy, clean bathroom environment in retail, food service and education facilities. The sleek, see-through window allows for quick supply monitoring. Its jumbo roll capacity prevents frequent run-outs and reduces roll changes, decreasing labor costs.</p>
+</div>
+</section>
+<section class="related-section content-wrapper -green-border"></section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Paper Dispenser</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785548918858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>09071</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785546788938</id>
+    <published>2021-02-15T16:27:45-05:00</published>
+    <updated>2021-02-15T16:27:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-db20-standard-toilet-paper-dispenser-double-roll-each"/>
+    <title>Cascades Pro -DB20 Standard Toilet Paper Dispenser Double Roll - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-db20-standard-toilet-paper-dispenser-double-roll-each-248035.jpg?v=1613440079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Cascades Pro universal toilet paper dispenser</p>
+<ul class="list--default product-details__list" data-mce-fragment="1">
+<li class="product-details__list-item mb-2" data-mce-fragment="1">Wall mount</li>
+<li class="product-details__list-item mb-2" data-mce-fragment="1">7.5"x7"x12.8"</li>
+<li class="product-details__list-item mb-2" data-mce-fragment="1">2 Rolls</li>
+<li class="product-details__list-item mb-2" data-mce-fragment="1">Plastic</li>
+<li class="product-details__list-item mb-2" data-mce-fragment="1">Transparent cover</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Paper Dispenser</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785546788938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>09073</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505130566</id>
+    <published>2020-08-22T14:18:41-04:00</published>
+    <updated>2020-08-22T14:18:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b021-standard-2-ply-toilet-paper-individually-wrapped-48-case"/>
+    <title>Cascades Pro - B021 Standard 2 Ply Toilet Paper Individually Wrapped  - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b021-standard-2-ply-toilet-paper-individually-wrapped-48case-464191.jpg?v=1613440078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Standard Toilet Paper, 2 ply, 420 Sheets</h1>
+<div class="product-shortdescription">
+<p>Cascades PRO Select® standard toilet paper is soft and absorbent providing the ideal choice for restrooms.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>The economical choice for restrooms, Cascades PRO Select® standard toilet paper provides reliable 2-ply performance at a low cost. Soft and gentle on skin, this eco-friendly product is made from 100% recycled fiber and offers the ideal choice for those needing a strong and absorbent toilet paper in industrial, education, foodservice and retail locations. All clean. All good®. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-3" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B021_Select_BT_Wrapped_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B021_Select_BT_Wrapped_Web.jpg" class="image-tile"><br></div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505130566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>008878</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504999494</id>
+    <published>2020-08-22T14:10:18-04:00</published>
+    <updated>2020-08-22T14:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b041-standard-2-ply-toilet-paper-roll-96-case"/>
+    <title>Cascades Pro - B041 Standard 2 Ply Toilet Paper Roll - 96/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascade Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b041-standard-2-ply-toilet-paper-roll-96case-708173.jpg?v=1613440076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascade Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Standard Toilet Paper, 2 ply, 500 Sheets</h1>
+<div class="product-shortdescription">
+<p>Cascades PRO Select® standard toilet paper provides the soft and reliable answer for restrooms in retail spaces, foodservice venues and schools.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Cascades PRO Select standard® toilet paper provides the perfect answer for restrooms in retail spaces, foodservice venues and schools, offering an affordable and reliable solution for all your restroom needs. Delivering quality in an environmentally friendly product, this toilet paper is strong yet gentle on skin. Soft and hygienic, cover all the bases with this 100% recycled fiber bath tissue. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-5" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B041_Select_BT_Wrapped_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B041_Select_BT_Wrapped_Web.jpg" class="image-tile"><br></div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504999494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>008879</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4693329018954</id>
+    <published>2020-07-21T14:24:26-04:00</published>
+    <updated>2020-07-21T14:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cashmere-bathroom-tissue-121-sheets-per-roll-4-rolls"/>
+    <title>Cashmere - Bathroom Tissue 121 Sheets Per Roll - 4 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cashmere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cashmere-bathroom-tissue-121-sheets-per-roll-4-rolls-847690.jpg?v=1611509371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cashmere<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cashmere - Bathroom Tissue Toilet Paper 121 Sheets Per Roll - 4 Rolls</p>
+<p>Cashmere is a high quality two-ply toilet paper that is quilted to feel irresistibly soft and thick, because Nothing feels like Cashmere<span class="reg">®</span>. Cashmere is both hypoallergenic and dermatologist approved. Canadian made and proudly supporting the Canadian Cancer Society's breast cancer cause for over 15 years.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4693329018954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>008886</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4693326921802</id>
+    <published>2020-07-21T14:21:13-04:00</published>
+    <updated>2020-07-21T14:21:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royale-bathroom-tissue-4-each"/>
+    <title>Royale - Bathroom Tissue - 4 Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royale-bathroom-tissue-4-each-923803.jpg?v=1611512316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royale<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royale - Bathroom Tissue - 4 Each</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4693326921802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>008890</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505523782</id>
+    <published>2020-07-21T12:35:25-04:00</published>
+    <updated>2020-07-21T12:35:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silky-premium-double-roll-toilet-paper-8-rolls"/>
+    <title>Silky - Premium Double Roll Toilet Paper - 8 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Silky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silky-premium-double-roll-toilet-paper-8-rolls-645445.jpg?v=1611513996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silky<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky -  Toilet Paper Rolls - 8 Rolls</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505523782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>008892</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505065030</id>
+    <published>2020-03-21T16:36:36-04:00</published>
+    <updated>2020-03-21T16:36:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b011-select-1-ply-standard-toilet-paper-roll-48-case"/>
+    <title>Cascades Pro - B011 Select 1 Ply Standard Toilet Paper Roll - 48/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b011-select-1-ply-standard-toilet-paper-roll-48case-989580.jpg?v=1613440067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Standard Toilet Paper, 1 ply, 1000 Sheets</h1>
+<div class="product-shortdescription">
+<p>Strong, soft and environmentally friendly, Cascades PRO Select® standard toilet paper covers all bases in restrooms.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Cascades PRO Select® standard toilet paper covers all bases for your restroom needs, providing the ideal blend of strength, softness and quality. This environmentally friendly product is the perfect choice for those needing a soft and hygienic toilet paper all rolled into an affordable package. Optimal for restrooms in areas such as cafeterias, classrooms and maintenance shops, this long lasting product is made from 100% recycled fiber. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-1" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B011_Select_BT_Wrapped_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B011_Select_BT_Wrapped_Web.jpg" class="image-tile"><br></div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505065030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>008877</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505425478</id>
+    <published>2019-03-31T23:17:05-04:00</published>
+    <updated>2019-03-31T23:17:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silky-toilet-paper-rolls-48-rolls"/>
+    <title>Silky -  Toilet Paper Rolls - 48 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Silky</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silky-toilet-paper-rolls-48-rolls-280182.jpg?v=1611514431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silky<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silky - Toilet Paper Rolls 6 x 8 Rolls per Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505425478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>008891</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505392710</id>
+    <published>2019-03-31T23:17:04-04:00</published>
+    <updated>2019-03-31T23:17:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b120-select-jumbo-2-ply-toilet-paper-roll-900-8-rolls"/>
+    <title>Cascades Pro - B120 - Select Jumbo 2 Ply Toilet Paper Roll 900&apos; - 8 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b120-select-jumbo-2-ply-toilet-paper-roll-900-8-rolls-715639.jpg?v=1613440074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cascades Pro - 2 Ply Select Jumbo Toilet Paper Roll B120 - 8 Rolls</strong></p>
+<div class="product-shortdescription">
+<p>Cascades PRO Select® jumbo toilet paper meets all high-traffic restroom needs in every soft and economical roll. Ideal for use in restrooms in public facilities, industrial settings and retail stores.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Cascades cost-saving jumbo toilet paper delivers 900 feet of tissue guaranteeing fewer refills and run-outs. Ideal for restrooms in public facilities, industrial settings and retails stores, this long-lasting toilet paper is strong yet soft, ensuring all your restroom needs are met. Made from 100% recycled fiber, this 2-ply tissue is not only economical but environmentally friendly as well. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505392710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>008883</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037505261638</id>
+    <published>2019-03-31T23:17:03-04:00</published>
+    <updated>2019-03-31T23:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b100-select-jumbo-2-ply-toilet-paper-roll-750-8-case"/>
+    <title>Cascades Pro - B100 Select Jumbo 2 Ply Toilet Paper Roll 750&apos; - 8/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b100-select-jumbo-2-ply-toilet-paper-roll-750-8case-644465.jpg?v=1613440079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Jumbo Toilet Paper, 2 ply, 750'</h1>
+<div class="product-shortdescription">
+<p>Cascades PRO Select® jumbo toilet paper combines value and quality to ensure all high-traffic restroom needs are met.</p>
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Cascades Jumbo 2-ply toilet paper is soft and absorbent.  Perfect for busy public restrooms, this jumbo size roll, with 750 feet of tissue, helps reduce run-outs, minimizing the need for frequent restocking. Made from 100% recycled fiber, this affordable toilet paper combines value and quality ideal for all your restroom needs in retail, foodservice and industrial settings. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+</div>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-12" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B100_Select_JRT_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B100_Select_JRT_Web.jpg" class="image-tile"><br></div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037505261638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>008882</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504868422</id>
+    <published>2019-03-31T23:16:58-04:00</published>
+    <updated>2019-03-31T23:16:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b085-select-jumbo-2-ply-toilet-paper-roll-600-8-case"/>
+    <title>Cascades Pro - B085 Select Jumbo 2 Ply Toilet Paper Roll 600&apos; - 8/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b085-select-jumbo-toilet-paper-165m-8case-438896.jpg?v=1611509131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><section class="content-wrapper -flex singleproducts-top">
+<h1 class="main-title hide-pdf">Jumbo Toilet Paper, 2 ply, 600'</h1>
+</section>
+<section class="product-container content-wrapper -flex -line-bottom">
+<article>
+<div id="swiper-gal-9" class="swiper swiper-container -has-bullets -product hide-print hide-pdf">
+<div class="swiper-wrapper">
+<div data-slide-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B085_Select_JRT_Web.jpg" class="swiper-slide swiper-slide-active">
+<div data-image="https://wp.pro.cascades.com/wp-content/uploads/2020/04/B085_Select_JRT_Web.jpg" class="image-tile">
+<div class="product-shortdescription">
+<p>Cascades PRO Select® jumbo toilet paper provides an environmentally friendly and economical option for high-traffic restrooms.</p>
+</div>
+<div class="btn-aside">
+<div class="btn-wrapper">
+<section class="content-wrapper -line-bottom full-description">
+<div class="product-description">
+<p>Value meets performance with Cascades PRO Select® jumbo toilet paper. With 600 feet of 2-ply tissue, this economical jumbo roll allows for fewer refills and reduced labor, the ideal choice for high-traffic restrooms in places such as schools, breakrooms and maintenance shops. Made from 100% recycled fiber, this quality toilet paper is environmentally friendly and provides a soft and affordable option that will ensure you never run out of toilet paper during peak times. This product is biodegradable and safe for plumbing and septic systems.</p>
+</div>
+</section>
+<section class="related-section content-wrapper -green-border"></section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504868422</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>008881</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504802886</id>
+    <published>2019-03-31T23:16:57-04:00</published>
+    <updated>2019-03-31T23:16:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-b221-jumbo-2-ply-toilet-paper-roll-750-mini-jrt-12-case"/>
+    <title>Cascades Pro - B221 - Jumbo 2 Ply Toilet Paper Roll 750&apos; Mini JRT - 12/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-b221-jumbo-2-ply-toilet-paper-roll-750-mini-jrt-12case-178676.jpg?v=1613440078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cascades Pro - 2 Ply Select Jumbo Roll Toilet Paper B221 Mini JRT  - 12 Rolls</p>
+<div class="product-shortdescription">
+<p>Affordable and environmentally friendly, Cascades PRO Select® jumbo toilet paper is the ideal choice for restrooms in classrooms, breakrooms and maintenance shops.</p>
+<p><span>Cascades PRO Select® 2-ply jumbo toilet paper delivers quality, value and performance. The ideal choice for those who want an affordable, environmentally responsible product, this 750 foot toilet paper is made from 100% recycled fiber and is Green Seal certified. Consistently soft and absorbent, this toilet paper is optimal for use in heavily-trafficked restrooms in industrial settings, retail shops, schools and foodservice locations. This product is biodegradable and safe for plumbing and septic systems. These products exceed EPA comprehensive procurement guidelines.</span><br><br><span>This product meets the Green Seal® Standard GS-1, based on chlorine-free processing, energy and water efficiency, and content of 100% recovered material with a minimum of 50% post-consumer material.</span><br></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jumbo Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504802886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>008885</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504507974</id>
+    <published>2019-03-31T23:16:54-04:00</published>
+    <updated>2019-03-31T23:16:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/white-swan-05144-standard-toilet-paper-roll-2-ply-individually-wrapped-48-rolls"/>
+    <title>White Swan - 05144 Standard Toilet Paper Roll 2 Ply Individually Wrapped - 48 Rolls</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>White Swan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-swan-05144-standard-toilet-paper-roll-2-ply-individually-wrapped-48-rolls-139673.jpg?v=1613443238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>White Swan<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>White Swan - 2 Ply Toilet Paper 05144 - 48 Rolls</p>
+<p>Individually wrapped rolls. Carton of 48 rolls. 2-Ply. 420 sheets/roll</p>
+<ul>
+<li>4.2" wide sheet allows the roll to fit in most dispensers</li>
+<li>Made with 100% recycled fibre and at least 88% post-consumer content</li>
+<li>Biodegradable and formulated to be safe to use in septic systems that are properly sized and maintained</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Standard Toilet Paper Rolls</s:tag>
+    <s:tag>Toilet Paper</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504507974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>008894</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

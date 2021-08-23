@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/ketchup-mustard.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-19T22:13:18-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4850101682250</id>
+    <published>2020-12-19T22:13:18-05:00</published>
+    <updated>2020-12-19T22:13:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-ketchup-kosher-396-x-26-ml"/>
+    <title>Kraft Heinz - Ketchup Kosher - 396 x 26 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-ketchup-kosher-396-x-26-ml-194240.jpg?v=1611512018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kraft Heinz - Ketchup Kosher - 396 x 26 ml</p>
+<p><span><strong>A must-have condiment for fried favorites</strong> like fried chicken, shrimp, fish sticks, and crab cakes, this sauce will deliver just the right amount of bold flavor! Quickly and easily enhance your seafood dishes with the zesty taste of this classic condiment. Bursting with flavor, this sauce is the perfect fusion of sweet pickle relish and creamy mayonnaise peppered with savory onion powder, herbs, and spices. Made from natural ingredients, this sauce will delight your customers with the classic taste they know and love.</span><br><br><span><strong>The texture of this condiment </strong>is slightly thicker than other sauces. It has a creamy consistency that tastes cool and tangy over grilled or pan-fried chicken, fish and deep fried foods. Save the hassle and kitchen prep time mixing sauce from scratch with this packet that is ready to serve! It still has a homemade taste that's sure to please your seafood-loving patrons. Spice up the menu offerings at your restaurant or diner, and offer this rich, creamy, zesty sauce.</span></p>
+<p><span><strong>Enhance the flavor of virtually any recipe with the iconic taste of these packets!</strong> Its rich, thick consistency is perfect for dipping or spreading while its versatile taste is perfect for complementing a variety of dishes and appetizers. These packets are great for offering at convenience stores, catered events, on the go and quick-service eateries, and allow you to eliminate condiment pumps and portion cups at your self-serve condiment stations to enhance the convenience for your customers and effectively minimize product waste and cleanup of your counters.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850101682250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>510217</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850102042698</id>
+    <published>2020-12-19T22:13:17-05:00</published>
+    <updated>2020-12-19T22:13:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-mustard-portions-500-x-6-ml"/>
+    <title>Kraft Heinz - Mustard Portions - 500 x 6 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-mustard-portions-500-x-6-ml-382917.png?v=1611512610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kraft Heinz - Mustard Portions - 500 x 6 ml</p>
+<p><span><strong>A must-have condiment for fried favorites</strong> like fried chicken, shrimp, fish sticks, and crab cakes, this sauce will deliver just the right amount of bold flavor! Quickly and easily enhance your seafood dishes with the zesty taste of this classic condiment. Bursting with flavor, this sauce is the perfect fusion of sweet pickle relish and creamy mayonnaise peppered with savory onion powder, herbs, and spices. Made from natural ingredients, this sauce will delight your customers with the classic taste they know and love.</span><br><br><span><strong>The texture of this condiment </strong>is slightly thicker than other sauces. It has a creamy consistency that tastes cool and tangy over grilled or pan-fried chicken, fish and deep fried foods. Save the hassle and kitchen prep time mixing sauce from scratch with this packet that is ready to serve! It still has a homemade taste that's sure to please your seafood-loving patrons. Spice up the menu offerings at your restaurant or diner, and offer this rich, creamy, zesty sauce.</span></p>
+<p><span><strong>Enhance the flavor of virtually any recipe with the iconic taste of these packets!</strong> Its rich, thick consistency is perfect for dipping or spreading while its versatile taste is perfect for complementing a variety of dishes and appetizers. These packets are great for offering at convenience stores, catered events, on the go and quick-service eateries, and allow you to eliminate condiment pumps and portion cups at your self-serve condiment stations to enhance the convenience for your customers and effectively minimize product waste and cleanup of your counters.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Mustard</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850102042698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>510220</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850102075466</id>
+    <published>2020-12-19T22:13:16-05:00</published>
+    <updated>2020-12-19T22:13:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-heinz-ketchup-portions-500-x-8-ml"/>
+    <title>Kraft Heinz - Ketchup Portions - 500 x 8 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-heinz-ketchup-portions-500-x-8-ml-187976.jpg?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kraft Heinz - Ketchup Portions - 500 x 8 ml</p>
+<p><span><strong>A must-have condiment for fried favorites</strong> like fried chicken, shrimp, fish sticks, and crab cakes, this sauce will deliver just the right amount of bold flavor! Quickly and easily enhance your seafood dishes with the zesty taste of this classic condiment. Bursting with flavor, this sauce is the perfect fusion of sweet pickle relish and creamy mayonnaise peppered with savory onion powder, herbs, and spices. Made from natural ingredients, this sauce will delight your customers with the classic taste they know and love.</span><br><br><span><strong>The texture of this condiment </strong>is slightly thicker than other sauces. It has a creamy consistency that tastes cool and tangy over grilled or pan-fried chicken, fish and deep fried foods. Save the hassle and kitchen prep time mixing sauce from scratch with this packet that is ready to serve! It still has a homemade taste that's sure to please your seafood-loving patrons. Spice up the menu offerings at your restaurant or diner, and offer this rich, creamy, zesty sauce.</span></p>
+<p><span><strong>Enhance the flavor of virtually any recipe with the iconic taste of these packets!</strong> Its rich, thick consistency is perfect for dipping or spreading while its versatile taste is perfect for complementing a variety of dishes and appetizers. These packets are great for offering at convenience stores, catered events, on the go and quick-service eateries, and allow you to eliminate condiment pumps and portion cups at your self-serve condiment stations to enhance the convenience for your customers and effectively minimize product waste and cleanup of your counters.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850102075466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>510218</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803091038282</id>
+    <published>2020-10-14T13:35:02-04:00</published>
+    <updated>2020-10-14T13:35:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-yellow-mustard-vol-pak-pouch-11-35-l"/>
+    <title>Heinz - Yellow Mustard VOL-PAK Pouch - 11.35 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-yellow-mustard-vol-pak-pouch-1135-l-372512.jpg?v=1611513334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Yellow Mustard VOL-PAK Pouch - 11.35 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this French's classic yellow mustard dispensing pouch with fitment. Using the finest ingredients, this mustard is the perfect blend of #1 grade mustard seeds, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices for a delicious, natural flavor and color. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect slightly tangy and savory flavor that pairs well with virtually any sandwich, burger, hot dog, or sausage. It can even be mixed with other ingredients like mayonnaise, horseradish, dressings, or BBQ sauce to create signature sauces for your dishes!</span><br><br><span>Best of all,<strong> this mustard comes ready to use</strong> in a compatible pump dispenser (sold separately) and each bag features a connecting tube for easy installation. Not only will this dispenser pouch help ensure convenient, mess-free application and reduce product waste, it can also offer hands-free condiment dispensing for your patrons to increase the safety and sanitation of your establishment. Keep this French's classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span><br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/select-prepared-mustard-4-l#product","name":"Select -  Prepared Mustard - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887531663430","sku":"42BM977","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-prepared-mustard-4-l-bulk-mart_543.jpg","description":"Select - Prepared Mustard - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Select"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"42BM977","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/select-prepared-mustard-4-l?variant=19271428145222","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803091038282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>069021</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803087106122</id>
+    <published>2020-10-14T13:35:01-04:00</published>
+    <updated>2020-10-14T13:35:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dijona-dijon-mustard-extra-strong-in-pail-5-kg"/>
+    <title>Dijona - Dijon Mustard Extra Strong in Pail - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dijona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dijona-dijon-mustard-extra-strong-in-pail-5-kg-888104.jpg?v=1611509682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dijona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dijona - Dijon Mustard Extra Strong in Pail - 5 Kg</strong></p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Water, Mustard Seeds, Spirit Vinegar, Salt, Acid (Citric acid) and Preservative (potassium metabisulphite)</p>
+<p><span><strong>Unbeatable in value and taste,</strong> add distinct, savory flavor to a variety of dishes with this Dijon mustard. This lively condiment has more body than the classic yellow mustard, and delivers a bold, yet balanced taste with just the right amount of heat. It is made from stone ground, #1 grade mustard seeds and select seasonings, for a more pronounced, creamy flavor with a naturally thick texture that pairs well with so many other ingredients. Plus, it is free from thickeners, fillers, artificial flavors, colorants, dyes, and high-fructose corn syrup for a clean taste you can feel good about serving.</span><br><br><span><strong>Use this Dijon mustard</strong> to create thick and creamy salad dressings or glazes for your vegetables, combine with bread crumbs and coat your proteins prior to roasting, or even add it to cheese fondue to dip gourmet pretzels in - the options for serving are truly endless! Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this Dijon mustard on hand for all your culinary needs!</span><br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fleur-de-dijon-mustard-4-6-l#product","name":"Fleur de Dijon - Dijon Mustard - 4.6 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4320537739338","sku":"17BM974","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleur-de-dijon-mustard-4-6-l-bulk-mart_514.jpg","description":"Fleur de Dijon - Dijon Mustard - 4.6 L.","category":"FOOD","brand":{"@type":"Brand","name":"Fleur de Dijon"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"17BM974","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.6"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fleur-de-dijon-mustard-4-6-l?variant=31011575005258","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803087106122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>069154</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803085500490</id>
+    <published>2020-10-14T13:34:59-04:00</published>
+    <updated>2020-10-14T13:34:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frenchs-classic-yellow-mustard-plastic-jug-2-9-l"/>
+    <title>French&apos;s - Classic Yellow Mustard Plastic Jug - 2.9 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>French&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-classic-yellow-mustard-plastic-jug-29-l-912113.jpg?v=1611510037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>French's - Classic Yellow Mustard Plastic Jug - 2.9 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this French's classic yellow mustard jug. Using the finest of ingredients, this mustard is the perfect blend of mustard seed, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices, and natural flavors. The natural ingredients also create the eye-catching bright yellow color sure to appeal to customers. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect, slightly tangy and savory flavor on top of a fresh sandwich, piping hot burger, or freshly grilled hot dog.</span><br><br><span><strong>Best of all, this mustard also contains no artificial colors, flavors, or preservatives.</strong> It's also made with stone ground, #1 grade mustard seeds which are reasonably well-matured, sweet, and provide a good natural color. Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this French's classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml#product","name":"French&#039;s -  Yellow Mustard Squeeze - 400 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887484936262","sku":"17BM974","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-yellow-mustard-squeeze-400-ml-bulk-mart_406.jpg","description":"French&#039;s - Yellow Mustard Squeeze - 400 ml.","category":"FOOD","brand":{"@type":"Brand","name":"French's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"17BM974","weight":{"@type":"QuantitativeValue","unitText":"g","value":"400"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml?variant=19271348551750","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803085500490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>069214</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803085434954</id>
+    <published>2020-10-14T13:34:58-04:00</published>
+    <updated>2020-10-14T13:34:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frenchs-honey-dijon-mustard-325-ml"/>
+    <title>French&apos;s - Honey Dijon Mustard - 325 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>French&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-honey-dijon-mustard-325-ml-282466.jpg?v=1611510762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>French's - Honey Dijon Mustard - 325 ml</p>
+<p><span><strong>Unbeatable in value and taste,</strong> add distinct, savory flavor to a variety of dishes with this Dijon mustard. This lively condiment has more body than the classic yellow mustard, and delivers a bold, yet balanced taste with just the right amount of heat. It is made from stone ground, #1 grade mustard seeds and select seasonings, for a more pronounced, creamy flavor with a naturally thick texture that pairs well with so many other ingredients. Plus, it is free from thickeners, fillers, artificial flavors, colorants, dyes, and high-fructose corn syrup for a clean taste you can feel good about serving.</span><br><br><span><strong>Use this Dijon mustard</strong> to create thick and creamy salad dressings or glazes for your vegetables, combine with bread crumbs and coat your proteins prior to roasting, or even add it to cheese fondue to dip gourmet pretzels in - the options for serving are truly endless! Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this Dijon mustard on hand for all your culinary needs!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml#product","name":"French&#039;s -  Yellow Mustard Squeeze - 400 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887484936262","sku":"17BM974","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-yellow-mustard-squeeze-400-ml-bulk-mart_406.jpg","description":"French&#039;s - Yellow Mustard Squeeze - 400 ml.","category":"FOOD","brand":{"@type":"Brand","name":"French's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"17BM974","weight":{"@type":"QuantitativeValue","unitText":"g","value":"400"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml?variant=19271348551750","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803085434954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>061245</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803084845130</id>
+    <published>2020-10-14T13:34:57-04:00</published>
+    <updated>2020-10-14T13:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frenchs-dijon-mustard-325-ml"/>
+    <title>French&apos;s - Dijon Mustard - 325 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>French&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-dijon-mustard-325-ml-802047.jpg?v=1611512737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>French&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>French's - Yellow Mustard Squeeze - 400 ml</p>
+<p><span><strong>Unbeatable in value and taste,</strong> add distinct, savory flavor to a variety of dishes with this Dijon mustard. This lively condiment has more body than the classic yellow mustard, and delivers a bold, yet balanced taste with just the right amount of heat. It is made from stone ground, #1 grade mustard seeds and select seasonings, for a more pronounced, creamy flavor with a naturally thick texture that pairs well with so many other ingredients. Plus, it is free from thickeners, fillers, artificial flavors, colorants, dyes, and high-fructose corn syrup for a clean taste you can feel good about serving.</span><br><br><span><strong>Use this Dijon mustard</strong> to create thick and creamy salad dressings or glazes for your vegetables, combine with bread crumbs and coat your proteins prior to roasting, or even add it to cheese fondue to dip gourmet pretzels in - the options for serving are truly endless! Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this Dijon mustard on hand for all your culinary needs!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml#product","name":"French&#039;s -  Yellow Mustard Squeeze - 400 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887484936262","sku":"17BM974","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frenchs-yellow-mustard-squeeze-400-ml-bulk-mart_406.jpg","description":"French&#039;s - Yellow Mustard Squeeze - 400 ml.","category":"FOOD","brand":{"@type":"Brand","name":"French's"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"17BM974","weight":{"@type":"QuantitativeValue","unitText":"g","value":"400"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/frenchs-yellow-mustard-squeeze-400-ml?variant=19271348551750","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803084845130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>069154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803084419146</id>
+    <published>2020-10-14T13:34:55-04:00</published>
+    <updated>2020-10-14T13:34:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-mustard-portions-500-x-7-g"/>
+    <title>PC - Mustard Portions - 500 x 7 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-portions-500-x-7-g-683846.jpg?v=1611511182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Mustard Portions - 500 x  7 g</strong></p>
+<p><span><strong>Whether dining in or grabbing takeout,</strong> provide your customers a condiment that completes their meal with this yellow mustard portion packet. Offering a delicious creamy texture with a rich and slightly tangy taste, this portion packet will add the perfect amount of flavor to your customers' hot dogs, hamburgers, soft pretzels, and sandwiches. It also has an appealing, bright yellow classic color that adds an attractive pop of color to your menu offerings.</span><br><br><span><strong>This mustard is made from fresh</strong> ground mustard seeds and features a blend of premium spices along with turmeric and paprika to create a savory flavor. Coming with an ample amount of packets, you're sure to have enough mustard on hand. Plus, the packet size provides the perfect amount of mustard and reduces potential for product waste. Always keep these yellow mustard portion packets on hand to give your customers the classic condiment they crave!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pc-mustard-4-x-l#product","name":"Pc -  Mustard - 4 x 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887522488390","sku":"08BM975","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-4-x-l-bulk-mart_199.jpg","description":"Pc - Mustard - 4 x 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"PC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"08BM975","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"24.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pc-mustard-4-x-l?variant=19271414218822","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Mustard</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803084419146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>06915</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4320537739338</id>
+    <published>2020-10-14T13:34:55-04:00</published>
+    <updated>2020-10-14T13:34:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dijona-dijon-mustard-whole-grain-in-pail-5-kg"/>
+    <title>Dijona - Dijon Mustard Whole Grain in Pail - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dijona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dijona-dijon-mustard-whole-grain-in-pail-5-kg-357028.jpg?v=1611509624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dijona<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dijona - Dijon Mustard Whole Grain in Pail - 5 Kg</strong></p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Water, Mustard Seeds, Spirit Vinegar, Salt, White Wine (contains sulphite), Sugar, Spices, Acid (Citric acid) and Preservative (potassium metabisulphite)</p>
+<p><span><strong>Unbeatable in value and taste,</strong> add distinct, savory flavor to a variety of dishes with this Dijon mustard. This lively condiment has more body than the classic yellow mustard, and delivers a bold, yet balanced taste with just the right amount of heat. It is made from stone ground, #1 grade mustard seeds and select seasonings, for a more pronounced, creamy flavor with a naturally thick texture that pairs well with so many other ingredients. Plus, it is free from thickeners, fillers, artificial flavors, colorants, dyes, and high-fructose corn syrup for a clean taste you can feel good about serving.</span><br><br><span><strong>Use this Dijon mustard</strong> to create thick and creamy salad dressings or glazes for your vegetables, combine with bread crumbs and coat your proteins prior to roasting, or even add it to cheese fondue to dip gourmet pretzels in - the options for serving are truly endless! Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this Dijon mustard on hand for all your culinary needs!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fleur-de-dijon-mustard-4-6-l#product","name":"Fleur de Dijon - Dijon Mustard - 4.6 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4320537739338","sku":"17BM974","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleur-de-dijon-mustard-4-6-l-bulk-mart_514.jpg","description":"Fleur de Dijon - Dijon Mustard - 4.6 L.","category":"FOOD","brand":{"@type":"Brand","name":"Fleur de Dijon"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"17BM974","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.6"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fleur-de-dijon-mustard-4-6-l?variant=31011575005258","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4320537739338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>069215</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803098411082</id>
+    <published>2020-10-14T00:58:32-04:00</published>
+    <updated>2020-10-14T00:58:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-ketchup-organic-family-size-1-5-l"/>
+    <title>Heinz - Tomato Ketchup Organic Family Size - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-ketchup-organic-family-size-15-l-300760.png?v=1611510888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Tomato Ketchup Organic Family Size - 1.5 L</strong><br></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-upside-down-375-ml#product","name":"Heinz -  Ketchup Upside Down - 375 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887493161030","sku":"00BM846","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-375-ml-bulk-mart_435.jpg","description":"Heinz - Ketchup Upside Down - 375 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"00BM846","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-upside-down-375-ml?variant=19271365984326","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803098411082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>071241</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803097755722</id>
+    <published>2020-10-14T00:58:30-04:00</published>
+    <updated>2020-10-14T00:58:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-ketchup-glass-bottle-kosher-375-ml"/>
+    <title>Heinz - Tomato Ketchup Glass Bottle Kosher - 375 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-ketchup-glass-bottle-kosher-375-ml-818161.jpg?v=1611510403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Tomato Ketchup Glass Bottle Kosher - 375 ml</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-upside-down-375-ml#product","name":"Heinz -  Ketchup Upside Down - 375 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887493161030","sku":"00BM846","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-375-ml-bulk-mart_435.jpg","description":"Heinz - Ketchup Upside Down - 375 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"00BM846","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-upside-down-375-ml?variant=19271365984326","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803097755722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>082154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803095167050</id>
+    <published>2020-10-14T00:58:29-04:00</published>
+    <updated>2020-10-14T00:58:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-ketchup-vol-pak-pouch-kosher-11-35-l"/>
+    <title>Heinz - Tomato Ketchup VOL-PAK Pouch Kosher - 11.35 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-ketchup-vol-pak-pouch-kosher-1135-l-642795.jpg?v=1611510883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Tomato Ketchup VOL PAK Pouch - 11.35 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-1-l#product","name":"Heinz - Ketchup - 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"K113BM860","sku":"13BM860","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-1-l-bulk-mart_821.jpg","description":"Heinz - Ketchup - 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"51"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Heinz - Ketchup - 1 L","sku":"13BM860","mpn":"K113BM860","@type":"Offer","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-1-l?variant=19271365722182","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803095167050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>125450</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887522422854</id>
+    <published>2020-10-14T00:58:27-04:00</published>
+    <updated>2020-10-14T00:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-tomato-ketchup-vol-pak-pouch-11-5-l"/>
+    <title>PC - Tomato Ketchup VOL-PAK Pouch - 11.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-tomato-ketchup-vol-pak-pouch-115-l-268996.jpg?v=1611511597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Tomato Ketchup Pouch VOL PAK - 11.5 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pc-ketchup-11-5-l#product","name":"Pc -  Ketchup - 11.5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887522422854","sku":"21BM859","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-ketchup-11-5-l-bulk-mart_356.gif","description":"Pc - Ketchup - 11.5 L.","category":"FOOD","brand":{"@type":"Brand","name":"PC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"21BM859","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"24.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pc-ketchup-11-5-l?variant=19271414153286","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887522422854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>021485</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3927523655750</id>
+    <published>2019-07-09T01:01:36-04:00</published>
+    <updated>2019-07-09T01:01:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-tomato-ketchup-portions-500-x-8-ml"/>
+    <title>PC - Tomato Ketchup Portions - 500 x 8 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-tomato-ketchup-portions-500-x-8-ml-456037.jpg?v=1611512080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Ketchup Portions - 500 x 8 ml</strong></p>
+<p><span><strong>Enjoy the full-flavored, premium quality</strong> taste of tomato ketchup in the form of packets! Perfect for a convenient way for customers to apply ketchup to their food on the go, these packets are an essential addition to any condiment station. Made from mature red ripened tomatoes, ketchup is concentrated and homogenized to a silky smooth texture and blended with just the right amount of spices, giving it a pleasantly sweet yet acidic tomato taste that is highlighted by a touch of aromatic onion and distilled vinegar.<br><br><strong>The exceptionally fine consistency</strong> makes this ketchup ideal for dipping, drizzling, and spreading, and the compact  packet size is an essential feature for take-out and on-the-go customers. Provide these packets on your countertops, tables, and condiment stations as an easy way for your guests to top off their favorite menu items. Whether it's old-fashioned burgers, classic ballpark-style hotdogs, or golden, crispy french fries,  ketchup packets provide the perfect combination of convenience and quality flavor that make them the ideal option for high-volume, fast-paced establishments.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Ketchup</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3927523655750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>015436</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3882165600326</id>
+    <published>2019-06-28T18:49:43-04:00</published>
+    <updated>2019-06-28T18:49:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-ketchup-plastic-jar-2-84-l"/>
+    <title>Heinz - Tomato Ketchup Plastic Jar - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-ketchup-plastic-jar-284-l-437263.jpg?v=1611511182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Big Red Tomato Ketchup Plastic Jar  Resealable 2.84 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. This fancy grade ketchup is also the USDA's highest grade for ketchup, as it has the highest tomato solid concentration in comparison to other grades. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>The large jug is great to use along with a pump</strong> (sold separately) to create perfect portions, or to refill bottles for table service. The jug is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-jar-plastic-2-84-l#product","name":"Heinz -  Ketchup Jar Plastic  - 2.84 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3882165600326","sku":"01BM850","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-jar-plastic-2-84-l-bulk-mart_485.jpg","description":"Heinz - Ketchup Jar Plastic - 2.84 L.","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"},"offers":[{"sku":"01BM850","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-jar-plastic-2-84-l?variant=29226071064646","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3882165600326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>04316</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3882164060230</id>
+    <published>2019-06-28T18:45:55-04:00</published>
+    <updated>2019-06-28T18:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-tomato-ketchup-plastic-jar-6-x-2-84-l"/>
+    <title>Heinz - Tomato Ketchup Plastic Jar - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-tomato-ketchup-plastic-jar-6-x-284-l-925069.jpg?v=1611510763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Big Red Tomato Ketchup Plastic Jar  Resealable - 6 x 2.84 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. This fancy grade ketchup is also the USDA's highest grade for ketchup, as it has the highest tomato solid concentration in comparison to other grades. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes. </span></p>
+<p><span><strong>The large jug is great to use along with a pump</strong> (sold separately) to create perfect portions, or to refill bottles for table service. The jug is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3882164060230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>04787</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531728966</id>
+    <published>2018-11-28T15:08:06-05:00</published>
+    <updated>2018-11-28T15:08:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-prepared-mustard-2-x-4-l"/>
+    <title>Select -  Prepared Mustard - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-prepared-mustard-2-x-4-l-528846.jpg?v=1611514424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Select -  Prepared Mustard - 2 x 4 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this classic yellow mustard jug. Using the finest of ingredients, this mustard is the perfect blend of mustard seed, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices, and natural flavors. The natural ingredients also create the eye-catching bright yellow color sure to appeal to customers. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect, slightly tangy and savory flavor on top of a fresh sandwich, piping hot burger, or freshly grilled hot dog.</span><br><br><span><strong>Best of all, this mustard also contains no artificial colors, flavors, or preservatives.</strong> It's also made with stone ground, #1 grade mustard seeds which are reasonably well-matured, sweet, and provide a good natural color. Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/select-prepared-mustard-2-x-4-l#product","name":"Select -  Prepared Mustard - 2 x 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887531728966","sku":"42BM978","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-prepared-mustard-2-x-4-l-bulk-mart_207.jpg","description":"Select - Prepared Mustard - 2 x 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Select"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"42BM978","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/select-prepared-mustard-2-x-4-l?variant=19271428374598","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531728966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>06569</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887531663430</id>
+    <published>2018-11-28T15:08:05-05:00</published>
+    <updated>2018-11-28T15:08:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/select-prepared-mustard-4-l"/>
+    <title>Select -  Prepared Mustard - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Select</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-prepared-mustard-4-l-799979.jpg?v=1611512198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Select<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Select -  Prepared Mustard - 4 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this classic yellow mustard jug. Using the finest of ingredients, this mustard is the perfect blend of mustard seed, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices, and natural flavors. The natural ingredients also create the eye-catching bright yellow color sure to appeal to customers. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect, slightly tangy and savory flavor on top of a fresh sandwich, piping hot burger, or freshly grilled hot dog.</span><br><br><span><strong>Best of all, this mustard also contains no artificial colors, flavors, or preservatives.</strong> It's also made with stone ground, #1 grade mustard seeds which are reasonably well-matured, sweet, and provide a good natural color. Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/select-prepared-mustard-4-l#product","name":"Select -  Prepared Mustard - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887531663430","sku":"42BM977","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/select-prepared-mustard-4-l-bulk-mart_543.jpg","description":"Select - Prepared Mustard - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Select"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"42BM977","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/select-prepared-mustard-4-l?variant=19271428145222","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887531663430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>03695</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887522586694</id>
+    <published>2018-11-28T15:06:29-05:00</published>
+    <updated>2018-11-28T15:06:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-mustard-4-l"/>
+    <title>PC -  Mustard - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-4-l-141013.jpg?v=1611512313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC -  Mustard - 4 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this classic yellow mustard jug. Using the finest of ingredients, this mustard is the perfect blend of mustard seed, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices, and natural flavors. The natural ingredients also create the eye-catching bright yellow color sure to appeal to customers. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect, slightly tangy and savory flavor on top of a fresh sandwich, piping hot burger, or freshly grilled hot dog.</span><br><br><span><strong>Best of all, this mustard also contains no artificial colors, flavors, or preservatives.</strong> It's also made with stone ground, #1 grade mustard seeds which are reasonably well-matured, sweet, and provide a good natural color. Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pc-mustard-4-l#product","name":"Pc -  Mustard - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887522586694","sku":"08BM976","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-4-l-bulk-mart_257.jpg","description":"Pc - Mustard - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"PC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"08BM976","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pc-mustard-4-l?variant=19271414317126","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887522586694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>0691215</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887522488390</id>
+    <published>2018-11-28T15:06:28-05:00</published>
+    <updated>2018-11-28T15:06:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-mustard-4-x-4-l"/>
+    <title>PC - Mustard - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-4-x-4-l-911940.jpg?v=1611511179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Mustard - 4 x 4 L</strong></p>
+<p><span><strong>Provide guests with the perfectly smooth and tangy condiment</strong> they crave with this classic yellow mustard jug. Using the finest of ingredients, this mustard is the perfect blend of mustard seed, distilled vinegar, salt, turmeric, paprika, garlic powder, other select spices, and natural flavors. The natural ingredients also create the eye-catching bright yellow color sure to appeal to customers. Though yellow mustard tastes milder than other forms of mustard, it still adds the perfect, slightly tangy and savory flavor on top of a fresh sandwich, piping hot burger, or freshly grilled hot dog.</span><br><br><span><strong>Best of all, this mustard also contains no artificial colors, flavors, or preservatives.</strong> It's also made with stone ground, #1 grade mustard seeds which are reasonably well-matured, sweet, and provide a good natural color. Additionally, the large jug holds an ample supply of mustard so that you have enough on hand to serve guests. It's great for refilling bottles for table service and is designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this classic yellow mustard on hand and treat your customers to the classic taste they grew up with and still love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pc-mustard-4-x-l#product","name":"Pc -  Mustard - 4 x 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887522488390","sku":"08BM975","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-mustard-4-x-l-bulk-mart_199.jpg","description":"Pc - Mustard - 4 x 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"PC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"08BM975","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"24.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pc-mustard-4-x-l?variant=19271414218822","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mustard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887522488390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>06315</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887522357318</id>
+    <published>2018-11-28T15:06:27-05:00</published>
+    <updated>2018-11-28T15:06:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-tomato-ketchup-club-pack-4-x-4-l"/>
+    <title>PC - Tomato Ketchup Club Pack - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-tomato-ketchup-club-pack-4-x-4-l-332925.jpg?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Tomato Ketchup Club Pack - 4 x 4 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. condiments are sure to become a beloved staple in your establishment!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pc-ketchup-4-x-l#product","name":"Pc -  Ketchup - 4 x 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887522357318","sku":"03BM853","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-ketchup-4-x-l-bulk-mart_368.jpg","description":"Pc - Ketchup - 4 x 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"PC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"},"offers":[{"sku":"03BM853","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"32.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pc-ketchup-4-x-l?variant=19271414087750","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887522357318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>01545</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887522291782</id>
+    <published>2018-11-28T15:06:26-05:00</published>
+    <updated>2018-11-28T15:06:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-tomato-ketchup-4-l"/>
+    <title>PC - Tomato Ketchup - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-tomato-ketchup-4-l-506925.jpg?v=1611513096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Tomato Ketchup - 4 L</strong></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. condiments are sure to become a beloved staple in your establishment!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887522291782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>02145</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887493324870</id>
+    <published>2018-11-28T15:00:55-05:00</published>
+    <updated>2018-11-28T15:00:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-ketchup-upside-down-squeeze-bottle-575-ml"/>
+    <title>Heinz - Ketchup Upside Down Squeeze Bottle - 575 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-squeeze-bottle-575-ml-342515.jpg?v=1611511836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Ketchup Upside Down Squeeze Bottle - 575 ml</strong><br></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<p><span><strong>The upside down, squeeze-style bottle</strong> also makes it easy for customers to shake and then dispense the perfect amount of ketchup on their food, according to their individual preferences. Ketchup is a time-honored sauce that guests of your concession stand, restaurant, or cafeteria are sure to love!<br></span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-upside-down-575-ml#product","name":"Heinz -  Ketchup Upside Down - 575 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887493324870","sku":"01BM849","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-575-ml-bulk-mart_628.jpg","description":"Heinz - Ketchup Upside Down - 575 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"},"offers":[{"sku":"01BM849","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-upside-down-575-ml?variant=19271366246470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887493324870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>08124</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887493292102</id>
+    <published>2018-11-28T15:00:54-05:00</published>
+    <updated>2018-11-28T15:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-ketchup-upside-down-squeeze-bottle-20-x-575-ml"/>
+    <title>Heinz - Ketchup Upside Down Squeeze Bottle - 20 x 575 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-squeeze-bottle-20-x-575-ml-849439.jpg?v=1611510699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Ketchup Upside Down Squeeze Bottle - 20 x 575 ml</strong><br></p>
+<p><span><strong>Made from fresh-ripened tomatoes</strong> and a special blend of spices, onion powder, and vinegar, this Heinz fancy grade tomato ketchup adds the perfect sweet and slightly tangy flavor to your menu items. Its vibrant red color and sweet, smooth consistency, and juicy taste make it a classic option to dip and enjoy with mild fried foods or to spread on top of sandwiches. From crispy, golden-brown French fries to hearty, old-fashioned burgers, your guests will fall head over heels for this savory condiment.</span><br><br><span><strong>Heinz ketchup is created from premium tomatoes</strong>, grown from a special seed that produces rich tomatoes packed full of nutrients. Heinz ketchup includes essential vitamins, minerals, and lycopene, a healthy antioxidant found in cooked tomatoes.</span></p>
+<p><span><strong>Buy In Bulk</strong> to create perfect portions, or to refill bottles for table service. The is also easy to store as it's designed to easily close for safe storing, eliminating the need to waste time moving product into a different container for storage. Keep this ketchup on hand to make baked beans, marinades, and chili sauce or simply serve it plain to give your customers the condiment they grew up with and still love.</span><br><span></span></p>
+<p><span><strong>Made from high quality ingredients</strong>, you can find their beloved items almost anywhere as they're a great accent to delicious food dishes. Heinz condiments are sure to become a beloved staple in your establishment!</span></p>
+<p><span><strong>The upside down, squeeze-style bottle</strong> also makes it easy for customers to shake and then dispense the perfect amount of ketchup on their food, according to their individual preferences. Ketchup is a time-honored sauce that guests of your concession stand, restaurant, or cafeteria are sure to love!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-ketchup-upside-down-20-x-575-ml#product","name":"Heinz -  Ketchup Upside Down - 20 x 575 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887493292102","sku":"01BM848","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-ketchup-upside-down-20-x-575-ml-bulk-mart_292.jpg","description":"Heinz - Ketchup Upside Down - 20 x 575 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"01BM848","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"41.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-ketchup-upside-down-20-x-575-ml?variant=19271366180934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ketchup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887493292102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>062154</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

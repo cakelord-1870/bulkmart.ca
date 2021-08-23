@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/eggs-yogurt.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-16T00:12:38-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4832910803018</id>
+    <published>2020-11-16T00:12:38-05:00</published>
+    <updated>2020-11-16T00:12:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/spring-creek-all-natural-quail-eggs-18-pack"/>
+    <title>Spring Creek - All Natural Quail Eggs - 18 Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Spring Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/spring-creek-all-natural-quail-eggs-18-pack-686857.jpg?v=1611512075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Spring Creek - All Natural Quail Eggs - 18 Pack</strong></p>
+<p><span>These aren't your typical eggs! Spring Creek's delicious quail eggs come from the happiest hens, raised in a free-run environment without hormones or antibiotics and delivered fresh from our farm to your local store.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Quail Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832910803018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>98275</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832916766794</id>
+    <published>2020-11-16T00:12:37-05:00</published>
+    <updated>2020-11-16T00:12:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gray-ridge-white-medium-eggs-30-pack"/>
+    <title>Gray Ridge - White Medium Eggs - 30 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gray Ridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gray-ridge-white-medium-eggs-30-pack-619040.jpg?v=1611510226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray Ridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Ridge - White Medium Eggs - 30 / Pack</p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh eggs. Mix whole eggs, dairy, salt, pepper, and butter flavor, an egg patty is a classic breakfast food perfect for schools, universities, and buffets. Toast a buttery, flakey croissant and layer on cheddar cheese and an egg patty for a hearty, satisfying addition to your breakfast menu. You can also serve this egg patty with sausage patties for even more flavor and protein.</span><br><br><span><strong>With these fresh eggs,</strong> Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English. With these fresh eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<p><span><strong>With hardcooked eggs</strong>, you'll be able to save time without sacrificing quality. They're a quick and portable snack, yet packed with protein for a healthy fix. Slice or dice them for use on salads, or turn them into appetizers or side dishes for service alongside entrees. They ensure quick service, every time.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832916766794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>98274</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832915259466</id>
+    <published>2020-11-16T00:12:36-05:00</published>
+    <updated>2020-11-16T00:12:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gray-ridge-large-eggs-cartons-1-dozen"/>
+    <title>Gray Ridge - Large Eggs Cartons - 1 Dozen</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gray Ridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gray-ridge-large-eggs-cartons-1-dozen-781794.jpg?v=1611510225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray Ridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Ridge - Large Eggs Cartons - 12 Pack</p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh eggs. Mix whole eggs, dairy, salt, pepper, and butter flavor, an egg patty is a classic breakfast food perfect for schools, universities, and buffets. Toast a buttery, flakey croissant and layer on cheddar cheese and an egg patty for a hearty, satisfying addition to your breakfast menu. You can also serve this egg patty with sausage patties for even more flavor and protein.</span><br><br><span><strong>With these fresh eggs,</strong> Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English. With these fresh eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<p><span><strong>With hardcooked eggs</strong>, you'll be able to save time without sacrificing quality. They're a quick and portable snack, yet packed with protein for a healthy fix. Slice or dice them for use on salads, or turn them into appetizers or side dishes for service alongside entrees. They ensure quick service, every time.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832915259466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>98273</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832912048202</id>
+    <published>2020-11-16T00:12:35-05:00</published>
+    <updated>2020-11-16T00:12:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gray-ridge-extra-large-eggs-loose-180-case"/>
+    <title>Gray Ridge - Extra Large Eggs Loose - 180 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gray Ridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gray-ridge-extra-large-eggs-loose-180-case-652288.jpg?v=1611510192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray Ridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Ridge - Extra Large Eggs Loose - 180 / Case</p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh eggs. Mix whole eggs, dairy, salt, pepper, and butter flavor, an egg patty is a classic breakfast food perfect for K-12 schools, universities, and buffets. Toast a buttery, flakey croissant and layer on cheddar cheese and an egg patty for a hearty, satisfying addition to your breakfast menu. You can also serve this egg patty with sausage patties for even more flavor and protein.</span><br><br><span><strong>With these fresh eggs,</strong> Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English. With these fresh eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<p><span><strong>With hardcooked eggs</strong>, you'll be able to save time without sacrificing quality. They're a quick and portable snack, yet packed with protein for a healthy fix. Slice or dice them for use on salads, or turn them into appetizers or side dishes for service alongside entrees. They ensure quick service, every time.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832912048202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>98271</s:sku>
+      <s:grams>10500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832914407498</id>
+    <published>2020-11-16T00:12:34-05:00</published>
+    <updated>2020-11-16T00:12:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gray-ridge-extra-large-eggs-cartons-1-dozen"/>
+    <title>Gray Ridge - Extra Large Eggs Cartons - 1 Dozen</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gray Ridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gray-ridge-extra-large-eggs-cartons-1-dozen-644726.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray Ridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gray Ridge - Extra Large Eggs Cartons - 12 Pack</p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh eggs. Mix whole eggs, dairy, salt, pepper, and butter flavor, an egg patty is a classic breakfast food perfect for schools, universities, and buffets. Toast a buttery, flakey croissant and layer on cheddar cheese and an egg patty for a hearty, satisfying addition to your breakfast menu. You can also serve this egg patty with sausage patties for even more flavor and protein.</span><br><br><span><strong>With these fresh eggs,</strong> Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English. With these fresh eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<p><span><strong>With hardcooked eggs</strong>, you'll be able to save time without sacrificing quality. They're a quick and portable snack, yet packed with protein for a healthy fix. Slice or dice them for use on salads, or turn them into appetizers or side dishes for service alongside entrees. They ensure quick service, every time.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832914407498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>98272</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825210552394</id>
+    <published>2020-11-05T19:33:06-05:00</published>
+    <updated>2020-11-05T19:33:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-5-9-balkan-yogurt-plain-probiotic-750g"/>
+    <title>Elite - 5.9% Balkan Yogurt Plain Probiotic - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-59-balkan-yogurt-plain-probiotic-750g-795459.jpg?v=1611510460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - 5.9% Balkan Plain Probiotic Yogurt - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg#product","name":"Elite -  5.9% Balkan Style Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478054982","sku":"2BM1116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-5-9-balkan-style-yogurt-10-kg-bulk-mart_384.gif","description":"Elite - 5.9% Balkan Style Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"2BM1116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg?variant=19271336165446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825210552394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>267421</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825209208906</id>
+    <published>2020-11-05T19:33:05-05:00</published>
+    <updated>2020-11-05T19:33:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-original-lactose-free-plain-6-balkan-style-yogurt-650-g"/>
+    <title>Astro - Original Lactose Free Plain 6% Balkan Style Yogurt - 650 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-original-lactose-free-plain-6-balkan-style-yogurt-650-g-113776.jpg?v=1626197996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - 6% Original Yogurt Lactose Free - No Gelatin - 650 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g#product","name":"Astro -  6% Balkan Style Yogurt - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887455838278","sku":"BBM1122","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-6-balkan-style-yogurt-750-g-bulk-mart_890.png","description":"Astro - 6% Balkan Style Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BBM1122","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g?variant=19271287373894","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825209208906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>267498</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825207341130</id>
+    <published>2020-11-05T19:33:04-05:00</published>
+    <updated>2020-11-05T19:33:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-original-6-balkan-lemon-yogurt-650-g"/>
+    <title>Astro - Original 6% Balkan Lemon Yogurt - 650 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-LemonYogurt-650g.jpg?v=1626127742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - Lemon Yogurt - No Gelatin - 650 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g#product","name":"Astro -  6% Balkan Style Yogurt - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887455838278","sku":"BBM1122","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-6-balkan-style-yogurt-750-g-bulk-mart_890.png","description":"Astro - 6% Balkan Style Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BBM1122","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g?variant=19271287373894","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825207341130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>267496</s:sku>
+      <s:grams>650</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825204883530</id>
+    <published>2020-11-05T19:33:04-05:00</published>
+    <updated>2020-11-05T19:33:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-biobest-probiotic-plain-yogurt-750-g"/>
+    <title>Astro - Biobest Probiotic Plain Yogurt - 750 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-BiobestProbioticYogurtLactoseFree-750g..png?v=1626112923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - Biobest Probiotic Yogurt 90% Lactose Free - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g#product","name":"Astro -  6% Balkan Style Yogurt - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887455838278","sku":"BBM1122","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-6-balkan-style-yogurt-750-g-bulk-mart_890.png","description":"Astro - 6% Balkan Style Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BBM1122","weight":{"@type":"QuantitativeValue","unitText":"g","value":"750"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-6-balkan-style-yogurt-750-g?variant=19271287373894","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825204883530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>267491</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825200656458</id>
+    <published>2020-11-05T19:33:03-05:00</published>
+    <updated>2020-11-05T19:33:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-kefir-all-natural-750g"/>
+    <title>Elite - Kefir All Natural - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-kefir-all-natural-750g-140816.jpg?v=1611510937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - Kefir All Natural - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg#product","name":"Elite -  5.9% Balkan Style Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478054982","sku":"2BM1116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-5-9-balkan-style-yogurt-10-kg-bulk-mart_384.gif","description":"Elite - 5.9% Balkan Style Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"2BM1116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg?variant=19271336165446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825200656458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>267422</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825199050826</id>
+    <published>2020-11-05T19:33:02-05:00</published>
+    <updated>2020-11-05T19:33:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-halal-plain-yogurt-0-750g"/>
+    <title>Astro - Halal Plain Yogurt 0% - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro-Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-HalalPlainYogurt0_-750g.jpg?v=1626127686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro-Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - Halal Yogurt Plain 0% - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g#product","name":"Astro - 3 %  Plain Yogurt  - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456133190","sku":"1BM1111","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-3-plain-yogurt-750-g-bulk-mart_547.png","description":"Astro - 3 % Plain Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"1BM1111","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g?variant=19271287767110","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825199050826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>267494</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825198690378</id>
+    <published>2020-11-05T19:33:02-05:00</published>
+    <updated>2020-11-05T19:33:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-halal-2-plain-yogurt-750g"/>
+    <title>Astro - Halal 2% Plain Yogurt - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro-Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-Halal2_PlainYogurt-750g.jpg?v=1626112937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro-Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - Halal 2% Plain Yogurt - 750g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g#product","name":"Astro - 3 %  Plain Yogurt  - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456133190","sku":"1BM1111","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-3-plain-yogurt-750-g-bulk-mart_547.png","description":"Astro - 3 % Plain Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"1BM1111","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g?variant=19271287767110","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825198690378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>267492</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825197510730</id>
+    <published>2020-11-05T19:33:01-05:00</published>
+    <updated>2020-11-05T19:33:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-halal-3-plain-yogurt-750g"/>
+    <title>Astro - Halal 3% Plain Yogurt - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro-Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-Halal3_PlainYogurt-750g.jpg?v=1626127669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro-Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal - 3% Plain Yogurt  - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g#product","name":"Astro - 3 %  Plain Yogurt  - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456133190","sku":"1BM1111","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-3-plain-yogurt-750-g-bulk-mart_547.png","description":"Astro - 3 % Plain Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"1BM1111","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g?variant=19271287767110","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825197510730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>267493</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825196658762</id>
+    <published>2020-11-05T19:33:00-05:00</published>
+    <updated>2020-11-05T19:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/astro-original-1-skim-plain-yogurt-750g"/>
+    <title>Astro - Original 1% Skim Plain Yogurt  - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Astro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Astro-Original1_SkimPlainYogurt-750g.jpg?v=1626127717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Astro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Astro - Original 1% Skim Plain Yogurt  - 750g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g#product","name":"Astro - 3 %  Plain Yogurt  - 750 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887456133190","sku":"1BM1111","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/astro-3-plain-yogurt-750-g-bulk-mart_547.png","description":"Astro - 3 % Plain Yogurt - 750 g.","category":"FOOD","brand":{"@type":"Brand","name":"Astro"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"},"offers":[{"sku":"1BM1111","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/astro-3-plain-yogurt-750-g?variant=19271287767110","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"26"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825196658762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>267495</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825193381962</id>
+    <published>2020-11-05T19:33:00-05:00</published>
+    <updated>2020-11-05T19:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-2-natural-probiotic-yogurt-750g"/>
+    <title>Elite - 2% Natural Probiotic Yogurt - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-2-natural-probiotic-yogurt-750g-548717.jpg?v=1611514313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - 2% Natural Yogurt - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg#product","name":"Elite -  5.9% Balkan Style Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478054982","sku":"2BM1116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-5-9-balkan-style-yogurt-10-kg-bulk-mart_384.gif","description":"Elite - 5.9% Balkan Style Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"2BM1116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg?variant=19271336165446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825193381962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>267407</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825192661066</id>
+    <published>2020-11-05T19:32:59-05:00</published>
+    <updated>2020-11-05T19:32:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-0-1-natural-yogurt-750-g"/>
+    <title>Elite - 0.1% Natural Yogurt - 750 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-01-natural-yogurt-750-g-745524.jpg?v=1611509733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite -  0.1% Natural Yogurt - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg#product","name":"Elite -  5.9% Balkan Style Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478054982","sku":"2BM1116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-5-9-balkan-style-yogurt-10-kg-bulk-mart_384.gif","description":"Elite - 5.9% Balkan Style Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"2BM1116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg?variant=19271336165446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825192661066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>267406</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825188827210</id>
+    <published>2020-11-05T19:32:59-05:00</published>
+    <updated>2020-11-05T19:32:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-3-2-plain-probiotic-yogurt-750g"/>
+    <title>Elite - 3.2% Plain Probiotic Yogurt - 750g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-32-plain-probiotic-yogurt-750g-672020.jpg?v=1611510405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - Probiotic Yogurt 3.2% - 750 g</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/triple-a-pressed-yogurt-5-kg-1#product","name":"Triple A-  Pressed Yogurt - 5 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887448596550","sku":"0BM1120","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/triple-a-pressed-yogurt-5-kg-bulk-mart_555.png","description":"Triple A- Pressed Yogurt - 5 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Triple A"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"0BM1120","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"38.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/triple-a-pressed-yogurt-5-kg-1?variant=19271272890438","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825188827210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>267408</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825188433994</id>
+    <published>2020-11-05T19:32:58-05:00</published>
+    <updated>2020-11-05T19:32:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-pressed-yogurt-2-kg"/>
+    <title>Elite - Pressed Yogurt - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-pressed-yogurt-2-kg-979367.png?v=1611511897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - Pressed Yogurt - 2 Kg</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/triple-a-pressed-yogurt-5-kg-1#product","name":"Triple A-  Pressed Yogurt - 5 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887448596550","sku":"0BM1120","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/triple-a-pressed-yogurt-5-kg-bulk-mart_555.png","description":"Triple A- Pressed Yogurt - 5 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Triple A"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"0BM1120","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"38.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/triple-a-pressed-yogurt-5-kg-1?variant=19271272890438","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825188433994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>267423</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3956020838470</id>
+    <published>2020-11-05T19:32:37-05:00</published>
+    <updated>2020-11-05T19:32:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elegant-5-9-balkan-style-yogurt-10-kg"/>
+    <title>Elegant - 5.9% Balkan Style Yogurt - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elegant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elegant-59-balkan-style-yogurt-10-kg-980893.jpg?v=1611510832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elegant<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant - Halal Balkan Style Yogurt 5.9%  - 10 Kg</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<ul>
+<li>All natural</li>
+<li>Active bacterial cultures</li>
+<li>Halal</li>
+<li>Excellent source of calcium and vitamins</li>
+<li>10 kg</li>
+<li>Keep refrigerated</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elegant-balkan-style-yogurt-5-9-10-kg#product","name":"Elegant -  Balkan Style Yogurt 5.9%  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3956020838470","sku":"9BM1119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elegant-balkan-style-yogurt-5-9-10-kg-bulk-mart_664.jpg","description":"Elegant - Balkan Style Yogurt 5.9% - 10 Kg / All natural / Active bacterial cultures / Halal / Excellent source of calcium and vitamins / 10 kg / Keep refrigerated.","category":"FOOD","brand":{"@type":"Brand","name":"Elegant"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"9BM1119","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elegant-balkan-style-yogurt-5-9-10-kg?variant=29491932627014","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3956020838470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>267403</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887496011846</id>
+    <published>2020-11-05T19:32:36-05:00</published>
+    <updated>2020-11-05T19:32:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hewitts-3-25-whole-plain-yogurt-10-kg"/>
+    <title>Hewitts - 3.25% Whole Plain Yogurt - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hewitts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hewitts-325-whole-plain-yogurt-10-kg-494012.jpg?v=1611510406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hewitts<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hewitts - 3.25% Yogurt Pail - 10 Kg</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hewitts-3-25-yogurt-pail-10-kg#product","name":"Hewitts -  3.25% Yogurt Pail  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887496011846","sku":"7BM1117","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hewitts-3-25-yogurt-pail-10-kg-bulk-mart_825.jpg","description":"Hewitts - 3.25% Yogurt Pail - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Hewitts"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"7BM1117","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hewitts-3-25-yogurt-pail-10-kg?variant=19271370965062","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887496011846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>267432</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887478054982</id>
+    <published>2020-11-05T19:32:35-05:00</published>
+    <updated>2020-11-05T19:32:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg"/>
+    <title>Elite - 5.9% Balkan Style Yogurt - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-59-balkan-style-yogurt-10-kg-801979.jpg?v=1611509734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - 5.9% Balkan Style Yogurt - 10 Kg</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg#product","name":"Elite -  5.9% Balkan Style Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478054982","sku":"2BM1116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-5-9-balkan-style-yogurt-10-kg-bulk-mart_384.gif","description":"Elite - 5.9% Balkan Style Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"2BM1116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-5-9-balkan-style-yogurt-10-kg?variant=19271336165446","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887478054982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>267409</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887477956678</id>
+    <published>2020-11-05T19:32:34-05:00</published>
+    <updated>2020-11-05T19:32:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-3-2-plain-probiotic-yogurt-10-kg"/>
+    <title>Elite -  3.2% Plain Probiotic Yogurt  - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-32-plain-probiotic-yogurt-10-kg-402660.jpg?v=1611509854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elite - 3.2% Plain Yogurt - 10 Kg</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-3-2-plain-yogurt-10-kg#product","name":"Elite -  3.2% Plain Yogurt  - 10 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887477956678","sku":"2BM1121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-3-2-plain-yogurt-10-kg-bulk-mart_505.gif","description":"Elite - 3.2% Plain Yogurt - 10 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Elite"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"},"offers":[{"sku":"2BM1121","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-3-2-plain-yogurt-10-kg?variant=19271336132678","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"3"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887477956678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>267405</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887477891142</id>
+    <published>2020-11-05T19:32:33-05:00</published>
+    <updated>2020-11-05T19:32:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elegant-ayran-yogurt-drink-473-ml"/>
+    <title>Elegant - Ayran Yogurt Drink - 473 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elegant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elegant-ayran-yogurt-drink-473-ml-731515.jpg?v=1611514551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elegant<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elegant - Ayran Yogurt Drink - 473 ml</p>
+<p><span><strong>Supply your cafe, coffee shop, or breakfast bar</strong> with the farm fresh taste of this yogurt drink. Featuring a deliciously creamy, tangy plain flavor, this Grade A yogurt is made with all-natural ingredients and packed full of healthy, protective probiotics.</span></p>
+<p><span><strong>Packaged in a container, this yogurt drink is perfect</strong> for having on-hand to add to your signature smoothie drinks and bowls, breakfast parfaits, or as a healthy option at your breakfast bar.</span></p>
+<p><span><strong>Check our huge selection</strong> of other varieties of yogurt like Probiotic, Plain, Skim Yogurt, Lactose Free Yogurt, Fat Free Yogurt, Balkan Style Yogurt, Pressed Yogurt, Yogurt Drinks, Flavored Yogurt, Halal &amp; regular.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elegant-ayran-yogurt-drink-473-ml#product","name":"Elegant -  Ayran Yogurt Drink  - 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887477891142","sku":"9BM1119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elegant-ayran-yogurt-drink-473-ml-bulk-mart_163.jpg","description":"Elegant - Ayran Yogurt Drink - 473 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Elegant"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"9BM1119","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"1.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elegant-ayran-yogurt-drink-473-ml?variant=19271335608390","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887477891142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>267404</s:sku>
+      <s:grams>473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821500559434</id>
+    <published>2020-11-01T14:48:20-05:00</published>
+    <updated>2020-11-01T14:48:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/egg-solutions-pasteurized-liquid-whole-eggs-20-kg"/>
+    <title>Egg Solutions - Pasteurized Liquid Whole Eggs - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Egg Solutions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/egg-solutions-pasteurized-liquid-whole-eggs-20-kg-661514.jpg?v=1611511053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egg Solutions<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Egg Solutions - Pasteurized Liquid Whole Eggs - 20 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh liquid eggs. These liquid eggs are shell-less and ready to use right out of the container. They are pasteurized and homogenized for safety, and have added citric acid to preserve the natural egg color.</span><br><br><span><strong>With these liquid eggs,</strong> you'll be able to replace the tedious process of cracking and mixing eggs, with a simple pour from the container. Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English so you'll always know exactly how much liquid egg product to use in place of shell eggs. With these liquid eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nature-free-run-eggs-large-size-1-dozen#product","name":"Nature -  Free Run Eggs Large Size - 1 Dozen","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887518359622","sku":"CBM1080","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nature-free-run-eggs-large-size-1-dozen-bulk-mart_441.gif","description":"Nature - Free Run Eggs Large Size - 1 Dozen.","category":"FOOD","brand":{"@type":"Brand","name":"Nature"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"CBM1080","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nature-free-run-eggs-large-size-1-dozen?variant=19271407632454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821500559434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>169784</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821497937994</id>
+    <published>2020-11-01T14:48:20-05:00</published>
+    <updated>2020-11-01T14:48:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/egg-solutions-liquid-whole-eggs-1-kg"/>
+    <title>Egg Solutions - Liquid Whole Eggs - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Egg Solutions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/egg-solutions-liquid-whole-eggs-1-kg-384903.jpg?v=1611512379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Egg Solutions<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Egg Solutions - Liquid Whole Eggs - 1 L</strong></p>
+<p><span><strong>Quickly and easily prepare</strong> scrambled eggs, omelets, and batter, with these fresh liquid eggs. These liquid eggs are shell-less and ready to use right out of the container. They are pasteurized and homogenized for safety, and have added citric acid to preserve the natural egg color.</span><br><br><span><strong>With these liquid eggs,</strong> you'll be able to replace the tedious process of cracking and mixing eggs, with a simple pour from the container. Use them in any recipe that calls for eggs! An easy-to-read conversion chart is printed right on the carton, in English so you'll always know exactly how much liquid egg product to use in place of shell eggs. With these liquid eggs, you'll be able to offer a high protein, low calorie food, without all the labor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nature-free-run-eggs-large-size-1-dozen#product","name":"Nature -  Free Run Eggs Large Size - 1 Dozen","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887518359622","sku":"CBM1080","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nature-free-run-eggs-large-size-1-dozen-bulk-mart_441.gif","description":"Nature - Free Run Eggs Large Size - 1 Dozen.","category":"FOOD","brand":{"@type":"Brand","name":"Nature"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"CBM1080","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nature-free-run-eggs-large-size-1-dozen?variant=19271407632454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eggs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821497937994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>169783</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/dried-beans-lentils.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-10T10:12:04-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4799323635786</id>
+    <published>2020-10-10T10:12:04-04:00</published>
+    <updated>2020-10-10T10:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-green-lentils-laird-1-5-kg-1"/>
+    <title>Clic - Green Lentils LAIRD #1 - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-green-lentils-laird-1-5-kg-139169.jpg?v=1611509800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Green Lentils LAIRD #1 lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799323635786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>265499</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799320457290</id>
+    <published>2020-10-10T10:12:02-04:00</published>
+    <updated>2020-10-10T10:12:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-brown-lentil-masoor-whole-5-kg"/>
+    <title>Clic - Whole Brown Lentils - Masoor Whole - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-whole-brown-lentils-masoor-whole-5-kg-611540.jpg?v=1611512673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Brown Lentil Masoor Whole lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799320457290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>984589</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799345590346</id>
+    <published>2020-10-10T00:35:03-04:00</published>
+    <updated>2020-10-10T00:35:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dried-black-eye-beans-10-kg"/>
+    <title>Dried Black Eye Beans - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/shashi-dried-black-eye-beans-10-kg-943511.jpg?v=1611512849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried black eye peas will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These dried black eye peas are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use this box of black eye peas to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs#product","name":"Nupak - Pinto Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup10BM3282","sku":"0BM3282","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-pinto-beans-10-lbs-bulk-mart_513.jpg","description":"Nupak - Pinto Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"21"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Pinto Beans - 10 Lbs","sku":"0BM3282","mpn":"Nup10BM3282","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs?variant=20604623388742","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799345590346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>15488</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799343853642</id>
+    <published>2020-10-10T00:35:02-04:00</published>
+    <updated>2020-10-10T00:35:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-soya-beans-5-kg"/>
+    <title>Clic - Dried Soya Beans  - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-soya-beans-5-kg-413181.jpg?v=1611509860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Soya Beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Soybeans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs#product","name":"Nupak - Navy Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup08BM3280","sku":"8BM3280","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-navy-beans-10-lbs-bulk-mart_171.jpg","description":"Nupak - Navy Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Navy Beans - 10 Lbs","sku":"8BM3280","mpn":"Nup08BM3280","@type":"Offer","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs?variant=20604623126598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799343853642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>45478</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799343329354</id>
+    <published>2020-10-10T00:35:00-04:00</published>
+    <updated>2020-10-10T00:35:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-large-lima-beans-5-kg"/>
+    <title>Clic - Dried Large Lima Beans  - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-large-lima-beans-5-kg-288234.jpg?v=1611511126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Large Lima Beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs#product","name":"Nupak - Navy Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup08BM3280","sku":"8BM3280","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-navy-beans-10-lbs-bulk-mart_171.jpg","description":"Nupak - Navy Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Navy Beans - 10 Lbs","sku":"8BM3280","mpn":"Nup08BM3280","@type":"Offer","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs?variant=20604623126598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799343329354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>95478</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799342182474</id>
+    <published>2020-10-10T00:34:59-04:00</published>
+    <updated>2020-10-10T00:34:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-romano-beans-5-kg"/>
+    <title>Clic - Dried Romano Beans / Cranberry Beans - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-romano-beans-cranberry-beans-5-kg-321836.jpg?v=1611509432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Romano Beans / Cranberry Beans</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<p><span>It is also known as the </span><b>cranberry bean</b><span>, </span><b>Roman bean</b><span>, </span><b>romano bean</b><span> (not to be confused with the Italian flat </span><b>bean</b><span>, a green </span><b>bean</b><span> also called "</span><b>romano bean</b><span>"), saluggia </span><b>bean</b><span>, gadhra </span><b>bean</b><span> or rosecoco </span><b>bean</b><span>. The </span><b>bean</b><span> is a medium to large tan or hazelnut-colored </span><b>bean</b><span> splashed or streaked with red, magenta or black.</span></p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs#product","name":"Nupak - Pinto Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup10BM3282","sku":"0BM3282","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-pinto-beans-10-lbs-bulk-mart_513.jpg","description":"Nupak - Pinto Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"21"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Pinto Beans - 10 Lbs","sku":"0BM3282","mpn":"Nup10BM3282","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs?variant=20604623388742","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799342182474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>21654</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799341887562</id>
+    <published>2020-10-10T00:34:58-04:00</published>
+    <updated>2020-10-10T00:34:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dried-dried-pinto-beans-10-kg"/>
+    <title>Dried Dried Pinto Beans - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/shashi-dried-dried-pinto-beans-10-kg-552279.jpg?v=1611512196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried pinto beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="expanded-img expanded-large lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/products/large/26470/156538.jpg" data-mce-src="https://cdnimg.webstaurantstore.com/images/products/large/26470/156538.jpg"></div>
+<div class="template-text">
+<p itemprop="description">These dried pinto beans are easy to prepare and add to any dish. Use these beans to create a variety of authentic Mexican or Southwestern-inspired dishes, including tacos and burritos. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these pinto beans!</p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After soaking and boiling them, serve these pinto beans alongside rice, mashed into refried beans for burritos, or served with a variety of meats and spices. You can even enrich their flavor by soaking them in a hearty barbecue sauce or in a zesty and savory chili.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in protein and iron, these pinto beans are a fantastic, low-calorie, low-fat option for health-conscious consumers. They're low-sodium, cholesterol free, and packaged with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried pinto beans may take longer to cook and require a soaking process, they have many advantages. While canned beans may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs#product","name":"Nupak - Pinto Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup10BM3282","sku":"0BM3282","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-pinto-beans-10-lbs-bulk-mart_513.jpg","description":"Nupak - Pinto Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"21"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Pinto Beans - 10 Lbs","sku":"0BM3282","mpn":"Nup10BM3282","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs?variant=20604623388742","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799341887562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>48780</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799338479690</id>
+    <published>2020-10-10T00:34:57-04:00</published>
+    <updated>2020-10-10T00:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-extra-large-fava-beans-5-kg"/>
+    <title>Clic - Dried Extra Large Fava Beans - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-extra-large-fava-beans-5-kg-150432.jpg?v=1611509378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Extra Large Fava Beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fava-beans-55-lbs#product","name":"Fava Beans - 55 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887547129926","sku":"6BM1133","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fava-beans-55-lbs-bulk-mart_478.jpg","description":"Fava Beans - 55 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"(blank)"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"},"offers":[{"sku":"6BM1133","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fava-beans-55-lbs?variant=19271455866950","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799338479690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>12547</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799331696714</id>
+    <published>2020-10-10T00:34:56-04:00</published>
+    <updated>2020-10-10T00:34:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/clic-white-kidney-beans-5-kg"/>
+    <title>Clic - Dried White Kidney Beans - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-white-kidney-beans-5-kg-928231.jpg?v=1611509376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried White Kidney Beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-kidney-beans-10-lbs#product","name":"Red Kidney Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"3925432303686","sku":"0BM1134","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-kidney-beans-10-lbs-bulk-mart_756.jpg","description":"Black Eyed Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"gtin14":"DaalB110BM1134","offers":[{"name":"Red Kidney Beans - 10 Lbs","sku":"0BM1134","gtin14":"DaalB110BM1134","@type":"Offer","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-kidney-beans-10-lbs?variant=29376640319558","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799331696714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>25689</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887549915206</id>
+    <published>2020-10-10T00:34:54-04:00</published>
+    <updated>2020-10-10T00:34:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/moth-bean-55-lbs"/>
+    <title>Dried Moth Bean Bulk  - 55 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-moth-bean-bulk-55-lbs-901994.jpg?v=1611509671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Moth Beans</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<p><span>Vigna aconitifolia is a drought-resistant legume, commonly grown in arid and semi-arid regions of India. It is commonly called mat bean, moth bean, matki, Turkish gram or dew bean. The pods, sprouts and protein-rich seeds of this crop are commonly consumed in India.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/moth-bean-55-lbs#product","name":"Moth Bean  - 55 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887549915206","sku":"5BM1153","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/moth-bean-55-lbs-bulk-mart_342.jpg","description":"Moth Bean - 55 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"(blank)"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"5BM1153","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55"},"mpn":"","priceCurrency":"CAD","price":"79.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/moth-bean-55-lbs?variant=19271459995718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887549915206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>003320</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4666799652938</id>
+    <published>2020-07-03T15:57:52-04:00</published>
+    <updated>2020-07-03T15:57:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/green-lentils-laird-22-lbs"/>
+    <title>Clic - Green Lentils LAIRD #1 - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-green-lentils-laird-1-10-kg-514573.jpg?v=1611510408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Green Lentils LAIRD #1 lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4666799652938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>95566</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4630242656330</id>
+    <published>2020-06-08T06:35:50-04:00</published>
+    <updated>2020-06-08T06:35:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-soya-granules-44-lbs"/>
+    <title>SmartChoice - Soya Granules - 44 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-soya-granules-44-lbs-148757.png?v=1611514490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b data-mce-fragment="1">SmartChoice - Soya Granules, Chura, Keema - 44 Lbs</b></p>
+<p><b data-mce-fragment="1">Soy granules</b><span data-mce-fragment="1"> look like tiny pellets, about the size of a cake decorating sprinkle. They are an excellent natural source of </span><b data-mce-fragment="1">soy</b><span data-mce-fragment="1"> proteins, which can be used as a vegetarian, healthy and economical meat substitute. They help include the goodness of </span><b data-mce-fragment="1">soy</b><span data-mce-fragment="1"> into your everyday diet, in tasty and interesting ways.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soya</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4630242656330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>77410</s:sku>
+      <s:grams>20865</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4569958940746</id>
+    <published>2020-04-27T17:26:24-04:00</published>
+    <updated>2020-04-27T17:26:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dried-light-red-kidney-beans-50-lbs"/>
+    <title>Dried Light Red Kidney Beans - 50 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-light-red-kidney-beans-55-lbs-194364.jpg?v=1611510224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            76.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried light red kidney beans / Rajma will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These dried light red kidney beans are easy to prepare and add to any dish. These beans have a meaty and hearty consistency with a refreshingly mild taste that makes a great accompaniment to many meals, including a variety of hot and cold dishes. Filling and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these beans!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. Add these kidney beans to soups, stews, and chili, or make a healthy and delicious cold bean salad. Kidney beans are an excellent ingredient for adding subtle flavors and textures to a variety of foods, and their distinctive shape and light red color add appeal to your food presentation.</p>
+<div class="detail-section textimage-left-template">
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/products/large/12694/944462.jpg" data-mce-src="https://cdnimg.webstaurantstore.com/images/products/large/12694/944462.jpg"></div>
+<div class="template-text">
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and protein, these kidney beans are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+</div>
+</div>
+</div>
+<div class="detail-section textimage-right-template">
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/expanded-descriptions/1/2/12694/c76e1545-a8d9-7318-ba1441145e73e9ee.jpg" data-mce-src="https://cdnimg.webstaurantstore.com/images/expanded-descriptions/1/2/12694/c76e1545-a8d9-7318-ba1441145e73e9ee.jpg"></div>
+<div class="template-text">
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans may take longer to cook and require a soaking process, they have many advantages. While canned beans may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store. Use this box of kidney beans to expand your menu selection and create healthier dish options!</p>
+</div>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-kidney-beans-55-lbs#product","name":"Red Kidney Beans - 55 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"4569958940746","sku":"0BM1134","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-kidney-beans-55-lbs-bulk-mart-615.jpg","description":"Red Kidney Beans - 55 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"22"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55"},"gtin14":"DaalB110BM1134","offers":[{"name":"Red Kidney Beans - 55 Lbs","sku":"0BM1134","gtin14":"DaalB110BM1134","@type":"Offer","priceCurrency":"CAD","price":"89.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-kidney-beans-55-lbs?variant=31997070540874","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4569958940746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">76.99</s:price>
+      <s:sku>57488</s:sku>
+      <s:grams>24948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4522080763978</id>
+    <published>2020-03-05T14:40:42-05:00</published>
+    <updated>2020-03-05T14:40:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toor-daal-yellow-lentils-10-lbs"/>
+    <title>Yellow Split Pigeon Peas - Toor Dal - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yellow-split-pigeon-peas-toor-dal-10-lbs-254211.jpg?v=1611513454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of Toor Dal - Yellow Split Pigeon Peas lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/toor-daal-yellow-lentils-10-lbs#product","name":"Toor Daal - Yellow Lentils - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"DaalT155BM51119","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toor-daal-yellow-lentils-10-lbs-bulk-mart_932.jpg","description":"Toor Daal - Yellow Lentils - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"36"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Toor Daal - Yellow Lentils - 10 Lbs","sku":"BM51119","mpn":"DaalT155BM51119","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/toor-daal-yellow-lentils-10-lbs?variant=31810431057994","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4522080763978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>003348</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4499213287498</id>
+    <published>2020-02-06T19:43:58-05:00</published>
+    <updated>2020-02-06T19:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pinto-beans-bulk-50-lbs"/>
+    <title>Clic - Dried Pinto Beans - 50 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-pinto-beans-50-lbs-375508.jpg?v=1611509436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried pinto beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="expanded-img expanded-large lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/products/large/26470/156538.jpg" data-mce-src="https://cdnimg.webstaurantstore.com/images/products/large/26470/156538.jpg"></div>
+<div class="template-text">
+<p itemprop="description">These dried pinto beans are easy to prepare and add to any dish. Use these beans to create a variety of authentic Mexican or Southwestern-inspired dishes, including tacos and burritos. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these pinto beans!</p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After soaking and boiling them, serve these pinto beans alongside rice, mashed into refried beans for burritos, or served with a variety of meats and spices. You can even enrich their flavor by soaking them in a hearty barbecue sauce or in a zesty and savory chili.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in protein and iron, these pinto beans are a fantastic, low-calorie, low-fat option for health-conscious consumers. They're low-sodium, cholesterol free, and packaged with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried pinto beans may take longer to cook and require a soaking process, they have many advantages. While canned beans may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pinto-beans-bulk-50-lbs#product","name":"Pinto Beans Bulk - 50 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup10BM3282","sku":"0BM3282","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pinto-beans-bulk-50-lbs-mart-247.jpg","description":"Pinto Beans Bulk - 50 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"offers":[{"name":"Pinto Beans Bulk - 50 Lbs","sku":"0BM3282","mpn":"Nup10BM3282","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pinto-beans-bulk-50-lbs?variant=31738896580682","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4499213287498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>32655</s:sku>
+      <s:grams>24040</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3925432303686</id>
+    <published>2019-07-06T12:02:20-04:00</published>
+    <updated>2019-07-06T12:02:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-kidney-beans-10-lbs"/>
+    <title>Dried Light Red Kidney Beans - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-light-red-kidney-beans-10-lbs-624371.jpg?v=1611510934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried light red kidney beans / Rajma will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These dried light red kidney beans are easy to prepare and add to any dish. These beans have a meaty and hearty consistency with a refreshingly mild taste that makes a great accompaniment to many meals, including a variety of hot and cold dishes. Filling and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these beans!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. Add these kidney beans to soups, stews, and chili, or make a healthy and delicious cold bean salad. Kidney beans are an excellent ingredient for adding subtle flavors and textures to a variety of foods, and their distinctive shape and light red color add appeal to your food presentation.</p>
+<div class="detail-section textimage-left-template">
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/products/large/12694/944462.jpg"></div>
+<div class="template-text">
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and protein, these kidney beans are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+</div>
+</div>
+</div>
+<div class="detail-section textimage-right-template">
+<div class="flex-container">
+<div class="template-image exp-crop-padding" aria-hidden="true"><img class="lazyLoad b-loaded" src="https://cdnimg.webstaurantstore.com/images/expanded-descriptions/1/2/12694/c76e1545-a8d9-7318-ba1441145e73e9ee.jpg"></div>
+<div class="template-text">
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans may take longer to cook and require a soaking process, they have many advantages. While canned beans may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store. Use this box of kidney beans to expand your menu selection and create healthier dish options!</p>
+</div>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-kidney-beans-10-lbs#product","name":"Red Kidney Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"3925432303686","sku":"0BM1134","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-kidney-beans-10-lbs-bulk-mart_756.jpg","description":"Black Eyed Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"gtin14":"DaalB110BM1134","offers":[{"name":"Red Kidney Beans - 10 Lbs","sku":"0BM1134","gtin14":"DaalB110BM1134","@type":"Offer","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-kidney-beans-10-lbs?variant=29376640319558","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3925432303686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>003319</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3925429420102</id>
+    <published>2019-07-06T11:59:06-04:00</published>
+    <updated>2019-07-06T11:59:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/urad-beans-whole-10-lbs"/>
+    <title>Dried Black Beans Urad Whole - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-black-beans-urad-whole-10-lbs-445104.jpg?v=1611509624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Black Beans</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<p><span>Vigna mungo, the black gram, urad bean, minapa pappu, mungo bean or black matpe bean.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/urad-beans-whole-55-lbs#product","name":"Urad Beans Whole - 55 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068163100742","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/urad-beans-whole-55-lbs-bulk-mart_478.jpg","description":"Urad Beans Whole - 55 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"},"offers":[{"sku":"BM51119","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55.0009"},"mpn":"","priceCurrency":"CAD","price":"83.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/urad-beans-whole-55-lbs?variant=20739018653766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3925429420102</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>003316</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3925428797510</id>
+    <published>2019-07-06T11:57:34-04:00</published>
+    <updated>2019-07-06T11:57:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/urad-washed-lentil-10-lb"/>
+    <title>White Split Lentils - Urad Washed Dal- 10 Lb.</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-split-lentils-urad-washed-dal-10-lb-200835.jpg?v=1611514188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried White Split Lentils - Urad Dal Washed lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils (Dal Mash) are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/urad-washed-lentil-10-lb#product","name":"Urad Washed Lentil - 10 Lb.","itemCondition":"https://schema.org/NewCondition","mpn":"3925428797510","sku":"OBM1154","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/urad-washed-lentil-10-lb-bulk-mart_220.jpg","description":"Urad Washed Lentil - 10 Lb....","category":"FOOD","brand":{"@type":"Brand","name":"(blank)"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"28"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"gtin14":"DaalM41OBM1154","offers":[{"name":"Urad Washed Lentil - 10 Lb.","sku":"OBM1154","gtin14":"DaalM41OBM1154","@type":"Offer","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/urad-washed-lentil-10-lb?variant=29376616857670","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3925428797510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>003344</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2068163100742</id>
+    <published>2019-05-11T16:54:57-04:00</published>
+    <updated>2019-05-11T16:54:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/urad-beans-whole-55-lbs"/>
+    <title>Dried Black Beans Urad Whole - 55 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-black-beans-urad-whole-55-lbs-671931.jpg?v=1611509740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Black Beans</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<p><span>Vigna mungo, the black gram, urad bean, minapa pappu, mungo bean or black matpe bean.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/urad-beans-whole-55-lbs#product","name":"Urad Beans Whole - 55 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068163100742","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/urad-beans-whole-55-lbs-bulk-mart_478.jpg","description":"Urad Beans Whole - 55 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"},"offers":[{"sku":"BM51119","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55.0009"},"mpn":"","priceCurrency":"CAD","price":"83.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/urad-beans-whole-55-lbs?variant=20739018653766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2068163100742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>15488</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2068162216006</id>
+    <published>2019-05-11T16:48:58-04:00</published>
+    <updated>2019-05-11T16:48:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toor-daal-yellow-lentils-55-lbs"/>
+    <title>Yellow Split Pigeon Peas - Toor Dal - 55 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/yellow-split-pigeon-peas-toor-dal-55-lbs-385715.jpg?v=1611512559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            81.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of Toor Dal - Yellow Split Pigeon Peas lentil will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/toor-daal-yellow-lentils-55-lbs#product","name":"Toor Daal - Yellow Lentils - 55 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"DaalT155BM51119","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toor-daal-yellow-lentils-55-lbs-bulk-mart_958.jpg","description":"Toor Daal - Yellow Lentils - 55 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"39"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55.0009"},"offers":[{"name":"Toor Daal - Yellow Lentils - 55 Lbs","sku":"BM51119","mpn":"DaalT155BM51119","@type":"Offer","priceCurrency":"CAD","price":"76.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/toor-daal-yellow-lentils-55-lbs?variant=20739014164550","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2068162216006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku>003349</s:sku>
+      <s:grams>25855</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2068159463494</id>
+    <published>2019-05-11T16:39:56-04:00</published>
+    <updated>2019-05-11T16:39:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/urad-gota-whole-white-lentils-without-skin"/>
+    <title>Whole White Lentils / Urad Gota - Whole Urad Dal - 55 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whole-white-lentils-urad-gota-whole-urad-dal-55-lbs-295009.png?v=1611512134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Urad Gota - Whole Urad Dal/Lentil White Without skin will allow you to create satisfying, signature meals that your customers are sure to love!</h2>
+<p><span>These dried lentils are easy to prepare and add to any dish. With a sweet, nutty flavor, they can be used as a protein substitute for meat to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these lentils!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus.They have proper<span> </span>cooking time like other lentils, and tend to quickly become soft, making them an ideal thickening agent for soups and stews.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in fiber and vitamin B, these lentils are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste.</p>
+<h3 class="item-header">Advantages Over Canned</h3>
+<p>Although dried lentils may take longer to cook and require a soaking process, they have many advantages. While canned may seem either too firm or too mushy, your staff can control the firmness of the lentils as they cook them. Plus, they're cost-effective and easy to store. Use lentils to expand your menu selection and create healthier dish options!</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/urad-gota-whole-white-lentils-without-skin#product","name":"Urad Gota - Whole White Lentils Without skin","itemCondition":"https://schema.org/NewCondition","mpn":"DaalU155BM51119","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/urad-gota-whole-white-lentils-without-skin-bulk-mart_989.jpg","description":"Urad Gota - Whole White Lentils Without skin...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"28"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"55.0009"},"offers":[{"name":"Urad Gota - Whole White Lentils Without skin","sku":"BM51119","mpn":"DaalU155BM51119","@type":"Offer","priceCurrency":"CAD","price":"78.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/urad-gota-whole-white-lentils-without-skin?variant=20739010527302","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lentils</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2068159463494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>003347</s:sku>
+      <s:grams>25855</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037508800582</id>
+    <published>2019-03-31T23:17:57-04:00</published>
+    <updated>2019-03-31T23:17:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-pinto-beans-10-lbs"/>
+    <title>Clic - Dried Pinto Beans - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-pinto-beans-5-kg-673200.jpg?v=1611509435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried pinto beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<div class="flex-container">
+<div aria-hidden="true" class="template-image exp-crop-padding"><img src="https://cdnimg.webstaurantstore.com/images/products/large/26470/156538.jpg" class="expanded-img expanded-large lazyLoad b-loaded"></div>
+<div class="template-text">
+<p itemprop="description">These dried pinto beans are easy to prepare and add to any dish. Use these beans to create a variety of authentic Mexican or Southwestern-inspired dishes, including tacos and burritos. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these pinto beans!</p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After soaking and boiling them, serve these pinto beans alongside rice, mashed into refried beans for burritos, or served with a variety of meats and spices. You can even enrich their flavor by soaking them in a hearty barbecue sauce or in a zesty and savory chili.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in protein and iron, these pinto beans are a fantastic, low-calorie, low-fat option for health-conscious consumers. They're low-sodium, cholesterol free, and packaged with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried pinto beans may take longer to cook and require a soaking process, they have many advantages. While canned beans may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs#product","name":"Nupak - Pinto Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup10BM3282","sku":"0BM3282","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-pinto-beans-10-lbs-bulk-mart_513.jpg","description":"Nupak - Pinto Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"21"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Pinto Beans - 10 Lbs","sku":"0BM3282","mpn":"Nup10BM3282","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-pinto-beans-10-lbs?variant=20604623388742","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037508800582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>12654</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037508767814</id>
+    <published>2019-03-31T23:17:56-04:00</published>
+    <updated>2019-03-31T23:17:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-pigeon-peas-10-lbs"/>
+    <title>Clic - Dried Pigeon Peas  - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-pigeon-peas-5-kg-727328.jpg?v=1611509433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Pigeon Peas</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037508767814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>003314</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037508702278</id>
+    <published>2019-03-31T23:17:53-04:00</published>
+    <updated>2019-03-31T23:17:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-navy-beans-10-lbs"/>
+    <title>Clic - Dried Navy White Beans  - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Clic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/clic-dried-navy-white-beans-5-kg-764516.jpg?v=1611510520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clic<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried Navy White Beans will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs#product","name":"Nupak - Navy Beans - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Nup08BM3280","sku":"8BM3280","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-navy-beans-10-lbs-bulk-mart_171.jpg","description":"Nupak - Navy Beans - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Nupak - Navy Beans - 10 Lbs","sku":"8BM3280","mpn":"Nup08BM3280","@type":"Offer","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-navy-beans-10-lbs?variant=20604623126598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037508702278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>65690</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887549882438</id>
+    <published>2018-11-28T15:11:11-05:00</published>
+    <updated>2018-11-28T15:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/moth-bean-10-lbs"/>
+    <title>Dried Moth Beans Bulk - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dried-moth-beans-bulk-10-lbs-929389.jpg?v=1611509739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">This bulk supply of dried<span> Moth Beans</span> will allow you to create satisfying, signature meals that your customers are sure to love.</h2>
+<p><span>These Beans are easy to prepare and add to any dish. While commonly used for southern-style recipes, they can be used as a protein substitute for meat in soups, salsas, and gumbo to accommodate vegetarian guests. Bursting with flavor and nutritionally rich, they're sure to be a hit at your salad bar, restaurant, or catered event. Bring home-style meals to the table with these peas!</span></p>
+<h3 class="item-header">Enhances Your Menu</h3>
+<p>These legumes are perfect for enhancing buffet and restaurant menus. After rinsing and boiling them, simply toss them on top of leafy lettuce with a drizzle of dressing for a refreshing salad, bake them for a creamy side dish, or stir them into a sauce and layer it on a portion of noodles for a meatless alternative to traditional pasta.</p>
+<h3 class="item-header">A Nutritious Option</h3>
+<p>Rich in potassium, fiber, zinc, and vitamin A, these black eye peas are a great, low-calorie, low-fat option for health-conscious consumers. They're cholesterol free and boxed with no additives or preservatives, ensuring a fresh flavor and homegrown taste. Use these beans to expand your menu selection and create healthier dish options!</p>
+<h3 class="item-header">Advantages Over Canned Beans</h3>
+<p>Although dried beans and peas may take longer to cook and require a soaking process, they have many advantages. While canned peas may seem either too firm or too mushy, your staff can control the firmness of the beans as they cook them. Plus, they're cost-effective and easy to store.</p>
+<p><span>Vigna aconitifolia is a drought-resistant legume, commonly grown in arid and semi-arid regions of India. It is commonly called mat bean, moth bean, matki, Turkish gram or dew bean. The pods, sprouts and protein-rich seeds of this crop are commonly consumed in India.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/moth-bean-10-lbs#product","name":"Moth Bean - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"1887549882438","sku":"0BM1152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/moth-bean-10-lbs-bulk-mart_339.jpg","description":"Moth Bean - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"(blank)"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"26"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"gtin14":"DaalM310BM1152","offers":[{"name":"Moth Bean - 10 Lbs","sku":"0BM1152","gtin14":"DaalM310BM1152","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/moth-bean-10-lbs?variant=19271459897414","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Beans</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887549882438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>003321</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+</feed>

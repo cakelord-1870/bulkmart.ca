@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/tetra-pack.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-23T14:22:56-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4773707415626</id>
+    <published>2020-09-23T14:22:56-04:00</published>
+    <updated>2020-09-23T14:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/del-monte-mango-nector-tetra-pack"/>
+    <title>Del Monte - Mango Nectar - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Del Monte</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/del-monte-mango-nectar-960-ml-201505.jpg?v=1611509676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Del Monte<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/del-monte-mango-nector-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong>Mango Nectar!</strong></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">Bursting with tropical fruit taste, these Del Monte nectars provide delicious refreshment sure to please the whole family. They also add the perfect touch to summer cocktails and festive drinks.<br data-mce-fragment="1">•Made with mango purée<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product from Canada</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Del Monte</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773707415626</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>215484</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773707415626</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>125245</s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773706924106</id>
+    <published>2020-09-23T14:22:55-04:00</published>
+    <updated>2020-09-23T14:22:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/del-monte-guava-nector-tetra-pack"/>
+    <title>Del Monte - Guava Nectar - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Del Monte</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/del-monte-guava-nectar-960-ml-545149.jpg?v=1611512730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Del Monte<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/del-monte-guava-nector-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong>Guava Nectar</strong></div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">Bursting with tropical fruit taste, these Del Monte nectars provide delicious refreshment sure to please the whole family. They also add the perfect touch to summer cocktails and festive drinks.<br data-mce-fragment="1">•Made with guava purée<br data-mce-fragment="1">•Natural flavour<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product from Canada</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Del Monte</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773706924106</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>21545</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773706924106</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>21558</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773673893962</id>
+    <published>2020-09-23T13:00:15-04:00</published>
+    <updated>2020-09-23T13:00:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-cranberry-cocktail-tetra-pack"/>
+    <title>Allen&apos;s - Cranberry Cocktail - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-CranberryCocktail1L.png?v=1623987105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49 - 17.99
+            <a href="https://bulkmart.ca/products/allens-cranberry-cocktail-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673893962</id>
+      <title>1 L</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>54899</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673893962</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>48999</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773673795658</id>
+    <published>2020-09-23T13:00:13-04:00</published>
+    <updated>2020-09-23T13:00:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-peach-cocktail-tetra-pack"/>
+    <title>Allen&apos;s - Peach Cocktail - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-PeachCocktail-1L.jpg?v=1623987199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49 - 17.99
+            <a href="https://bulkmart.ca/products/allens-peach-cocktail-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673795658</id>
+      <title>1 L</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>489991</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673795658</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>154849</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773673336906</id>
+    <published>2020-09-23T13:00:12-04:00</published>
+    <updated>2020-09-23T13:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-fruit-punch-juice-tetra-pack"/>
+    <title>Allen&apos;s - Fruit Punch - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-FruitPunch-1L.jpg?v=1623987137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49 - 17.99
+            <a href="https://bulkmart.ca/products/allens-fruit-punch-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673336906</id>
+      <title>1 L</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>598992</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773673336906</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>235469</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773667897418</id>
+    <published>2020-09-23T13:00:11-04:00</published>
+    <updated>2020-09-23T13:00:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-apple-juice-1-l"/>
+    <title>Allen&apos;s - 100% Apple Juice - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-100_AppleJuice1L.jpg?v=1623987014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49 - 17.99
+            <a href="https://bulkmart.ca/products/allens-apple-juice-1-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong>Allen's Tradition of quality!</strong><br data-mce-fragment="1">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773667897418</id>
+      <title>1 L</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>212154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773667897418</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>154899</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690377244746</id>
+    <published>2020-09-23T13:00:09-04:00</published>
+    <updated>2020-09-23T13:00:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-fruit-punch-8-x-200-ml"/>
+    <title>Allen&apos;s - Fruit Punch - 8 x 200 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-FruitPunch-8x200ml.jpg?v=1623987171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99 - 11.99
+            <a href="https://bulkmart.ca/products/allens-fruit-punch-8-x-200-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690377244746</id>
+      <title>8 x 200 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>124498</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690377244746</id>
+      <title>32 x 200 ml</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>1254878</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690359943242</id>
+    <published>2020-09-23T13:00:08-04:00</published>
+    <updated>2020-09-23T13:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-peach-cocktail-8-x-200-ml"/>
+    <title>Allen&apos;s - Peach Cocktail - 8 x 200 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-PeachCocktail-8x200ml.jpg?v=1623987228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99 - 11.99
+            <a href="https://bulkmart.ca/products/allens-peach-cocktail-8-x-200-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690359943242</id>
+      <title>8 x 200 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>121549</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690359943242</id>
+      <title>32 x 200 ml</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>125458</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690351030346</id>
+    <published>2020-09-23T13:00:07-04:00</published>
+    <updated>2020-09-23T13:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-apple-juice-8-x-200-ml"/>
+    <title>Allen&apos;s - Apple Juice - 8 x 200 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/allens-apple-juice-8-x-200-ml-807324.jpg?v=1623994746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 11.99
+            <a href="https://bulkmart.ca/products/allens-apple-juice-8-x-200-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <strong style="font-size: 1.4em;">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690351030346</id>
+      <title>8 x 200 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>48899</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690351030346</id>
+      <title>32 x 200 ml</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>45487</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4690343919690</id>
+    <published>2020-09-23T13:00:05-04:00</published>
+    <updated>2020-09-23T13:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-strawberry-banana-cocktail-8-x-200-ml"/>
+    <title>Allen&apos;s - Strawberry Banana Cocktail - 8 x 200 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/allens-strawberry-banana-cocktail-8-x-200-ml-769432.jpg?v=1624068871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99 - 11.99
+            <a href="https://bulkmart.ca/products/allens-strawberry-banana-cocktail-8-x-200-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> <strong data-mce-fragment="1">Allen's Tradition of quality!</strong></p>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Allen’s has been one of Canada’s favourite fruit juice brands for more than 80 years! Loved for its delicious and authentic apple flavour, this Ontario-born product has become a staple in the pantries of families all across the country.<br data-mce-fragment="1"><br data-mce-fragment="1">No matter which Allen’s fruit juice or cocktail you choose, you can look forward to enjoying pleasure in every sip! Every day, we are committed to using our expertise to create delicious and refreshing drinks that everyone can be proud of.<br data-mce-fragment="1"><br data-mce-fragment="1">•100% pure apple juice from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Low Acid (Milder than our pure apple juice not from concentrate)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value<br data-mce-fragment="1">•No artificial flavours or colours<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Allen&apos;s</s:tag>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690343919690</id>
+      <title>8 x 200 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>154854</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4690343919690</id>
+      <title>32 x 200 ml</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>12415</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773784715338</id>
+    <published>2020-09-23T12:59:51-04:00</published>
+    <updated>2020-09-23T12:59:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-guanabana-soursop-exotic-juice-drink-tetra-pack"/>
+    <title>Rubicon - Guanabana Soursop Exotic Juice Drink - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-guanabana-soursop-exotic-juice-drink-1-l-372801.jpg?v=1611511960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-guanabana-soursop-exotic-juice-drink-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Rubicon - Guanabana Soursop Exotic Juice Drink - 1 L</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Also known as Guanabana, Custard Apple or Sitaphal, the Soursop fruits most noticeable trait is its unique and fragrant taste profile. By selecting the finest Soursop from Vietnam, we have managed to create a refreshing juice that captures the true essence and sweet flavor of this exotic fruit!</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">100% Juice - No sugar added</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Rich in Vitamin C</span></li>
+</ul>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773784715338</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>2459899</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773784715338</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1548847</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773783961674</id>
+    <published>2020-09-23T12:59:50-04:00</published>
+    <updated>2020-09-23T12:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-pomegranate-exotic-juice-drink-tetra-pack"/>
+    <title>Rubicon - Pomegranate Exotic Juice Drink - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-pomegranate-exotic-juice-drink-1-l-908198.jpg?v=1611514548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-pomegranate-exotic-juice-drink-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Rubicon - Pomegranate Exotic Juice Drink - 1 L</strong></p>
+<p data-mce-fragment="1">Created using only 100% fruit juice and no added sugar, Rubicon brings you the taste of the finest Pomegranates in this mouthwatering juice drink blend.</p>
+<p data-mce-fragment="1">Sweetened only by the natural sweetness of the fruits themselves, enjoy the sweet and naturally tart taste of this super fruit in our Pomegranate Juice drink.</p>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783961674</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>1525474</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783961674</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>211548</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773783830602</id>
+    <published>2020-09-23T12:59:48-04:00</published>
+    <updated>2020-09-23T12:59:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-lychee-exotic-juice-drink-tetra-pack"/>
+    <title>Rubicon - Lychee Exotic Juice Drink - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-lychee-exotic-juice-drink-1-l-584181.jpg?v=1611512314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-lychee-exotic-juice-drink-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="images" data-mce-fragment="1">
+<div class="thumbnails slider" data-mce-fragment="1">
+<div class="caroufredsel_wrapper" data-mce-fragment="1">
+<div><strong>Rubicon - Lychee Exotic Juice Drink - 1 L</strong></div>
+</div>
+</div>
+</div>
+<div class="summary entry-summary" data-mce-fragment="1">
+<div data-mce-fragment="1" itemprop="description">
+<p data-mce-fragment="1">Created using only 100% fruit juice and no added sugar, Rubicon brings you the taste of the finest Lychees in this mouthwatering juice drink blend.</p>
+<p data-mce-fragment="1">Sweetened only by the natural sweetness of the fruits themselves, enjoy the sweet taste and fragrant aroma of our Lychee Juice drink.</p>
+</div>
+</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783830602</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>125458</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783830602</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>154894</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773783797834</id>
+    <published>2020-09-23T12:59:47-04:00</published>
+    <updated>2020-09-23T12:59:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-passion-fruit-exotic-juice-drink-tetra-pack"/>
+    <title>Rubicon - Passion Fruit Exotic Juice Drink - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-passion-fruit-exotic-juice-drink-1-l-412389.png?v=1611512019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-passion-fruit-exotic-juice-drink-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div itemprop="description" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong>Rubicon - Passion Fruit Exotic Juice Drink - 1 L</strong></p>
+<p data-mce-fragment="1">Passion by name, passion by nature! This small exotic fruit is famed for its intense aroma, sweet mellow taste and distinctive sharp note!</p>
+<p data-mce-fragment="1">Packing the most ripe Ecuadorian passion fruit into our juice drink, its now far easier to enjoy the true taste of this troublesome to eat, yet delicious exotic fruit!</p>
+</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783797834</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>154585</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783797834</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>121544</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773783437386</id>
+    <published>2020-09-23T12:59:46-04:00</published>
+    <updated>2020-09-23T12:59:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-guava-exotic-juice-drink-tetra-pack"/>
+    <title>Rubicon - Guava Exotic Juice Drink - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-guava-exotic-juice-drink-1-l-413317.jpg?v=1611512970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-guava-exotic-juice-drink-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rubicon - Guava Exotic Juice Drink - 1 L</strong></p>
+<p>Created using only 100% fruit juice and no added sugar, Rubicon brings you the taste of the finest Guavas in this delicious juice drink blend.</p>
+<p>Sweetened only by the natural sweetness of the fruits themselves, enjoy the distinct sweet musky taste of our Guava Juice Drink.</p>
+<p>Sweet &amp; juicy using a combination of both white guava from India &amp; pink guava from S. America. Tropical fruits high in nutrients with vitamin A, C &amp; calcium.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783437386</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>351154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773783437386</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>124545</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773781930058</id>
+    <published>2020-09-23T12:59:45-04:00</published>
+    <updated>2020-09-23T12:59:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-mango-exotic-juice-tetra-pack"/>
+    <title>Rubicon - Mango Exotic Juice - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-mango-exotic-juice-1-l-620871.jpg?v=1611512493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 26.99
+            <a href="https://bulkmart.ca/products/rubicon-mango-exotic-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Rubicon - Mango Exotic Juice - 1 L</strong></p>
+<p data-mce-fragment="1">We use the finest hand picked Alphonso Mangos (The king of mangos!) to create this delicious full bodied, refreshing juice drink.</p>
+<p data-mce-fragment="1">With a secret formulation dating back over 30 years, our number one best seller delivers the true taste of this mouth-watering fruit.</p>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Rubicon</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773781930058</id>
+      <title>1 L</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>125458</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773781930058</id>
+      <title>12 x 1 L</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>155844</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4517372231754</id>
+    <published>2020-09-23T12:59:44-04:00</published>
+    <updated>2020-09-23T12:59:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rubicon-mango-exotic-32-x-200-ml"/>
+    <title>Rubicon - Mango Exotic - 32 x 200 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rubicon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rubicon-mango-exotic-32-x-200-ml-588914.png?v=1611512554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rubicon<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rubicon - Mango Exotic - 32 x 200 ml</strong></p>
+<p><span>Created using the finest handpicked Mangoes. No preservatives, colourings or sweetners.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4517372231754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>RuM20028619</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773692014666</id>
+    <published>2020-09-22T16:18:09-04:00</published>
+    <updated>2020-09-22T16:18:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-exotic-pineapple-orange-juice-tetra-pack"/>
+    <title>Oasis Classic - Exotic Pineapple Orange Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-exotic-pineapple-orange-juice-960-ml-505182.jpg?v=1611513577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-exotic-pineapple-orange-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong> Oasis Classic - Exotic Pineapple Orange Juice - 960 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773692014666</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773692014666</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773691916362</id>
+    <published>2020-09-22T16:18:07-04:00</published>
+    <updated>2020-09-22T16:18:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-tropical-passion-juice-tetra-pack"/>
+    <title>Oasis Classic - Tropical Passion Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-tropical-passion-juice-960-ml-505460.jpg?v=1611513154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-tropical-passion-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong data-mce-fragment="1">Oasis Classic - Tropical Passion Juice - 960 ml</strong></div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773691916362</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773691916362</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773691064394</id>
+    <published>2020-09-22T16:18:06-04:00</published>
+    <updated>2020-09-22T16:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-apple-grape-juice-tetra-pack"/>
+    <title>Oasis Classic - Apple Grape Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-apple-grape-juice-960-ml-477227.jpg?v=1611511057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-apple-grape-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong data-mce-fragment="1">Oasis Classic - Apple Grape Juice - 960 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773691064394</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773691064394</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773690966090</id>
+    <published>2020-09-22T16:18:04-04:00</published>
+    <updated>2020-09-22T16:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-exotic-mango-juice-tetra-pack"/>
+    <title>Oasis Classic - Exotic Mango Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-exotic-mango-juice-960-ml-449067.jpg?v=1611511659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-exotic-mango-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong data-mce-fragment="1">Oasis Classic - Exotic Mango Juice - 960 ml</strong></div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong data-mce-fragment="1"></strong></div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690966090</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690966090</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773690343498</id>
+    <published>2020-09-22T16:18:03-04:00</published>
+    <updated>2020-09-22T16:18:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-pineapple-juice-tetra-pack"/>
+    <title>Oasis Classic - Pineapple Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-pineapple-juice-960-ml-492707.jpg?v=1611512194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-pineapple-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong data-mce-fragment="1">Oasis Classic - Pineapple Juice - 960 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690343498</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690343498</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773690310730</id>
+    <published>2020-09-22T16:18:01-04:00</published>
+    <updated>2020-09-22T16:18:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-orange-juice-tetra-pack"/>
+    <title>Oasis Classic - Orange Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-orange-juice-960-ml-819205.jpg?v=1611511722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-orange-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong data-mce-fragment="1">Oasis Classic - Orange Juice - 960 ml</strong></div>
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690310730</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773690310730</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773689098314</id>
+    <published>2020-09-22T16:18:00-04:00</published>
+    <updated>2020-09-22T16:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-hydrafruit-watermelon-apple-juice-tetra-pack"/>
+    <title>Oasis Hydrafruit - Watermelon Apple Juice - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-hydrafruit-watermelon-apple-juice-960-ml-880291.jpg?v=1611512559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-hydrafruit-watermelon-apple-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"><strong data-mce-fragment="1">Oasis Hydrafruit - Watermelon Apple Juice - 960 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<strong data-mce-fragment="1">Oasis Hydrafruit<span data-mce-fragment="1"> </span>juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Hydrafruit </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3" data-mce-fragment="1">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773689098314</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773689098314</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773688508490</id>
+    <published>2020-09-22T16:17:58-04:00</published>
+    <updated>2020-09-22T16:17:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-classic-orange-pure-breakfast-juice-tetra-pack"/>
+    <title>Oasis Classic - Orange Pure Breakfast Juice- 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-classic-orange-pure-breakfast-juice-960-ml-412775.jpg?v=1611511711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.99 - 24.99
+            <a href="https://bulkmart.ca/products/oasis-classic-orange-pure-breakfast-juice-tetra-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong data-mce-fragment="1">Oasis Classic - Orange Pure Breakfast Juice- 960 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong data-mce-fragment="1">Oasis Classic juice flavours for your table!</strong><br data-mce-fragment="1">The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Classic </strong></span>line has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div>
+<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/oasis-orange-juice-960-ml#product","name":"Oasis - Orange Juice - 960 ml","itemCondition":"https://schema.org/NewCondition","mpn":"3875187720262","sku":"BM20196121","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-orange-juice-960-ml-bulk-mart_698.jpg","description":"Oasis - Orange Juice - 960 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Oasis"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Oasis - Orange Juice - 960 ml","sku":"BM20196121","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/oasis-orange-juice-960-ml?variant=29203998572614","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Boxes</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Tetra Pack</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773688508490</id>
+      <title>960 ml</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773688508490</id>
+      <title>12 x 960 ml</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

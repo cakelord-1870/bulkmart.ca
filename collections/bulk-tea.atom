@@ -1,0 +1,1146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bulk-tea.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-19T13:00:30-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734721094</id>
+    <published>2020-12-19T13:00:30-05:00</published>
+    <updated>2020-12-19T13:00:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-peppermint-herbal-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Peppermint Herbal Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-peppermint-herbal-tea-20-pack-174180.jpg?v=1611510524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Peppermint Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-peppermint-tea-pack-of-20#product","name":"Higgins &amp; Burke - Peppermint Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734721094","sku":"6BM2554","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-peppermint-tea-pack-of-20-bulk-mart_460.gif","description":"Higgins &amp;amp; Burke - Peppermint Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"},"offers":[{"sku":"6BM2554","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-peppermint-tea-pack-of-20?variant=20255593168966","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734721094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332109</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734622790</id>
+    <published>2020-12-19T13:00:29-05:00</published>
+    <updated>2020-12-19T13:00:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-orange-pekoe-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Orange Pekoe Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-orange-pekoe-tea-20-pack-260874.jpg?v=1611514133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Orange Pekoe Black Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-orange-pekoe-tea-pack-of-20#product","name":"Higgins &amp; Burke - Orange Pekoe Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734622790","sku":"4BM2559","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-orange-pekoe-tea-pack-of-20-bulk-mart_375.gif","description":"Higgins &amp;amp; Burke - Orange Pekoe Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"4BM2559","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-orange-pekoe-tea-pack-of-20?variant=20255592939590","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Orange Pekoe Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734622790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332108</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734590022</id>
+    <published>2020-12-19T13:00:28-05:00</published>
+    <updated>2020-12-19T13:00:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-lemon-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Lemon Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-lemon-tea-20-pack-242608.jpg?v=1611510339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Lemon Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-lemon-tea-pack-of-20#product","name":"Higgins &amp; Burke - Lemon Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734590022","sku":"DBM2558","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-lemon-tea-pack-of-20-bulk-mart_428.gif","description":"Higgins &amp;amp; Burke - Lemon Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"DBM2558","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-lemon-tea-pack-of-20?variant=20255592841286","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Citrus Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Fruit Flavored Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734590022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332107</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734491718</id>
+    <published>2020-12-19T13:00:28-05:00</published>
+    <updated>2020-12-19T13:00:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-green-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Green Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-green-tea-20-pack-500716.jpg?v=1611510822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Green Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-green-tea-pack-of-28#product","name":"Higgins &amp; Burke - Green Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734491718","sku":"lBM2549","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-green-tea-pack-of-28-bulk-mart_289.gif","description":"Higgins &amp;amp; Burke - Green Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"},"offers":[{"sku":"lBM2549","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-green-tea-pack-of-28?variant=20255592611910","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"50"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734491718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332106</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734458950</id>
+    <published>2020-12-19T13:00:27-05:00</published>
+    <updated>2020-12-19T13:00:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-ginger-ginseng-herbal-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Ginger Ginseng Herbal Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-ginger-ginseng-herbal-tea-20-pack-235300.png?v=1611510520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Ginger Ginseng Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-ginger-ginseng-tea-pack-of-20#product","name":"Higgins &amp; Burke - Ginger Ginseng Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734458950","sku":"'BM2555","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-ginger-ginseng-tea-pack-of-20-bulk-mart_109.gif","description":"Higgins &amp;amp; Burke - Ginger Ginseng Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"'BM2555","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-ginger-ginseng-tea-pack-of-20?variant=20255592513606","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734458950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332105</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734426182</id>
+    <published>2020-12-19T13:00:26-05:00</published>
+    <updated>2020-12-19T13:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-english-breakfast-tea-bags-20-pack"/>
+    <title>Higgins &amp; Burke - English Breakfast Tea Bags - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-english-breakfast-tea-bags-20-pack-455136.jpg?v=1611511896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - English Breakfast Black Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-english-breakfast-tea-pack-of-20#product","name":"Higgins &amp; Burke - English Breakfast Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734426182","sku":"4BM2552","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-english-breakfast-tea-pack-of-20-bulk-mart_342.gif","description":"Higgins &amp;amp; Burke - English Breakfast Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"4BM2552","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-english-breakfast-tea-pack-of-20?variant=20255592415302","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>English Breakfast Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734426182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332104</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734327878</id>
+    <published>2020-12-19T13:00:26-05:00</published>
+    <updated>2020-12-19T13:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-earl-grey-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Earl Grey Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-earl-grey-tea-20-pack-405185.png?v=1611510452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Earl Grey Black Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-earl-grey-black-tea-pack-of-20#product","name":"Higgins &amp; Burke - Earl Grey Black Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734327878","sku":"3BM2551","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-earl-grey-black-tea-pack-of-20-bulk-mart_906.gif","description":"Higgins &amp;amp; Burke - Earl Grey Black Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"},"offers":[{"sku":"3BM2551","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-earl-grey-black-tea-pack-of-20?variant=20255592185926","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Earl Grey Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734327878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332103</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734229574</id>
+    <published>2020-12-19T13:00:25-05:00</published>
+    <updated>2020-12-19T13:00:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-apple-cinnamon-herbal-tea-bags-20-pack"/>
+    <title>Higgins &amp; Burke - Apple Cinnamon Herbal Tea Bags - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-apple-cinnamon-herbal-tea-bags-20-pack-222461.jpg?v=1611510402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Cinnamon Apple Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-cinnamon-apple-tea-pack-of-20#product","name":"Higgins &amp; Burke - Cinnamon Apple Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734229574","sku":"8BM2556","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-cinnamon-apple-tea-pack-of-20-bulk-mart_999.gif","description":"Higgins &amp;amp; Burke - Cinnamon Apple Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"8BM2556","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-cinnamon-apple-tea-pack-of-20?variant=20255591923782","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Fruit Flavored Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734229574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332100</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734196806</id>
+    <published>2020-12-19T13:00:24-05:00</published>
+    <updated>2020-12-19T13:00:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-chamomile-herbal-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Chamomile Herbal Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-chamomile-herbal-tea-20-pack-605127.jpg?v=1611510519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Chamomile Tea - Pack Of 20</strong></p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2" itemprop="description">Naturally caffeine free, this calming herbal tea features the sweet honey taste of pure chamomile pollen</li>
+<li class="product-details__list-item mb-2" itemprop="description">A soothing escape to a different time and place</li>
+<li class="product-details__list-item mb-2" itemprop="description">Contains chamomile pollen</li>
+<li class="product-details__list-item mb-2" itemprop="description">20 teabags/pack</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-chamomile-tea-pack-of-20#product","name":"Higgins &amp; Burke - Chamomile Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734196806","sku":"3BM2562","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-chamomile-tea-pack-of-20-bulk-mart_702.gif","description":"Higgins &amp;amp; Burke - Chamomile Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"31"},"offers":[{"sku":"3BM2562","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-chamomile-tea-pack-of-20?variant=20255591825478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"31"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Floral Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734196806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332102</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998734131270</id>
+    <published>2020-12-19T13:00:23-05:00</published>
+    <updated>2020-12-19T13:00:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/higgins-burke-chai-tea-20-pack"/>
+    <title>Higgins &amp; Burke - Chai Tea - 20 Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Higgins &amp; Burke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-chai-tea-20-pack-374345.jpg?v=1611513279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Higgins &amp; Burke<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Higgins &amp; Burke - Chai Tea - Pack Of 20</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">20 individually enveloped tea bags per carton. Higgins &amp; Burke teas deliver premium quality, rich antioxidant content and bold flavors</span></li>
+<li><span class="a-list-item">Since 1912 Higgins &amp; Burke has been crafting a selection of exceptional teas blended from hand-picked high-grown estate tea leaves</span></li>
+<li><span class="a-list-item">Quality products start with quality ingredients and we choose the finest high-grown, slow growing teas, to produce the very best quality</span></li>
+<li><span class="a-list-item">Contemporary, eye-catching and easy to dispense perforated carton with individually sealed envelopes for long term freshness</span></li>
+<li><span class="a-list-item">Note: The only date anywhere on the box is a production date. And it is recommended that most teas be consumed within a year of purchase for optimum freshness, but they do not go bad or expire.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/higgins-burke-chai-tea-pack-of-20#product","name":"Higgins &amp; Burke - Chai  Tea - Pack Of 20","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734131270","sku":"5BM2563","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/higgins-burke-chai-tea-pack-of-20-bulk-mart_969.gif","description":"Higgins &amp;amp; Burke - Chai Tea - Pack Of 20.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Higgins & Burke"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"5BM2563","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/higgins-burke-chai-tea-pack-of-20?variant=20255591727174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chai Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Spiced Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998734131270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>332101</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853939372106</id>
+    <published>2020-12-19T12:28:55-05:00</published>
+    <updated>2020-12-19T12:28:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-green-tea-decaffeinated-tea-bags-72-pack"/>
+    <title>Lipton - Green Tea Decaffeinated Tea Bags - 72 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-green-tea-decaffeinated-tea-bags-72-pack-571266.jpg?v=1611511119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2>Details</h2>
+<p itemprop="description">This Lipton decaffeinated green tea allows patrons to savor the great taste and benefits of green tea, without the caffeine, during any time of the day! This green tea provides a clean, fresh, non-bitter taste, a smooth, light body, and a soothing aroma. The tea leaves are decaffeinated using an all-natural process with pure spring water that gently washes caffeine away without any resulting effect on the tea's pure flavor. Not only does this tea help soothe the senses, it also contains flavonoids and other antioxidants, which can help support a healthy heart when consumed as part of the everyday diet!<br><br>These tea bags are ideal for placing at your break room's self-serve hot beverage station or hotel breakfast bar or simply offering as a tea selection on your beverage menu. Each tea bag is packaged in individual serving size envelopes, making this tea a convenient option for on-the-go customers and busy employees. The bag's easy-to-steep design provides quick preparation without sacrificing quality of flavor, color, and aroma. To prepare, simply pour boiling water over a tea bag and steep for 2 minutes. Drink plain, add a dash of milk or honey, or a simple squeeze of lemon to enjoy.</p>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Lipton Green Decaf tea bags with a naturally light taste</span></li>
+<li><span class="a-list-item">Made with carefully selected tea leaves</span></li>
+<li><span class="a-list-item">Makes the perfect tea that helps refresh</span></li>
+<li><span class="a-list-item">Get the best from your brew by adding the tea bag first then water so the leaves can unleash their flavour</span></li>
+<li><span class="a-list-item">Lipton Green Decaf tea with only 1% Rainforest Alliance cerfitifed tea</span></li>
+<li><span class="a-list-item">Makes 72 cups per carton</span></li>
+<li>
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="j2fy75-gxzfoh-6piz0k-7ra2ro" data-cel-widget="productDescription_feature_div">
+<div>
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small">
+<p>Lipton® Green Tea Decaffeinated is naturally decaffeinated, and has an alluring aroma and a clean, crisp taste. It’s not only full of flavour but full of goodness! Contains 130 mg naturally occurring tea flavonoids per 175 mL serving.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Lipton - Green Tea Decaffeinated - 72 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-green-tea-100-pack#product","name":"Lipton - Green Tea - 100 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953083908166","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-green-tea-100-pack-bulk-mart_127.jpg","description":"Lipton - Green Tea - 100 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-green-tea-100-pack?variant=29479151304774","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaffeinated Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853939372106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.59</s:price>
+      <s:sku>010129</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853928886346</id>
+    <published>2020-12-19T12:28:54-05:00</published>
+    <updated>2020-12-19T12:28:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-gunpowder-green-tea-bags-25-pack"/>
+    <title>Pure Leaf - Gunpowder Green Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-gunpowder-green-tea-bags-25-pack-814878.jpg?v=1611511542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf Gunpowder green tea bag! This long-leaf tea is crafted with single-origin Indonesian green tea from the volcanic island of Java, which produces a characteristically bright and clean green tea. The tea's name is derived from the shape of its leaves, which are rolled into small, tight pellets that resemble grains of gunpowder. To prepare, simply steep one pyramid bag at 176 degrees Fahrenheit for 2-3 minutes; when steeped, the leaves will begin to unfurl to release their flavor. The result is a fresh, clean, and mildly smoky taste with a refreshingly smooth finish. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Gunpowder Green Tea - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853928886346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853926985802</id>
+    <published>2020-12-19T12:28:53-05:00</published>
+    <updated>2020-12-19T12:28:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-chai-tea-bags-25-pack"/>
+    <title>Pure Leaf - Chai Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-chai-tea-bags-25-pack-482079.jpg?v=1611511654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf chai tea bag! This tea features a balanced, full-bodied blend of single-origin Kenyan and Ceylon black tea that is combined with a medley of warm spices, including cardamom, ginger, cloves, black pepper, and cinnamon. It delivers a smooth, bold taste with a uniquely sweet and spicy finish, a sweet cinnamon aroma, and a golden brown to amber color. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 3-4 minutes. Once ready, it's strong enough to hold up to milk and sugar, yet smooth enough to be enjoyed on its own. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Chai Tea - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Chai Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853926985802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010134</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853925544010</id>
+    <published>2020-12-19T12:28:53-05:00</published>
+    <updated>2020-12-19T12:28:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-ginger-with-orange-blossom-tea-bags-20-pack"/>
+    <title>Pure Leaf - Ginger with Orange Blossom Tea Bags - 20 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-ginger-with-orange-blossom-tea-bags-20-pack-608488.jpg?v=1611511539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf ginger with orange blossom herbal tea bag! Made with real ginger, lemongrass, orange blossom, and orange peel, this herbal tea delivers a sweet, citrusy, floral flavor with a zesty kick. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 4 minutes. It is naturally-caffeine free, so it can be enjoyed any time of the day or night, and may help relieve nausea. This herbal tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The herbal tea sachet's pyramid shape and mesh design allows water to circulate around the ingredients more easily than with traditional tea bags. This allows the ingredients to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Ginger with Orange Blossom Tea - 20 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Citrus Tea</s:tag>
+    <s:tag>Floral Tea</s:tag>
+    <s:tag>Fruit Flavored Tea</s:tag>
+    <s:tag>Ginger Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853925544010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>010138</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853924331594</id>
+    <published>2020-12-19T12:28:52-05:00</published>
+    <updated>2020-12-19T12:28:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-peppermint-herbal-tea-bags-20-pack"/>
+    <title>Pure Leaf - Peppermint Herbal Tea Bags - 20 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-peppermint-herbal-tea-bags-20-pack-357842.jpg?v=1611512016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf peppermint herbal tea bag! Made with 100% real peppermint leaves, this herbal tea delivers a refreshing mint flavor with a calming menthol aroma. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 4 minutes. It is naturally-caffeine free, so it can be enjoyed any time of the day or night, and may help improve digestion and promote restful sleep. This herbal tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The herbal tea sachet's pyramid shape and mesh design allows water to circulate around the leaves more easily than with traditional tea bags. This allows the leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Peppermint Herbal Tea - 20 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853924331594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>010141</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853922299978</id>
+    <published>2020-12-19T12:28:51-05:00</published>
+    <updated>2020-12-19T12:28:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-chamomile-herbal-tea-bags-20-pack"/>
+    <title>Pure Leaf - Chamomile Herbal Tea Bags - 20 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-chamomile-herbal-tea-bags-20-pack-166625.jpg?v=1611513641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf chamomile herbal tea bag! Made with 100% whole chamomile flower heads, this herbal tea delivers a delicate, buttery, floral flavor with a golden color and sweet, honey-like aroma. To prepare, simply steep one pyramid bag at 176 degrees Fahrenheit for 2-3 minutes. It is naturally-caffeine free, so it can be enjoyed any time of the day or night, and may help promote relaxation and sleep. This herbal tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The herbal tea sachet's pyramid shape and mesh design allows water to circulate around the flowers more easily than with traditional tea bags. This allows the flowers to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+</div>
+<ul>
+<li>Enveloped herbal hot tea</li>
+<li>Naturally caffeine free</li>
+<li>Made from chamomile flowers</li>
+<li>Picked, dried, and crafted</li>
+<li>Smooth, sweet floral taste</li>
+<li>Renewable and compostable bags, strings, and tags</li>
+<li>Packaged in recyclable envelopes and cartons</li>
+<li>Vegetarian</li>
+<li>Vegan</li>
+<li>OU Kosher certified</li>
+<li>20 tea bags per pack</li>
+</ul>
+<p>Pure Leaf - Chamomile Tea - 20 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chamomile Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853922299978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>010135</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853920301130</id>
+    <published>2020-12-19T12:28:50-05:00</published>
+    <updated>2020-12-19T12:28:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-green-tea-with-jasmine-tea-bags-25-pack"/>
+    <title>Pure Leaf - Green Tea with Jasmine Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-green-tea-with-jasmine-tea-bags-25-pack-774614.jpg?v=1611512077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf green tea with jasmine tea bag! This long-leaf tea is crafted with single-origin Chinese green tea and real jasmine flowers to deliver a highly aromatic tea with a smooth, subtly sweet taste and a light, floral finish. To prepare, simply steep one pyramid bag at 176 degrees Fahrenheit for 2-3 minutes. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Green Tea with Jasmine - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floral Tea</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853920301130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010139</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853918924874</id>
+    <published>2020-12-19T12:28:50-05:00</published>
+    <updated>2020-12-19T12:28:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-black-tea-wit-berries-tea-bags-25-pack"/>
+    <title>Pure Leaf - Black Tea wit Berries Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-black-tea-wit-berries-tea-bags-25-pack-469828.jpg?v=1611512131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf black tea with berries tea bag! The exclusive growing conditions in the Kenyan tea estate where this long-leaf black tea is produced impart a smooth, full-bodied flavor with a unique floral bouquet that is complemented with notes of juicy berries and sweet-tart, citrusy hibiscus and rosehips. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 3 minutes. Once ready, it's strong enough to hold up to milk and sugar, yet smooth enough to be enjoyed on its own. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<ul class="ufs-product-usplist"></ul>
+<p>Pure Leaf - Black Tea wit Berries - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853918924874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>010132</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853917712458</id>
+    <published>2020-12-19T12:28:49-05:00</published>
+    <updated>2020-12-19T12:28:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-black-vanilla-tea-25-packpure-leaf-black-tea-with-vanilla-tea-bags-25-pack"/>
+    <title>Pure Leaf - Black Tea with Vanilla Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-black-tea-with-vanilla-tea-bags-25-pack-342728.jpg?v=1611513399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf black tea with vanilla tea bag! The exclusive growing conditions in the Kenyan tea estate where this long-leaf black tea is produced impart a smooth, full-bodied flavor with a unique floral bouquet that is complemented with indulgent, lingering notes of Madagascan vanilla and bright marigold petals. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 3 minutes. Once ready, it's strong enough to hold up to milk and sugar, yet smooth enough to be enjoyed on its own. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Black Vanilla Tea - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853917712458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010133</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853916401738</id>
+    <published>2020-12-19T12:28:48-05:00</published>
+    <updated>2020-12-19T12:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-earl-grey-tea-bags-25-pack"/>
+    <title>Pure Leaf - Earl Grey Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-earl-grey-tea-bags-25-pack-482419.jpg?v=1611513095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea blends in convenient, single-serve packaging with this Pure Leaf Earl Grey tea bag! Using high-grown Ceylon black tea from Pure Leaf's exclusive Sri Lanka tea estate, the tea's rich, smooth, and bright flavor is complemented with notes of citrusy bergamot. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 3 minutes. Once ready, it's strong enough to hold up to milk and sugar, yet smooth enough to be enjoyed on its own. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - Earl Grey Tea - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earl Grey Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853916401738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010136</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853910667338</id>
+    <published>2020-12-19T12:28:48-05:00</published>
+    <updated>2020-12-19T12:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pure-leaf-english-breakfast-tea-bags-25-pack"/>
+    <title>Pure Leaf - English Breakfast Tea Bags - 25 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pure Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pure-leaf-english-breakfast-tea-bags-25-pack-982032.jpg?v=1611512561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pure Leaf<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Enjoy the premium taste and aroma of loose leaf tea with the convenience of single-serve packaging with this Pure Leaf English Breakfast tea bag! Featuring a balanced blend of single-origin Kenyan black tea and single-origin Ceylon black tea from Sri Lanka, this English Breakfast tea delivers a robust taste with a rich aroma, deep amber color, and a full mouthfeel. To prepare, simply steep one pyramid bag at 212 degrees Fahrenheit for 3 minutes. Once ready, it's strong enough to hold up to milk and sugar, yet smooth enough to be enjoyed on its own. This tea is perfect for upscaling your waiting room, break room, or lobby's offerings, or merchandising as a beverage selection at your breakfast buffet or in your cafe. You can also pair with other Pure Leaf tea bag flavors to offer as a thoughtful in-room amenity for guests staying at your hotel.<br><br>The tea sachet's pyramid shape and mesh design allows water to circulate around the tea leaves more easily than with traditional tea bags. This allows the tea leaves to expand, which draws out more of the flavors, fragrance, and color for a more well-rounded cup. Plus, the tea bag, strings, and tags are made with compostable, plant-based renewable materials and the cases, cartons, and envelopes are 100% recyclable.</p>
+<p>Pure Leaf - English Breakfast Tea - 25 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28#product","name":"Lipton - Chamomile  Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998734819398","sku":"mBM2573","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-chamomile-tea-pack-of-28-bulk-mart_646.gif","description":"Lipton - Chamomile Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"mBM2573","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-chamomile-tea-pack-of-28?variant=20255593398342","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>English Breakfast Tea</s:tag>
+    <s:tag>Pure Leaf</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853910667338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>010137</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953083908166</id>
+    <published>2020-12-19T12:28:47-05:00</published>
+    <updated>2020-12-19T12:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-classic-green-tea-bags-100-pack"/>
+    <title>Lipton - Classic Green Tea Bags - 100 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-classic-green-tea-bags-100-pack-844855.jpg?v=1611512133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Give your patrons the balance that they're looking for from a tea brand they trust with Lipton's traditional green tea. Lipton's signature 100% natural green tea provides a clean, fresh, non-bitter taste, a smooth, light body, and a soothing aroma. These tea bags are ideal for placing at your break room's self-serve hot beverage station or hotel breakfast bar or simply offering as a tea selection on your beverage menu. Not only does this tea offer the perfect morning boost or afternoon pick-me-up, it also contains flavonoids and other antioxidants, which can help support a healthy heart when consumed as part of the everyday diet!<br><br>Each tea bag is packaged in individual serving size envelopes, making this tea a convenient option for on-the-go customers and busy employees. The bag's easy-to-steep design provides quick preparation without sacrificing quality of flavor, color, and aroma. To prepare, simply pour boiling water over a tea bag and steep for 2 minutes. Drink plain, add a dash of milk or honey, or a simple squeeze of lemon to enjoy.</p>
+<p>Lipton - Green Tea - 100 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-green-tea-100-pack#product","name":"Lipton - Green Tea - 100 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953083908166","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-green-tea-100-pack-bulk-mart_127.jpg","description":"Lipton - Green Tea - 100 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-green-tea-100-pack?variant=29479151304774","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953083908166</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.59</s:price>
+      <s:sku>010125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998735179846</id>
+    <published>2020-12-19T12:28:46-05:00</published>
+    <updated>2020-12-19T12:28:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-spiced-chai-tea-pack-of-28lipton-spiced-chai-black-tea-bags-28-pack"/>
+    <title>Lipton - Spiced Chai Black Tea Bags - 28 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-spiced-chai-black-tea-bags-28-pack-274024.jpg?v=1611512914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Give your patrons the energizing caffeine boost that they're looking for from a tea brand they trust with Lipton's spiced chai black tea. Featuring a full-bodied profile, this tea combines a fine blend of Assam black tea leaves with cinnamon, allspice, ginger root, black pepper, and cloves for a rich, warm, and zesty taste. These tea bags are ideal for placing at your break room's self-serve hot beverage station or hotel breakfast bar or simply offering as a tea selection on your beverage menu. Not only does this tea offer the perfect morning boost or afternoon pick-me-up, it also contains flavonoids and other antioxidants, which can help support a healthy heart when consumed as part of the everyday diet!<br><br>Each tea bag is packaged in individual serving size envelopes, making this tea a convenient option for on-the-go customers and busy employees. The bag's easy-to-steep design provides quick preparation without sacrificing quality of flavor, color, and aroma. For best results, this tea is best served hot. To prepare, simply pour boiling water over a tea bag and steep for 3 to 5 minutes, depending on the desired strength. Drink plain, add a dash of milk, or a scoop of sugar to enjoy.</p>
+<p>Lipton - Spiced Chai Tea - Pack Of 28</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-spiced-chai-tea-pack-of-28#product","name":"Lipton - Spiced Chai Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998735179846","sku":"CBM2585","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-spiced-chai-tea-pack-of-28-bulk-mart_693.gif","description":"Lipton - Spiced Chai Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"},"offers":[{"sku":"CBM2585","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-spiced-chai-tea-pack-of-28?variant=20255594086470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tea</s:tag>
+    <s:tag>Chai Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Spiced Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998735179846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>010131</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998735114310</id>
+    <published>2020-12-19T12:28:46-05:00</published>
+    <updated>2020-12-19T12:28:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-lemon-herbal-tea-bags-28-pack"/>
+    <title>Lipton - Lemon Herbal Tea Bags  - 28 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-lemon-herbal-tea-bags-28-pack-640265.jpg?v=1611511543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Offer patrons refreshing herbal tea options in your office, waiting room, or lobby like this Lipton lemon herbal tea. Featuring an invigorating, balanced profile, this tea combines hibiscus flowers, rosehips, lemon, chicory root, orange peel, and lemongrass for a distinctive, tart, and clean lemon taste. These tea bags are ideal for placing at your break room's self-serve hot beverage station or hotel breakfast bar or simply offering as a tea selection on your beverage menu. Because it is naturally caffeine-free, this herbal tea is great for enjoying any time of the day.<br><br>Each tea bag is packaged in individual serving size envelopes, making this tea a convenient option for on-the-go customers and busy employees. The bag's easy-to-steep design provides quick preparation without sacrificing quality of flavor, color, and aroma. To prepare, simply pour boiling water over a tea bag and steep for 4 to 6 minutes.</p>
+<p>Lipton - Lemon Tea - Pack Of 28</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-lemon-tea-pack-of-28#product","name":"Lipton - Lemon Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998735114310","sku":"nBM2583","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-lemon-tea-pack-of-28-bulk-mart_894.gif","description":"Lipton - Lemon Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"nBM2583","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-lemon-tea-pack-of-28?variant=20255594020934","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Citrus Tea</s:tag>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Fruit Flavored Tea</s:tag>
+    <s:tag>Herbal Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998735114310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>010130</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998735081542</id>
+    <published>2020-12-19T12:28:45-05:00</published>
+    <updated>2020-12-19T12:28:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-green-tea-pack-of-28lipton-classic-green-tea-bags-28-pack"/>
+    <title>Lipton - Classic Green Tea Bags - 28 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-classic-green-tea-bags-28-pack-219257.jpg?v=1611511064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">Give your patrons the balance that they're looking for from a tea brand they trust with Lipton's traditional green tea. Lipton's signature 100% natural green tea provides a clean, fresh, non-bitter taste, a smooth, light body, and a soothing aroma. These tea bags are ideal for placing at your break room's self-serve hot beverage station or hotel breakfast bar or simply offering as a tea selection on your beverage menu. Not only does this tea offer the perfect morning boost or afternoon pick-me-up, it also contains flavonoids and other antioxidants, which can help support a healthy heart when consumed as part of the everyday diet!<br><br>Each tea bag is packaged in individual serving size envelopes, making this tea a convenient option for on-the-go customers and busy employees. The bag's easy-to-steep design provides quick preparation without sacrificing quality of flavor, color, and aroma. To prepare, simply pour boiling water over a tea bag and steep for 2 minutes. Drink plain, add a dash of milk or honey, or a simple squeeze of lemon to enjoy.</p>
+<p>Lipton - Green Tea - Pack Of 28</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lipton-green-tea-pack-of-28#product","name":"Lipton - Green Tea - Pack Of 28","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998735081542","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-green-tea-pack-of-28-bulk-mart_837.gif","description":"Lipton - Green Tea - Pack Of 28.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lipton-green-tea-pack-of-28?variant=20255593955398","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"10"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavored Tea</s:tag>
+    <s:tag>Green Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998735081542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>010126</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

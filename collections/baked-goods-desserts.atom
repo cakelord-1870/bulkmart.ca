@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baked-goods-desserts.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-31T10:25:22-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4832355156042</id>
+    <published>2020-12-31T10:25:22-05:00</published>
+    <updated>2020-12-31T10:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/achva-7-layer-halva-3-kg"/>
+    <title>Achva - 7 Layer Halva - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Achva</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/achva-7-layer-halva-3-kg-462291.jpg?v=1624046105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Achva<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Achva - 7 Layer Halwa Kosher Halva - 3 Kg</p>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halwa</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832355156042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>44512</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4826951450698</id>
+    <published>2020-12-31T00:19:33-05:00</published>
+    <updated>2020-12-31T00:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-4x12pcs-case"/>
+    <title>Rich&apos;s - Chocolate Iced Eclairs Bavarian Cream Filling - 4x12pcs/Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-4x12pcscase-139540.png?v=1611511421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rich's - Chocolate Eclairs - 4 x 12 pcs / Case</strong></p>
+<p>Ready To Serve New York Style Eclair Chocolate Iced Beverarian Cream Filling</p>
+<p>GLUCOSE-FRUCTOSE, HYDROGENATED PALM KERNEL OIL, LIQUID WHOLE EGG, ICING SUGAR, ENRICHED UNBLEACHED WHEAT FLOUR, WATER, SUGAR, INVERT SUGAR, COCOA, SODIUM CASEINATE (A MILK DERIVATIVE), PALM OIL, GLUCOSE SYRUP, AMMONIUM CARBONATE, SALT, PRESERVATIVE (SODIUM PROPIONATE, POTASSIUM SORBATE), DEXTROSE, POLYSORBATE 60, MODIFIED CELLULOSE, SOYA LECITHIN, NATURAL AND ARTIFICIAL FLAVOUR, AGAR-AGAR, POLYGLYCEROL ESTERS OF FATTY ACIDS, SOYA PROTEIN CONCENTRATE, XANTHAN GUM, CAROB BEAN GUM, COLOURS.</p>
+<p>CONTAINS: WHEAT, MILK, EGG, SOYA</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each#product","name":"Elite Sweets -  10&quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478775878","sku":"0BM1453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each-bulk-mart_954.jpg","description":"Elite Sweets - 10&amp;quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Elite Sweets"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"0BM1453","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each?variant=19271337869382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eclairs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4826951450698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>33103</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4826950762570</id>
+    <published>2020-12-31T00:19:32-05:00</published>
+    <updated>2020-12-31T00:19:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-12-pack"/>
+    <title>Rich&apos;s - Chocolate Iced Eclairs Bavarian Cream Filling - 12 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-12-pack-694049.jpg?v=1611512015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rich's - Chocolate Eclairs - 12 / Pack</strong></p>
+<p><strong></strong>Ready To Serve New York Style Eclair Chocolate Iced Bavarian Cream Filling</p>
+<p>GLUCOSE-FRUCTOSE, HYDROGENATED PALM KERNEL OIL, LIQUID WHOLE EGG, ICING SUGAR, ENRICHED UNBLEACHED WHEAT FLOUR, WATER, SUGAR, INVERT SUGAR, COCOA, SODIUM CASEINATE (A MILK DERIVATIVE), PALM OIL, GLUCOSE SYRUP, AMMONIUM CARBONATE, SALT, PRESERVATIVE (SODIUM PROPIONATE, POTASSIUM SORBATE), DEXTROSE, POLYSORBATE 60, MODIFIED CELLULOSE, SOYA LECITHIN, NATURAL AND ARTIFICIAL FLAVOUR, AGAR-AGAR, POLYGLYCEROL ESTERS OF FATTY ACIDS, SOYA PROTEIN CONCENTRATE, XANTHAN GUM, CAROB BEAN GUM, COLOURS.</p>
+<p>CONTAINS: WHEAT, MILK, EGG, SOYA</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each#product","name":"Elite Sweets -  10&quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478775878","sku":"0BM1453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each-bulk-mart_954.jpg","description":"Elite Sweets - 10&amp;quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Elite Sweets"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"0BM1453","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each?variant=19271337869382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eclairs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4826950762570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>33102</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833078181962</id>
+    <published>2020-12-22T15:18:20-05:00</published>
+    <updated>2020-12-22T15:18:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pink-grapefruit-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pink Grapefruit Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pink-grapefruit-puree-1-kg-504205.jpg?v=1611511597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by extracting and filtering a juice, from selected varieties.</p>
+</div>
+La Fruitiere - Pink Grapefruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833078181962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>52717</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833077657674</id>
+    <published>2020-12-22T15:18:19-05:00</published>
+    <updated>2020-12-22T15:18:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pink-guava-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pink Guava Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pink-guava-puree-1-kg-693526.jpg?v=1611510454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by refining of a variety from Brazil.</p>
+</div>
+La Fruitiere - Pink Guava Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833077657674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52718</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833077264458</id>
+    <published>2020-12-22T15:18:18-05:00</published>
+    <updated>2020-12-22T15:18:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-wild-blueberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Wild Blueberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-wild-blueberry-puree-1-kg-618000.jpg?v=1611511961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining wild blueberries from Europe.</p>
+</div>
+La Fruitiere - Wild Blueberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833077264458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52723</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833075855434</id>
+    <published>2020-12-22T15:18:18-05:00</published>
+    <updated>2020-12-22T15:18:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-white-peach-puree-1-kg"/>
+    <title>La Fruitiere - Frozen White Peach Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-white-peach-puree-1-kg-371479.jpg?v=1611510403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </p>
+<div class="entry-content">
+<p>Made by pitting, crushing and refining fresh white peaches from Rhône Valley. Sourcing of seasonal fresh fruit.</p>
+</div>
+<p data-mce-fragment="1">La Fruitiere - White Peach Puree - 1 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833075855434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>52722</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833075003466</id>
+    <published>2020-12-22T15:18:17-05:00</published>
+    <updated>2020-12-22T15:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-strawberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Strawberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-strawberry-puree-1-kg-144045.jpg?v=1611513459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining selected varieties from Mediterranean basin.</p>
+</div>
+La Fruitiere - Strawberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833075003466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52721</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833074577482</id>
+    <published>2020-12-22T15:18:16-05:00</published>
+    <updated>2020-12-22T15:18:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-raspberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Raspberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-raspberry-puree-1-kg-392312.jpg?v=1611514545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining a blend of the Willamette variety from Serbia and varieties harvested in the Val Evel orchards.</p>
+</div>
+La Fruitiere - Raspberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833074577482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52720</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833074249802</id>
+    <published>2020-12-22T15:18:15-05:00</published>
+    <updated>2020-12-22T15:18:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pomegranate-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pomegranate Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pomegranate-fruit-puree-1-kg-285083.jpg?v=1611510397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by refining a variety from South Africa.</p>
+</div>
+La Fruitiere - Pomegranate Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833074249802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52719</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833073692746</id>
+    <published>2020-12-22T15:18:14-05:00</published>
+    <updated>2020-12-22T15:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pineapple-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pineapple Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pineapple-fruit-puree-1-kg-996559.jpg?v=1611511831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining pineapple pieces of varieties from South America.</p>
+</div>
+La Fruitiere - Pineapple Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833073692746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>52716</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833073430602</id>
+    <published>2020-12-22T15:18:14-05:00</published>
+    <updated>2020-12-22T15:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-passion-fruit-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Passion Fruit Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-passion-fruit-puree-1-kg-144169.jpg?v=1611511589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by extracting and filtering juice from South America.</p>
+</div>
+La Fruitiere - Passion Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833073430602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52715</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833072808010</id>
+    <published>2020-12-22T15:18:13-05:00</published>
+    <updated>2020-12-22T15:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-melon-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Melon Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-melon-puree-1-kg-715010.jpg?v=1611514550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Made by peeling, crushing and refining the Charentais yellow variety, from France. Sourcing of seasonal fresh fruit.</span></p>
+La Fruitiere - Melon Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833072808010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52714</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833072218186</id>
+    <published>2020-12-22T15:18:12-05:00</published>
+    <updated>2020-12-22T15:18:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-mango-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Mango Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-mango-puree-1-kg-564380.jpg?v=1611513150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Made by peeling, pitting, refining and blending Alphonso variety from West India and Chato De Ica variety from Peru.</span></p>
+La Fruitiere - Mango Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833072218186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>52713</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833071956042</id>
+    <published>2020-12-22T15:18:11-05:00</published>
+    <updated>2020-12-22T15:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lychee-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lychee Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lychee-puree-1-kg-959821.jpg?v=1611514310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">LYCHEE PUREE 90%<br>Made by peeling, pitting, refining and blending lychee pulp from Thailand and India.</span></p>
+La Fruitiere - Lychee Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833071956042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>52712</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833071431754</id>
+    <published>2020-12-22T15:18:11-05:00</published>
+    <updated>2020-12-22T15:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lime-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lime Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lime-puree-1-kg-742277.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+La Fruitiere - Lime Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833071431754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>52711</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833070350410</id>
+    <published>2020-12-22T15:18:10-05:00</published>
+    <updated>2020-12-22T15:18:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lemon-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lemon Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lemon-puree-1-kg-794099.jpg?v=1611512551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"></span><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">LEMON PUREE 90%<br>Made by extracting and filtering juices from fruits from Sicily.</span></p>
+La Fruitiere - Lemon Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833070350410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>52710</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854203121738</id>
+    <published>2020-12-19T18:19:35-05:00</published>
+    <updated>2020-12-19T18:19:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-whole-cherries-4-l"/>
+    <title>Trans Alpine - Whole Cherries - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-whole-cherries-4-l-412885.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Trans Alpine - Whole Cherries - 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries are to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854203121738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>623142</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854199582794</id>
+    <published>2020-12-19T18:19:34-05:00</published>
+    <updated>2020-12-19T18:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l-614314.jpg?v=1611513817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            60.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854199582794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.99</s:price>
+      <s:sku>623140</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854198829130</id>
+    <published>2020-12-19T18:19:33-05:00</published>
+    <updated>2020-12-19T18:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-4-l-281488.jpg?v=1611512132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854198829130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>623141</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848805216330</id>
+    <published>2020-12-06T23:02:55-05:00</published>
+    <updated>2020-12-06T23:02:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-sundae-syrup-strawberry-flavoured-syrup-428-ml"/>
+    <title>Smucker&apos;s - Sundae Syrup Strawberry Flavoured Syrup - 428 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smucker&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-sundae-syrup-strawberry-flavoured-syrup-428-ml-564820.jpg?v=1611514066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smucker&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Smuckers - Strawberry Sundae Syrup - 428 ml</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Have a summery sundae any day of the year. Our bright, fruity Smucker's Strawberry Syrup will leave you smiling and reaching for seconds. It comes in a squeezeable bottle with a no mess cap.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Delicious strawberry syrup.<br>• Fat free.<br>• Comes in a squeezeable bottle with a no mess cap.<br>• With a name like Smucker's, it has to be good.</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml#product","name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552223814","sku":"2BM3961","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-raspberry-syrup-420-ml-bulk-mart_602.jpg","description":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"55"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup22BM3961","offers":[{"name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","sku":"2BM3961","gtin13":"Syrup22BM3961","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml?variant=20686522351686","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Toppings</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848805216330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>94509</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848804397130</id>
+    <published>2020-12-06T23:02:54-05:00</published>
+    <updated>2020-12-06T23:02:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-sundae-syrup-chocolate-flavoured-syrup-428-ml"/>
+    <title>Smucker&apos;s - Sundae Syrup Chocolate Flavoured Syrup - 428 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smucker&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-sundae-syrup-chocolate-flavoured-syrup-428-ml-927823.jpg?v=1611512850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smucker&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Smuckers - Chocolate Sundae Syrup  Chocolate Flavored Syrup - 428 ml</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Delicious alone or with all the fixings, enjoy Smucker's Chocolate Syrup - a classic. Its smooth, creamy taste has just the right amount of richness, and it comes in a squeezeable bottle with a no mess cap.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<ul>
+<li>Delicious chocolate syrup.</li>
+<li>Fat free.</li>
+<li>Comes in a squeezeable bottle with a no mess cap.</li>
+<li>With a name like Smucker's, it has to be good.</li>
+</ul>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml#product","name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552223814","sku":"2BM3961","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-raspberry-syrup-420-ml-bulk-mart_602.jpg","description":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"55"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup22BM3961","offers":[{"name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","sku":"2BM3961","gtin13":"Syrup22BM3961","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml?variant=20686522351686","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Toppings</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848804397130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>94508</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848803741770</id>
+    <published>2020-12-06T23:02:53-05:00</published>
+    <updated>2020-12-06T23:02:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smuckers-sundae-syrup-caramel-flavoured-syrup-428-ml"/>
+    <title>Smucker&apos;s - Sundae Syrup Caramel Flavoured Syrup - 428 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Smucker&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-sundae-syrup-caramel-flavoured-syrup-428-ml-761056.jpg?v=1611512195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smucker&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Smuckers - Caramel Sundae Syrup - Caramel Flavored Syrup - 428 ml</strong></p>
+<p><span>Our Caramel Flavoured Syrup is smooth and rich — just like a caramel candy. Try it mixed with our Chocolate Flavoured Syrup for an extra special treat.</span></p>
+<h4 class="headline-sm block">INGREDIENTS</h4>
+<p>GLUCOSE, GLUCOSE-FRUCTOSE, SKIM MILK POWDER, FRUCTOSE, MODIFIED STARCH, MODIFIED MILK INGREDIENTS, SALT, NATURAL FLAVOUR (FROM EGGS), POTASSIUM SORBATE, POLYSORBATE 60, SODIUM CITRATE, SODIUM PHOSPHATE, CARAMEL, ARTIFICIAL FLAVOUR, COLOURS (SUNSET YELLOW AND ALLURA RED)</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml#product","name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054552223814","sku":"2BM3961","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smuckers-plate-scraper-raspberry-syrup-420-ml-bulk-mart_602.jpg","description":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml...","category":"FOOD","brand":{"@type":"Brand","name":"Smuckers"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"55"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"gtin13":"Syrup22BM3961","offers":[{"name":"Smuckers - Plate Scraper Raspberry Syrup - 420 ml","sku":"2BM3961","gtin13":"Syrup22BM3961","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/smuckers-plate-scraper-raspberry-syrup-420-ml?variant=20686522351686","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Toppings</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848803741770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>94507</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848161751114</id>
+    <published>2020-12-06T23:02:53-05:00</published>
+    <updated>2020-12-06T23:02:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-caramel-topping-2-x-4-l"/>
+    <title>Lynch - Caramel Topping - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-2-x-4-l-153134.png?v=1611511480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch - Caramel Topping - 2 x 4 L</p>
+<p><span data-mce-fragment="1">We offer an array of traditional topping favourites made with quality ingredients such as natural caramelized sugars, butter, cocoa and toffee flavours. Choose from Caramel, Chocolate, Toffee, Fudge and Fruit varieties. Our highly versatile Ice Cream Toppings are ideal for putting the finishing touch on ice cream and desserts, as well as for plate decorating and adding to specialty coffee. Use them in a variety of recipes to increase your profit picture.</span></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A rich traditional favourite made with caramelized sugar, butter, and caramel flavours.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Spoon over ice cream, frozen yogurt and other frozen desserts. Great for making exceptional desserts - brownie or cake creations, ice cream sundaes and banana splits.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Corn syrup, sugar, water, brown sugar, modified milk ingredient, canola oil modified palm oil &amp; palm kernel oils, sweetened condensed milk (contains lactose), salt, artificial &amp; natural flavour, disodium phosphate, caramel, pectin, mono &amp; diglycerides (soy), sodium benzoate, potassium sorbate, xanthan gum, colour.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Toppings</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848161751114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>136241</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848161194058</id>
+    <published>2020-12-06T23:02:52-05:00</published>
+    <updated>2020-12-06T23:02:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-butterscotch-topping-2-x-4-l"/>
+    <title>Lynch - Butterscotch Topping - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-butterscotch-topping-2-x-4-l-661124.png?v=1611510765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch - Classic Butterscotch Topping - 2 x 4 L</p>
+<p><span>We offer an array of traditional topping favourites made with quality ingredients such as natural caramelized sugars, butter, cocoa and toffee flavours. Choose from Caramel, Chocolate, Toffee, Fudge and Fruit varieties. Our highly versatile Ice Cream Toppings are ideal for putting the finishing touch on ice cream and desserts, as well as for plate decorating and adding to specialty coffee. Use them in a variety of recipes to increase your profit picture.</span></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A rich traditional favourite made with caramelized sugar, butter, and butterscotch flavours.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Spoon over ice cream, frozen yogurt and other frozen desserts. Great for making exceptional desserts - brownie or cake creations, ice cream sundaes and banana splits.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Ready to use.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Corn syrup, sugar, water, brown sugar, modified milk ingredient, canola oil, modified palm and palm kernel oils, sweetened condensed milk, salt, disodium phosphate, artificial &amp; natural flavour, pectin, mono &amp; diglycerides (soy), potassium sorbate, sodium benzoate, xanthan gum, colour.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-butterscotch-topping-4-l#product","name":"Lynch -  Butterscotch Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551699526","sku":"1BM3938","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-butterscotch-topping-4-l-bulk-mart_963.gif","description":"Lynch - Butterscotch Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM3938","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-butterscotch-topping-4-l?variant=20686521761862","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ice Cream Toppings</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848161194058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>136243</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

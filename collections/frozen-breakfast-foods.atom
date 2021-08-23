@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-breakfast-foods.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-03-27T08:37:39-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6553567559754</id>
+    <published>2021-03-27T08:37:39-04:00</published>
+    <updated>2021-03-27T08:37:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-ladoo-boondi-size-zero-2-x-5-kg"/>
+    <title>SmartChoice - Ladoo Boondi Size Zero - 2 x 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-ladoo-boondi-size-zero-2-x-5-kg-890219.jpg?v=1616867326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Ladoo Boondi Size 0 Zero - 2 x 5 Kg</p>
+<p>Perfect for making delicious Ladoos and you baked creations.</p>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/surati-snacks-boondi-pack#product","name":"Surati Snacks - Boondi / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4455093764170","sku":"1BM1738","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/surati-snacks-boondi-pack-bulk-mart_795.jpg","description":"Surati Snacks - Boondi / Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Haldiram"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"1BM1738","weight":{"@type":"QuantitativeValue","unitText":"g","value":"500"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/surati-snacks-boondi-pack?variant=31599563702346","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Snacks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6553567559754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>991133</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054547767366</id>
+    <published>2021-01-07T08:40:44-05:00</published>
+    <updated>2021-01-07T08:40:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/solmaz-frozen-sliced-halal-pepperoni-2-kg"/>
+    <title>Solmaz -  Frozen Sliced Halal Pepperoni - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Solmaz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/solmaz-frozen-sliced-halal-pepperoni-2-kg-765828.jpg?v=1611512372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Solmaz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solmaz -  Halal Sliced Beef Pepperoni - 2 Kg</p>
+<ul>
+<li>Blend of chicken and beef</li>
+<li>2 kg</li>
+<li>Keep frozen</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/solmaz-halal-pepperoni-sliced-2-kg#product","name":"Solmaz -  Halal Pepperoni Sliced - 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054547767366","sku":"4BM3805","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/solmaz-halal-pepperoni-sliced-2-kg-bulk-mart_122.gif","description":"Solmaz - Halal Pepperoni Sliced - 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Solmaz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"4BM3805","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.002"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/solmaz-halal-pepperoni-sliced-2-kg?variant=20686517043270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Pepperoni</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054547767366</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>136549</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832355156042</id>
+    <published>2020-12-31T10:25:22-05:00</published>
+    <updated>2020-12-31T10:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/achva-7-layer-halva-3-kg"/>
+    <title>Achva - 7 Layer Halva - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Achva</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/achva-7-layer-halva-3-kg-462291.jpg?v=1624046105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Achva<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Achva - 7 Layer Halwa Kosher Halva - 3 Kg</p>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halwa</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832355156042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>44512</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4826951450698</id>
+    <published>2020-12-31T00:19:33-05:00</published>
+    <updated>2020-12-31T00:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-4x12pcs-case"/>
+    <title>Rich&apos;s - Chocolate Iced Eclairs Bavarian Cream Filling - 4x12pcs/Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-4x12pcscase-139540.png?v=1611511421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rich's - Chocolate Eclairs - 4 x 12 pcs / Case</strong></p>
+<p>Ready To Serve New York Style Eclair Chocolate Iced Beverarian Cream Filling</p>
+<p>GLUCOSE-FRUCTOSE, HYDROGENATED PALM KERNEL OIL, LIQUID WHOLE EGG, ICING SUGAR, ENRICHED UNBLEACHED WHEAT FLOUR, WATER, SUGAR, INVERT SUGAR, COCOA, SODIUM CASEINATE (A MILK DERIVATIVE), PALM OIL, GLUCOSE SYRUP, AMMONIUM CARBONATE, SALT, PRESERVATIVE (SODIUM PROPIONATE, POTASSIUM SORBATE), DEXTROSE, POLYSORBATE 60, MODIFIED CELLULOSE, SOYA LECITHIN, NATURAL AND ARTIFICIAL FLAVOUR, AGAR-AGAR, POLYGLYCEROL ESTERS OF FATTY ACIDS, SOYA PROTEIN CONCENTRATE, XANTHAN GUM, CAROB BEAN GUM, COLOURS.</p>
+<p>CONTAINS: WHEAT, MILK, EGG, SOYA</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each#product","name":"Elite Sweets -  10&quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478775878","sku":"0BM1453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each-bulk-mart_954.jpg","description":"Elite Sweets - 10&amp;quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Elite Sweets"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"0BM1453","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each?variant=19271337869382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eclairs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4826951450698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>33103</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4826950762570</id>
+    <published>2020-12-31T00:19:32-05:00</published>
+    <updated>2020-12-31T00:19:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-12-pack"/>
+    <title>Rich&apos;s - Chocolate Iced Eclairs Bavarian Cream Filling - 12 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Rich&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/richs-chocolate-iced-eclairs-bavarian-cream-filling-12-pack-694049.jpg?v=1611512015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rich&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Rich's - Chocolate Eclairs - 12 / Pack</strong></p>
+<p><strong></strong>Ready To Serve New York Style Eclair Chocolate Iced Bavarian Cream Filling</p>
+<p>GLUCOSE-FRUCTOSE, HYDROGENATED PALM KERNEL OIL, LIQUID WHOLE EGG, ICING SUGAR, ENRICHED UNBLEACHED WHEAT FLOUR, WATER, SUGAR, INVERT SUGAR, COCOA, SODIUM CASEINATE (A MILK DERIVATIVE), PALM OIL, GLUCOSE SYRUP, AMMONIUM CARBONATE, SALT, PRESERVATIVE (SODIUM PROPIONATE, POTASSIUM SORBATE), DEXTROSE, POLYSORBATE 60, MODIFIED CELLULOSE, SOYA LECITHIN, NATURAL AND ARTIFICIAL FLAVOUR, AGAR-AGAR, POLYGLYCEROL ESTERS OF FATTY ACIDS, SOYA PROTEIN CONCENTRATE, XANTHAN GUM, CAROB BEAN GUM, COLOURS.</p>
+<p>CONTAINS: WHEAT, MILK, EGG, SOYA</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each#product","name":"Elite Sweets -  10&quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887478775878","sku":"0BM1453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each-bulk-mart_954.jpg","description":"Elite Sweets - 10&amp;quot; Pre-Sliced Cherry Cheesecake 14 Slices - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Elite Sweets"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"0BM1453","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/elite-sweets-10-pre-sliced-cherry-cheesecake-14-slices-each?variant=19271337869382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eclairs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4826950762570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>33102</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867244294218</id>
+    <published>2020-12-30T19:55:02-05:00</published>
+    <updated>2020-12-30T19:55:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-panko-breaded-fillet-of-sole-590-g"/>
+    <title>Janes - Panko Breaded Fillet Of Sole - 590 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-panko-breaded-fillet-of-sole-590-g-214650.jpg?v=1611510992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Panko Breaded Sole Fillets - 590 g</p>
+<p><span>Try our </span><em>ultimates</em><span>  Panko Breaded Fillet Of Sole — whole fillets in a delicious battered coating of toasted wheat crumbs Don’t forget the tartar sauce for an authentic experience!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Sole Fillets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867244294218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>25142</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867243638858</id>
+    <published>2020-12-30T19:55:01-05:00</published>
+    <updated>2020-12-30T19:55:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-lemon-pepper-battered-cod-fillets-580-g"/>
+    <title>Janes - Lemon Pepper Battered Cod Fillets - 580 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-lemon-pepper-battered-cod-fillets-580-g-895738.jpg?v=1611514370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Lemon Pepper Battered Cod Fillets - 580 g</p>
+<p><span>Try our </span><em>ultimates</em><span> Lemon Pepper Battered Cod Fillets — whole fillets in a delicious battered coating of toasted wheat crumbs Don’t forget the tartar sauce for an authentic experience!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867243638858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>25141</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867243114570</id>
+    <published>2020-12-30T19:55:00-05:00</published>
+    <updated>2020-12-30T19:55:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-battered-haddock-fillets-575-g"/>
+    <title>Janes - Battered Haddock Fillets - 575 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-battered-haddock-fillets-575-g-853754.jpg?v=1611514186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Battered Haddock Fillets - 575 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Haddock</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867243114570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>25140</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867242655818</id>
+    <published>2020-12-30T19:54:59-05:00</published>
+    <updated>2020-12-30T19:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-tavern-battered-cod-615-g"/>
+    <title>Janes - Tavern Battered Cod - 615 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-tavern-battered-cod-615-g-529371.jpg?v=1611514546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes - Tavern Battered Cod - 615 g</p>
+<p><span>Try our </span><em>ultimates</em><span> Tavern Battered Cod Fillets — whole cod fillets in a delicious battered coating of toasted wheat crumbs and beer. Don’t forget the tartar sauce for an authentic experience!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867242655818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>25143</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867593437258</id>
+    <published>2020-12-30T19:12:18-05:00</published>
+    <updated>2020-12-30T19:12:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-20-x-200-g"/>
+    <title>Ocean Harvest - Breaded Torpedo Shrimp 21-25 Count - 20 x 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-20-x-200-g-504293.jpg?v=1611513941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Harvest - 21/25 CT Breaded Torpedo Shrimp - 200 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867593437258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>52010</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867593044042</id>
+    <published>2020-12-30T19:12:17-05:00</published>
+    <updated>2020-12-30T19:12:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-200-g"/>
+    <title>Ocean Harvest - Breaded Torpedo Shrimp 21-25 Count - 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-200-g-428066.jpg?v=1611511357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Harvest - 21-25 CT Breaded Torpedo Shrimp - 200 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867593044042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>52011</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867592355914</id>
+    <published>2020-12-30T19:12:16-05:00</published>
+    <updated>2020-12-30T19:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-tempura-shrimp-21-25-count-2-lbs"/>
+    <title>Ocean Jewel - Tempura Shrimp 21-25 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-tempura-shrimp-21-25-count-2-lbs-111323.jpg?v=1611511652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 21-25 CT Tempura Battered Raw Pacific White Shrimp - 908 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p>
+<p class="no-margin">Hand-dipped in an authentic Tempura-Style batter, these lightly coated 21-25 count raw Shrimp offer a convenient way to add trendy Asian-inspired dishes to your menu. 4 Hand-dipped to ensure consistent batter coverage and texture, no prep required 4 Stretched shape and large size delivers excellent plate coverage 4 Great as an appetizer, in sushi rolls, or on top of an Asian-inspired salad entrée</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867592355914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>52020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867591307338</id>
+    <published>2020-12-30T19:12:16-05:00</published>
+    <updated>2020-12-30T19:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-tropicolada-coconut-breaded-shrimp-14-15-count-2-5-lbs"/>
+    <title>Toppits - Tropicolada Coconut Breaded Shrimp 14-15 Count - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-tropicolada-coconut-breaded-shrimp-14-15-count-25-lbs-672090.jpg?v=1611514371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 14/15 CT Tropicolada Coconut Breaded Shrimp - 2.5 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867591307338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>52038</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867590160458</id>
+    <published>2020-12-30T19:12:15-05:00</published>
+    <updated>2020-12-30T19:12:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-breaded-butterfly-shrimp-21-25-count-2-lbs"/>
+    <title>Ocean Jewel - Breaded Butterfly Shrimp 21-25 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-breaded-butterfly-shrimp-21-25-count-2-lbs-327426.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 21/25 CT Raw Pacific White Shrimp Tail On Breaded Butterfly Shrimp - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867590160458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867581542474</id>
+    <published>2020-12-30T19:12:11-05:00</published>
+    <updated>2020-12-30T19:12:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-ultimate-coconut-shrimp-13-15-count-2-lbs"/>
+    <title>Ocean Jewel - Ultimate Coconut Shrimp 13-15 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-ultimate-coconut-shrimp-13-15-count-2-lbs-468731.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 13-15 CT Raw Uncooked Breaded Ultimate Coconut Shrimp - 2 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867581542474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>52021</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867574530122</id>
+    <published>2020-12-30T19:12:11-05:00</published>
+    <updated>2020-12-30T19:12:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-shrimp-skewers-unseasoned-p-d-tail-on-31-40-count-756-g"/>
+    <title>Toppits - Shrimp Skewers Unseasoned P&amp;D Tail On 31-40 Count - 756 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-shrimp-skewers-unseasoned-pd-tail-on-31-40-count-756-g-843106.jpg?v=1611513813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - PTO Shrimp Skewers Unseasoned Tail On -12 Skewers - 756 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867574530122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>52037</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867621126218</id>
+    <published>2020-12-30T00:25:05-05:00</published>
+    <updated>2020-12-30T00:25:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-firecracker-infused-calamari-bites-454-g"/>
+    <title>Toppits - Firecracker Infused Calamari Bites - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-firecracker-infused-calamari-bites-454-g-767458.png?v=1611514308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toppits - Firecracker Infused Calamari Bites - 454 g</p>
+<p><span><strong>Deliciously crispy and perfectly seasoned,</strong> breaded calamari rings are the perfect balance of crispy and juicy. Each bite crunches through the breading and sinks into the tender, juicy meat for a truly mouthwatering experience. Plus, the spices add incredible depth to the squid, which complements the meat's natural, fresh taste.</span></p>
+<p><span><strong>Add this calamari to your menu</strong> with an assortment of popular dipping sauces, from cocktail sauce and ketchup to sweet honey mustard. It makes for a great-tasting appetizer or game-day dish!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Calamari</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867621126218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>330120</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867607134282</id>
+    <published>2020-12-30T00:25:03-05:00</published>
+    <updated>2020-12-30T00:25:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-top-breaded-calamari-rings-2-lbs"/>
+    <title>Toppits - Top Breaded Calamari Rings - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-top-breaded-calamari-rings-2-lbs-473301.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Top Breaded Calamari Rings - 2 Lbs</strong></p>
+<p><span><strong>Deliciously crispy and perfectly seasoned,</strong> breaded calamari rings are the perfect balance of crispy and juicy. Each bite crunches through the breading and sinks into the tender, juicy meat for a truly mouthwatering experience. Plus, the spices add incredible depth to the squid, which complements the meat's natural, fresh taste. </span></p>
+<p><span><strong>Add this calamari to your menu</strong> with an assortment of popular dipping sauces, from cocktail sauce and ketchup to sweet honey mustard. It makes for a great-tasting appetizer or game-day dish!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Calamari</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867607134282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>330123</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867204284490</id>
+    <published>2020-12-30T00:00:51-05:00</published>
+    <updated>2020-12-30T00:00:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-squid-rings-1-lb"/>
+    <title>Ocean Harvest - Breaded Squid Rings - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-squid-rings-1-lb-164750.jpg?v=1611514061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Harvest - Breaded Squid Rings - 1Lb</strong></p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867204284490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>332001</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867203825738</id>
+    <published>2020-12-30T00:00:50-05:00</published>
+    <updated>2020-12-30T00:00:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-squid-rings-20-x-1-lb"/>
+    <title>Ocean Harvest - Breaded Squid Rings - 20 x 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-squid-rings-20-x-1-lb-717284.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Harvest - Breaded Squid Rings - 20 x 1 Lb</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867203825738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>332002</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867203465290</id>
+    <published>2020-12-30T00:00:49-05:00</published>
+    <updated>2020-12-30T00:00:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-breaded-squid-rings-8-x-908-g"/>
+    <title>Ocean Prime - Breaded Squid Rings - 8 x 908 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-breaded-squid-rings-8-x-908-g-493751.png?v=1611511898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            107.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Breaded Squid Rings - 8 x 908 g</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867203465290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.99</s:price>
+      <s:sku>332003</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867202744394</id>
+    <published>2020-12-30T00:00:48-05:00</published>
+    <updated>2020-12-30T00:00:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-breaded-squid-rings-908-g"/>
+    <title>Ocean Prime - Breaded Squid Rings - 908 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-breaded-squid-rings-908-g-178098.png?v=1611511590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Breaded Squid Rings - 908 g</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867202744394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>332004</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867259400266</id>
+    <published>2020-12-29T20:39:02-05:00</published>
+    <updated>2020-12-29T20:39:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/teja-1-7-oz-traditional-battered-cod-taco-portions-10-lbsteja-1-7-oz-traditional-battered-cod-taco-portions-10-lbs"/>
+    <title>Teja - 1.7 Oz Traditional Battered Cod Taco Portions - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Teja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/teja-17-oz-traditional-battered-cod-taco-portions-10-lbs-744783.png?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Teja<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Teja - 1.7 Oz Traditional Battered Cod Taco Portions - 10 Lbs</strong></p>
+<p>Battered to perfection. These portions are hand cut for a perfect Taco and work well for small fish &amp; chip meals. Being pre-battered brings easy preparation into the kitchen and convenient portion control to the plate for a reasonable price</p>
+<p><span>This excellent item was created with a Mexican influence in mind! Cut to fit perfectly in a standard tortilla this product takes some of the work out of preparing this popular item. Fresh salsa, cabbage or lettuce with a tasty sauce and you will have your customer coming back for more. Although created with a taco concept in mind this product is also ideal for a smaller portion fish &amp; chip with senior or kids meals in mind.</span></p>
+<ul>
+<li>Ready for the oven or Deep fryer.</li>
+<li>One of the lightest batters in the industry “Less batter, more Fish.”</li>
+<li>Tight sizing spec for more control on actual food cost.</li>
+<li>Individually quick frozen.</li>
+<li>Great for kids or seniors, Fish &amp; Chips sized.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867259400266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>034248</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867220635722</id>
+    <published>2020-12-29T20:38:50-05:00</published>
+    <updated>2020-12-29T20:38:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-4-oz-battered-atlantic-cod-fillets-10-lbs"/>
+    <title>Ocean Jewel - 4 Oz Battered Atlantic Cod Fillets - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-4-oz-battered-atlantic-cod-fillets-10-lbs-207417.jpg?v=1611512918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewels<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 4 Oz Battered Atlantic Cod Fillets - 10 Lbs</strong></p>
+<p>No matter what type of cuisine your restaurant serves, it is likely that fish can make an excellent addition to a variety of dishes at your eatery. Whether you operate a sushi restaurant, farm-to-table spot, or bar and grill, you can find a great option from our large selection of fresh fish wholesale. Fish is a great source of protein in a salad or can be a rich and hearty entrée.<br></p>
+<p id="supporting-content">Wholesale fresh fish is a versatile option for your restaurant, as you can poach, bake, broil, or grill fish to complete any of your specialty dishes. We carry a variety of fish, such as salmon, swordfish, and tuna that can come in different styles. Choose a filet or a sliced piece of fish based on your restaurant’s unique needs.</p>
+<p class="no-margin">Fish is a great option to feature at restaurants serving a number of different types of cuisine, making it a popular choice that your guests will love. Make fish tacos or a number of other delectable entrees with fresh fish wholesale that you can prepare in many different ways, from poaching to grilling. Many of our fish options are caught and filleted daily, so you can serve your patrons the freshest fish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Cod Fish</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867220635722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku>034236</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867219488842</id>
+    <published>2020-12-29T18:57:38-05:00</published>
+    <updated>2020-12-29T18:57:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/janes-22040-battered-haddock-fillets-2-x-2-kg"/>
+    <title>Janes -  22040 Battered Haddock Fillets - 2 x 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Janes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janes-22040-battered-haddock-fillets-2-x-2-kg-733905.jpg?v=1611512612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janes<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Janes -  22040 Battered Haddock Fillets - 2 x 2 Kg</p>
+<p><span>Janes chooses only the highest quality fillets and wraps them in a toasted wheat crumb batter.  For a quick and delicious meal, pair our </span><em>ultimates</em><span> Battered Haddock Fillets  with vegetables or a salad.</span></p>
+<h4 aria-expanded="true" aria-selected="true" aria-controls="ui-id-4" id="ui-id-3" role="tab" class="uppercase ui-accordion-header ui-corner-top ui-state-default ui-accordion-icons ui-accordion-header-active ui-state-active ui-state-focus" tabindex="0">COOKING INSTRUCTIONS</h4>
+<div aria-hidden="false" role="tabpanel" aria-labelledby="ui-id-3" id="ui-id-4" class="ui-accordion-content ui-corner-bottom ui-helper-reset ui-widget-content ui-accordion-content-active">
+<p>Cook from frozen. Bake in a preheated oven at 425°F (218°C) for 10 minutes, flip, then cook 10 to 15 more minutes. Cook to an internal temperature of 160°F (72°C).</p>
+<p><span>0 trans fat</span><br><span>Low in saturated fat</span><br><span>No preservatives</span><br><span>No artificial flavours or colours</span><br><span>Source of Omega-3 polyunsaturates</span><br><span>MSC Certified Sustainable</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Fish</s:tag>
+    <s:tag>Haddock Fish</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867219488842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>034224</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

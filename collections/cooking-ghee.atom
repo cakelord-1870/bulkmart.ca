@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/cooking-ghee.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-28T12:57:59-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4866894725194</id>
+    <published>2020-12-28T12:57:59-05:00</published>
+    <updated>2020-12-28T12:57:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nanak-desi-ghee-3-kg"/>
+    <title>Nanak - Pure Desi Ghee Clarified Butter - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nanak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nanak-pure-desi-ghee-clarified-butter-3-kg-484308.png?v=1611513573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nanak<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nanak - Desi Ghee - 3 Kg</strong></p>
+<p class="classic_sub_title"><strong>100% Natural Ghee</strong></p>
+<p class="description_text"><b class="desc_heading">Ingredients:</b><br>Milk Fat<br><br><b class="desc_heading">Facts:</b></p>
+<div>
+<ul>
+<li>Clarified Butter obtained from milk.</li>
+<li>Ghee is a valuable source of fat-soluble vitamins A, D, E &amp; K which perform various physiological functions in the body.</li>
+<li>Suitable for cooking and frying.</li>
+<li>Free from Lactose and Casein</li>
+<li>Ghee improves digestion and strengthens the bones</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desi Ghee</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866894725194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>010123</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812174065738</id>
+    <published>2020-10-21T18:34:54-04:00</published>
+    <updated>2020-10-21T18:34:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/savera-desi-ghee-3-kg"/>
+    <title>Savera - Clarified Butter Pure Desi Ghee - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Savera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/savera-clarified-butter-pure-desi-ghee-3-kg-857813.jpg?v=1611512257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savera<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Savera - Desi Ghee - 3 Kg</strong></p>
+<p class="classic_sub_title"><strong>100% Natural Ghee</strong></p>
+<p class="description_text"><b class="desc_heading">Ingredients:</b><br>Milk Fat<br><br><b class="desc_heading">Facts:</b></p>
+<div>
+<ul>
+<li>Clarified Butter obtained from milk.</li>
+<li>Ghee is a valuable source of fat-soluble vitamins A, D, E &amp; K which perform various physiological functions in the body.</li>
+<li>Suitable for cooking and frying.</li>
+<li>Free from Lactose and Casein</li>
+<li>Ghee improves digestion and strengthens the bones</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Desi Ghee</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812174065738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>010124</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812173017162</id>
+    <published>2020-10-21T18:27:53-04:00</published>
+    <updated>2020-10-21T18:27:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hayat-pure-vegetable-ghee-2-kg"/>
+    <title>Hayat - Pure Vegetable Ghee - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hayat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hayat-pure-vegetable-ghee-2-kg-478601.jpg?v=1611510185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hayat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hayat - Pure Vegetable Ghee - 2 Kg</p>
+<p><span>Vegetable Ghee brings home the original taste that families love. It’s secret formula lends it a unique taste and grainy texture that is envied by lesser brands</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Big savings</span></li>
+<li><span class="a-list-item">Vegetable ghee is also known as vanaspati, banaspati ghee</span></li>
+<li><span class="a-list-item">Pure vegetable ghee</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Ghee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812173017162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>326590</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812172623946</id>
+    <published>2020-10-21T18:27:52-04:00</published>
+    <updated>2020-10-21T18:27:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hayat-pure-vegetable-ghee-5-kg"/>
+    <title>Hayat - Pure Vegetable Ghee - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hayat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hayat-pure-vegetable-ghee-5-kg-730091.jpg?v=1611510578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hayat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hayat - Pure Vegetable Ghee - 5 Kg</p>
+<p><span>Vegetable Ghee brings home the original taste that families love. It’s secret formula lends it a unique taste and grainy texture that is envied by lesser brands</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Big savings</span></li>
+<li><span class="a-list-item">Vegetable ghee is also known as vanaspati, banaspati ghee</span></li>
+<li><span class="a-list-item">Pure vegetable ghee</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Ghee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812172623946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>23679</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812171345994</id>
+    <published>2020-10-21T18:27:51-04:00</published>
+    <updated>2020-10-21T18:27:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bunge-vegetable-ghee-nh-31178-15-kg"/>
+    <title>Bunge - Vegetable Ghee NH 31178 - 15 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bunge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bunge-vegetable-ghee-nh-31178-15-kg-198438.jpg?v=1611509080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bunge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bunge - Vegetable Ghee NH 31178 - 15 Kg</p>
+<p><span>Vegetable Ghee brings home the original taste that families love. It’s secret formula lends it a unique taste and grainy texture that is envied by lesser brands</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Ghee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812171345994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>98954</s:sku>
+      <s:grams>16783</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887536513094</id>
+    <published>2018-11-28T15:08:51-05:00</published>
+    <updated>2018-11-28T15:08:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/taj-mahal-vegetable-ghee-12-5-kg"/>
+    <title>Taj Mahal -  Vegetable Ghee  - 12.5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Taj Mahal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/taj-mahal-vegetable-ghee-125-kg-219972.jpg?v=1611513815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taj Mahal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taj Mahal - Vegetable Ghee - 12.5 Kg</p>
+<p><span>Vegetable Ghee brings home the original taste that families love. It’s secret formula lends it a unique taste and grainy texture that is envied by lesser brands</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Big savings</span></li>
+<li><span class="a-list-item">Vegetable ghee is also known as vanaspati, banaspati ghee</span></li>
+<li><span class="a-list-item">Pure vegetable ghee</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Ghee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887536513094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>024549</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+</feed>

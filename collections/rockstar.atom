@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/rockstar.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-08T00:22:15-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4759529816138</id>
+    <published>2020-09-08T00:22:15-04:00</published>
+    <updated>2020-09-08T00:22:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-recovery-orange-12-x-473-ml"/>
+    <title>Rockstar - Recovery Orange - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-recovery-orange-12-x-473-ml-999192.jpg?v=1612653260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Recovery Orange - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759529816138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>659658</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759529717834</id>
+    <published>2020-09-08T00:21:54-04:00</published>
+    <updated>2020-09-08T00:21:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-recovery-lemonade-12-x-473-ml"/>
+    <title>Rockstar - Recovery Lemonade - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-recovery-lemonade-12-x-473-ml-348301.png?v=1612653249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Recovery Lemonade - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759529717834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>154899</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759527981130</id>
+    <published>2020-09-08T00:19:46-04:00</published>
+    <updated>2020-09-08T00:19:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-pure-zero-mandarin-orange-12-x-473-ml"/>
+    <title>Rockstar - Pure Zero Mandarin Orange  - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-pure-zero-mandarin-orange-12-x-473-ml-118025.jpg?v=1612653166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Pure Zero Mandarin Orange  - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759527981130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>660304</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759526735946</id>
+    <published>2020-09-08T00:18:04-04:00</published>
+    <updated>2020-09-08T00:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-pure-zero-grape-12-x-473-ml"/>
+    <title>Rockstar - Pure Zero Grape - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-pure-zero-grape-12-x-473-ml-845971.jpg?v=1612653155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Pure Zero Grape - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759526735946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>549899</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759526342730</id>
+    <published>2020-09-08T00:17:29-04:00</published>
+    <updated>2020-09-08T00:17:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-sugar-free-12-x-473-ml"/>
+    <title>Rockstar - Sugar Free - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-sugar-free-12-x-473-ml-256244.jpg?v=1612653274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Sugar Free - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759526342730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>216596</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759525982282</id>
+    <published>2020-09-08T00:16:30-04:00</published>
+    <updated>2020-09-08T00:16:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-xd-thermo-cotton-candy-12-x-473-ml"/>
+    <title>Rockstar - XD Thermo Cotton Candy - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-xd-thermo-cotton-candy-12-x-473-ml-362212.jpg?v=1612653287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - XD Thermo Cotton Candy - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759525982282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>265969</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730625094</id>
+    <published>2019-02-21T00:48:14-05:00</published>
+    <updated>2019-02-21T00:48:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-pure-zero-silver-ice-12-x-473-ml"/>
+    <title>Rockstar - Pure Zero Silver Ice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-pure-zero-silver-ice-12-x-473-ml-725300.jpg?v=1612653209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Pure Zero Silver Ice - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730625094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660305</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730559558</id>
+    <published>2019-02-21T00:48:13-05:00</published>
+    <updated>2019-02-21T00:48:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-punched-pure-zero-12-x-473-ml"/>
+    <title>Rockstar - Punched Pure Zero - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-punched-pure-zero-12-x-473-ml-398318.jpg?v=1612653144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Punched Pure Zero - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730559558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660303</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730494022</id>
+    <published>2019-02-21T00:48:13-05:00</published>
+    <updated>2019-02-21T00:48:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-punched-energy-drink-12-x-473-ml"/>
+    <title>Rockstar - Punched Energy Drink - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-punched-energy-drink-12-x-473-ml-336290.jpg?v=1611512130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Rockstar - Punched Energy Drink - 12 x 473 ml</strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730494022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660302</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730428486</id>
+    <published>2019-02-21T00:48:12-05:00</published>
+    <updated>2019-02-21T00:48:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-original-energy-drink-12-x-473-ml"/>
+    <title>Rockstar - Original Energy Drink - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-original-energy-drink-12-x-473-ml-623205.jpg?v=1612653128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Original Energy Drink - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730428486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660301</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730362950</id>
+    <published>2019-02-21T00:48:11-05:00</published>
+    <updated>2019-02-21T00:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-pure-zero-watermelon-12-x-473-ml"/>
+    <title>Rockstar - Pure Zero Watermelon - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-pure-zero-watermelon-12-x-473-ml-670401.jpg?v=1612653226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar - Pure Zero Watermelon - 12 x 473 ml</em></strong></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><em data-mce-fragment="1">Rockstar Energy Drink</em></strong><span data-mce-fragment="1"> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span data-mce-fragment="1">Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730362950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660306</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730297414</id>
+    <published>2019-02-21T00:48:10-05:00</published>
+    <updated>2019-02-21T00:48:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/rockstar-burner-energy-drink-sugar-free-12-x-473-ml"/>
+    <title>Rockstar - Burner Energy Drink Sugar Free - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Rockstar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rockstar-burner-sugar-free-12-x-473-ml-250149.jpg?v=1612653112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstar<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rockstar - Burner Energy Drink Sugar Free - 12 x 473 ml</p>
+<p><strong><em>Rockstar Energy Drink</em></strong><span> is designed for those who lead active lifestyles from Athletes to Rockstars. </span><span>Available in over 20 amazing flavors in over 30 countries. </span><em data-mce-fragment="1">R</em><em data-mce-fragment="1">OCKSTAR</em><span data-mce-fragment="1"> is enhanced with the potent herbal blend of Guarana, Ginkgo, Ginseng and Milk Thistle.</span></p>
+<p><span data-mce-fragment="1"><strong>Huge selection</strong> of Flavors available..!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rockstar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730297414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>660300</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

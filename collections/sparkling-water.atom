@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/sparkling-water.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-19T14:05:18-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4772397645898</id>
+    <published>2020-09-19T14:05:18-04:00</published>
+    <updated>2020-09-19T14:05:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-benedetto-sparkling-natural-mineral-water-pet-24-x-500-ml"/>
+    <title>San Benedetto - Sparkling Mineral Water PET - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Bendetto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-benedetto-sparkling-mineral-water-pet-24-x-500-ml-980081.jpg?v=1611513699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Bendetto<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Benedetto - Sparkling Mineral Water PET - 24 x 500 ml</strong></p>
+<p><span>San Benedetto was arguably the original favorite of the Republic of Venice, in vogue with aristocratic Venetian families during the Renaissance. The water, tapped at the surface in ancient times, is now drawn from 1,000 feet below ground to ensure that all its original features are unchanged, and unadulterated; the water trickles to its source from the glaciers of the Dolomites. Without question, San Benedetto is an elite, low-mineral delicacy that carries a 30 milligram per liter punch of Magnesium. The San Benedetto bottle is pretty, and is available in both still and sparkling versions.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">0% sodium</span></li>
+<li><span class="a-list-item">Subterranean, 100% Italian artisan water</span></li>
+<li><span class="a-list-item">Less taste interference, purer water taste</span></li>
+<li><span class="a-list-item">Active commitment to the reduction of Co2 emissions</span></li>
+<li><span class="a-list-item">Bottled in Italy</span></li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-mini"></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml#product","name":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733508678","sku":"BM2536","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml-bulk-mart_265.jpg","description":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Bendetto"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2536","mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml?variant=20255590056006","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Benedetto</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772397645898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>154548</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772396826698</id>
+    <published>2020-09-19T14:05:17-04:00</published>
+    <updated>2020-09-19T14:05:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-benedetto-sparkling-natural-mineral-water-pet-6-x-1-5-l"/>
+    <title>San Benedetto - Sparkling Mineral Water PET - 6 x 1.5 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Bendetto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-benedetto-sparkling-mineral-water-pet-6-x-15-l-780578.jpg?v=1611513280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Bendetto<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Benedetto - Sparkling Mineral Water PET - 6 x 1.5 L</strong></p>
+<p><span>San Benedetto was arguably the original favorite of the Republic of Venice, in vogue with aristocratic Venetian families during the Renaissance. The water, tapped at the surface in ancient times, is now drawn from 1,000 feet below ground to ensure that all its original features are unchanged, and unadulterated; the water trickles to its source from the glaciers of the Dolomites. Without question, San Benedetto is an elite, low-mineral delicacy that carries a 30 milligram per liter punch of Magnesium. The San Benedetto bottle is pretty, and is available in both still and sparkling versions.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">0% sodium</span></li>
+<li><span class="a-list-item">Subterranean, 100% Italian artisan water</span></li>
+<li><span class="a-list-item">Less taste interference, purer water taste</span></li>
+<li><span class="a-list-item">Active commitment to the reduction of Co2 emissions</span></li>
+<li><span class="a-list-item">Bottled in Italy</span></li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-mini"></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml#product","name":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733508678","sku":"BM2536","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml-bulk-mart_265.jpg","description":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Bendetto"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2536","mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml?variant=20255590056006","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Benedetto</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772396826698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>326599</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772396335178</id>
+    <published>2020-09-19T14:05:15-04:00</published>
+    <updated>2020-09-19T14:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-benedetto-sparkling-natural-mineral-water-glass-24x250-ml"/>
+    <title>San Benedetto - Sparkling Mineral Water Glass - 24x250 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Bendetto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-benedetto-sparkling-mineral-water-glass-24x250-ml-428666.jpg?v=1611512196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Bendetto<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Benedetto - Sparkling Mineral Water Glass - 24x250 ml</strong></p>
+<p><span>San Benedetto was arguably the original favorite of the Republic of Venice, in vogue with aristocratic Venetian families during the Renaissance. The water, tapped at the surface in ancient times, is now drawn from 1,000 feet below ground to ensure that all its original features are unchanged, and unadulterated; the water trickles to its source from the glaciers of the Dolomites. Without question, San Benedetto is an elite, low-mineral delicacy that carries a 30 milligram per liter punch of Magnesium. The San Benedetto bottle is pretty, and is available in both still and sparkling versions.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">0% sodium</span></li>
+<li><span class="a-list-item">Subterranean, 100% Italian artisan water</span></li>
+<li><span class="a-list-item">Less taste interference, purer water taste</span></li>
+<li><span class="a-list-item">Active commitment to the reduction of Co2 emissions</span></li>
+<li><span class="a-list-item">Bottled in Italy</span></li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-mini"></ul>
+<ul class="a-unordered-list a-vertical a-spacing-mini"></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml#product","name":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733508678","sku":"BM2536","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml-bulk-mart_265.jpg","description":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Bendetto"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2536","mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml?variant=20255590056006","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Benedetto</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772396335178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>154869</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772394958922</id>
+    <published>2020-09-19T14:05:14-04:00</published>
+    <updated>2020-09-19T14:05:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-benedetto-sparkling-natural-mineral-water-12-x-1-l"/>
+    <title>San Benedetto - Sparkling Mineral Water Glass - 12 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Bendetto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-benedetto-sparkling-mineral-water-glass-12-x-1-l-636661.jpg?v=1611512499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Bendetto<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Benedetto - Sparkling Mineral Water Glass - 12 x 1 L</strong></p>
+<p><span>San Benedetto was arguably the original favorite of the Republic of Venice, in vogue with aristocratic Venetian families during the Renaissance. The water, tapped at the surface in ancient times, is now drawn from 1,000 feet below ground to ensure that all its original features are unchanged, and unadulterated; the water trickles to its source from the glaciers of the Dolomites. Without question, San Benedetto is an elite, low-mineral delicacy that carries a 30 milligram per liter punch of Magnesium. The San Benedetto bottle is pretty, and is available in both still and sparkling versions.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">0% sodium</span></li>
+<li><span class="a-list-item">Subterranean, 100% Italian artisan water</span></li>
+<li><span class="a-list-item">Less taste interference, purer water taste</span></li>
+<li><span class="a-list-item">Active commitment to the reduction of Co2 emissions</span></li>
+<li><span class="a-list-item">Bottled in Italy</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml#product","name":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733508678","sku":"BM2536","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml-bulk-mart_265.jpg","description":"San Bendetto - Sparkling Natural Mineral Water - 12 x 750 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Bendetto"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"},"offers":[{"sku":"BM2536","mpn":"","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-bendetto-sparkling-natural-mineral-water-12-x-750-ml?variant=20255590056006","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"37"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Benedetto</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772394958922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>21548</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772388798538</id>
+    <published>2020-09-19T13:29:19-04:00</published>
+    <updated>2020-09-19T13:29:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/voss-sparkling-artesian-water-glass-bottle-24-x-375-ml"/>
+    <title>VOSS - Sparkling Artesian Water Glass Bottle - 24 x 375 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Voss</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/voss-sparkling-artesian-water-glass-bottle-24-x-375-ml-738230.jpg?v=1611513092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voss<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">Pure artesian water</span></li>
+<li><span class="a-list-item">With its iconic design, Voss is served on the tables, in the homes and in the rooms of the most distinctive places worldwide</span></li>
+<li><span class="a-list-item">The company is proud of its ongoing commitment to the Voss foundation and maintaining 100% carbon neutrality</span></li>
+<li><span class="a-list-item"><span>Voss artesian bottled water is taken from a virgin aquifer that, according to the company, has been shielded for centuries under ice and rock in the untouched wilderness of Central Norway.</span></span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/voss-sparkling-mineral-water-12-x-800-ml#product","name":"Voss - Sparkling Mineral Water - 12 x 800 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733574214","sku":"BM2538","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/voss-sparkling-mineral-water-12-x-800-ml-bulk-mart_494.jpg","description":"Voss - Sparkling Mineral Water - 12 x 800 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Voss"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"},"offers":[{"sku":"BM2538","mpn":"","priceCurrency":"CAD","price":"42.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/voss-sparkling-mineral-water-12-x-800-ml?variant=20255590187078","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sparkling Water</s:tag>
+    <s:tag>Voss</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772388798538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>698989</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772298621002</id>
+    <published>2020-09-19T00:40:45-04:00</published>
+    <updated>2020-09-19T00:40:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-strawberry-sparkling-natural-mineral-water-pet-6-x-1-l"/>
+    <title>Perrier - Strawberry Sparkling Natural Mineral Water PET - 6 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-strawberry-sparkling-natural-mineral-water-pet-6-x-1-l-782695.jpg?v=1611511710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 6 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle strawberry sparkling flavor with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l#product","name":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733475910","sku":"BM2533","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l-bulk-mart_115.jpg","description":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2533","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l?variant=20255589990470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772298621002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>122699</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772297998410</id>
+    <published>2020-09-19T00:40:43-04:00</published>
+    <updated>2020-09-19T00:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-peach-sparkling-natural-mineral-water-pet-6-x-1-l"/>
+    <title>Perrier - Peach Sparkling Natural Mineral Water PET - 6 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-peach-sparkling-natural-mineral-water-pet-6-x-1-l-809741.jpg?v=1611513279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 6 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle citrus flavor of peach with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l#product","name":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733475910","sku":"BM2533","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l-bulk-mart_115.jpg","description":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2533","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l?variant=20255589990470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772297998410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>125651</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772297867338</id>
+    <published>2020-09-19T00:40:42-04:00</published>
+    <updated>2020-09-19T00:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-peach-sparkling-natural-mineral-water-pet-24-x-500-ml"/>
+    <title>Perrier - Peach Sparkling Natural Mineral Water PET - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-peach-sparkling-natural-mineral-water-pet-24-x-500-ml-821625.jpg?v=1611514193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 24 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle citrus flavor of peach with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l#product","name":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733475910","sku":"BM2533","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l-bulk-mart_115.jpg","description":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2533","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l?variant=20255589990470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772297867338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>154669</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772294950986</id>
+    <published>2020-09-19T00:40:41-04:00</published>
+    <updated>2020-09-19T00:40:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-la-orange-sparkling-natural-mineral-water-pet-24-x-500-ml"/>
+    <title>Perrier - L&apos; Orange Sparkling Natural Mineral Water PET - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-l-orange-sparkling-natural-mineral-water-pet-24-x-500-ml-946424.jpg?v=1611511421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 24 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle citrus flavor of orange and lemon with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772294950986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>545878</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772289871946</id>
+    <published>2020-09-19T00:40:40-04:00</published>
+    <updated>2020-09-19T00:40:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-pet-bottle-24-x-500-ml"/>
+    <title>Perrier - Lemon Sparkling Natural Mineral Water PET - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-lemon-sparkling-natural-mineral-water-pet-24-x-500-ml-992806.jpg?v=1611512910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 24 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle citrus flavor of orange and lemon with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l#product","name":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733475910","sku":"BM2533","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l-bulk-mart_115.jpg","description":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2533","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l?variant=20255589990470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772289871946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>154899</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772128882762</id>
+    <published>2020-09-18T23:46:53-04:00</published>
+    <updated>2020-09-18T23:46:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-sparkling-natural-mineral-water-pet-bottle-6-x-1-l"/>
+    <title>San Pellegrino - Sparkling Natural Mineral Water PET - 6 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-sparkling-natural-mineral-water-pet-6-x-1-l-396819.jpg?v=1611512316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Sparkling Natural Mineral Water PET - 6 x 1 L</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bottle size is the ideal size for sharing with friends</span></li>
+<li><span class="a-list-item">Convenient 6-Pack; Great to keep on-hand for everyday dining occasions</span></li>
+<li><span class="a-list-item">Imported from Italy &amp; embraces the Italian way of living; its taste is clean and refreshing with medium-size bubbles</span></li>
+<li><span class="a-list-item">A refreshing alternative to soda; zero calories, low sodium and no artificial colors or flavors</span></li>
+<li><span class="a-list-item">An elegant bottled water for wines and food pairings; perfect for cleansing the palate and amplifying subtle flavors</span></li>
+<li>
+<div class="a-section a-spacing-extra-large">
+<div class="celwidget" data-feature-name="productDescription" data-csa-c-id="llla04-swv10l-z3bfpm-xtdbku" data-cel-widget="productDescription_feature_div">
+<div data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div class="a-section a-spacing-small">
+<p><br><b>Why Drink SanPellegrino?</b><br><br></p>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>Known for its signature taste, authentic Italian heritage and sophisticated style</li>
+<li>The premium sparkling water chosen by food enthusiasts and some of the premier restaurants across the globe</li>
+<li>Naturally filtered during a 30-year journey through the Italian Alps</li>
+<li>Sugar-free with zero calories – a refreshing alternative to sugary drinks</li>
+<li>Pairs deliciously with a wide range of food.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino Water</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772128882762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>465496</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772128161866</id>
+    <published>2020-09-18T23:46:52-04:00</published>
+    <updated>2020-09-18T23:46:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-sparkling-natural-mineral-water-pet-bottle-24-x-500-ml"/>
+    <title>San Pellegrino - Sparkling Natural Mineral Water PET - 24 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-sparkling-natural-mineral-water-pet-24-x-500-ml-900325.jpg?v=1611513877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Sparkling Natural Mineral Water PET - 24 x 500 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bottle size is the ideal size for sharing with friends</span></li>
+<li><span class="a-list-item">Convenient 12-Pack; Great to keep on-hand for everyday dining occasions</span></li>
+<li><span class="a-list-item">Imported from Italy &amp; embraces the Italian way of living; its taste is clean and refreshing with medium-size bubbles</span></li>
+<li><span class="a-list-item">A refreshing alternative to soda; zero calories, low sodium and no artificial colors or flavors</span></li>
+<li><span class="a-list-item">An elegant bottled water for wines and food pairings; perfect for cleansing the palate and amplifying subtle flavors</span></li>
+<li>
+<div class="a-section a-spacing-extra-large">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="llla04-swv10l-z3bfpm-xtdbku" data-feature-name="productDescription" class="celwidget">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription">
+<div class="a-section a-spacing-small">
+<p><br><b>Why Drink SanPellegrino?</b><br><br></p>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>Known for its signature taste, authentic Italian heritage and sophisticated style</li>
+<li>The premium sparkling water chosen by food enthusiasts and some of the premier restaurants across the globe</li>
+<li>Naturally filtered during a 30-year journey through the Italian Alps</li>
+<li>Sugar-free with zero calories – a refreshing alternative to sugary drinks</li>
+<li>Pairs deliciously with a wide range of food.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino Water</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772128161866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>21548</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4772131831882</id>
+    <published>2020-09-18T17:36:48-04:00</published>
+    <updated>2020-09-18T17:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eska-carbonated-natural-spring-water-with-lemon-12-x-750-ml"/>
+    <title>Eska - Carbonated Spring Water with Lemon Glass - 12 x 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Eska</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eska-carbonated-spring-water-with-lemon-glass-12-x-750-ml-515755.jpg?v=1611510766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eska<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>Eska - Carbonated Natural Spring Water with Lemon - 12 x 750 mlk</strong></h2>
+<h2>Quebec’s very own natural spring water.</h2>
+<p>Eska Natural and Carbonated spring water is sourced in northern Quebec. It’s naturally land-crafted and filtered by the glacial sediment of the Saint-Mathieu-Lac-Berry esker which gives it its crisp, pure, refreshing taste.</p>
+<p>Our non-carbonated, natural spring water bottles are now made of 100% recycled plastic and are 100% recyclable.  Because preserving and protecting the environment is at the heart of who we are.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eska</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4772131831882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>5454</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998733475910</id>
+    <published>2020-09-18T17:20:29-04:00</published>
+    <updated>2020-09-18T17:20:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l"/>
+    <title>Perrier - Lemon Sparkling Natural Mineral Water PET- 6 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-lemon-sparkling-natural-mineral-water-pet-6-x-1-l-566575.jpg?v=1611512679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 6 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle citrus flavor of orange and lemon with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l#product","name":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733475910","sku":"BM2533","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l-bulk-mart_115.jpg","description":"Perrier - Sparkling Mineral Water With Lemon Plastic Bottle - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"BM2533","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-sparkling-mineral-water-with-lemon-plastic-bottle-12-x-1-l?variant=20255589990470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998733475910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>BM2533</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731804742</id>
+    <published>2020-09-18T17:13:31-04:00</published>
+    <updated>2020-09-18T17:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eska-carbonated-spring-water-12-x-1-l"/>
+    <title>Eska - Carbonated Spring Water Glass - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Eska</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eska-carbonated-spring-water-glass-24-x-355-ml-719329.jpg?v=1611510339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eska<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eska - Carbonated Spring Water Glass - 24 x 355 ml</p>
+<h2>Quebec’s very own natural spring water.</h2>
+<p>Eska Natural and Carbonated spring water is sourced in northern Quebec. It’s naturally land-crafted and filtered by the glacial sediment of the Saint-Mathieu-Lac-Berry esker which gives it its crisp, pure, refreshing taste.</p>
+<p>Our non-carbonated, natural spring water bottles are now made of 100% recycled plastic and are 100% recyclable.  Because preserving and protecting the environment is at the heart of who we are.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/eska-carbonated-spring-water-12-x-1-l#product","name":"Eska - Carbonated Spring Water - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731804742","sku":"BM2509","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eska-carbonated-spring-water-12-x-1-l-bulk-mart_173.jpg","description":"Eska - Carbonated Spring Water - 12 x 1 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Eska"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"},"offers":[{"sku":"BM2509","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"12.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/eska-carbonated-spring-water-12-x-1-l?variant=20255585468486","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eska</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731804742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>BM2509</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998733443142</id>
+    <published>2019-02-21T00:49:13-05:00</published>
+    <updated>2019-02-21T00:49:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-carbonated-mineral-water-plastic-bottle-12-x-1-l"/>
+    <title>Perrier - Sparkling Mineral Water Plastic Bottle - 6 x 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-mineral-water-plastic-bottle-6-x-1-l-543996.jpg?v=1611513823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 6 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle flavor with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-carbonated-mineral-water-plastic-bottle-12-x-1-l#product","name":"Perrier - Carbonated Mineral Water Plastic Bottle - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"BM2534","sku":"BM2534","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-carbonated-mineral-water-plastic-bottle-12-x-1-l-bulk-mart_463.jpg","description":"Perrier - Carbonated Mineral Water Plastic Bottle - 12 x 1 L...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"20"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Perrier - Carbonated Mineral Water Plastic Bottle - 12 x 1 L","sku":"BM2534","mpn":"BM2534","@type":"Offer","priceCurrency":"CAD","price":"22.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-carbonated-mineral-water-plastic-bottle-12-x-1-l?variant=20255589924934","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998733443142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>BM2534</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998733410374</id>
+    <published>2019-02-21T00:49:12-05:00</published>
+    <updated>2019-02-21T00:49:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-carbonated-natural-spring-water-glass-bottle-12-x-750-ml"/>
+    <title>Perrier - Sparkling Spring Water Glass Bottle - 12 x 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-spring-water-glass-bottle-12-x-750-ml-477187.jpg?v=1611512014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 12 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle sparkling flavor with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/perrier-carbonated-natural-spring-water-glass-bottle-12-x-750-ml#product","name":"Perrier - Carbonated Natural Spring Water Glass Bottle - 12 x 750 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998733410374","sku":"BM2532","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-carbonated-natural-spring-water-glass-bottle-12-x-750-ml-bulk-mart_963.jpg","description":"Perrier - Carbonated Natural Spring Water Glass Bottle - 12 x 750 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Perrier"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"BM2532","mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/perrier-carbonated-natural-spring-water-glass-bottle-12-x-750-ml?variant=20255589892166","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998733410374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>BM2532</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998733377606</id>
+    <published>2019-02-21T00:49:12-05:00</published>
+    <updated>2019-02-21T00:49:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/perrier-carbonated-mineral-water-glass-bottle-24-x-330-ml"/>
+    <title>Perrier - Sparkling Natural Water Glass Bottle - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Perrier</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/perrier-sparkling-natural-water-glass-bottle-24-x-330-ml-603185.jpg?v=1611511835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perrier<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini" data-mce-fragment="1">
+<li data-mce-fragment="1"><strong><span class="a-list-item" data-mce-fragment="1">Product Details</span></strong></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Sturdy plastic bottle is the perfect size for on the go</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Pack of 24 offers plenty of refreshment; fits in any refrigerator or pantry</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Experience its subtle flavor with zero calories and zero sweeteners</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Our invigorating bubbles and naturally occurring minerals make for a unique, thirst quenching taste</span></li>
+<li data-mce-fragment="1"><span class="a-list-item" data-mce-fragment="1">Perfect for any time of day, and serves as an extraordinary mixer for cocktails</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perrier</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998733377606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>BM2531</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998732820550</id>
+    <published>2019-02-21T00:49:00-05:00</published>
+    <updated>2019-02-21T00:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-carbonated-mineral-water-12-x-750-ml"/>
+    <title>San Pellegrino - Sparkling Natural Mineral Water Glass - 12 x 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-sparkling-natural-mineral-water-glass-12-x-750-ml-963056.jpg?v=1611512617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            24.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Sparkling Natural Mineral Water Glass - 12 x 750 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bottle size is the ideal size for sharing with friends</span></li>
+<li><span class="a-list-item">Convenient 12-Pack; Great to keep on-hand for everyday dining occasions</span></li>
+<li><span class="a-list-item">Imported from Italy &amp; embraces the Italian way of living; its taste is clean and refreshing with medium-size bubbles</span></li>
+<li><span class="a-list-item">A refreshing alternative to soda; zero calories, low sodium and no artificial colors or flavors</span></li>
+<li><span class="a-list-item">An elegant bottled water for wines and food pairings; perfect for cleansing the palate and amplifying subtle flavors</span></li>
+<li>
+<div class="a-section a-spacing-extra-large">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="llla04-swv10l-z3bfpm-xtdbku" data-feature-name="productDescription" class="celwidget">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription">
+<div class="a-section a-spacing-small">
+<p><br><b>Why Drink SanPellegrino?</b><br><br></p>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>Known for its signature taste, authentic Italian heritage and sophisticated style</li>
+<li>The premium sparkling water chosen by food enthusiasts and some of the premier restaurants across the globe</li>
+<li>Naturally filtered during a 30-year journey through the Italian Alps</li>
+<li>Sugar-free with zero calories – a refreshing alternative to sugary drinks</li>
+<li>Pairs deliciously with a wide range of food.
+<p> </p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino Water</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998732820550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.49</s:price>
+      <s:sku>BM2515</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998732787782</id>
+    <published>2019-02-21T00:48:59-05:00</published>
+    <updated>2019-02-21T00:48:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-carbonated-natural-water-24-x-250-ml"/>
+    <title>San Pellegrino - Sparkling Natural Mineral Water Glass - 24 x 250 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-sparkling-natural-mineral-water-glass-24-x-250-ml-364421.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Sparkling Natural Mineral Water Glass - 24 x 250 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bottle size is the ideal size for sharing with friends</span></li>
+<li><span class="a-list-item">Convenient 12-Pack; Great to keep on-hand for everyday dining occasions</span></li>
+<li><span class="a-list-item">Imported from Italy &amp; embraces the Italian way of living; its taste is clean and refreshing with medium-size bubbles</span></li>
+<li><span class="a-list-item">A refreshing alternative to soda; zero calories, low sodium and no artificial colors or flavors</span></li>
+<li><span class="a-list-item">An elegant bottled water for wines and food pairings; perfect for cleansing the palate and amplifying subtle flavors</span></li>
+<li>
+<div class="a-section a-spacing-extra-large">
+<div class="celwidget" data-feature-name="productDescription" data-csa-c-id="llla04-swv10l-z3bfpm-xtdbku" data-cel-widget="productDescription_feature_div">
+<div data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div class="a-section a-spacing-small">
+<p><br><b>Why Drink SanPellegrino?</b><br><br></p>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>Known for its signature taste, authentic Italian heritage and sophisticated style</li>
+<li>The premium sparkling water chosen by food enthusiasts and some of the premier restaurants across the globe</li>
+<li>Naturally filtered during a 30-year journey through the Italian Alps</li>
+<li>Sugar-free with zero calories – a refreshing alternative to sugary drinks</li>
+<li>Pairs deliciously with a wide range of food.
+<p> </p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino Water</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998732787782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>BM2514</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731771974</id>
+    <published>2019-02-21T00:48:48-05:00</published>
+    <updated>2019-02-21T00:48:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eska-carbonated-spring-water-12-x-750-ml"/>
+    <title>Eska - Carbonated Spring Water Glass - 12 x 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Eska</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eska-carbonated-spring-water-glass-12-x-750-ml-255275.jpg?v=1611510452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eska<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Eska - Carbonated Spring Water Glass Bottle - 12 x 750 ml</strong></p>
+<h2>Quebec’s very own natural spring water.</h2>
+<p>Eska Natural and Carbonated spring water is sourced in northern Quebec. It’s naturally land-crafted and filtered by the glacial sediment of the Saint-Mathieu-Lac-Berry esker which gives it its crisp, pure, refreshing taste.</p>
+<p>Our non-carbonated, natural spring water bottles are now made of 100% recycled plastic and are 100% recyclable.  Because preserving and protecting the environment is at the heart of who we are.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eska</s:tag>
+    <s:tag>Sparkling Water</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731771974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>BM2508</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

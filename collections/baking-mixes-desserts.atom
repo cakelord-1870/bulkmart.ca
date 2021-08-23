@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-mixes-desserts.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-26T19:39:46-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4815524003914</id>
+    <published>2020-10-26T19:39:46-04:00</published>
+    <updated>2020-10-26T19:39:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-175-bloom-gelatin-5-kg"/>
+    <title>Dawn - 175 Bloom Gelatin - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-175-bloom-gelatin-5-kg-422398.jpg?v=1611509800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - Gelatine 175 Bloom - 5 Kg -00830283</strong></p>
+<p><span>Unflavored gelatin is an odorless, tasteless and colorless thickening agent, which when dissolved in cold water, and heated and then cooled, forms a jelly. Certain fresh fruits contain enzymes that break down the gelatin, such as figs, pineapple, kiwi, papaya, mango, and guava.</span></p>
+<p><span>The purest form of neutral gelatin available with a strong set. Use to make molds, aspics, fondants icing, chaud/froid (jelled white sauce to glaze hams, turkeys, etc.) and desserts.</span></p>
+<p><br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gelatine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815524003914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>0362154</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815523217482</id>
+    <published>2020-10-26T19:39:45-04:00</published>
+    <updated>2020-10-26T19:39:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ewald-gelatine-gold-leaf-box-1-kg"/>
+    <title>Ewald - Gelatine Gold Leaf Box - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Ewald</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ewald-gelatine-gold-leaf-box-1-kg-422133.jpg?v=1611510705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ewald<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ewald - Gelatine Gold Leaf Box - 1 Kg</p>
+<p><span>The gelatin choice of chefs, leaf gelatin is easy to use and measure in the kitchen. This odorless, tasteless thickening agent forms a gel when combined with liquid and heat. Leaf gelatin melts more slowly than granular gelatin but produces a gel of greater clarity. Gold leaf gelatin sets firm (200 Bloom strength) and is ideal in the preparation of jellies, mousses, marshmallows, sweet or savory bavarois and aspics. This product is derived from beef and pork products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gelatine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815523217482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>036145</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815522267210</id>
+    <published>2020-10-26T19:39:43-04:00</published>
+    <updated>2020-10-26T19:39:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/knox-gelatine-unflavoured-28-g"/>
+    <title>Knox - Gelatine Unflavoured - 28 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Knox</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/knox-gelatine-unflavoured-28-g-204085.jpg?v=1611510337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Knox<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Knox - Gelatine Unflavoured - 28 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Endless versatility; use it for desserts, jams and jellies, salads and more</span></li>
+<li><span class="a-list-item">Sugar-Free</span></li>
+<li><span class="a-list-item">Fat-Free</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gelatine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815522267210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>036156</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815521054794</id>
+    <published>2020-10-26T19:39:42-04:00</published>
+    <updated>2020-10-26T19:39:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-oetker-white-gelatine-sheets-10-g"/>
+    <title>Dr Oetker - White Gelatine Sheets - 10 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dr Oetker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-oetker-white-gelatine-sheets-10-g-492685.jpg?v=1611509735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Oetker<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Oetker - White Gelatine Sheets 6 Ct - 10 g</strong></p>
+<p>The purest form of neutral gelatin available with a strong set. Use to make molds, aspics, fondants icing, chaud/froid (jelled white sauce to glaze hams, turkeys, etc.) and desserts. Perfect to top and seal homemade pâtés. 6 gelatin sheets are sufficient for 2 cups (500ml) of liquid. Basic Directions: Soften the required number of gelatin sheets individually in cold water (about 5 minutes). Remove gelatin sheets from water, and drain. Following either the "hot" or "cold" preparation directions below.  Hot Preparation: Heat the liquid to be set. Add drained gelatin sheets. Stir unit gelatin sheets are dissolved. Cold Preparation: In a small saucepan, over low heat, gently stir gelatin sheets until completely dissolved. Fold into recipe, before gelatin begins to set. Chill recipe until set (about 2 hours). Tip: Fresh kiwi, pineapple, papaya and figs are not suitable for use with gelatin. Ingredient: pure gelatin</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gelatine</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815521054794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>036314</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4813533020234</id>
+    <published>2020-10-22T16:20:13-04:00</published>
+    <updated>2020-10-22T16:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-orange-instant-pudding-1-kg"/>
+    <title>JELLO - Orange Instant Pudding - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-orange-instant-pudding-1-kg-413643.jpg?v=1611510402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Orange Instant Pudding - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4813533020234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>99787</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4813532758090</id>
+    <published>2020-10-22T16:20:12-04:00</published>
+    <updated>2020-10-22T16:20:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-lemon-instant-pudding-1-kg"/>
+    <title>JELLO - Lemon Instant Pudding - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-lemon-instant-pudding-1-kg-773701.jpg?v=1611514130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Instant Pudding Lemon - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4813532758090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>048797</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4813531971658</id>
+    <published>2020-10-22T16:20:11-04:00</published>
+    <updated>2020-10-22T16:20:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-vanilla-pudding-pie-filling-1-kg"/>
+    <title>JELLO - Vanilla Pudding &amp; Pie Filling - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-vanilla-pudding-pie-filling-1-kg-171945.jpg?v=1611511235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Cooked Pudding Pie Filling Vanilla - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4813531971658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>484878</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808836612170</id>
+    <published>2020-10-22T16:20:06-04:00</published>
+    <updated>2020-10-22T16:20:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-grape-jelly-powder-2-27-kg"/>
+    <title>Donmar - Grape Jelly Powder - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-grape-jelly-powder-227-kg-815787.jpg?v=1611509919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Jelly Powder Grape - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of Jelly</strong> with this instant jelly mix. Ideal for high-volume operators, this jelly mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create jelly pies and layered desserts like trifles and eclair cakes. However the jelly served, its smooth, creamy texture and rich taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant jelly mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jelly</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808836612170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>99891</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808836415562</id>
+    <published>2020-10-22T16:20:05-04:00</published>
+    <updated>2020-10-22T16:20:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-lime-jelly-powder-2-27-kg"/>
+    <title>Donmar - Lime Jelly Powder - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-lime-jelly-powder-227-kg-526022.jpg?v=1611510124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Jelly Powder Lime - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of Jelly</strong> with this instant jelly mix. Ideal for high-volume operators, this jelly mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create jelly pies and layered desserts like trifles and eclair cakes. However the jelly served, its smooth, creamy texture and rich taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant jelly mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jelly</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808836415562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>99895</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808835596362</id>
+    <published>2020-10-22T16:20:04-04:00</published>
+    <updated>2020-10-22T16:20:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-strawberry-jelly-powder-2-27-kg"/>
+    <title>Donmar - Strawberry Jelly Powder - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-strawberry-jelly-powder-227-kg-915815.jpg?v=1611509549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Jelly Powder Strawberry - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of Jelly</strong> with this instant jelly mix. Ideal for high-volume operators, this jelly mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create jelly pies and layered desserts like trifles and eclair cakes. However the jelly served, its smooth, creamy texture and rich taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant jelly mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jelly</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808835596362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>99897</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808826224714</id>
+    <published>2020-10-22T16:20:02-04:00</published>
+    <updated>2020-10-22T16:20:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-chocolate-pudding-pie-filling-1-kg"/>
+    <title>JELLO - Chocolate Pudding &amp; Pie Filling - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-chocolate-pudding-pie-filling-1-kg-833899.jpg?v=1611514371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Pudding Pie Filling Chocolate - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808826224714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>0499914</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808825864266</id>
+    <published>2020-10-22T16:20:01-04:00</published>
+    <updated>2020-10-22T16:20:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-vanilla-instant-pudding-1-kg"/>
+    <title>JELLO - Vanilla Instant Pudding - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-vanilla-instant-pudding-1-kg-262042.jpg?v=1611510337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Instant Pudding Vanilla - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808825864266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>154878</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808824553546</id>
+    <published>2020-10-22T16:19:59-04:00</published>
+    <updated>2020-10-22T16:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-instant-vanilla-pudding-2-27-kg"/>
+    <title>Donmar - Instant Vanilla Pudding - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-instant-vanilla-pudding-227-kg-573018.jpg?v=1611510185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Instant Vanilla Pudding - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808824553546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>99894</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808824389706</id>
+    <published>2020-10-22T16:19:58-04:00</published>
+    <updated>2020-10-22T16:19:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-instant-chocolate-pudding-2-27-kg"/>
+    <title>Donmar - Instant Chocolate Pudding - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-instant-chocolate-pudding-227-kg-467581.jpg?v=1611510709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Instant Chocolate Pudding - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808824389706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>99893</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808823898186</id>
+    <published>2020-10-22T16:19:57-04:00</published>
+    <updated>2020-10-22T16:19:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-instant-butterscotch-pudding-2-27-kg"/>
+    <title>Donmar - Instant Butterscotch Pudding - 2.27 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-instant-butterscotch-pudding-227-kg-302439.jpg?v=1611509737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Instant Butterscotch Pudding - 2.27 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808823898186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>99892</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808823242826</id>
+    <published>2020-10-22T16:19:55-04:00</published>
+    <updated>2020-10-22T16:19:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-vanilla-custard-powder-4-54-kg"/>
+    <title>Donmar - Vanilla Custard Powder - 4.54 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-vanilla-custard-powder-454-kg-220444.jpg?v=1611511181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Vanilla Custard Powder - 4.54 Kg</strong></p>
+<p><span>Donmar Custard Powder is packed in a plastic pail and available in two sizes: 4.54kg (10lb), and 8.16kg (18lb).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Custard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808823242826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>99898</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808815935562</id>
+    <published>2020-10-22T16:19:50-04:00</published>
+    <updated>2020-10-22T16:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-premium-custard-mix-12-5-kg"/>
+    <title>IREKS - Premium Custard Mix - 12.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-premium-custard-mix-125-kg-148521.jpg?v=1611510943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            102.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">IREKS - Premium Custard Mix - 12.5 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Custard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808815935562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">102.99</s:price>
+      <s:sku>154897</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808814002250</id>
+    <published>2020-10-22T16:19:49-04:00</published>
+    <updated>2020-10-22T16:19:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ireks-white-pudding-cake-mix-20-kg"/>
+    <title>IREKS - White Pudding Cake Mix - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>IREKS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ireks-white-pudding-cake-mix-20-kg-800279.jpg?v=1611510525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>IREKS<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            93.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IREKS - White Pudding Cake Mix - 20 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/irek-eggless-chocolate-cake-mix-20-kg#product","name":"IREKS -Eggless Chocolate Cake Mix - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3966835753030","sku":"LDBBM82","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/irek-eggless-chocolate-cake-mix-20-kg-bulk-mart_150.jpg","description":"IREKS -Eggless Chocolate Cake Mix - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"IREK"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"LDBBM82","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"99.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/irek-eggless-chocolate-cake-mix-20-kg?variant=29541436391494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808814002250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>459696</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4171267440710</id>
+    <published>2020-10-22T16:19:48-04:00</published>
+    <updated>2020-10-22T16:19:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/national-strawberry-jelly-60-g-6-pk"/>
+    <title>National - Strawberry Jelly 60 g - 6/Pk</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>National</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-449587.jpg?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>National<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>National - Strawberry Jelly Crystals - 60 g - 6/Pk</p>
+<p><span><strong>Quickly and easily prepare large batches of Jelly</strong> with this instant jelly mix. Ideal for high-volume operators, this jelly mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create jelly pies and layered desserts like trifles and eclair cakes. However the jelly served, its smooth, creamy texture and rich taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant jelly mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk#product","name":"National - Strawberry Jelly - 60 g - 6/Pk","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4171267440710","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-strawberry-jelly-60-g-6pk-bulk-mart_951.jpg","description":"National - Strawberry Jelly - 60 g - 6 / Pk.","category":"FOOD","brand":{"@type":"Brand","name":"National"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"340"},"mpn":"","priceCurrency":"CAD","price":"6.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-strawberry-jelly-60-g-6pk?variant=30314887872582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jelly</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4171267440710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>145487</s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4597136457802</id>
+    <published>2020-05-19T17:46:07-04:00</published>
+    <updated>2020-05-19T17:46:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/puratos-cremyvit-classic-custard-cream-mix-25-kg"/>
+    <title>Puratos - Cremyvit Classic Custard Cream Mix - 25 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Puratos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/puratos-cremyvit-classic-custard-cream-mix-25-kg-866099.jpg?v=1611512255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puratos<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Puratos - Cremyvit Classic Custard Cream Mix - 25 Kg</strong></p>
+<div class="paragraph">
+<div class="p-editor">
+<p class="lead">There is no need to sacrifice quality for speed when making custard cream. Simply use Cremvit. Cremyvit is a range of deliciously smooth and creamy custard cream mixes that take only moments to prepare – just add water!<br></p>
+</div>
+</div>
+<div class="column-control">
+<div class="column-control">
+<div class="col-md-6">
+<div class="paragraph-title"><span>Cremyvit mixes are easy to use and quick to prepare. Just add cold water, whip, and the custard creams are ready, possessing all the taste and firm texture that consumers are looking for. Not only are they bake and freeze/thaw stable, but they can be used in a wide range of finished products and applications including: baked products like tarts, danish pastries and pies, as filling in éclairs and viennoiserie, in slices such as cremeschnitte, and in glorious combination with dairy or vegetable cream.</span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Custard</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4597136457802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>98987</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4206654324806</id>
+    <published>2019-10-10T14:05:19-04:00</published>
+    <updated>2019-10-10T14:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jello-chocolate-instant-pudding-1-kg"/>
+    <title>JELLO - Chocolate Instant Pudding - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>JELLO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jello-chocolate-instant-pudding-1-kg-808742.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JELLO<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>JELLO - Chocolate Instant Pudding - 1 Kg</strong></p>
+<p><span><strong>Quickly and easily prepare large batches of pudding</strong> with this instant cream pudding mix. Ideal for high-volume operators, this pudding mix delivers high-performing results with consistency in taste, color, and texture. It is great for offering as a popular dessert option in your buffet, cafeteria, or catered event. Or, use as an ingredient to create pudding pies and layered desserts like trifles and eclair cakes. However the pudding served, its smooth, creamy texture and rich cream taste are sure to please!</span><br><br><span><strong>Extremely easy to prepare,</strong> this instant pudding mix helps reduce preparation time in your busy kitchen or catered event without sacrificing on quality. Pour contents in to the mixing bowl and after preparing into serving dishes and let it stand 10 minutes, or until set, before adding toppings. Alternatively, pour the contents of the mixing bowl into cooled, baked pie shells to use as a pie filling and let it stand for 30 minutes, or until set, before adding any toppings.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pudding</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4206654324806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>021549</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/kosher-foods.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-16T16:41:07-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6639914713162</id>
+    <published>2021-08-16T16:41:07-04:00</published>
+    <updated>2021-08-16T16:41:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g"/>
+    <title>Robin Hood - Gluten Free All Purpose flour Blend  - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/robin-hood-gluten-free-all-purpose-flour-blend-907-g-631324.jpg?v=1629180753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1k2abhj eqaamsw7" aria-expanded="true" tabindex="0">
+<div class="css-70qvj9 eqaamsw8">Description</div>
+</div>
+<div class="css-1ev1b0e eqaamsw1">
+<div class="css-190aten e1mpbtcv0">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Robin Hood All Purpose Gluten Free Flour Blend is made from rice flour blended with xanthan gum, pea fibre and potato and tapioca starches. It makes it easy for you to enjoy all your favourite baked goods without gluten. Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Gluten free all purpose flour blend with xanthan gum.<br>• Gluten Free flour blend so versatile it can be used in your everyday baking.<br>• Comes in a convenient resealable bag.<br>• RECOMMENDED FOR MAKING: Cookies, Muffins, Biscuits, Cakes (except cakes with a delicate texture like angel food), Breads, Pastries, Squares &amp; Brownies.</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All Purpose Flour</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6639914713162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>22220</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6614268149834</id>
+    <published>2021-07-07T20:14:23-04:00</published>
+    <updated>2021-07-07T20:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/supreme-whole-dill-pickle-20-l"/>
+    <title>Supreme - Whole Dill Pickle - 20 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/supreme-whole-dill-pickle-large-20-l-235050.jpg?v=1625757062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6614268149834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>22901</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6614191833162</id>
+    <published>2021-07-07T17:35:43-04:00</published>
+    <updated>2021-07-07T17:35:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barry-callebaut-easymelt-compound-dark-snaps-20-kg"/>
+    <title>Barry Callebaut - Easymelt Compound Dark Snaps - 20 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Barry Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barry-callebaut-easymelt-compound-dark-snaps-20-kg-825924.jpg?v=1625754061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barry Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut S12-HP35NV-D33 - Dark Compound Snaps</strong></p>
+<p><span>This chocolate Snaps is excellent in baking recipes, and for moulding and dipping, or eating on its own. These pure chocolate callets are easy to melt or temper, weigh, and store, and a divine taste in recipes calling for chunks of chocolate. Made using 100% pure cocoa butter and a dash of vanilla that rounds off the taste with a slight sweet hint. </span><br><span>Pure chocolate requires tempering to obtain a high gloss for chocolate making </span><br></p>
+<ul>
+<li>Kosher dairy</li>
+</ul>
+<p><span>Product of Belgium</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Melting Callets</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6614191833162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>21319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537905340490</id>
+    <published>2021-03-18T14:27:36-04:00</published>
+    <updated>2021-03-18T14:27:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-wild-blueberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Wild Blueberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-wild-blueberry-jam-mini-jars-kosher-15-x-1-oz-826042.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher honey..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this honey! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure honey to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Honey offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying honey in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar. Collected from sweet honey-comb and containing no additives, this honey provides just the right amount of satisfying sweetness to your customers' dishes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537905340490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>77005</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537905274954</id>
+    <published>2021-03-18T14:27:35-04:00</published>
+    <updated>2021-03-18T14:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-raspberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Raspberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-raspberry-jam-mini-jars-kosher-15-x-1-oz-588281.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537905274954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>77003</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537904848970</id>
+    <published>2021-03-18T14:27:35-04:00</published>
+    <updated>2021-03-18T14:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-orange-marmalade-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Orange Marmalade Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-orange-marmalade-jam-mini-jars-kosher-15-x-1-oz-321152.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537904848970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>77002</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537904422986</id>
+    <published>2021-03-18T14:27:34-04:00</published>
+    <updated>2021-03-18T14:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-apricot-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Apricot Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-apricot-jam-mini-jars-kosher-15-x-1-oz-148856.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537904422986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>77001</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6537903177802</id>
+    <published>2021-03-18T14:27:33-04:00</published>
+    <updated>2021-03-18T14:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bonne-maman-strawberry-jam-mini-jars-kosher-15-x-1-oz"/>
+    <title>Bonne Maman - Strawberry Jam Mini Jars Kosher - 15 x 1 oz</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bonne Maman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bonne-maman-strawberry-jam-mini-jars-kosher-15-x-1-oz-538948.jpg?v=1616131124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonne Maman<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add a touch of sweetness to your bakery, restaurant, or cafe with this Kosher Jam..!</h2>
+<p><span>Now your patrons can satisfy their craving for something sweet on-the-go with the convenience of this Jam! The name is highly recognized in just about any venue, and their premium selection of spreads upholds a tradition of full-bodied flavor, great quality, and value. These handy portion cups bring the syrupy sweetness and traditional taste of pure Jam to your restaurant, diner, school cafeteria, or convenience store. Their 1 oz. size is perfectly-portioned for a single serving, and your customers can even grab them on the go with their take-out meals.</span><br><br><span>Jam offers a quick and easy way to enhance menu items with its pleasing aroma and sweet, classic taste. It's the perfect complement to toast, biscuits, hot teas, or spiced ciders. Rather than buying Jam in bulk jars, these portion cups are easy to serve in caddies on your tabletop or hotel breakfast bar.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<p>The secret of Bonne Maman jam is very simple – its ingredients. Using only perfect fruits and natural sugar, carefully prepared with Bonne Maman’s traditional expertise, creates the memorable taste that is Bonne Maman. A delicious moment to cherish – every time.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Honey</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6537903177802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>77004</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880442130506</id>
+    <published>2021-01-21T01:09:28-05:00</published>
+    <updated>2021-01-21T01:09:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-5-6-x-8-2-gold-pastry-tray-300-case"/>
+    <title>Novacart - 5.6&quot; x 8&quot; #2 Gold Pastry Tray - 300/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-56-x-8-2-gold-pastry-tray-300case-619056.jpg?v=1611514366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            98.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  </span><span data-mce-fragment="1">5-11/16 x 8</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<p>Novacart - #2 Gold Pastry Tray - 30 x 10/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880442130506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.99</s:price>
+      <s:sku>13204</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880441737290</id>
+    <published>2021-01-21T01:09:28-05:00</published>
+    <updated>2021-01-21T01:09:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-5-6-x-8-2-gold-pastry-tray-10-pack"/>
+    <title>Novacart - 5.6&quot; x 8&quot; #2 Gold Pastry Tray - 10/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-56-x-8-2-gold-pastry-tray-10pack-252459.jpg?v=1611513937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.<br data-mce-fragment="1"><br data-mce-fragment="1">Gold Rectangular Pastry Tray  <span data-mce-fragment="1">5-11/16 x 8</span><br data-mce-fragment="1">Rolled Edge<br data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish<br data-mce-fragment="1">•PET-Laminated<br data-mce-fragment="1">•Freezer Safe<br data-mce-fragment="1">•Grease &amp; Bend Resistant<br data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</p>
+<p> </p>
+<p>Novacart - #2 Gold Pastry Tray - <span data-mce-fragment="1">V9L23101</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880441737290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>13203</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880441638986</id>
+    <published>2021-01-21T01:09:27-05:00</published>
+    <updated>2021-01-21T01:09:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-11-75-x-15-5-8-gold-pastry-tray-10-pack"/>
+    <title>Novacart - 11.75&quot; x 15.5&quot; #8 Gold Pastry Tray - 10/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-1175-x-155-8-gold-pastry-tray-10pack-680013.jpg?v=1611512261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  11-3/4 x 15-1/2</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+Novacart - #8 Gold Pastry Tray - <span data-mce-fragment="1">V9L23107</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880441638986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>13201</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880441278538</id>
+    <published>2021-01-21T01:09:26-05:00</published>
+    <updated>2021-01-21T01:09:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-11-75-x-15-5-8-gold-pastry-tray-80-case"/>
+    <title>Novacart - 11.75&quot; x 15.5&quot; #8 Gold Pastry Tray - 80/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-1175-x-155-8-gold-pastry-tray-80case-166337.jpg?v=1611512730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            86.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  11-3/4 x 15-1/2</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<span data-mce-fragment="1">Novacart - #8 Gold Pastry Tray - </span><span data-mce-fragment="1">V9L23107</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880441278538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.99</s:price>
+      <s:sku>13202</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880440328266</id>
+    <published>2021-01-21T01:09:26-05:00</published>
+    <updated>2021-01-21T01:09:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-9-375-x-13-31-6-gold-pastry-tray-10-pack"/>
+    <title>Novacart - 9.375&quot; x 13.31&quot; #6 Gold Pastry Tray - 10/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-9375-x-1331-6-gold-pastry-tray-10pack-665364.jpg?v=1611512499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  9-3/8 x 13-5/16</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<p data-mce-fragment="1">Novacart - #6 Gold Pastry Tray - V9L23105<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880440328266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>13207</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880439869514</id>
+    <published>2021-01-21T01:09:25-05:00</published>
+    <updated>2021-01-21T01:09:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-9-375-x-13-31-6-gold-pastry-tray-200-case"/>
+    <title>Novacart - 9.375&quot; x 13.31&quot; #6 Gold Pastry Tray - 200/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-9375-x-1331-6-gold-pastry-tray-200case-356693.jpg?v=1611511357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  9-3/8 x 13-5/16</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<p data-mce-fragment="1">Novacart - #6 Gold Pastry Tray - V9L23105</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880439869514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>13208</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880439115850</id>
+    <published>2021-01-21T01:09:24-05:00</published>
+    <updated>2021-01-21T01:09:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-8-x-11-19-4-gold-pastry-tray-200-case"/>
+    <title>Novacart - 8&quot; x 11.19&quot; #4 Gold Pastry Tray - 200/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-8-x-1119-4-gold-pastry-tray-200case-468461.jpg?v=1611514423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  8 x 11-3/16</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<p data-mce-fragment="1">Novacart - #4 Gold Pastry Tray - <span data-mce-fragment="1">V9L23103</span></p>
+Novacart - #4 Gold Pastry Tray - 20 x 10/Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880439115850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>13206</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880439050314</id>
+    <published>2021-01-21T01:09:24-05:00</published>
+    <updated>2021-01-21T01:09:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/novacart-8-x-11-19-4-gold-pastry-tray-10-pack"/>
+    <title>Novacart - 8&quot; x 11.19&quot; #4 Gold Pastry Tray - 10/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Novacart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/novacart-8-x-1119-4-gold-pastry-tray-10pack-240310.jpg?v=1611511302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Novacart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Kosher, Do Not Microwave, Impermeable to Oil and Moisture, Safe for direct food contact. Ideal for catering events, trays of cookies, danishes, and cupcakes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Gold Rectangular Pastry Tray  8 x 11-3/16</span><br data-mce-fragment="1"><span data-mce-fragment="1">Rolled Edge</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Solid Cardboard Laminated with a Gold Finish</span><br data-mce-fragment="1"><span data-mce-fragment="1">•PET-Laminated</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Freezer Safe</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Grease &amp; Bend Resistant</span><br data-mce-fragment="1"><span data-mce-fragment="1">•Optional Lid Available for Sizes 4 &amp; 6 Tray</span></p>
+<p>Novacart - #4 Gold Pastry Tray - <span data-mce-fragment="1">V9L23103</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pastry Trays &amp; Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880439050314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>13205</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880625664074</id>
+    <published>2021-01-19T21:18:26-05:00</published>
+    <updated>2021-01-19T21:18:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mpc-15-x-21-silicone-parchment-paper-sheets-kosher-1000-case"/>
+    <title>MPC - 15&quot; x 21&quot; Silicone Parchment Paper Sheets Kosher - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MPC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mpc-15-x-21-silicone-parchment-paper-sheets-kosher-1000case-691525.jpg?v=1611511480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MPC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            96.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Line bun pans and sheet pans with this<span> 15" x 21" Silicone Paper Sheet Kosher.</span>
+</h2>
+<p><span>Great for bakeries, cafes, and restaurants, this coated parchment paper expedites cleanup and minimizes food waste at your establishment. Save time and resources cleaning dirty pans with this easy-to-use sheet pan liner.</span></p>
+<h3 class="item-header">Silicone Coating</h3>
+<p>Featuring a silicone coating, this pan liner creates a stick-resistant surface which helps reduce food waste, and it eliminates the need to use spray-on release products on your bun/sheet pan. Because this sheet liner protects your pan from grease build up, a limited amount of water is required for washing, ultimately making your pan remarkably easy and quick to clean.</p>
+<h3 class="item-header">Withstands High Heat</h3>
+<p>The liner is extremely durable and can handle up to 440 degrees Fahrenheit to accommodate your various baking needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:tag>Silicone Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880625664074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">96.99</s:price>
+      <s:sku>22080</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4880624812106</id>
+    <published>2021-01-19T21:18:25-05:00</published>
+    <updated>2021-01-19T21:18:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mpc-16-3-8-x-24-3-8-silicone-parchment-paper-sheets-kosher-1000-case"/>
+    <title>MPC - 16 3/8&quot; x 24 3/8&quot; Silicone Parchment Paper Sheets Kosher - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MPC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mpc-16-38-x-24-38-silicone-parchment-paper-sheets-kosher-1000case-267636.jpg?v=1611512195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MPC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Line bun pans and sheet pans with this<span> 16 3/8" x 24 3/8" Silicone Paper Sheet Kosher.</span>
+</h2>
+<p><span>Great for bakeries, cafes, and restaurants, this coated parchment paper expedites cleanup and minimizes food waste at your establishment. Save time and resources cleaning dirty pans with this easy-to-use sheet pan liner.</span></p>
+<h3 class="item-header">Silicone Coating</h3>
+<p>Featuring a silicone coating, this pan liner creates a stick-resistant surface which helps reduce food waste, and it eliminates the need to use spray-on release products on your bun/sheet pan. Because this sheet liner protects your pan from grease build up, a limited amount of water is required for washing, ultimately making your pan remarkably easy and quick to clean.</p>
+<h3 class="item-header">Withstands High Heat</h3>
+<p>The liner is extremely durable and can handle up to 440 degrees Fahrenheit to accommodate your various baking needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pan Liners</s:tag>
+    <s:tag>Silicone Pan Liners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4880624812106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>22081</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887475728454</id>
+    <published>2021-01-04T19:42:49-05:00</published>
+    <updated>2021-01-04T19:42:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg-case"/>
+    <title>Diamond - Crystal Kosher Salt - 12 x 1.36 Kg/Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Diamond</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/diamond-crystal-kosher-salt-12-x-136-kgcase-488518.jpg?v=1611509914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            83.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diamond - Crystal Kosher Salt - 12 x 1.36 Kg</p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><strong>Use this all Kosher salt</strong><span> </span>for cooking and baking, as well as for seasoning at the table. The uniformly shaped crystals make table salt the best choice for baking where precise measurements are critical.</p>
+<p><span><strong>This Salt is the perfect cooking salt</strong> for your kitchen, steak house, bakery, or other foodservice establishment. Sprinkle it on top of meats or use it as a garnish on baked goods. Since this seasoning has no additives, you can feel good about the ingredients being using in your recipes.</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. Additionally, since it’s not coarse, it won’t add any crunch to your foods.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p>
+<p class="subhead"><strong>A staple in kitchens everywhere</strong></p>
+<p><strong>Use this all Kosher salt</strong><span> </span>for cooking and baking, as well as for seasoning at the table. The uniformly shaped crystals make table salt the best choice for baking where precise measurements are critical.</p>
+<p><span><strong>This Salt is the perfect cooking salt</strong> for your kitchen, steak house, bakery, or other foodservice establishment. Sprinkle it on top of meats or use it as a garnish on baked goods. Since this seasoning has no additives, you can feel good about the ingredients being using in your recipes.</span></p>
+<p><span><strong>Add it to salad dressings, sauces, soups, and stir frys,</strong> or mix it into brownie, cake, and cookie batters. You can even sprinkle it on top of soups, salads, and other entrees.Thanks to its fine consistency, it will mix evenly into your batters, sauces, marinades, and other mixtures, ensuring every bite is as flavorful as the last. Additionally, since it’s not coarse, it won’t add any crunch to your foods.</span></p>
+<p><span>By using this salt in your recipes, the natural flavors of your foods will be enhanced.</span></p>
+<p><span><strong>There is no ingredient more versatile and important in the kitchen than salt;</strong> ensure you are seasoning your foods with a high quality, all-purpose cooking salt, like this Diamond Crystal 3 lb. kosher salt! Certified kosher for Passover, these coarse salt crystals have a well-rounded flavor that, depending on the amount used, can be used in a variety of ways, from dampening bitterness and increasing a food's sweetness to reducing sweetness and increasing umami in your savory dishes. With its large plain salt crystals, this salt is easier to pinch and sprinkle atop your finished foods than table salt, making it a great way to assure your foods are not over salted. Use this versatile ingredient for seasoning meats prior to cooking, rimming margarita glasses, or making marinades. Whether it's blended into sauces, used for garnishing vegetables, or tossed with your popcorn, it will add an extra pinch of savory flavor to anything you make!<br><br><strong>This pure kosher salt contains no additives</strong> and contains 53% less sodium by volume in comparison to regular table salt. This salt is made using a proprietary evaporation process that creates unique hollow, multifaceted salt crystals that are perfect for controlled seasoning in your kitchen. Plus, its shape also influences its adherence to food surfaces, providing your meals with a fuller flavor. When your recipe calls for large quantities of salt, this box features an efficient side pour spout for quick and easy pouring. For a utility salt that dissolves and disperses quickly, stock your kitchen with this versatile salt for all your cooking needs.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg#product","name":"Diamond -  Crystal Kosher Salt - 12 x 1.36 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887475728454","sku":"O7BM836","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/diamond-crystal-kosher-salt-12-x-1-36-kg-bulk-mart_226.jpg","description":"Diamond - Crystal Kosher Salt - 12 x 1.36 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"O7BM836","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"118.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/diamond-crystal-kosher-salt-12-x-1-36-kg?variant=19271331151942","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887475728454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.99</s:price>
+      <s:sku>025458</s:sku>
+      <s:grams>27216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4850112528458</id>
+    <published>2021-01-04T15:04:12-05:00</published>
+    <updated>2021-01-04T15:04:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-gate-garlic-spread-4-kg"/>
+    <title>Golden Gate - Garlic Spread - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-gate-garlic-spread-4-kg-331862.jpg?v=1611512915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Golden Gate - Garlic Spread - 4 Kg</p>
+<p><span>Garlic Spread - Ideal for premium garlic bread with its buttery colour and robust garlic flavour. Non-hydrogenated, gluten free and kosher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Vegetables</s:tag>
+    <s:tag>Garlic Spread</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4850112528458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>33227</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832355156042</id>
+    <published>2020-12-31T10:25:22-05:00</published>
+    <updated>2020-12-31T10:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/achva-7-layer-halva-3-kg"/>
+    <title>Achva - 7 Layer Halva - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Achva</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/achva-7-layer-halva-3-kg-462291.jpg?v=1624046105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Achva<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Achva - 7 Layer Halwa Kosher Halva - 3 Kg</p>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg#product","name":"Santa Lucia -  Swiss Cheese - Per Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1951562596422","sku":"1BM2152","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/santa-lucia-swiss-cheese-per-kg-bulk-mart_428.jpg","description":"Santa Lucia - Swiss Cheese - Per Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Santa Lucia"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"1BM2152","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/santa-lucia-swiss-cheese-per-kg?variant=19882403856454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halwa</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832355156042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>44512</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867752591434</id>
+    <published>2020-12-30T13:29:06-05:00</published>
+    <updated>2020-12-30T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g"/>
+    <title>Nutella - Hazelnut Spread Mini Glass Jars - 64 x 25 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g-918789.jpg?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread Mini Glass Jar, Single Serving Jar!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halal</span></li>
+</ul>
+Nutella - Hazelnut Spread Glass - 64 x 25 g<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867752591434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>601209</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867711565898</id>
+    <published>2020-12-29T20:02:52-05:00</published>
+    <updated>2020-12-29T20:02:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pam-grilling-spray-141-g"/>
+    <title>PAM - Grilling Spray - 141 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PAM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pam-grilling-spray-141-g-256944.jpg?v=1611513754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PAM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PAM - Grilling Spray - 141 g</strong></p>
+<p>No matter how you take your steak, this spray can take the heat!  Try it on meats, vegetables and seafood next time you fire up the barbeque.</p>
+<ul>
+<li>PAM Grilling Spray is specially-formulated for non-stick performance at higher temperatures</li>
+<li>Perfect for using with meats, veggies and seafood on the grill</li>
+<li>Contains no egg, fish, milk, sesame, shellfish, soy, sulfite, wheat, lactose, artificial, or added sugars</li>
+<li>Kosher</li>
+<li>Vegetarian-friendly</li>
+<li>141 g</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Oil Sprays</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867711565898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.89</s:price>
+      <s:sku>225163</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867697016906</id>
+    <published>2020-12-29T20:02:49-05:00</published>
+    <updated>2020-12-29T20:02:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-virgin-coconut-oil-6-x-500-ml"/>
+    <title>Grace - Virgin Coconut Oil - 6 x 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-virgin-coconut-oil-6-x-500-ml-478832.jpg?v=1611510887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Virgin Coconut Oil - 6 x 500 ml</strong></p>
+<p><span>Coconut Oil extracted from fresh Coconut kernel through an old fashioned technique known as cold pressing. For centuries Virgin Coconut Oil has been the primary source of healthy fat for people in the tropics. Virgin Coconut Oil can be used for cooking, natural skin lotion, and even as a hair conditioner. Kosher</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Oil</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867697016906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>225147</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867694198858</id>
+    <published>2020-12-29T20:02:49-05:00</published>
+    <updated>2020-12-29T20:02:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-virgin-coconut-oil-500-ml"/>
+    <title>Grace - Virgin Coconut Oil - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-virgin-coconut-oil-500-ml-168327.jpg?v=1611510637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Grace - Virgin Coconut Oil - 500 ml</strong></p>
+<p><span>Coconut Oil extracted from fresh Coconut kernel through an old fashioned technique known as cold pressing. For centuries Virgin Coconut Oil has been the primary source of healthy fat for people in the tropics. Virgin Coconut Oil can be used for cooking, natural skin lotion, and even as a hair conditioner. Kosher</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Oil</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867694198858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>225146</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

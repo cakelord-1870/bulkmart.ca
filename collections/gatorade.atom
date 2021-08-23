@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/gatorade.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-17T00:45:57-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4770160443466</id>
+    <published>2020-09-17T00:45:57-04:00</published>
+    <updated>2020-09-17T00:45:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-g2-blueberry-pomegranate-12-x-591-ml"/>
+    <title>Gatorade - G2 Blueberry Pomegranate -12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-blueberry-pomegranate-12-x-591-ml-407575.jpg?v=1611510634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates</span></p>
+<p>Gatorade G2 - Blueberry Pomegranate -12 x 591 ml</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770160443466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550108</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770159231050</id>
+    <published>2020-09-17T00:45:56-04:00</published>
+    <updated>2020-09-17T00:45:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-fruit-punch-12-x-591-ml"/>
+    <title>Gatorade - Fruit Punch - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-fruit-punch-12-x-591-ml-974252.jpg?v=1611514663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates</span></p>
+<p>Gatorade - Fruit Punch - 12 x 591 ml</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770159231050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550107</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770158248010</id>
+    <published>2020-09-17T00:45:55-04:00</published>
+    <updated>2020-09-17T00:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-orange-12-x-591-ml-1"/>
+    <title>Gatorade - Orange - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-orange-12-x-591-ml-959228.jpg?v=1611510400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p>Gatorade - Orange - 12 x 591 ml</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770158248010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550105</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770157658186</id>
+    <published>2020-09-17T00:45:54-04:00</published>
+    <updated>2020-09-17T00:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-lemon-lime-12-x-591-ml-1"/>
+    <title>Gatorade - Lemon Lime - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-lemon-lime-12-x-591-ml-607844.jpg?v=1611514368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p>Gatorade - Lemon Lime - 12 x 591 ml</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770157658186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550106</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4770155921482</id>
+    <published>2020-09-17T00:25:44-04:00</published>
+    <updated>2020-09-17T00:25:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-berry-g-zero-sugar-12-x-591-ml"/>
+    <title>Gatorade - Berry G Zero Sugar - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-berry-g-zero-sugar-12-x-591-ml-231278.jpg?v=1611509973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates</span></p>
+<p>Gatorade - Berry G Zero Sugar - 12 x 591 ml</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4770155921482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>454999</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731280454</id>
+    <published>2019-02-21T00:48:27-05:00</published>
+    <updated>2019-02-21T00:48:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-orange-g-zero-sugar-12-x-591-ml"/>
+    <title>Gatorade - Orange G Zero Sugar - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-orange-g-zero-sugar-12-x-591-ml-748563.jpg?v=1611512372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p><span>Gatorade - Orange G Zero Sugar - 12 x 591 ml</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-orange-12-x-591-ml#product","name":"Gatorade - Orange - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731280454","sku":"BM2487","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-orange-12-x-591-ml-bulk-mart_533.gif","description":"Gatorade - Orange - 12 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"BM2487","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-orange-12-x-591-ml?variant=20255583273030","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731280454</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550104</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731247686</id>
+    <published>2019-02-21T00:48:26-05:00</published>
+    <updated>2019-02-21T00:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-lemon-lime-g-zero-sugar-12-x-591-ml"/>
+    <title>Gatorade - Lemon Lime G Zero Sugar - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-lemon-lime-g-zero-sugar-12-x-591-ml-192530.jpg?v=1611514721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p><span>Gatorade - Lemon Lime G Zero Sugar - 12 x 591 ml</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-lemon-lime-12-x-591-ml#product","name":"Gatorade - Lemon Lime - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731247686","sku":"BM2486","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-lemon-lime-12-x-591-ml-bulk-mart_146.gif","description":"Gatorade - Lemon Lime - 12 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"BM2486","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-lemon-lime-12-x-591-ml?variant=20255583207494","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731247686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550103</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731214918</id>
+    <published>2019-02-21T00:48:26-05:00</published>
+    <updated>2019-02-21T00:48:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-g2-orange-12-x-591-ml"/>
+    <title>Gatorade - G2 Orange - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-orange-12-x-591-ml-827326.jpg?v=1611513754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p><span>Gatorade - G2 Orange - 12 x 591 ml</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-g2-orange-12-x-591-ml#product","name":"Gatorade - G2 Orange - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731214918","sku":"BM2490","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-orange-12-x-591-ml-bulk-mart_123.gif","description":"Gatorade - G2 Orange - 12 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"BM2490","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-g2-orange-12-x-591-ml?variant=20255583174726","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731214918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550102</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731182150</id>
+    <published>2019-02-21T00:48:25-05:00</published>
+    <updated>2019-02-21T00:48:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-g2-grape-12-x-591-ml"/>
+    <title>Gatorade - G2 Grape - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-grape-12-x-591-ml-674634.jpg?v=1611510192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p><span>Gatorade - G2 Grape - 12 x 591 ml</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-g2-grape-12-x-591-ml#product","name":"Gatorade - G2 Grape - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731182150","sku":"BM2488","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-grape-12-x-591-ml-bulk-mart_213.gif","description":"Gatorade - G2 Grape - 12 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"BM2488","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-g2-grape-12-x-591-ml?variant=20255583141958","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731182150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550101</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731149382</id>
+    <published>2019-02-21T00:48:24-05:00</published>
+    <updated>2019-02-21T00:48:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-g2-fruit-punch-12-x-591-ml"/>
+    <title>Gatorade - G2 Fruit Punch - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-fruit-punch-12-x-591-ml-259427.jpg?v=1611512261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates.</span></p>
+<p><span>Gatorade - G2 Fruit Punch - 12 x 591 ml</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-g2-fruit-punch-12-x-591-ml#product","name":"Gatorade - G2 Fruit Punch - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998731149382","sku":"BM2489","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-g2-fruit-punch-12-x-591-ml-bulk-mart_383.gif","description":"Gatorade - G2 Fruit Punch - 12 x 591 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"BM2489","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-g2-fruit-punch-12-x-591-ml?variant=20255583076422","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731149382</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>550100</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998731083846</id>
+    <published>2019-02-21T00:48:23-05:00</published>
+    <updated>2019-02-21T00:48:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml"/>
+    <title>Gatorade - Cool Blue - 12 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Gatorade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-953689.jpg?v=1611514368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gatorade<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gatorade Thirst Quencher sports drink</strong>, is a unique blend of carbohydrates and electrolytes designed to ensure you stay hydrated when active. Crisp, refreshing flavour designed for athletes who want to be at their best in the gym, at practice and in games.<br></p>
+<p><span>Gatorade® Sports Drink is scientifically proven to <strong>Rehydrate</strong> lost fluids, replenish electrolytes lost in sweat, and <strong>Refuel </strong>working muscles with carbohydrates</span></p>
+<p><span>Gatorade - Cool Blue - 12 x 591 ml</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml#product","name":"Gatorade - Cool Blue - 12 x 591 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2484","sku":"BM2484","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gatorade-cool-blue-12-x-591-ml-bulk-mart_901.gif","description":"Gatorade - Cool Blue - 12 x 591 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"Gatorade"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Gatorade - Cool Blue - 12 x 591 ml","sku":"BM2484","mpn":"BM2484","@type":"Offer","priceCurrency":"CAD","price":"15.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gatorade-cool-blue-12-x-591-ml?variant=20255582486598","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gatorade</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998731083846</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>1545544</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

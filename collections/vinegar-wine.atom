@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/vinegar-wine.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-16T01:29:44-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4805285249098</id>
+    <published>2020-10-16T01:29:44-04:00</published>
+    <updated>2020-10-16T01:29:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-red-cooking-wine-5-l"/>
+    <title>Portofino - Red Cooking Wine - 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-red-cooking-wine-5-l-569232.jpg?v=1611512070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - Red Cooking Wine - 5 L</strong></p>
+<p><span>Red cooking wine is a full-bodied wine exclusively selected to enhance the flavour of your finest recipes. This wine keeps longer than table wine and does not require refrigeration. Ideal with meat, poultry and in sauces.</span></p>
+<p><span>Wine is commonly used to add flavor to sauces and for deglazing and marinating. Be mindful of the fact that wine's flavors can concentrate when you reduce it. So if you want a sweeter sauce, pick a Port or other fortified wine, and if you'd like a sauce with a jammy taste, pick something with a full body. Wine needs to be cooked for 3 to 4 minutes after added to a recipe, so the flavors have a chance to meld.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805285249098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>02587</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805284921418</id>
+    <published>2020-10-16T01:29:43-04:00</published>
+    <updated>2020-10-16T01:29:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-red-cooking-wine-bib-20-l"/>
+    <title>Portofino - Red Cooking Wine BIB - 20 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-red-cooking-wine-bib-20-l-671624.jpg?v=1611513395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - Red Cooking Wine BIB - 20 L</strong></p>
+<p><span>Red cooking wine is a full-bodied wine exclusively selected to enhance the flavour of your finest recipes. This wine keeps longer than table wine and does not require refrigeration. Ideal with meat, poultry and in sauces.</span></p>
+<p><span>Wine is commonly used to add flavor to sauces and for deglazing and marinating. Be mindful of the fact that wine's flavors can concentrate when you reduce it. So if you want a sweeter sauce, pick a Port or other fortified wine, and if you'd like a sauce with a jammy taste, pick something with a full body. Wine needs to be cooked for 3 to 4 minutes after added to a recipe, so the flavors have a chance to meld.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805284921418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>02547</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805286133834</id>
+    <published>2020-10-16T01:26:16-04:00</published>
+    <updated>2020-10-16T01:26:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-red-cooking-wine-2-x-5-l"/>
+    <title>Portofino - Red Cooking Wine - 2 x 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-red-cooking-wine-2-x-5-l-112344.jpg?v=1611511424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - Red Cooking Wine - 2 x 5 L</strong></p>
+<p><span>Red cooking wine is a full-bodied wine exclusively selected to enhance the flavour of your finest recipes. This wine keeps longer than table wine and does not require refrigeration. Ideal with meat, poultry and in sauces.</span></p>
+<p><span>Wine is commonly used to add flavor to sauces and for deglazing and marinating. Be mindful of the fact that wine's flavors can concentrate when you reduce it. So if you want a sweeter sauce, pick a Port or other fortified wine, and if you'd like a sauce with a jammy taste, pick something with a full body. Wine needs to be cooked for 3 to 4 minutes after added to a recipe, so the flavors have a chance to meld.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805286133834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>02569</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805284429898</id>
+    <published>2020-10-16T01:19:47-04:00</published>
+    <updated>2020-10-16T01:19:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-white-cooking-wine-bib-20-l"/>
+    <title>Portofino - White Cooking Wine BIB - 20 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-white-cooking-wine-bib-20-l-286547.jpg?v=1611513939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - White Cooking Wine BIB - 20L</strong></p>
+<p><span>With a pale golden color and deliciously light white wine taste, white cooking wine will be a staple ingredient for many popular dishes! Compared to other types of cooking wines, white cooking wine has a lightly flavored, delicate taste that complements lighter fare. This versatile white cooking wine is especially popular in seafood recipes, soups, and Italian dishes like risotto. <strong>It imparts wonderful flavor in salad dressings, poultry dishes, and even vegetables and soups.</strong></span><br><br><span>Cooking wines make a great addition to your kitchen, as they have a longer shelf life than traditional wines due to added salt. T<strong>hey are also a more cost effective choice when cooking with wine</strong>. With premiere quality grapes flavored in aged barrels, chefs know that cooking wines are a secret in creating truly great cuisine!</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805284429898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>03654</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805284069450</id>
+    <published>2020-10-16T01:19:45-04:00</published>
+    <updated>2020-10-16T01:19:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-white-cooking-wine-2-x-5-l"/>
+    <title>Portofino - White Cooking Wine - 2 x 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-white-cooking-wine-2-x-5-l-394624.jpg?v=1611511352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - White Cooking Wine - 5 L</strong></p>
+<p><span>With a pale golden color and deliciously light white wine taste, white cooking wine will be a staple ingredient for many popular dishes! Compared to other types of cooking wines, white cooking wine has a lightly flavored, delicate taste that complements lighter fare. This versatile white cooking wine is especially popular in seafood recipes, soups, and Italian dishes like risotto. <strong>It imparts wonderful flavor in salad dressings, poultry dishes, and even vegetables and soups.</strong></span><br><br><span>Cooking wines make a great addition to your kitchen, as they have a longer shelf life than traditional wines due to added salt. T<strong>hey are also a more cost effective choice when cooking with wine</strong>. With premiere quality grapes flavored in aged barrels, chefs know that cooking wines are a secret in creating truly great cuisine!</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805284069450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>03698</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805283151946</id>
+    <published>2020-10-16T01:19:44-04:00</published>
+    <updated>2020-10-16T01:19:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-white-cooking-wine-5-l"/>
+    <title>Portofino - White Cooking Wine - 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-white-cooking-wine-5-l-512166.jpg?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - White Cooking Wine - 5L</strong></p>
+<p><span>With a pale golden color and deliciously light white wine taste, white cooking wine will be a staple ingredient for many popular dishes! Compared to other types of cooking wines, white cooking wine has a lightly flavored, delicate taste that complements lighter fare. This versatile white cooking wine is especially popular in seafood recipes, soups, and Italian dishes like risotto. <strong>It imparts wonderful flavor in salad dressings, poultry dishes, and even vegetables and soups.</strong></span><br><br><span>Cooking wines make a great addition to your kitchen, as they have a longer shelf life than traditional wines due to added salt. T<strong>hey are also a more cost effective choice when cooking with wine</strong>. With premiere quality grapes flavored in aged barrels, chefs know that cooking wines are a secret in creating truly great cuisine!</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l#product","name":"Prezioso -  Balsamic Vinegar - 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938239979590","sku":"10BM590","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prezioso-balsamic-vinegar-5-l-bulk-mart_974.jpg","description":"Prezioso - Balsamic Vinegar - 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Prezioso"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"10BM590","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/prezioso-balsamic-vinegar-5-l?variant=19780510875718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooking Wine</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805283151946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>03694</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805290229834</id>
+    <published>2020-10-16T01:14:36-04:00</published>
+    <updated>2020-10-16T01:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-white-wine-vinegar-500-ml"/>
+    <title>Unico - White Wine Vinegar - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-wine-vinegar-500-ml-424682.jpg?v=1611514367"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico -  White Wine Vinegar - 500 ml</strong></p>
+<p><strong><b>Use</b><span> in vinaigrettes, sweet-and-sour dishes, marinades, pickles, chutneys, and butter sauces. Or infuse with fresh herbs to make flavoured </span><b>vinegar</b><span>.</span></strong></p>
+<p><span>White wine vinegar is white wine that has been fermented and oxidized into an acid with a lightly fruity flavor. The distilling process usually takes place in stainless steel vats called acetators that expose the ethanol in the wine to oxygen. The resulting acetic acid is then diluted with water to a palatable acidity, somewhere between 5 and 7 percent. While the provenance of grapes used in something like Italian balsamic vinegar</span><span> is known (in such case, Trebbiano or Lambrusco), white wine vinegars can be crafted from a blend of wines referred to as “wine stock.”</span></p>
+<p><br></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l#product","name":"Unico - Red Wine Vinegar - 4 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinR5BM607","sku":"R5BM607","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-wine-vinegar-4-l-bulk-mart_430.jpg","description":"Unico - Red Wine Vinegar - 4 L...","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"49"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"offers":[{"name":"Unico - Red Wine Vinegar - 4 L","sku":"R5BM607","mpn":"VinR5BM607","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l?variant=19271442956358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805290229834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03528</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805275091018</id>
+    <published>2020-10-16T01:14:34-04:00</published>
+    <updated>2020-10-16T01:14:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/emma-white-wine-vinegar-1-l"/>
+    <title>Emma - White Wine Vinegar - 1 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Emma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/emma-white-wine-vinegar-1-l-647733.jpg?v=1611510129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Emma<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Emma -  White Wine Vinegar - 1 L</strong></p>
+<p><strong><b>Use</b><span> in vinaigrettes, sweet-and-sour dishes, marinades, pickles, chutneys, and butter sauces. Or infuse with fresh herbs to make flavoured </span><b>vinegar</b><span>.</span></strong></p>
+<p><span>White wine vinegar is white wine that has been fermented and oxidized into an acid with a lightly fruity flavor. The distilling process usually takes place in stainless steel vats called acetators that expose the ethanol in the wine to oxygen. The resulting acetic acid is then diluted with water to a palatable acidity, somewhere between 5 and 7 percent. While the provenance of grapes used in something like Italian balsamic vinegar</span><span> is known (in such case, Trebbiano or Lambrusco), white wine vinegars can be crafted from a blend of wines referred to as “wine stock.”</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/di-cosimo-red-wine-vinegar-1-l#product","name":"Di Cosimo -  Red Wine Vinegar -  1  L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1938284412998","sku":"05BM603","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/di-cosimo-red-wine-vinegar-1-l-bulk-mart_984.jpg","description":"Di Cosimo - Red Wine Vinegar - 1 L.","category":"FOOD","brand":{"@type":"Brand","name":"Di Cosimo"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"},"offers":[{"sku":"05BM603","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/di-cosimo-red-wine-vinegar-1-l?variant=19780680515654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805275091018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>03569</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805257461834</id>
+    <published>2020-10-16T01:14:33-04:00</published>
+    <updated>2020-10-16T01:14:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-5-l"/>
+    <title>Antica Bonta - White Wine Vinegar - 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Antica Bonta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-5-l-876179.jpg?v=1624068880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antica Bonta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Antica Bonta -  White Wine Vinegar - 5 L</strong></p>
+<p><strong><b>Use</b><span> in vinaigrettes, sweet-and-sour dishes, marinades, pickles, chutneys, and butter sauces. Or infuse with fresh herbs to make flavoured </span><b>vinegar</b><span>.</span></strong></p>
+<p><span>White wine vinegar is white wine that has been fermented and oxidized into an acid with a lightly fruity flavor. The distilling process usually takes place in stainless steel vats called acetators that expose the ethanol in the wine to oxygen. The resulting acetic acid is then diluted with water to a palatable acidity, somewhere between 5 and 7 percent. While the provenance of grapes used in something like Italian balsamic vinegar</span><span> is known (in such case, Trebbiano or Lambrusco), white wine vinegars can be crafted from a blend of wines referred to as “wine stock.”</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l#product","name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinW50BM613","sku":"50BM613","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-12-x-1-l-bulk-mart_791.png","description":"Antica Bonta - White Wine Vinegar - 12 x 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Antica Bonta/Prezioso"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"12"},"offers":[{"name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","sku":"50BM613","mpn":"VinW50BM613","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l?variant=19271283245126","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805257461834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03512</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805254381642</id>
+    <published>2020-10-16T01:14:31-04:00</published>
+    <updated>2020-10-16T01:14:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-2-x-5-l"/>
+    <title>Antica Bonta - White Wine Vinegar - 2 x 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Antica Bonta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-2-x-5-l-451811.jpg?v=1624068885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antica Bonta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Antica Bonta -  White Wine Vinegar - 2 x 5 L</strong></p>
+<p><strong><b>Use</b><span> in vinaigrettes, sweet-and-sour dishes, marinades, pickles, chutneys, and butter sauces. Or infuse with fresh herbs to make flavoured </span><b>vinegar</b><span>.</span></strong></p>
+<p><span>White wine vinegar is white wine that has been fermented and oxidized into an acid with a lightly fruity flavor. The distilling process usually takes place in stainless steel vats called acetators that expose the ethanol in the wine to oxygen. The resulting acetic acid is then diluted with water to a palatable acidity, somewhere between 5 and 7 percent. While the provenance of grapes used in something like Italian balsamic vinegar</span><span> is known (in such case, Trebbiano or Lambrusco), white wine vinegars can be crafted from a blend of wines referred to as “wine stock.”</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l#product","name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinW50BM613","sku":"50BM613","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-12-x-1-l-bulk-mart_791.png","description":"Antica Bonta - White Wine Vinegar - 12 x 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Antica Bonta/Prezioso"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"12"},"offers":[{"name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","sku":"50BM613","mpn":"VinW50BM613","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l?variant=19271283245126","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805254381642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>03578</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805290164298</id>
+    <published>2020-10-16T00:50:06-04:00</published>
+    <updated>2020-10-16T00:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-red-wine-vinegar-500-ml"/>
+    <title>Unico - Red Wine Vinegar - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-wine-vinegar-500-ml-421399.jpg?v=1611512376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico -  Red Wine Vinegar - 500 ml</strong></p>
+<p><b>Red wine vinegar</b><span> is made by fermenting </span><b>red wine</b><span>, then straining and bottling it. It's often aged before bottling to reduce the intensity of the flavor. Many people enjoy using </span><b>red wine vinegar</b><span> in recipes, though it may also have other household uses.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l#product","name":"Unico - Red Wine Vinegar - 4 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinR5BM607","sku":"R5BM607","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-wine-vinegar-4-l-bulk-mart_430.jpg","description":"Unico - Red Wine Vinegar - 4 L...","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"49"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"offers":[{"name":"Unico - Red Wine Vinegar - 4 L","sku":"R5BM607","mpn":"VinR5BM607","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l?variant=19271442956358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805290164298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>05697</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805280759882</id>
+    <published>2020-10-16T00:50:05-04:00</published>
+    <updated>2020-10-16T00:50:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monterey-red-wine-vinegar-kosher-4-x-4-l"/>
+    <title>Monterey - Red Wine Vinegar Kosher - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Monterey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monterey-red-wine-vinegar-kosher-4-x-4-l-425074.jpg?v=1611512556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monterey<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Monterey - Red Wine Vinegar Kosher - 4 x 4 L</strong></p>
+<p><b>Red wine vinegar</b><span> is made by fermenting </span><b>red wine</b><span>, then straining and bottling it. It's often aged before bottling to reduce the intensity of the flavor. Many people enjoy using </span><b>red wine vinegar</b><span> in recipes, though it may also have other household uses.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805280759882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>05621</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805280333898</id>
+    <published>2020-10-16T00:50:04-04:00</published>
+    <updated>2020-10-16T00:50:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monterey-red-wine-vinegar-kosher-4-l"/>
+    <title>Monterey - Red Wine Vinegar Kosher - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Monterey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monterey-red-wine-vinegar-kosher-4-l-668265.jpg?v=1611511477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monterey<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Monterey - Red Wine Vinegar Kosher - 4 L</strong></p>
+<p><b>Red wine vinegar</b><span> is made by fermenting </span><b>red wine</b><span>, then straining and bottling it. It's often aged before bottling to reduce the intensity of the flavor. Many people enjoy using </span><b>red wine vinegar</b><span> in recipes, though it may also have other household uses.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:tag>Wine Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805280333898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>056978</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805278400586</id>
+    <published>2020-10-16T00:05:25-04:00</published>
+    <updated>2020-10-16T00:05:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-pure-malt-vinegar-375-ml"/>
+    <title>Heinz - Pure Malt Vinegar - 375 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pure-malt-vinegar-375-ml-886100.jpg?v=1611510822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Pure Malt Vinegar - 375 ml</strong></p>
+<p><span><strong>Heinz malt vinegar makes the perfect complement</strong> to any serving of French fries or fish and chips! Manufactured from malt syrup that has been fermented to a malt "beer," this vinegar has a rich brown color and a pungent, full-bodied flavor. Serve malt vinegar at your concession stand counter or on any diner or restaurant tabletop so your guests can drizzle as much as they'd like atop their fresh-cut fries, meats, and fried fish.</span><br><br><span><strong>Compared to traditional oil and vinegar toppings,</strong> malt vinegar adds a nutty, toasted flavor to a variety of dishes, including salad dressings and coleslaws. A splash of malt vinegar kicks up the flavor of any traditional macaroni or bean salad. While it is widely-known to be a classic English condiment, this malt vinegar is a great asset for enhancing mainstream American foods with new flavors that will surely impress your guests!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l#product","name":"Heinz - Pure Apple Cider Vinegar - 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"1931448090694","sku":"BM597-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pure-apple-cider-vinegar-1-l-bulk-mart_432.jpg","description":"Heinz - Pure Apple Cider Vinegar - 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"gtin13":"VinH04BM597-1","offers":[{"name":"Heinz - Pure Apple Cider Vinegar - 1 L","sku":"BM597-1","gtin13":"VinH04BM597-1","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l?variant=19720746598470","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Malt Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805278400586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>023970</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805277712458</id>
+    <published>2020-10-15T23:57:25-04:00</published>
+    <updated>2020-10-15T23:57:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/marukan-rice-seasoned-vinegar-dressing-355-ml"/>
+    <title>Marukan -  Rice Seasoned Vinegar Dressing - 355 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Marukan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/marukan-rice-seasoned-vinegar-dressing-355-ml-378244.jpg?v=1611510828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marukan<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Marukan - Rice Vinegar Dressing - 3.78 L</p>
+<p><span>This versatile vinegar is made from fermented rice and has a well-balanced acidity. With no fat and no calories per serving, rice vinegar is a healthy way to <strong>enhance your flavorful meals and sauces.</strong> It's made with no artificial ingredients, and it can be used in place of wine vinegar or lemon juice.</span><br><br><span>Though <strong>rice vinegar is popular in Japanese and Chinese cooking</strong>, it can be used in many cuisines. It is commonly found in dishes that are tangy or sweet, and it's also a popular <strong>salad dressing ingredient.</strong> Use it for <strong>pickling vegetables or add it to savory meat marinades.</strong> It also adds some zest to dipping sauces, soups, and stir-frys!</span></p>
+<p><span>Seasoned Rice Wine Vinegar by Yoshi has a milder flavour than other vinegars and it can be used in place of wine vinegar or lemon juice! <strong>The light and delicate balance provides the perfect flavour enhancement for vegetables, seafood, beef and poultry.</strong> Try it as a secret ingredient in sushi to elevate your favourite rolls</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/marukan-rice-vinegar-dressing-3-78-l#product","name":"Marukan -  Rice Vinegar Dressing - 3.78 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887508299846","sku":"i2BM612","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/marukan-rice-vinegar-dressing-3-78-l-bulk-mart_546.jpg","description":"Marukan - Rice Vinegar Dressing - 3.78 L.","category":"FOOD","brand":{"@type":"Brand","name":"Marukan"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"i2BM612","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3.78"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/marukan-rice-vinegar-dressing-3-78-l?variant=19271391313990","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Rice vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805277712458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>47002</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805248188490</id>
+    <published>2020-10-15T23:43:04-04:00</published>
+    <updated>2020-10-15T23:43:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-pure-white-vinegar-375-ml"/>
+    <title>Heinz - Pure White Vinegar - 375 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pure-white-vinegar-375-ml-256551.jpg?v=1611510185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Pure White Vinegar - 375 ml</strong></p>
+<p><span><strong>Whether you're using it for cooking, cleaning or both</strong>, this distilled white vinegar is great to always have on hand! Use this versatile vinegar for a variety of cooking applications in your commercial kitchen. It has a clean, crisp flavor that is<strong> ideal for salad dressings and vinaigrettes.</strong> With 256 servings per container, you'll be able to use this distilled white vinegar in various recipes, while keeping your restaurant well stocked. White vinegar can be used as a flavoring in your traditional ham and beans entree, in pickling, and even in marinades to tenderize meat. It's a light and healthy way to add flavor to your foods without adding calories or preservatives.</span><br><br><span><strong>A multi-purpose must-have,</strong> this vinegar is an economical alternative to chemical-based cleaning agents. Its mild acidity is great for cleaning glass, cutting boards, and other smooth surfaces.<strong> From cooking and baking to flavoring or cleaning</strong>, white vinegar's variety of uses makes it a great value for any restaurant, cafe, or catering service!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l#product","name":"Heinz - Pure Apple Cider Vinegar - 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"1931448090694","sku":"BM597-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pure-apple-cider-vinegar-1-l-bulk-mart_432.jpg","description":"Heinz - Pure Apple Cider Vinegar - 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"gtin13":"VinH04BM597-1","offers":[{"name":"Heinz - Pure Apple Cider Vinegar - 1 L","sku":"BM597-1","gtin13":"VinH04BM597-1","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l?variant=19720746598470","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pure White Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805248188490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>03654</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4525364183114</id>
+    <published>2020-10-15T23:43:03-04:00</published>
+    <updated>2020-10-15T23:43:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cedar-pure-white-vinegar-4-x-4-l"/>
+    <title>Cedar - Pure White Vinegar - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cedar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-pure-white-vinegar-4-x-4-l-368069.png?v=1611509376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cedar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cedar - Pure White Vinegar - 4 x 4 L</strong></p>
+<p><span><strong>Whether you're using it for cooking, cleaning or both</strong>, this distilled white vinegar is great to always have on hand! Use this versatile vinegar for a variety of cooking applications in your commercial kitchen. It has a clean, crisp flavor that is<strong> ideal for salad dressings and vinaigrettes.</strong> With 256 servings per container, you'll be able to use this distilled white vinegar in various recipes, while keeping your restaurant well stocked. White vinegar can be used as a flavoring in your traditional ham and beans entree, in pickling, and even in marinades to tenderize meat. It's a light and healthy way to add flavor to your foods without adding calories or preservatives.</span><br><br><span><strong>A multi-purpose must-have,</strong> this vinegar is an economical alternative to chemical-based cleaning agents. Its mild acidity is great for cleaning glass, cutting boards, and other smooth surfaces.<strong> From cooking and baking to flavoring or cleaning</strong>, white vinegar's variety of uses makes it a great value for any restaurant, cafe, or catering service!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pure White Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4525364183114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03615</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805245993034</id>
+    <published>2020-10-15T23:26:38-04:00</published>
+    <updated>2020-10-15T23:26:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-pickling-vinegar-4-l"/>
+    <title>Heinz - Pickling Vinegar - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pickling-vinegar-4-l-894649.jpg?v=1611511535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Pickling Vinegar - 4 L</strong></p>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="5ltynf-m0s4vc-5f5xtc-u58ew0" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<ul>
+<li><span>4L bottle of Heinz Pickling Vinegar</span></li>
+<li><span>• Perfect for preserving foods by inhibiting growth of food spoilage bacteria</span></li>
+<li><span>• Recommended for successful, safe, home preservation of foods</span></li>
+<li><span>• From a brand you can trust for great taste &amp; quality</span></li>
+</ul>
+<h3>A Vinegar for Every Need</h3>
+<p>From salad dressing to pickling preservatives to cleaning supplies and more, there’s no end to what HEINZ Vinegar can do.</p>
+</div>
+</div>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l#product","name":"Heinz - Pure Apple Cider Vinegar - 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"1931448090694","sku":"BM597-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-pure-apple-cider-vinegar-1-l-bulk-mart_432.jpg","description":"Heinz - Pure Apple Cider Vinegar - 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Heinz"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"gtin13":"VinH04BM597-1","offers":[{"name":"Heinz - Pure Apple Cider Vinegar - 1 L","sku":"BM597-1","gtin13":"VinH04BM597-1","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/heinz-pure-apple-cider-vinegar-1-l?variant=19720746598470","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickling Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805245993034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>45003</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805243207754</id>
+    <published>2020-10-15T23:26:37-04:00</published>
+    <updated>2020-10-15T23:26:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-reinhart-pickling-vinegar-6-x-4-l"/>
+    <title>Allen&apos;s - Reinhart Pickling Vinegar - 6 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/allens-reinhart-pickling-vinegar-6-x-4-l-946902.jpg?v=1623994743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Allen's - Reinhart Pickling Vinegar - 6 x 4 L</strong></p>
+<ul>
+<li>Allen's Original Pickling Vinegar is perfect for properly preserving foods</li>
+<li>Features an ideal acidity level that is recommended for successful and safe food preservation at home</li>
+<li>Great for pickling produce</li>
+<li>Size: 4 L (1 US gal)</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/allens-reinhart-red-wine-vinegar-2-x-5-l#product","name":"Allen’s - Reinhart Red Wine Vinegar - 2 x 5 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinR15BM604","sku":"15BM604","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/allens-reinhart-red-wine-vinegar-2-x-5-l-bulk-mart-379.jpg","description":"Reinhart - Red Wine Vinegar - 2 x 5 L...","category":"FOOD","brand":{"@type":"Brand","name":"Reinhart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Allen’s - Reinhart Red Wine Vinegar - 2 x 5 L","sku":"15BM604","mpn":"VinR15BM604","@type":"Offer","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/allens-reinhart-red-wine-vinegar-2-x-5-l?variant=19271418904646","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickling Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805243207754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>45002</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805242716234</id>
+    <published>2020-10-15T23:26:35-04:00</published>
+    <updated>2020-10-15T23:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/allens-reinhart-pickling-vinegar-4-l"/>
+    <title>Allen&apos;s - Reinhart Pickling Vinegar - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Allen&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Allen_s-ReinhartPicklingVinegar-4L.jpg?v=1623989058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Allen&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Allen's - Reinhart Pickling Vinegar - 4 L</strong></p>
+<ul>
+<li>Allen's Original Pickling Vinegar is perfect for properly preserving foods</li>
+<li>Features an ideal acidity level that is recommended for successful and safe food preservation at home</li>
+<li>Great for pickling produce</li>
+<li>Size: 4 L (1 US gal)</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/allens-reinhart-red-wine-vinegar-2-x-5-l#product","name":"Allen’s - Reinhart Red Wine Vinegar - 2 x 5 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinR15BM604","sku":"15BM604","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/allens-reinhart-red-wine-vinegar-2-x-5-l-bulk-mart-379.jpg","description":"Reinhart - Red Wine Vinegar - 2 x 5 L...","category":"FOOD","brand":{"@type":"Brand","name":"Reinhart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"offers":[{"name":"Allen’s - Reinhart Red Wine Vinegar - 2 x 5 L","sku":"15BM604","mpn":"VinR15BM604","@type":"Offer","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/allens-reinhart-red-wine-vinegar-2-x-5-l?variant=19271418904646","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickling Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805242716234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>45001</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805291016266</id>
+    <published>2020-10-15T17:38:36-04:00</published>
+    <updated>2020-10-15T17:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-white-balsamic-vinegar-500-ml"/>
+    <title>Unico -  White Balsamic Vinegar - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-white-balsamic-vinegar-500-ml-805242.jpg?v=1611514606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico -  White Balsamic Vinegar - 500 ml</strong></p>
+<p><span data-mce-fragment="1"><strong>Common in Italian cuisine,</strong> balsamic vinegar will deliver just the right amount of rich and tangy taste to your customers' food! . Featuring fruity undertones and healthful antioxidant properties, <strong>it has also been recognized for possibly lowering cholesterol and blood pressure. </strong></span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Perfect for a variety of recipes, this versatile balsamic vinegar <strong>enhances the taste of dips, marinades, and reductions. Drizzle it over salads and fresh fruit, or let it soak into fresh breads to give any sub or sandwich a satisfyingly tart taste</strong>.</span></p>
+<p><span data-mce-fragment="1">This pure balsamic vinegar makes a delicious complement to olive oil when creating classic house dressings. <strong>Whisk the perfect amount of this sweet, yet tart vinegar into a variety of sauces for a tangy kick</strong></span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l#product","name":"Unico - Red Wine Vinegar - 4 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinR5BM607","sku":"R5BM607","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-red-wine-vinegar-4-l-bulk-mart_430.jpg","description":"Unico - Red Wine Vinegar - 4 L...","category":"FOOD","brand":{"@type":"Brand","name":"Unico"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"49"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"offers":[{"name":"Unico - Red Wine Vinegar - 4 L","sku":"R5BM607","mpn":"VinR5BM607","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/unico-red-wine-vinegar-4-l?variant=19271442956358","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balsamic Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805291016266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>701011</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805259067466</id>
+    <published>2020-10-15T17:38:35-04:00</published>
+    <updated>2020-10-15T17:38:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/antica-bonta-balsamic-vinegar-5-l"/>
+    <title>Antica Bonta -  Balsamic Vinegar - 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Antica Bonta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-balsamic-vinegar-5-l-101443.jpg?v=1624068878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antica Bonta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Antica Bonta -  Balsamic Vinegar - 5 L</strong></p>
+<p><span data-mce-fragment="1"><strong>Common in Italian cuisine,</strong> balsamic vinegar will deliver just the right amount of rich and tangy taste to your customers' food! This classic vinegar goes through a long aging process to achieve its deep red-brown color and distinctive flavor. Featuring fruity undertones and healthful antioxidant properties, <strong>it has also been recognized for possibly lowering cholesterol and blood pressure. </strong></span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Perfect for a variety of recipes, this versatile balsamic vinegar <strong>enhances the taste of dips, marinades, and reductions. Drizzle it over salads and fresh fruit, or let it soak into fresh breads to give any sub or sandwich a satisfyingly tart taste</strong>.</span></p>
+<p><span data-mce-fragment="1">This pure red balsamic vinegar makes a delicious complement to olive oil when creating classic house dressings. <strong>Whisk the perfect amount of this sweet, yet tart vinegar into a variety of sauces for a tangy kick</strong></span></p>
+<p><span data-mce-fragment="1">.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l#product","name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinW50BM613","sku":"50BM613","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-12-x-1-l-bulk-mart_791.png","description":"Antica Bonta - White Wine Vinegar - 12 x 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Antica Bonta/Prezioso"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"12"},"offers":[{"name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","sku":"50BM613","mpn":"VinW50BM613","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l?variant=19271283245126","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balsamic Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805259067466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>701004</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4805258084426</id>
+    <published>2020-10-15T17:38:34-04:00</published>
+    <updated>2020-10-15T17:38:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/antica-bonta-balsamic-vinegar-2-x-5-l"/>
+    <title>Antica Bonta -  Balsamic Vinegar - 2 x 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Antica Bonta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-balsamic-vinegar-2-x-5-l-509891.jpg?v=1624068879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Antica Bonta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Antica Bonta -  Balsamic Vinegar - 2 x 5 L</p>
+<p><span data-mce-fragment="1"><strong>Common in Italian cuisine,</strong> balsamic vinegar will deliver just the right amount of rich and tangy taste to your customers' food! This classic vinegar goes through a long aging process to achieve its deep red-brown color and distinctive flavor. Featuring fruity undertones and healthful antioxidant properties, <strong>it has also been recognized for possibly lowering cholesterol and blood pressure. </strong></span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Perfect for a variety of recipes, this versatile balsamic vinegar <strong>enhances the taste of dips, marinades, and reductions. Drizzle it over salads and fresh fruit, or let it soak into fresh breads to give any sub or sandwich a satisfyingly tart taste</strong>.</span></p>
+<p><span data-mce-fragment="1">This pure red balsamic vinegar makes a delicious complement to olive oil when creating classic house dressings. <strong>Whisk the perfect amount of this sweet, yet tart vinegar into a variety of sauces for a tangy kick</strong></span></p>
+<p><span data-mce-fragment="1">.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l#product","name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","itemCondition":"https://schema.org/NewCondition","mpn":"VinW50BM613","sku":"50BM613","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/antica-bonta-white-wine-vinegar-12-x-1-l-bulk-mart_791.png","description":"Antica Bonta - White Wine Vinegar - 12 x 1 L...","category":"FOOD","brand":{"@type":"Brand","name":"Antica Bonta/Prezioso"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"12"},"offers":[{"name":"Antica Bonta - White Wine Vinegar - 12 x 1 L","sku":"50BM613","mpn":"VinW50BM613","@type":"Offer","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/antica-bonta-white-wine-vinegar-12-x-1-l?variant=19271283245126","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balsamic Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4805258084426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>701003</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887523405894</id>
+    <published>2020-10-15T17:38:29-04:00</published>
+    <updated>2020-10-15T17:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/portofino-balsamic-vinegar-2-x-5-l"/>
+    <title>Portofino -  Balsamic Vinegar - 2 x 5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Portofino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-balsamic-vinegar-2-x-5-l-276048.jpg?v=1611512913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Portofino<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Portofino - Balsamic Vinegar - 2 x 5 L</strong></p>
+<p><span data-mce-fragment="1"><strong>Common in Italian cuisine,</strong> balsamic vinegar will deliver just the right amount of rich and tangy taste to your customers' food! This classic vinegar goes through a long aging process to achieve its deep red-brown color and distinctive flavor. Featuring fruity undertones and healthful antioxidant properties, <strong>it has also been recognized for possibly lowering cholesterol and blood pressure. </strong></span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Perfect for a variety of recipes, this versatile balsamic vinegar <strong>enhances the taste of dips, marinades, and reductions. Drizzle it over salads and fresh fruit, or let it soak into fresh breads to give any sub or sandwich a satisfyingly tart taste</strong>.</span></p>
+<p><span data-mce-fragment="1">This pure red balsamic vinegar makes a delicious complement to olive oil when creating classic house dressings. <strong>Whisk the perfect amount of this sweet, yet tart vinegar into a variety of sauces for a tangy kick</strong></span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/portofino-balsamic-vinegar-2-x-5-l#product","name":"Portofino -  Balsamic Vinegar - 2 x 5 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887523405894","sku":"02BM589","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/portofino-balsamic-vinegar-2-x-5-l-bulk-mart_707.gif","description":"Portofino - Balsamic Vinegar - 2 x 5 L.","category":"FOOD","brand":{"@type":"Brand","name":"Portofino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"02BM589","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"25.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/portofino-balsamic-vinegar-2-x-5-l?variant=19271415889990","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Balsamic Vinegar</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887523405894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.49</s:price>
+      <s:sku>701007</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4583083933770</id>
+    <published>2020-05-09T12:37:06-04:00</published>
+    <updated>2020-05-09T12:37:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-malt-vinegar-portions-500-x-9-g"/>
+    <title>PC - Malt Vinegar Portions - 500 x 9 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-malt-vinegar-portions-500-x-9-g-911694.jpg?v=1611513575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Malt Vinegar Portions - 500 x 9 g</strong></p>
+<p><span><strong>Perfectly portioned,</strong> this classic malt vinegar will deliver just the right amount of tang to your customers' food. These 9 gram packets are ideal for any restaurant, diner, convenience store, cafeteria, or take-out station and offer a quick and easy way to enhance profitable menu items. The 9 gram size is great for offering easy portion control for your customers. This helps prevent them from taking excess and saves you money.</span><br><br><span><strong>This zesty malt vinegar is perfect </strong>for enhancing a variety of items from classic fish and chips to hamburgers, sandwiches and salads with tangy flavor. Made from only natural ingredients, this malt vinegar will delight your customers with the traditional taste they know and love. Each portion control packet is filled with wholesome ingredients and classic recipes.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Malt Vinegar</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Vinegar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4583083933770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>098945</s:sku>
+      <s:grams>5500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

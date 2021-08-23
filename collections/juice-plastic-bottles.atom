@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/juice-plastic-bottles.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-06-03T10:18:28-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6596046553162</id>
+    <published>2021-06-03T10:18:28-04:00</published>
+    <updated>2021-06-03T10:18:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-splash-mango-peach-juice-12-473-ml"/>
+    <title>V8 - Splash Mango Peach Juice - 12 × 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-splash-mango-peach-juice-12-473-ml-537939.png?v=1622771458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">160 calories per serving</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6596046553162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4410735132746</id>
+    <published>2020-12-15T11:39:47-05:00</published>
+    <updated>2020-12-15T11:39:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/five-alive-citrus-pet-12-355-ml"/>
+    <title>Five Alive - Citrus Pet -12 × 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Minute Maid</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/five-alive-citrus-pet-12-355-ml-486726.jpg?v=1611512671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minute Maid<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Five Alive - Citrus Pet -12 × 355 ml</strong></p>
+<p><span>This isn't your boring status-quo juice. A delicious blend of five fruit flavours, including peach, grape, orange, lemon and passion fruit, it delivers a taste explosion with a unique citrus zing.</span></p>
+<ul>
+<li>Made with real Fruit</li>
+<li>Excellent source of Vitamin C</li>
+<li>No artificial colours or flavours</li>
+<li>Full of peachy citrus flavours</li>
+<li>Perfect size for sharing</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Minute Maid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4410735132746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>FAC35528619</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773696143434</id>
+    <published>2020-09-22T23:11:31-04:00</published>
+    <updated>2020-09-22T23:11:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-apple-grape-juice-24-x-300-ml"/>
+    <title>Oasis - Apple-Grape Juice - 24 x 300 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-apple-grape-juice-24-x-300-ml-307622.jpg?v=1611511893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oasis - Apple-Grape Juice - 24 x 300 ml</strong></p>
+<p>The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Juices </strong></span>has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</p>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773696143434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>Oasis123</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773695586378</id>
+    <published>2020-09-22T23:11:29-04:00</published>
+    <updated>2020-09-22T23:11:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-cranberry-apple-juice-24-x-300-ml"/>
+    <title>Oasis - Cranberry-Apple Juice - 24 x 300 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-cranberry-apple-juice-24-x-300-ml-831480.jpg?v=1611511897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oasis - Cranberry-Apple Juice - 24 x 300 ml</strong></p>
+<p>The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Juices </strong></span>has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</p>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773695586378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>Oasis124</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773695029322</id>
+    <published>2020-09-22T23:11:28-04:00</published>
+    <updated>2020-09-22T23:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-exotic-mango-juice-blend-24-x-300-ml"/>
+    <title>Oasis - Exotic Mango Juice Blend - 24 x 300 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-exotic-mango-juice-blend-24-x-300-ml-676781.jpg?v=1611511540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oasis - Exotic Mango Juice Blend - 24 x 300 ml</strong></p>
+<p>The Oasis<span data-mce-fragment="1"> <strong data-mce-fragment="1">Juices </strong></span>has been winning over taste buds for more than 30 years! With so many juice flavours and no added sugar, you can enjoy a different delicious juice every day. Taste the nature at its best! Our promise to be pure!<br data-mce-fragment="1">•100% pure juice and other ingredients<br data-mce-fragment="1">•A blend of fruit juices made from concentrate<br data-mce-fragment="1">•No sugar added (only contains natural fruit sugar)<br data-mce-fragment="1">•Excellent source of Vitamin C - 100% of the recommended daily value of Vitamin C<br data-mce-fragment="1">•No preservatives<br data-mce-fragment="1">•Pasteurized<br data-mce-fragment="1">•Excellent juice to begin the day<br data-mce-fragment="1">•Recyclable container<br data-mce-fragment="1">•Product of Canada</p>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Refrigerate after opening and preferably consume within 10 days of opening. Serve chilled. Shake well before opening. Pasteurized.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773695029322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>Oasis125</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773778489418</id>
+    <published>2020-09-22T18:55:42-04:00</published>
+    <updated>2020-09-22T18:55:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-original-vegetable-juice-plastic-bottle-12-354-ml"/>
+    <title>V8 - Original Vegetable Juice Plastic Bottle - 12 × 354 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-original-vegetable-juice-plastic-bottle-12-354-ml-661243.jpg?v=1611512554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>V8 - Original Vegetable Juice Plastic Bottle - 12 × 354 ml</strong></p>
+<p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773778489418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>1216549</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773777735754</id>
+    <published>2020-09-22T18:55:41-04:00</published>
+    <updated>2020-09-22T18:55:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-fruit-medley-splash-blend-12-473-ml"/>
+    <title>V8 - Fruit Medley Splash Blend - 12 × 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-fruit-medley-splash-blend-12-473-ml-556441.jpg?v=1611514605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>V8 - Fruit Medley Splash Blend - 12 × 473 ml</strong></p>
+<p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-cel-widget="productDescription_feature_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773777735754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>678</s:sku>
+      <s:grams>8500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773777702986</id>
+    <published>2020-09-22T18:55:40-04:00</published>
+    <updated>2020-09-22T18:55:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-strawberry-kiwi-splash-blend-12-473-ml"/>
+    <title>V8 - Strawberry Kiwi Splash Blend - 12 × 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-strawberry-kiwi-splash-blend-12-473-ml-175875.jpg?v=1611512433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>V8 - Strawberry Kiwi Splash Blend - 12 × 473 ml</strong></p>
+<p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">160 calories per serving</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-cel-widget="productDescription_feature_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773777702986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>226549</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773776785482</id>
+    <published>2020-09-22T18:55:38-04:00</published>
+    <updated>2020-09-22T18:55:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-splash-tropical-blend-juice-12-473-ml"/>
+    <title>V8 - Splash Tropical Blend Juice - 12 × 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-splash-tropical-blend-juice-12-473-ml-421455.png?v=1611512858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">160 calories per serving</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-cel-widget="productDescription_feature_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773776785482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>02826</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773775605834</id>
+    <published>2020-09-22T18:55:37-04:00</published>
+    <updated>2020-09-22T18:55:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-splash-berry-blend-12-354-ml"/>
+    <title>V8 - Splash Berry Blend - 12 × 354 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-splash-berry-blend-12-354-ml-197436.jpg?v=1611512493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>V8 - Splash Berry Blend - 12 × 354 ml</strong></p>
+<p><span>V8 Splash Fruit Juice offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773775605834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>010108</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773774590026</id>
+    <published>2020-09-22T18:55:35-04:00</published>
+    <updated>2020-09-22T18:55:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/v8-original-vegetable-cocktail-24-341-ml"/>
+    <title>V8 - Original Vegetable Cocktail - 28 × 340 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>V8</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/v8-original-vegetable-cocktail-28-340-ml-702767.jpg?v=1611512614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V8<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="d9FyLd">
+<b>V8</b><sup>®</sup><span> </span><b>Original Vegetable Cocktail</b><span> </span>(<b>340 mL</b>)</div>
+<p><span class="hgKElc">It's made from a blend of garden<span> </span><b>vegetables</b><span> </span>– tomatoes, carrots, celery, beets, parsley, lettuce, watercress, and spinach. WATER, TOMATO PASTE,<span> </span><b>JUICE</b><span> </span>OF (CARROTS, CELERY, BEETS, PARSLEY, LETTUCE, WATERCRESS, SPINACH), WITH SALT AND SEASONING.</span><br></p>
+<p><span><b data-mce-fragment="1">V8</b><sup data-mce-fragment="1">®</sup> <b data-mce-fragment="1">Original Vegetable Cocktail</b> (<b data-mce-fragment="1">340 mL</b>) offers refreshing blend of delicious fruity flavors and includes Antioxidant Plus - a powerful combination of Vitamins A, C and E. This fruit juice is the perfect afternoon lift to help you thrive for the rest of the day. Ideal for breakrooms.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Refreshing blend of delicious fruit flavors</span></li>
+<li><span class="a-list-item">Excellent source of vitamin C</span></li>
+<li><span class="a-list-item">Perfect afternoon lift</span></li>
+<li><span class="a-list-item">Antioxidant C &amp; B vitamins</span></li>
+<li><span class="a-list-item">Gluten Free</span></li>
+<li><span class="a-list-item">No artificial flavors</span></li>
+<li><span class="a-list-item">Delicious fruit flavors the whole family can enjoy</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="5mzqwf-cqbknf-x5ty79-39ewyk" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>For more than 75 years, V8 vegetable juice has provided easy ways to help you get the powerful vegetable nutrition you need everyday. V8 juice is the delicious daily habit that supports a balanced lifestyle.</p>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>V8</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773774590026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>211</s:sku>
+      <s:grams>6500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773801754698</id>
+    <published>2020-09-22T18:26:45-04:00</published>
+    <updated>2020-09-22T18:26:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-pomegranate-raspberry-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Pomegranate Raspberry Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-pomegranate-raspberry-plastic-bottle-12-x-473-ml-248782.jpg?v=1611512855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Pomegranate Raspberry Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple<span> <strong data-mce-fragment="1"> Pomegranate Raspberry</strong></span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773801754698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple1279</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773801427018</id>
+    <published>2020-09-22T18:26:44-04:00</published>
+    <updated>2020-09-22T18:26:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-mango-madness-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Mango Madness Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-mango-madness-plastic-bottle-12-x-473-ml-443468.jpg?v=1611513277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Mango Madness Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple<span> <strong data-mce-fragment="1">Mango Madness</strong></span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773801427018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple127</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773800771658</id>
+    <published>2020-09-22T18:26:42-04:00</published>
+    <updated>2020-09-22T18:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-kiwi-strawberry-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Kiwi Strawberry Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-kiwi-strawberry-plastic-bottle-12-x-473-ml-590550.jpg?v=1611512193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Snapple - Kiwi Strawberry Plastic Bottle - 12 x 473 m</strong></p>
+<p>Snapple Kiwi Strawberry – the unique, tangy flavor of kiwi (the fruit, not the bird!) and the sweet taste of strawberry make a just-right juice that just goes together.<br></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and refreshing Snapple Kiwi and Strawberry</span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773800771658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple124</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773800050762</id>
+    <published>2020-09-22T18:26:41-04:00</published>
+    <updated>2020-09-22T18:26:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-lemonade-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Lemonade Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-lemonade-plastic-bottle-12-x-473-ml-605229.jpg?v=1611512195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Lemonade Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple<span> Lemonade </span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773800050762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple126</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773699420234</id>
+    <published>2020-09-22T16:18:11-04:00</published>
+    <updated>2020-09-22T16:18:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-premium-organic-orange-juice-with-pulp-1-65-l-2"/>
+    <title>Oasis - Premium Organic Orange Juice With Pulp - 1.65 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-premium-organic-orange-juice-with-pulp-165-l-128601.jpg?v=1611511537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.49 - 31.99
+            <a href="https://bulkmart.ca/products/oasis-premium-organic-orange-juice-with-pulp-1-65-l-2">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong>Oasis - Premium Organic Orange Juice With Pulp - 1.65 L</strong></li>
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">100%  juice from concentrate</span></li>
+<li><span class="a-list-item">Excellent source of vitamin c</span></li>
+<li>Source of potassium</li>
+<li>
+<p><span>With its juices made from concentrate, Fairlee offers a wide range of fruit drinks with excellent value for money. They are present in multiple catering establishments across Canada. The entire range is available in a variety of plastic bottles, individual sizes and Tetra-Pak packaging that ensure the freshness of all our beverages.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773699420234</id>
+      <title>1.65 L</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>Oasis1267</s:sku>
+      <s:grams>1750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773699420234</id>
+      <title>8 x 1.65 L</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>Oasis128</s:sku>
+      <s:grams>13500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773697388618</id>
+    <published>2020-09-22T16:18:10-04:00</published>
+    <updated>2020-09-22T16:18:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oasis-premium-organic-orange-juice-without-pulp-1-65-l"/>
+    <title>Oasis - Premium Organic Orange Juice Without Pulp - 1.65 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Oasis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oasis-premium-organic-orange-juice-without-pulp-165-l-132212.jpg?v=1611512556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oasis<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.49 - 31.99
+            <a href="https://bulkmart.ca/products/oasis-premium-organic-orange-juice-without-pulp-1-65-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Oasis - Premium Organic Orange Juice Without Pulp - 1.65 L</span></strong></li>
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">100%  juice from concentrate</span></li>
+<li><span class="a-list-item">Excellent source of vitamin c</span></li>
+<li>Source of potassium</li>
+<li>
+<p><span>With its juices made from concentrate, Fairlee offers a wide range of fruit drinks with excellent value for money. They are present in multiple catering establishments across Canada. The entire range is available in a variety of plastic bottles, individual sizes and Tetra-Pak packaging that ensure the freshness of all our beverages.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>Oasis</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773697388618</id>
+      <title>1.65 L</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>Oasis129</s:sku>
+      <s:grams>1750</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773697388618</id>
+      <title>8 x 1.65 L</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>Oasis1212</s:sku>
+      <s:grams>13500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773727567946</id>
+    <published>2020-09-22T11:58:31-04:00</published>
+    <updated>2020-09-22T11:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/koya-aloe-drink-original-sugar-free-20-x-500-ml"/>
+    <title>KOYA Aloe Drink - Original Sugar Free - 20 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>KOYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/koya-aloe-drink-original-sugar-free-20-x-500-ml-448751.jpg?v=1611514001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOYA<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 37.99
+            <a href="https://bulkmart.ca/products/koya-aloe-drink-original-sugar-free-20-x-500-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>KOYA Aloe Drink - Original Sugar Free - 20 x 500 ml</strong></p>
+<p>Aloe Vera is known for thousands of years as a medicinal plant that is considered beneficial for the immune system with detoxifying properties. Aloe Vera Drink contains  juice, leaf gelatin and crushed aloe vera leaf which is clearly visible in the drink. The vitalizing effect of the juice is an excellent alternative to caffeinated beverages. Aloe Vera Drink has a refreshing and delicious flavor and is an ideal natural thirst quencher.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>KOYA</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727567946</id>
+      <title>20 x 500 ml</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>Koya128</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727567946</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Koya129</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773727502410</id>
+    <published>2020-09-22T11:58:29-04:00</published>
+    <updated>2020-09-22T11:58:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/koya-aloe-drink-mango-20-x-500-ml"/>
+    <title>KOYA Aloe Drink - Mango - 20 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>KOYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/koya-aloe-drink-mango-20-x-500-ml-248365.jpg?v=1611510514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOYA<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 37.99
+            <a href="https://bulkmart.ca/products/koya-aloe-drink-mango-20-x-500-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>KOYA Aloe Drink - Mango - 20 x 500 ml</strong></p>
+<p>This addition of mango juice to Koya’s Aloe Vera drink adds an undeniable flavour enhancement. Mango is the king of the fruits and the quintessential taste of the tropics. Fibre-rich mango and aloe vera crush open a new world of tastes you have never experienced before.</p>
+<p><span>Aloe Vera is known for thousands of years as a medicinal plant that is considered beneficial for the immune system with detoxifying properties. Aloe Vera Drink contains  juice, leaf gelatin and crushed aloe vera leaf which is clearly visible in the drink. The vitalizing effect of the juice is an excellent alternative to caffeinated beverages. Aloe Vera Drink has a refreshing and delicious flavor and is an ideal natural thirst quencher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>KOYA</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727502410</id>
+      <title>20 x 500 ml</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>Koya124</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727502410</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Koya125</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773727273034</id>
+    <published>2020-09-22T11:58:28-04:00</published>
+    <updated>2020-09-22T11:58:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/koya-aloe-drink-blueberry-20-x-500-ml"/>
+    <title>KOYA Aloe Drink - Blueberry - 20 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>KOYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/koya-aloe-drink-blueberry-20-x-500-ml-235672.png?v=1611514428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOYA<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 37.99
+            <a href="https://bulkmart.ca/products/koya-aloe-drink-blueberry-20-x-500-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>KOYA Aloe Drink - Blueberry - 20 x 500 ml</strong></p>
+<p><strong><span>Small and mighty, blueberry is the perfect addition to Koya’s Aloe Vera drink, adding a unique bold flavour.</span></strong></p>
+<p><span>Aloe Vera is known for thousands of years as a medicinal plant that is considered beneficial for the immune system with detoxifying properties. Aloe Vera Drink contains  juice, leaf gelatin and crushed aloe vera leaf which is clearly visible in the drink. The vitalizing effect of the juice is an excellent alternative to caffeinated beverages. Aloe Vera Drink has a refreshing and delicious flavor and is an ideal natural thirst quencher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>KOYA</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727273034</id>
+      <title>20 x 500 ml</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>Koya12</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727273034</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Koya123</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773727141962</id>
+    <published>2020-09-22T11:58:27-04:00</published>
+    <updated>2020-09-22T11:58:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/koya-aloe-drink-pomegranate-20-x-500-ml"/>
+    <title>KOYA Aloe Drink - Pomegranate - 20 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>KOYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/koya-aloe-drink-pomegranate-20-x-500-ml-569253.jpg?v=1611512673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOYA<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 37.99
+            <a href="https://bulkmart.ca/products/koya-aloe-drink-pomegranate-20-x-500-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>KOYA Aloe Drink - Pomegranate - 20 x 500 ml</strong></p>
+<p>Enjoy Koya’s Aloe Vera drink with pomegranate. Aloe vera crush and pomegranate juice – a truly powerful combination!</p>
+<p><span>Aloe Vera is known for thousands of years as a medicinal plant that is considered beneficial for the immune system with detoxifying properties. Aloe Vera Drink contains  juice, leaf gelatin and crushed aloe vera leaf which is clearly visible in the drink. The vitalizing effect of the juice is an excellent alternative to caffeinated beverages. Aloe Vera Drink has a refreshing and delicious flavor and is an ideal natural thirst quencher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>KOYA</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727141962</id>
+      <title>20 x 500 ml</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>Koya1211</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773727141962</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Koya1212</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773721702474</id>
+    <published>2020-09-22T11:58:25-04:00</published>
+    <updated>2020-09-22T11:58:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/koya-aloe-drink-original-500-ml"/>
+    <title>KOYA Aloe Drink - Original - 20 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>KOYA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/koya-aloe-drink-original-20-x-500-ml-660057.jpg?v=1611512433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOYA<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            3.99 - 37.99
+            <a href="https://bulkmart.ca/products/koya-aloe-drink-original-500-ml">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>KOYA Aloe Drink - Original - 20 x 500 ml</strong></p>
+<p><span>Enjoy this original drink with aloe vera, Koya’s Aloe Vera Regular, every day.  Aloe Vera Regular contains an abundance of real aloe vera crush – make it a part of your daily regimen!</span></p>
+<p><span>Aloe Vera is known for thousands of years as a medicinal plant that is considered beneficial for the immune system with detoxifying properties. Aloe Vera Drink contains  juice, leaf gelatin and crushed aloe vera leaf which is clearly visible in the drink. The vitalizing effect of the juice is an excellent alternative to caffeinated beverages. Aloe Vera Drink has a refreshing and delicious flavor and is an ideal natural thirst quencher.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:tag>KOYA</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773721702474</id>
+      <title>20 x 500 ml</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>Koya126</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773721702474</id>
+      <title>500 ml</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>Koya127</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773713576010</id>
+    <published>2020-09-21T23:52:50-04:00</published>
+    <updated>2020-09-21T23:52:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fairlee-ruby-red-grapefruit-cocktail-24-x-300ml"/>
+    <title>Fairlee - Ruby Red Grapefruit Cocktail - 24 x 300ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Fairlee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fairlee-ruby-red-grapefruit-cocktail-24-x-300ml-482721.jpg?v=1611511294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fairlee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">100%  juice from concentrate</span></li>
+<li><span class="a-list-item">Excellent source of vitamin c</span></li>
+<li>Source of potassium</li>
+<li>
+<p><span>With its juices made from concentrate, Fairlee offers a wide range of fruit drinks with excellent value for money. They are present in multiple catering establishments across Canada. The entire range is available in a variety of plastic bottles, individual sizes and Tetra-Pak packaging that ensure the freshness of all our beverages.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairlee</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773713576010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>Fair12398</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773712855114</id>
+    <published>2020-09-21T23:52:49-04:00</published>
+    <updated>2020-09-21T23:52:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fairlee-grape-cocktail-24-x-300ml"/>
+    <title>Fairlee - Grape Cocktail - 24 x 300ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Fairlee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fairlee-grape-cocktail-24-x-300ml-333257.jpg?v=1611511056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fairlee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">100%  juice from concentrate</span></li>
+<li><span class="a-list-item">Excellent source of vitamin c</span></li>
+<li>Source of potassium</li>
+<li>
+<p><span>With its juices made from concentrate, Fairlee offers a wide range of fruit drinks with excellent value for money. They are present in multiple catering establishments across Canada. The entire range is available in a variety of plastic bottles, individual sizes and Tetra-Pak packaging that ensure the freshness of all our beverages.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairlee</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773712855114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>Fair1233</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773712494666</id>
+    <published>2020-09-21T23:52:48-04:00</published>
+    <updated>2020-09-21T23:52:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fairlee-orange-juice-24-x-300ml"/>
+    <title>Fairlee - Orange Juice - 24 x 300ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Fairlee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fairlee-orange-juice-24-x-300ml-486662.jpg?v=1611510824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fairlee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Product Details:</span></strong></li>
+<li><span class="a-list-item">100%  juice from concentrate</span></li>
+<li><span class="a-list-item">Excellent source of vitamin c</span></li>
+<li>Source of potassium</li>
+<li>
+<p><span>With its juices made from concentrate, Fairlee offers a wide range of fruit drinks with excellent value for money. They are present in multiple catering establishments across Canada. The entire range is available in a variety of plastic bottles, individual sizes and Tetra-Pak packaging that ensure the freshness of all our beverages.</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fairlee</s:tag>
+    <s:tag>Juice Plastic Bottle</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773712494666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>Fair1237</s:sku>
+      <s:grams>7500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

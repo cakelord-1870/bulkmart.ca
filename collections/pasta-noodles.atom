@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pasta-noodles.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-04-05T18:15:40-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6560263438410</id>
+    <published>2021-04-05T18:15:40-04:00</published>
+    <updated>2021-04-05T18:15:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-orzo-pasta-bulk-20-lbs"/>
+    <title>Italpasta - Orzo Pasta Bulk - 20 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-orzo-pasta-bulk-20-lbs-755230.jpg?v=1617750349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Description:</strong></p>
+<p><span data-mce-fragment="1">Create a variety of signature pasta dishes with this orzo pasta. Orzo, meaning "barley" in Italian, is a rice-shaped pasta that is traditionally used in soups but can be used in many other applications, including pasta salads, risottos, and other side dishes. Lending itself to virtually any style of cuisine, try serving a summer orzo salad with in-season vegetables or a buttery garlic parmesan orzo side dish for your chicken. It can even substitute arborio rice in your next risotto! No matter how it's prepared, orzo pasta is trusted among Italian chefs and remains Italy's #1 brand of pasta for its reliability in texture and ability to complement fresh ingredients and bold flavors.</span><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Orzo Pasta</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6560263438410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>660090</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6560262848586</id>
+    <published>2021-04-05T18:15:39-04:00</published>
+    <updated>2021-04-05T18:15:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-orzo-pasta-900-g"/>
+    <title>Unico - Orzo Pasta - 900 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-orzo-pasta-900-g-577103.jpg?v=1617752161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Description:</strong></p>
+<p><span data-mce-fragment="1">Create a variety of signature pasta dishes with this orzo pasta. Orzo, meaning "barley" in Italian, is a rice-shaped pasta that is traditionally used in soups but can be used in many other applications, including pasta salads, risottos, and other side dishes. Lending itself to virtually any style of cuisine, try serving a summer orzo salad with in-season vegetables or a buttery garlic parmesan orzo side dish for your chicken. It can even substitute arborio rice in your next risotto! No matter how it's prepared, orzo pasta is trusted among Italian chefs and remains Italy's #1 brand of pasta for its reliability in texture and ability to complement fresh ingredients and bold flavors.</span><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Orzo Pasta</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6560262848586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>660092</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6560260227146</id>
+    <published>2021-04-05T18:15:38-04:00</published>
+    <updated>2021-04-05T18:15:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-orzo-pasta-12-x-900-g"/>
+    <title>Unico - Orzo Pasta - 12 x 900 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-orzo-pasta-12-x-900-g-174069.jpg?v=1617752161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Description:</strong></p>
+<p><span data-mce-fragment="1">Create a variety of signature pasta dishes with this orzo pasta. Orzo, meaning "barley" in Italian, is a rice-shaped pasta that is traditionally used in soups but can be used in many other applications, including pasta salads, risottos, and other side dishes. Lending itself to virtually any style of cuisine, try serving a summer orzo salad with in-season vegetables or a buttery garlic parmesan orzo side dish for your chicken. It can even substitute arborio rice in your next risotto! No matter how it's prepared, orzo pasta is trusted among Italian chefs and remains Italy's #1 brand of pasta for its reliability in texture and ability to complement fresh ingredients and bold flavors.</span><br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Orzo Pasta</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6560260227146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>660091</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4506748551242</id>
+    <published>2020-10-10T18:48:37-04:00</published>
+    <updated>2020-10-10T18:48:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-fusilli-4-x-5-lbs"/>
+    <title>Granaria - Fusilli - 4 x 5 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-fusilli-4-x-5-lbs-case-292382.jpg?v=1611513937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Fusilli - 4 x 5 Lbs / Case</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fusilli</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4506748551242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>1457897</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800204341322</id>
+    <published>2020-10-10T18:48:33-04:00</published>
+    <updated>2020-10-10T18:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-elbow-pasta-5-lbs-pack"/>
+    <title>Granaria - Elbow Pasta - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-elbow-pasta-5-lbs-pack-686453.jpg?v=1611511061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Elbow Pasta - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Macaroni</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800204341322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>15488</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800205881418</id>
+    <published>2020-10-10T18:48:32-04:00</published>
+    <updated>2020-10-10T18:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-fettuccine-5-lbs-pack"/>
+    <title>Granaria - Fettuccine - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-fettuccine-5-lbs-pack-769389.jpg?v=1617659236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Fettuccine - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fettuccine</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800205881418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>01546</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800205946954</id>
+    <published>2020-10-10T18:48:30-04:00</published>
+    <updated>2020-10-10T18:48:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-fusilli-5-lbs"/>
+    <title>Granaria - Fusilli - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-fusilli-5-lbs-pack-994474.jpg?v=1611510827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Fusilli - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fusilli</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800205946954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>214584</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800206602314</id>
+    <published>2020-10-10T18:48:29-04:00</published>
+    <updated>2020-10-10T18:48:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-tri-color-fusilli-pasta-5-lbs-pack"/>
+    <title>Granaria - Tri Color Fusilli Pasta - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-tri-color-fusilli-pasta-5-lbs-pack-773844.png?v=1611511003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Tri Color Fusilli Pasta - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fusilli</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800206602314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>548780</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800206995530</id>
+    <published>2020-10-10T18:48:28-04:00</published>
+    <updated>2020-10-10T18:48:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-spaghetti-4-x-5-lbs-case"/>
+    <title>Granaria - Spaghetti - 4 x 5 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-spaghetti-4-x-5-lbs-case-538988.jpg?v=1611513998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Spaghetti - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Spaghetti</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800206995530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>26578</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800207487050</id>
+    <published>2020-10-10T18:48:26-04:00</published>
+    <updated>2020-10-10T18:48:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/granaria-spaghetti-5-lbs-pack"/>
+    <title>Granaria - Spaghetti - 5 Lbs / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Granaria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/granaria-spaghetti-5-lbs-pack-748601.jpg?v=1611510231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Granaria<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pasta Granaria</strong></p>
+<p><strong>Granaria - Spaghetti - 5 Lbs / Pack</strong></p>
+<p><br><strong>Pasta Granaria, one of Italy's finest, manufactured in Isernia, Campobasso, using ancient methods and techniques as well as the highest grade Durham Wheat Semolina. It maintains its shape and firmness once cooked and is available in over 20 different shapes and sizes.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Spaghetti</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800207487050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>35989</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800209354826</id>
+    <published>2020-10-10T18:48:25-04:00</published>
+    <updated>2020-10-10T18:48:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-large-shells-20-lbs-case"/>
+    <title>Italpasta - Large Shells - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-large-shells-20-lbs-case-191956.jpg?v=1611510771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ITALPASTA - Large Shells - 20 Lbs / Case</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Shells</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800209354826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>14878</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800209682506</id>
+    <published>2020-10-10T18:48:24-04:00</published>
+    <updated>2020-10-10T18:48:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-elbow-large-20-lbs-case"/>
+    <title>Italpasta - Elbow Large - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-elbow-large-20-lbs-case-100364.jpg?v=1611510574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ITALPASTA - Elbow Large - 20 Lbs / Case</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Macaroni</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800209682506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>14059</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800210010186</id>
+    <published>2020-10-10T18:48:22-04:00</published>
+    <updated>2020-10-10T18:48:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-egg-noodles-medium-2521-10-lbs"/>
+    <title>ItalPasta - Egg Noodles Medium 2521 - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-egg-noodles-medium-2521-10-lbs-513889.jpg?v=1611510578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ItalPasta - Egg Noodles Medium 2521 - 10 Lbs</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Egg Noodles</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800210010186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>140589</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800210370634</id>
+    <published>2020-10-10T18:48:21-04:00</published>
+    <updated>2020-10-10T18:48:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-baby-shells-20-lbs-case"/>
+    <title>Italpasta - Baby Shells - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-baby-shells-20-lbs-case-665019.jpg?v=1611512256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> Italpasta - Baby Shells - 20 Lbs / Case</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Shells</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800210370634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>140548</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800210403402</id>
+    <published>2020-10-10T18:48:20-04:00</published>
+    <updated>2020-10-10T18:48:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-fusilli-20-lbs-case"/>
+    <title>Italpasta - Fusilli - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-fusilli-20-lbs-case-319700.jpg?v=1611510522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong>ITALPASTA - Fusilli - 20 Lbs / Case </strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fusilli</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800210403402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>65480</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800210927690</id>
+    <published>2020-10-10T18:48:18-04:00</published>
+    <updated>2020-10-10T18:48:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-rigatoni-20-lbs-case"/>
+    <title>Italpasta - Rigatoni - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-rigatoni-20-lbs-case-770285.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong>ITALPASTA - Rigatoni - 20 Lbs / Case </strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Rigatoni</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800210927690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>15480</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800211288138</id>
+    <published>2020-10-10T18:48:17-04:00</published>
+    <updated>2020-10-10T18:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-linguine-20-20-lbs-case"/>
+    <title>Italpasta - Linguine 20&quot; - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-linguine-20-20-lbs-case-463102.jpg?v=1611511775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ITALPASTA - Linguine 20" - 20 Lbs / Case</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Linguine</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800211288138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>978054</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800211746890</id>
+    <published>2020-10-10T18:48:16-04:00</published>
+    <updated>2020-10-10T18:48:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-fusilli-gluten-free-340-g"/>
+    <title>Italpasta - Fusilli Gluten Free - 340 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-fusilli-gluten-free-340-g-242343.jpg?v=1611511124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p> <strong>ITALPASTA - Fusilli Gluten Free - 340 g</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fusilli</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800211746890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>15480</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800212140106</id>
+    <published>2020-10-10T18:48:14-04:00</published>
+    <updated>2020-10-10T18:48:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-penne-gluten-free-340-g"/>
+    <title>Italpasta - Penne Gluten Free - 340 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-penne-gluten-free-340-g-695896.jpg?v=1611510461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ITALPASTA - Penne Gluten Free - 340 g</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Penne Rigate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800212140106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>898054</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800212926538</id>
+    <published>2020-10-10T18:48:13-04:00</published>
+    <updated>2020-10-10T18:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-fettuccine-10-20-lbs-case"/>
+    <title>Italpasta - Fettuccine 10&quot; - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-fettuccine-10-20-lbs-case-282399.jpg?v=1611511772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong>ITALPASTA - Fettuccine 10" - 20 Lbs / Case </strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fettuccine</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800212926538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>14890</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4800213319754</id>
+    <published>2020-10-10T18:48:12-04:00</published>
+    <updated>2020-10-10T18:48:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-spaghettini-10-20-lbs-case"/>
+    <title>Italpasta - Spaghettini 10&quot; - 20 Lbs / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-spaghettini-10-20-lbs-case-150502.jpg?v=1611510226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ITALPASTA Pasta</strong><br></p>
+<p><strong> ITALPASTA - Spaghettini 10" - 20 Lbs / Case</strong></p>
+<p>For over 30 years, we have proudly made our signature brand of pasta right here in Canada. With a wide variety of pasta shapes and sizes, we have what you need to make dinner special tonight.</p>
+<p>The finest 100% Canadian wheat combined with modern Italian technology and made with the utmost care—that’s our secret to creating Italpasta… for pasta lovers.</p>
+<p><strong>Allergens:</strong><span> </span>Contains wheat.</p>
+<p><strong>Certified Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:tag>Spaghetti</s:tag>
+    <s:tag>Spaghettini</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4800213319754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>15854</s:sku>
+      <s:grams>10433</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689492049994</id>
+    <published>2020-07-17T21:26:43-04:00</published>
+    <updated>2020-07-17T21:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-noodles-shrimp-flavoured-instant-24-x-85-g"/>
+    <title>Mr. Noodles - Shrimp Flavoured Instant Noodles- 24 x 85 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mr.Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mr-noodles-shrimp-flavoured-instant-noodles-24-x-85-g-876042.png?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr.Noodles<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mr. Noodles - Shrimp Flavoured Instant Noodles- 24 x 85 g</strong></p>
+<p><span><strong>Mr. Noodles instant ramen noodles are tasty and easy-to-prepare. Just place noodles in boiling water for 2 to 3 minutes, add the flavour soup base and enjoy!</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689492049994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>56989</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689491361866</id>
+    <published>2020-07-17T21:26:15-04:00</published>
+    <updated>2020-07-17T21:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-noodles-curry-chicken-flavoured-instant-24-x-85-g"/>
+    <title>Mr. Noodles - Curry Chicken Flavoured Instant Noodles- 24 x 85 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mr.Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mr-noodles-curry-chicken-flavoured-instant-noodles-24-x-85-g-596962.jpg?v=1611511062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr.Noodles<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mr. Noodles - Curry Chicken Flavoured Instant Noodles- 24 x 85 g</strong></p>
+<p><strong>Mr. Noodles instant ramen noodles are tasty and easy-to-prepare. Just place noodles in boiling water for 2 to 3 minutes, add the flavour soup base and enjoy!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689491361866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>15489</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689491230794</id>
+    <published>2020-07-17T21:26:00-04:00</published>
+    <updated>2020-07-17T21:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-noodles-chicken-flavoured-instant-24-x-85-g"/>
+    <title>Mr. Noodles - Chicken Flavoured Instant Noodles - 24 x 85 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mr.Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mr-noodles-chicken-flavoured-instant-noodles-24-x-85-g-168771.jpg?v=1611511656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr.Noodles<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mr. Noodles - Chicken Flavoured Instant Noodles- 24 x 85 g</strong></p>
+<p><strong>Mr. Noodles instant ramen noodles are tasty and easy-to-prepare. Just place noodles in boiling water for 2 to 3 minutes, add the flavour soup base and enjoy!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689491230794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>224859</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4689491034186</id>
+    <published>2020-07-17T21:25:36-04:00</published>
+    <updated>2020-07-17T21:25:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mr-noodles-spicy-chicken-flavoured-instant-24-x-85-g"/>
+    <title>Mr. Noodles - Spicy Chicken Flavoured Instant Noodles- 24 x 85 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mr.Noodles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mr-noodles-spicy-chicken-flavoured-instant-noodles-24-x-85-g-788036.jpg?v=1611514781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mr.Noodles<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mr. Noodles - Spicy Chicken Flavoured Instant Noodles- 24 x 85 g</strong></p>
+<p><span><strong>Mr. Noodles instant ramen noodles are tasty and easy-to-prepare. Just place noodles in boiling water for 2 to 3 minutes, add the flavour soup base and enjoy!</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Instant Noodles</s:tag>
+    <s:tag>Pasta &amp; Noodles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4689491034186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>9877848</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/food-colors.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-02-23T10:41:22-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4909403537482</id>
+    <published>2021-02-23T10:41:22-05:00</published>
+    <updated>2021-02-23T10:41:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-yellow-liquid-food-color-125-ml"/>
+    <title>Belle Donne - Yellow Liquid Food Color - 125 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-yellow-liquid-food-color-125-ml-747714.jpg?v=1614135151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne - Yellow Liquid Food Color - 125 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4909403537482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>91121</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812717588554</id>
+    <published>2020-10-22T00:30:09-04:00</published>
+    <updated>2020-10-22T00:30:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-burnt-sugar-caramel-color-250-ml"/>
+    <title>Mccall&apos;s - Burnt Sugar / Caramel Color - 250 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-burnt-sugar-caramel-color-250-ml-335245.jpg?v=1611511894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Burnt Sugar Color - 250 ml</strong></p>
+<p><span>Burnt sugar colour is produced by heating sugar without any additives. Use to add taste and a dark caramel colour to your baked goods and other savory dishes.</span><br><strong><span data-mce-fragment="1" face="Tahoma">This professional strength</span></strong><span data-mce-fragment="1"><strong> food coloring</strong> delivers vibrant color in icings and whipped toppings. The gel colors are freeze stable, with a minimal fading and no bitter after taste. To obtain the deepest reds, blues, greens, blacks, or other colors, mix your colored icings 1 day in advance, cover and store for later use - the colors will deepen overnight!</span><br data-mce-fragment="1"><span data-mce-fragment="1">Packaged in convenient squeeze bottles, gel colors can be dispensed one drop at a time so you can achieve precise colors. McCall's Liquid Soft Gel will color, bread &amp; cookie dough, cake batter, whipped toppings, buttercream &amp; royal icing, fondant, gum paste, marzipan, macarons, and pastillage.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Meets all food regulations as edible </span><br><span>Size: 250 mL / 8.4 oz.</span><br><br><span>Ingredients: Burnt Sugar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812717588554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>230848</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812690653258</id>
+    <published>2020-10-22T00:30:08-04:00</published>
+    <updated>2020-10-22T00:30:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-blue-liquid-food-color-125-ml"/>
+    <title>Belle Donne - Blue Liquid Food Color - 125 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BelleDonne-BlueLiquidFoodColor-125ml.jpg?v=1624066416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne - Blue Liquid Food Color - 125 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812690653258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>45488</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812690554954</id>
+    <published>2020-10-22T00:30:07-04:00</published>
+    <updated>2020-10-22T00:30:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-green-liquid-food-color-125-ml"/>
+    <title>Belle Donne - Green Liquid Food Color - 125 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BelleDonne-GreenLiquidFoodColor-125ml.jpg?v=1624066352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne - Green Liquid Food Color - 125 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812690554954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>21578</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812689997898</id>
+    <published>2020-10-22T00:30:06-04:00</published>
+    <updated>2020-10-22T00:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-red-liquid-food-color-125-ml"/>
+    <title>Belle Donne - Red Liquid Food Color - 125 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-red-liquid-food-color-125-ml-126791.jpg?v=1611511835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> Belle Donne - Red Liquid Food Color - 125 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812689997898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>024897</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812688719946</id>
+    <published>2020-10-22T00:30:05-04:00</published>
+    <updated>2020-10-22T00:30:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-orange-liquid-gel-food-color-250-ml"/>
+    <title>Mccall&apos;s - Orange Liquid gel Food Color - 250 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-orange-liquid-gel-food-color-250-ml-562896.jpg?v=1611510998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Liquid gel Food Color Orange - 250 ml</strong></p>
+<div><span face="Tahoma" style="font-family: Tahoma;"><strong>This professional strength food coloring</strong> delivers vibrant color in icings and whipped toppings. The gel colors are freeze stable, with a minimal fading and no bitter after taste. To obtain the deepest reds, blues, greens, blacks, or other colors, mix your colored icings 1 day in advance, cover and store for later use - the colors will deepen overnight! Packaged in convenient squeeze bottles, gel colors can be dispensed one drop at a time so you can achieve precise colors. McCall's Liquid Soft Gel will color, bread &amp; cookie dough, cake batter, whipped toppings, buttercream &amp; royal icing, fondant, gum paste, marzipan, macarons, and pastillage </span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;"><br></span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;">Meets all food regulations as edible </span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;"><br></span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;">Color: Orange</span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;">Size: 250 ml, 10.5 oz net weight</span></div>
+<div><span face="Tahoma" style="font-family: Tahoma;">Plastic squeeze bottle with flip top lid</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812688719946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>230844</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812688228426</id>
+    <published>2020-10-22T00:30:04-04:00</published>
+    <updated>2020-10-22T00:30:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-super-red-liquid-gel-food-color-250-ml"/>
+    <title>Mccall&apos;s - Super Red Liquid gel Food Color - 250 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-super-red-liquid-gel-food-color-250-ml-842225.jpg?v=1611513396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Liquid Gel Food Color Super Red 250ml / 10.5oz</h1>
+<p><span face="Tahoma" style="font-family: Tahoma;">Super Red Liquid gel gives a deep red color to icings . This professional strength</span><span> food coloring delivers beautiful and brilliant color in icings and whipped toppings. The gel colors are freeze stable, with a minimal fading and no bitter after taste. To obtain the deepest reds, blues, greens, blacks, or other colors, mix your colored icings 24 hours in advance, cover and store for later use - the colors will deepen overnight!  </span><br><span>Packaged in convenient squeeze bottles, gel colors can be dispensed one drop at a time so you can achieve precise colors. McCall's Liquid Gel will color , bread &amp; cookie dough , cake batter, whipped toppings, buttercream &amp; royal icing, fondant, gum paste, marzipan, macarons, and pastillage.</span><br><br><span>Meets all food regulations as edible.</span><br><br><span>Color: Super Red</span><br><span>Size: 250 ml, 10.5 oz net weight</span><br><span>Plastic squeeze bottle with flip top lid</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812688228426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>230998</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812686327882</id>
+    <published>2020-10-22T00:30:03-04:00</published>
+    <updated>2020-10-22T00:30:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-leaf-green-liquid-gel-food-color-250-ml"/>
+    <title>Mccall&apos;s - Leaf Green Liquid gel Food Color - 250 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-leaf-green-liquid-gel-food-color-250-ml-561021.jpg?v=1611512441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Green Liquid gel Food Color - 250 ml</strong></p>
+<p><strong><span face="Tahoma" style="font-family: Tahoma;">This professional strength</span></strong><span><strong> food coloring</strong> delivers vibrant color in icings and whipped toppings. The gel colors are freeze stable, with a minimal fading and no bitter after taste. To obtain the deepest reds, blues, greens, blacks, or other colors, mix your colored icings 1 day in advance, cover and store for later use - the colors will deepen overnight!</span><br><span>Packaged in convenient squeeze bottles, gel colors can be dispensed one drop at a time so you can achieve precise colors. McCall's Liquid Soft Gel will color, bread &amp; cookie dough, cake batter, whipped toppings, buttercream &amp; royal icing, fondant, gum paste, marzipan, macarons, and pastillage.</span><br><br><span>Meets all food regulations as edible </span><br><br><span>Color: Leaf Green</span><br><span>Size: 250 ml, 10.5 oz net weight</span><br><span>Plastic squeeze bottle with flip top lid</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812686327882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>230854</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812684787786</id>
+    <published>2020-10-22T00:30:02-04:00</published>
+    <updated>2020-10-22T00:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-red-food-color-preparation-28-ml"/>
+    <title>Club House - Red Food Color Preparation - 28 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-red-food-color-preparation-28-ml-624791.jpg?v=1611509738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Red Food Color - 28 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Club House is dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812684787786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>54509</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812684427338</id>
+    <published>2020-10-22T00:30:00-04:00</published>
+    <updated>2020-10-22T00:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-yellow-food-color-preparation-28-ml"/>
+    <title>Club House - Yellow Food Color Preparation - 28 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-yellow-food-color-preparation-28-ml-698693.jpg?v=1611510222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Yellow Food Color - 28 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Club House is dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812684427338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>446054</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812683444298</id>
+    <published>2020-10-22T00:29:59-04:00</published>
+    <updated>2020-10-22T00:29:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-green-food-color-preparation-28-ml"/>
+    <title>Club House - Green Food Color Preparation - 28 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-green-food-color-preparation-28-ml-475313.jpg?v=1611509374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Green Food Color - 28 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Club House is dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812683444298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>978905</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812683182154</id>
+    <published>2020-10-22T00:29:58-04:00</published>
+    <updated>2020-10-22T00:29:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-neon-food-color-preparation-4-x-7-1-ml"/>
+    <title>Club House - Neon Food Color Preparation - 4 x 7.1 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-neon-food-color-preparation-4-x-71-ml-804390.jpg?v=1611509978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Neon Food Color - 4 x 7.1 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs, 4 colours in 1 pack- be adventurous! (Colours come in neon blue, green, purple and pink!)</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Club House is dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812683182154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>978054</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812680593482</id>
+    <published>2020-10-22T00:29:57-04:00</published>
+    <updated>2020-10-22T00:29:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-cherry-red-food-color-liquid-4-l"/>
+    <title>Donmar - Cherry Red Food Color Liquid - 4 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-cherry-red-food-color-liquid-4-l-677416.jpg?v=1611509975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99 - 64.99
+            <a href="https://bulkmart.ca/products/donmar-cherry-red-food-color-liquid-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Cherry Red Food Color - 4 L</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-red-orange-color-4-l#product","name":"Donmar -  Red Orange Color - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037503492166","sku":"OBM3192","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-red-orange-color-4-l-bulk-mart_618.gif","description":"Donmar - Red Orange Color - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"OBM3192","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-red-orange-color-4-l?variant=20604614967366","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812680593482</id>
+      <title>4 L</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>99889</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812680593482</id>
+      <title>4 x 4 L</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>99890</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503721542</id>
+    <published>2019-03-31T23:16:41-04:00</published>
+    <updated>2019-03-31T23:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-yolkline-food-color-liquid-4-l"/>
+    <title>Donmar - Yolkline Food Color Liquid - 4 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-yolkline-food-color-liquid-4-l-629546.jpg?v=1611509671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99 - 54.99
+            <a href="https://bulkmart.ca/products/donmar-yolkline-food-color-liquid-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Yolkline Color - 4 L</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-yolkline-color-4-l#product","name":"Donmar - Yolkline Color  - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037503721542","sku":"4BM3197","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-yolkline-color-4-l-bulk-mart_665.jpg","description":"Donmar - Yolkline Color - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"14"},"offers":[{"sku":"4BM3197","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-yolkline-color-4-l?variant=20604615229510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"14"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503721542</id>
+      <title>4 L</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>99900</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503721542</id>
+      <title>4 x 4 L</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>99901</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503590470</id>
+    <published>2019-03-31T23:16:39-04:00</published>
+    <updated>2019-03-31T23:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-egg-yellow-food-color-powder-20-x-400-g"/>
+    <title>Preema - Egg Yellow Food Color Powder - 20 x 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-egg-yellow-food-color-powder-20-x-400-g-819998.jpg?v=1611511715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Egg Yellow Food Color Powder - 20 x 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503590470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>25089</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503557702</id>
+    <published>2019-03-31T23:16:39-04:00</published>
+    <updated>2019-03-31T23:16:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-egg-yellow-food-color-powder-400-g"/>
+    <title>Preema - Egg Yellow Food Color Powder - 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-egg-yellow-food-color-powder-400-g-921273.jpg?v=1611511295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Egg Yellow Food Color Powder - 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503557702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>250891</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503492166</id>
+    <published>2019-03-31T23:16:38-04:00</published>
+    <updated>2019-03-31T23:16:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/donmar-red-orange-color-4-l"/>
+    <title>Donmar -  Red Orange Color - 4 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Donmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-red-orange-color-4-l-433476.jpg?v=1611510033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Donmar<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            12.99 - 47.99
+            <a href="https://bulkmart.ca/products/donmar-red-orange-color-4-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Donmar - Red Orange Color - 4 L</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Edible food colouring for all your creative needs</span></li>
+<li><span class="a-list-item">Make colourful cupcakes, change the colour of icing or even a glaze</span></li>
+<li><span class="a-list-item">Fun to decorate AND to eat!</span></li>
+<li><span class="a-list-item">You only need a small amount, depending the the colour you are going for. It won't change the consistency of the food or dessert treat you are trying to colour</span></li>
+<li><span class="a-list-item">Dedicated to boosting the flavour of your everyday and most important meals and have become Canada's leading brand of spices, seasonings, recipe mixes and extracts</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/donmar-red-orange-color-4-l#product","name":"Donmar -  Red Orange Color - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037503492166","sku":"OBM3192","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/donmar-red-orange-color-4-l-bulk-mart_618.gif","description":"Donmar - Red Orange Color - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Donmar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"OBM3192","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/donmar-red-orange-color-4-l?variant=20604614967366","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liquid Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503492166</id>
+      <title>4 L</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>99886</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503492166</id>
+      <title>4 x 4 L</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>99887</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503230022</id>
+    <published>2019-03-31T23:16:35-04:00</published>
+    <updated>2019-03-31T23:16:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-bright-red-food-color-powder-20-x-400-g"/>
+    <title>Preema - Bright Red Food Color Powder - 20 x 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-bright-red-food-color-powder-20-x-400-g-523535.jpg?v=1611511711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Bright Red Color - 20 x 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong> It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503230022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>052069</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037503131718</id>
+    <published>2019-03-31T23:16:34-04:00</published>
+    <updated>2019-03-31T23:16:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-bright-red-food-color-powder-400-g"/>
+    <title>Preema - Bright Red Food Color Powder - 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-bright-red-food-color-powder-400-g-468121.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Bright Red Color - 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037503131718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>265990</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037502967878</id>
+    <published>2019-03-31T23:16:32-04:00</published>
+    <updated>2019-03-31T23:16:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-deep-orange-food-color-powder-20-x-400-g"/>
+    <title>Preema - Deep Orange Food Color Powder - 20 x 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-deep-orange-food-color-powder-20-x-400-g-784676.jpg?v=1611511776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Deep Orange Food Color Powder - 20 x 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/preema-deep-orange-color-20-x-400-g#product","name":"Preema -  Deep Orange Color - 20 x 400 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037502967878","sku":"OBM3184","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-deep-orange-color-20-x-400-g-bulk-mart_794.jpg","description":"Preema - Deep Orange Color - 20 x 400 g.","category":"FOOD","brand":{"@type":"Brand","name":"Preema"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"},"offers":[{"sku":"OBM3184","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"159.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/preema-deep-orange-color-20-x-400-g?variant=20604614410310","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"42"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037502967878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>250489</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037502869574</id>
+    <published>2019-03-31T23:16:31-04:00</published>
+    <updated>2019-03-31T23:16:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-deep-orange-food-color-powder-400-g"/>
+    <title>Preema - Deep Orange Food Color Powder - 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-deep-orange-food-color-powder-400-g-435286.jpg?v=1611511591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Deep Orange Food Color Powder - 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037502869574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>250741</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037502672966</id>
+    <published>2019-03-31T23:16:29-04:00</published>
+    <updated>2019-03-31T23:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-green-food-color-powder-20-x-400-g"/>
+    <title>Preema - Green Food Color Powder - 20 x 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-green-food-color-powder-20-x-400-g-525093.jpg?v=1611511359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Preema - Green Food Color Powder - 20 x 400 g</p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037502672966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>280699</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037502607430</id>
+    <published>2019-03-31T23:16:28-04:00</published>
+    <updated>2019-03-31T23:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/preema-green-food-color-powder-400-g"/>
+    <title>Preema - Green Food Color Powder - 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Preema</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/preema-green-food-color-powder-400-g-238466.jpg?v=1611511539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Preema<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Preema - Green Food Color Powder - 400 g</strong></p>
+<p><span><strong>Bring intense, vibrant color</strong> to your fondants and decorations using this Powder food color. This food coloring that is specially designed to release color to food products with a low water content, and it is the only water-soluble food coloring that can be used directly in food.</span></p>
+<p><span><strong>It can be used</strong> to color fondant, sugar work, gum paste, almond paste, royal icing, buttercream, cake mix, macarons, cookie dough, candy, or virtually any other food except chocolate! The high concentration of color allows you to achieve an unparalleled super red color and a matte finish. Use this color as a contrasting foundation to make your other vivid colors pop, or for mixing with other colors to create infinite options for your sweet confections!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Powdered Food Colors</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037502607430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>086667</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

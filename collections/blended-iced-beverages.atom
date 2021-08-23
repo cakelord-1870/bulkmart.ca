@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/blended-iced-beverages.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-18T22:45:15-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4853849555018</id>
+    <published>2020-12-18T22:45:15-05:00</published>
+    <updated>2020-12-18T22:45:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tazo-classic-concentrated-chai-latte-tea-32-oz"/>
+    <title>Tazo - Classic Concentrated Chai Latte Tea - 32 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tazo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tazo-classic-concentrated-chai-latte-tea-32-oz-670018.jpg?v=1611512911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tazo<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Tazo chai tea latte concentrate makes it easy to create coffee-shop-quality lattes with no brewing required! Made with high-quality tea leaves and real spices, this concentrate combines bold black tea with cardamom, cinnamon, ginger, vanilla, and star anise to deliver a robust, warm, zesty, and slightly sweet flavor. It does not contain any artificial colors, flavors, or preservatives, promising no unpleasant, syrupy aftertaste. This concentrate is ideal for restaurants, bakeries, cafes, and bars looking for an easy and profitable way to offer trendy and tasty beverages.<br><br>Each 32 fl. oz. carton can prepare (8) 8 fl. oz. lattes. To prepare, first give the carton a quick shake to blend all the ingredients before pouring. Mix equal parts chai concentrate with milk or a dairy-alternative of your choice. Enjoy hot by heating on the stovetop or in the microwave, or simply pour over ice to enjoy cold. It is as simple as that! You can even use this concentrate to expand your menu offerings to include creative tea cocktails, shakes, and even desserts. After opening, store any unused product in a refrigerator and use within 7 days.</p>
+<p>Tazo - Classic Concentrated Chai Latte Tea - 32 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chai Latte Tea</s:tag>
+    <s:tag>Chai Tea</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853849555018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>31451</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853848866890</id>
+    <published>2020-12-18T22:45:14-05:00</published>
+    <updated>2020-12-18T22:45:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tazo-concentrated-black-iced-tea-32-oz"/>
+    <title>Tazo - Concentrated Black Iced Tea - 32 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tazo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tazo-concentrated-black-iced-tea-32-oz-187310.jpg?v=1611513820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tazo<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Tazo black iced tea concentrate makes it easy to create premium iced teas with no brewing required! Made with premium black tea, this unsweetened concentrate delivers a crisp, refreshing flavor when prepared. It does not contain any artificial colors, flavors, or preservatives, promising no unpleasant, syrupy aftertaste. This concentrate is ideal for restaurants, bakeries, cafes, and bars looking for an easy and profitable way to offer trendy and tasty beverages.<br><br>Each 32 fl. oz. carton can make (24) 8 fl. oz. prepared beverages. To prepare, first give the carton a quick shake to blend all the ingredients before pouring. Mix 1 part concentrate to 5 parts cold water or lemonade and pour over ice to serve. It is as simple as that! You can even use this concentrate to expand your menu offerings to include creative tea infusions, tea cocktails, spritzers, and lemonades. After opening, store any unused product in a refrigerator and use within 7 days.</p>
+<p>Tazo - Concentrated Black Iced Tea - 32 Oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853848866890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>31452</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853848637514</id>
+    <published>2020-12-18T22:45:13-05:00</published>
+    <updated>2020-12-18T22:45:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tazo-concentrated-zen-green-iced-tea-32-oztazo-concentrated-zen-green-iced-tea-32-oz"/>
+    <title>Tazo - Concentrated Zen Green Iced Tea - 32 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tazo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tazo-concentrated-zen-green-iced-tea-32-oz-590518.jpg?v=1611512975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tazo<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Tazo Zen iced green tea concentrate makes it easy to create premium iced teas with no brewing required! Made with premium green tea, tangy lemongrass, and sweet spearmint, this unsweetened concentrate provides a refreshing, smooth-sipping experience that is an enjoyable departure from the traditional green tea. It does not contain any artificial colors, flavors, or preservatives, promising no unpleasant, syrupy aftertaste. This concentrate is ideal for restaurants, bakeries, cafes, and bars looking for an easy and profitable way to offer trendy and tasty beverages.<br><br>Each 32 fl. oz. carton can make (24) 8 fl. oz. prepared beverages. To prepare, first give the carton a quick shake to blend all the ingredients before pouring. Mix 1 part concentrate to 5 parts cold water or lemonade and pour over ice to serve. It is as simple as that! You can even use this concentrate to expand your menu offerings to include creative tea infusions, tea cocktails, spritzers, and lemonades. After opening, store any unused product in a refrigerator and use within 7 days.<br></p>
+<p>Tazo - Concentrated Zen Green Iced Tea - 32 Oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853848637514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>31454</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4853845295178</id>
+    <published>2020-12-18T22:45:13-05:00</published>
+    <updated>2020-12-18T22:45:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tazo-concentrated-passion-iced-herbal-tea-32-oz"/>
+    <title>Tazo - Concentrated Passion Iced Herbal Tea - 32 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tazo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tazo-concentrated-passion-iced-herbal-tea-32-oz-164471.jpg?v=1611512378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tazo<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Details</h2>
+<p itemprop="description">This Tazo Passion iced herbal tea concentrate makes it easy to create premium iced teas with no brewing required! Made with hibiscus flowers, orange peel, rose hips, passion fruit flavor, and spices, this herbal tea concentrate delivers tart, sweet, citrusy, and exotic flavors with warm cinnamon undertones when prepared. It does not contain any artificial colors, flavors, or preservatives, promising no unpleasant, syrupy aftertaste. Because it's naturally caffeine-free, this tea is perfect for enjoying either day or night. This concentrate is ideal for restaurants, bakeries, cafes, and bars looking for an easy and profitable way to offer trendy and tasty beverages.<br><br>Each 32 fl. oz. carton can make (8) 8 fl. oz. prepared beverages. To prepare, first give the carton a quick shake to blend all the ingredients before pouring. Mix equal parts concentrate with cold water and pour over ice to serve. It is as simple as that! You can even use this concentrate to expand your menu offerings to include creative lattes, tea cocktails, spritzers, and lemonades. After opening, store any unused product in a refrigerator and use within 7 days.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbal Tea</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4853845295178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>31453</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848768024650</id>
+    <published>2020-12-07T12:10:01-05:00</published>
+    <updated>2020-12-07T12:10:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-iced-tea-concentrate-2-x-4-l"/>
+    <title>Lynch - Iced Tea Concentrate - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-iced-tea-concentrate-2-x-4-l-323211.png?v=1611510697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch - Iced Tea Concentrate - 2 x 4 L</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A dark liquid concentrate made with high quality instant tea, lime, lemon and grapefruit flavours this is a family favourite!</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Can be used for both alcoholic and non-alcoholic drinks; add lemon or lime.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Add 1 part concentrate to 5 parts water. Chill and serve.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Water, sugar, citric acid, natural and artificial flavour, instant tea, sodium citrate, caramel, sodium benzoate, colour.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Concentrated Drink Mixes</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848768024650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>302030</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848767533130</id>
+    <published>2020-12-07T12:10:00-05:00</published>
+    <updated>2020-12-07T12:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-iced-tea-concentrate-4-l"/>
+    <title>Lynch - Iced Tea Concentrate - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-iced-tea-concentrate-4-l-828886.png?v=1611510577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lynch - Iced Tea Concentrate - 4 L</strong></p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A dark liquid concentrate made with high quality instant tea, lime, lemon and grapefruit flavours this is a family favourite!</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Can be used for both alcoholic and non-alcoholic drinks; add lemon or lime.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Add 1 part concentrate to 5 parts water. Chill and serve.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Water, sugar, citric acid, natural and artificial flavour, instant tea, sodium citrate, caramel, sodium benzoate, colour.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Concentrated Drink Mixes</s:tag>
+    <s:tag>Iced Tea Concentrate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848767533130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>302031</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773717606474</id>
+    <published>2020-09-23T16:39:17-04:00</published>
+    <updated>2020-09-23T16:39:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestea-lemon-zero-sugar-iced-tea-12-x-500-ml"/>
+    <title>Nestea - Lemon Zero Sugar Iced Tea - 12 x 500 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestea-lemon-zero-sugar-iced-tea-12-x-500-ml-364566.jpg?v=1611511481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestea<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Nestea - Lemon Zero Sugar Iced Tea - 12 x 500 ml</strong></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span data-mce-fragment="1">We’re not allowed to call this the best green tea ever, but you are!</span></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<br data-mce-fragment="1"><span data-mce-fragment="1">Refreshingly different, our perfectly balanced blend of real green tea and natural lemon flavour is made with zero preservatives and contains tea polyphenols. Yes, that’s a good thing.</span>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Real Tea, Real Refreshing: NESTEA is Canada's favourite Iced Tea brand. Available in single serve bottles deliciously blended with real green tea and lemon - perfect for refreshment when you're on the go! Naturally flavoured, no preservatives or artificial flavours.</div>
+<div data-mce-fragment="1" class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">
+<ul>
+<li>Made with real tea</li>
+<li>Deliciously blended with natural flavours.</li>
+<li>No preservatives or added colours</li>
+<li>Convenient package for when you're on-the-go.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Nestea</s:tag>
+    <s:tag>Soft Drink Plastic Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773717606474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>Nest1223</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773805424714</id>
+    <published>2020-09-23T16:11:35-04:00</published>
+    <updated>2020-09-23T16:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/starbucks-doubleshot-vanilla-energy-coffee-12-x-444-ml"/>
+    <title>Starbucks - Doubleshot White Chocolate Energy Coffee Drink - 12 x 444 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Starbucks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/starbucks-doubleshot-white-chocolate-energy-coffee-drink-12-x-444-ml-989458.jpg?v=1611513571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starbucks<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Do you love Mocha Coffee- How about energy- We've got just the thing for you. Rich, bold, Starbucks® coffee.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>Starbucks Doubleshot Energy Coffee Beverage is perfectly blended with rich, bold Starbucks coffee</li>
+<li>A delicious Coffee + Energy Beverage, for on the go.</li>
+<li><span class="a-list-item">Pack of twelve</span></li>
+<li><span class="a-list-item">Starbucks Doubleshot Energy White Chocolate</span></li>
+<li><span class="a-list-item">Grab a can of Starbucks Doubleshot Energy Coffee and stay alert</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Drinks</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Starbucks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773805424714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>73632097</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773804539978</id>
+    <published>2020-09-23T16:11:33-04:00</published>
+    <updated>2020-09-23T16:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/starbucks-doubleshot-mocha-energy-coffee-12-x-444-ml"/>
+    <title>Starbucks - Doubleshot Mocha Coffee Energy Drink- 12 x 444 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Starbucks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/starbucks-doubleshot-mocha-coffee-energy-drink-12-x-444-ml-398881.jpg?v=1611511774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starbucks<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"><strong>Starbucks - Doubleshot Mocha Coffee Energy Drink- 12 x 444 ml</strong></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Do you love Mocha Coffee- How about energy- We've got just the thing for you. Starbucks® Doubleshot Energy is a perfect blend of taurine, ginseng, guarana, B vitamins, mocha flavour and rich, bold, Starbucks® coffee.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>Starbucks Doubleshot Energy Coffee Beverage is perfectly blended with rich, bold Starbucks coffee</li>
+<li>A delicious Coffee + Energy Beverage, for on the go.</li>
+<li> Enhanced with guarana, B vitamins, and ginseng</li>
+<li><span class="a-list-item">Pack of twelve</span></li>
+<li><span class="a-list-item">Starbucks Doubleshot Energy Mocha</span></li>
+<li><span class="a-list-item">Grab a can of Starbucks Doubleshot Energy Coffee and stay alert</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Drinks</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Starbucks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773804539978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>73632225</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773772001354</id>
+    <published>2020-09-23T16:01:05-04:00</published>
+    <updated>2020-09-23T16:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-brisk-iced-tea-lemon-24-x-591-ml"/>
+    <title>Lipton - Brisk Iced Tea Lemon - 24 x 591 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-brisk-iced-tea-lemon-24-x-591-ml-626131.jpg?v=1611511657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lipton - Brisk Iced Tea Lemon - 24 x 591 ml</strong></p>
+<p>This is the Brisk that started it all. The original iced tea with tons of attitude. The one with the bold lemon flavour that kicked iced tea off the back porch and gave it some street cred. Now that's Brisk, baby!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bold, refreshing iced tea with lemon flavour</span></li>
+<li><span class="a-list-item">Satisfy your thirst or enjoy with food</span></li>
+<li><span class="a-list-item">24-Pack of 591 ml is perfect for sharing with friends</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Lipton</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773772001354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>15499</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773771182154</id>
+    <published>2020-09-23T16:01:03-04:00</published>
+    <updated>2020-09-23T16:01:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-brisk-iced-tea-lemon-12-x-355-ml"/>
+    <title>Lipton - Brisk Iced Tea Lemon - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-brisk-iced-tea-lemon-12-x-355-ml-274947.jpg?v=1611514317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lipton - Brisk Iced Tea Lemon - 12 x 355 ml</strong></p>
+<p><span data-mce-fragment="1">This is the Brisk that started it all. The original iced tea with tons of attitude. The one with the bold lemon flavour that kicked iced tea off the back porch and gave it some street cred. Now that's Brisk, baby!</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bold, refreshing iced tea with lemon flavour</span></li>
+<li><span class="a-list-item">Satisfy your thirst or enjoy with food</span></li>
+<li><span class="a-list-item">24-Pack of 355 ml cans is perfect for sharing with friends</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Lipton</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773771182154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>21654</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773754536010</id>
+    <published>2020-09-23T16:01:02-04:00</published>
+    <updated>2020-09-23T16:01:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lipton-brisk-iced-tea-lemon-24-x-355-ml"/>
+    <title>Lipton - Brisk Iced Tea Lemon - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lipton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lipton-brisk-iced-tea-lemon-24-x-355-ml-602189.jpg?v=1611510515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lipton<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lipton - Brisk Iced Tea Lemon - 24 x 355 ml</strong></p>
+<p>This is the Brisk that started it all. The original iced tea with tons of attitude. The one with the bold lemon flavour that kicked iced tea off the back porch and gave it some street cred. Now that's Brisk, baby!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bold, refreshing iced tea with lemon flavour</span></li>
+<li><span class="a-list-item">Satisfy your thirst or enjoy with food</span></li>
+<li><span class="a-list-item">24-Pack of 355 ml cans is perfect for sharing with friends</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Lipton</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773754536010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>7363298</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773748146250</id>
+    <published>2020-09-23T15:48:41-04:00</published>
+    <updated>2020-09-23T15:48:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-iced-tea-with-peach-flavor-24-x-680-ml"/>
+    <title>Arizona - Iced Peach Tea - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-IcedPeachTea24x680ml.png?v=1623976570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Iced Peach Tea - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773748146250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>736324</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773745328202</id>
+    <published>2020-09-23T15:48:40-04:00</published>
+    <updated>2020-09-23T15:48:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-sweet-tea-real-brewed-24-x-680-ml"/>
+    <title>Arizona - Sweet Tea Real Brewed - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-SweetTeaRealBrewed-24x680ml.jpg?v=1623977034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Sweet Tea Real Brewed - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773745328202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7363222</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773744312394</id>
+    <published>2020-09-23T15:48:39-04:00</published>
+    <updated>2020-09-23T15:48:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-iced-tea-with-raspberry-flavor-24-x-680-ml"/>
+    <title>Arizona - Iced Tea With Raspberry Flavor - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-IcedTeaWithRaspberryFlavor24x680ml.jpg?v=1623976684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Iced Tea With Raspberry Flavor - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773744312394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>73632659</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773743558730</id>
+    <published>2020-09-23T15:48:38-04:00</published>
+    <updated>2020-09-23T15:48:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-lemon-tea-24-x-680-ml"/>
+    <title>Arizona - Iced Tea With Lemon Flavor - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-iced-tea-with-lemon-flavor-24-x-680-ml-236620.jpg?v=1611509438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Iced Tea With Lemon Flavor - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773743558730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>7363209</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773742706762</id>
+    <published>2020-09-23T15:48:36-04:00</published>
+    <updated>2020-09-23T15:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-arnold-palmer-half-and-half-iced-tea-lemonade-diet-24x680-ml"/>
+    <title>Arizona - Arnold Palmer Half and Half Iced Tea Lemonade Diet - 24x680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-arnold-palmer-half-and-half-iced-tea-lemonade-diet-24x680-ml-159891.jpg?v=1623994796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Arnold Palmer Half and Half Iced Tea Lemonade Diet - 24x680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773742706762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>736329</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773741822026</id>
+    <published>2020-09-23T15:48:35-04:00</published>
+    <updated>2020-09-23T15:48:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-arnold-palmer-half-and-half-iced-tea-lemonade-24-x-680-ml"/>
+    <title>Arizona - Arnold Palmer Half and Half Iced Tea Lemonade - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-arnold-palmer-half-and-half-iced-tea-lemonade-24-x-680-ml-417327.jpg?v=1623994804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Arnold Palmer Half and Half Iced Tea Lemonade - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773741822026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>736327</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773739036746</id>
+    <published>2020-09-23T15:48:34-04:00</published>
+    <updated>2020-09-23T15:48:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-green-tea-with-ginseng-and-honey-24-x-680-ml"/>
+    <title>Arizona  - Green Tea with Ginseng and Honey - 24 x 680 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arizona-green-tea-with-ginseng-and-honey-24-x-680-ml-866732.jpg?v=1611508896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona  - Green Tea with Ginseng and Honey - 24 x 680 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773739036746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>73632</s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773738315850</id>
+    <published>2020-09-23T15:48:32-04:00</published>
+    <updated>2020-09-23T15:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arizona-iced-tea-with-ginseng-honey-green-12-x-960-ml"/>
+    <title>Arizona - Iced Tea with Ginseng Honey Green - 960 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Arizona</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arizona-IcedTeawithGinsengHoneyGreen-12x960ml.jpg?v=1623976617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizona<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arizona - Iced Tea with Ginseng Honey Green - 12 x 960 ml</strong></p>
+<p><span>An Arizona classic for over ten years. It’s as delicious as ever.</span><br><span>•Made with premium brewed blend </span><br><span>•Sweetened with cane sugar</span><br><span>•Natural flavour</span><br><span>•No preservatives</span><br><span>•Pasteurized</span><br><span>•Recyclable container</span><br><span>•Made in Canada</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arizona</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773738315850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>7363265</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773802704970</id>
+    <published>2020-09-22T18:26:48-04:00</published>
+    <updated>2020-09-22T18:26:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-diet-lemon-tea-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Diet Lemon Tea Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-diet-lemon-tea-plastic-bottle-12-x-473-ml-816482.jpg?v=1611512190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Snapple - Diet Lemon Tea Plastic Bottle - 12 x 473 ml</strong></p>
+<p>Life handed us lemons; we picked the best ones and blended their lemon flavor with real tea to create a delicious Snapple Diet Lemon Tea with all the juicy flavor of our famous regular Lemon Tea. Lemon has never had it so good.<br data-mce-fragment="1"><br data-mce-fragment="1"><strong>Ingredients:</strong><br data-mce-fragment="1">Filtered water, citric acid, tea, aspartame, potassium citrate, natural flavors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773802704970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple12</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773802606666</id>
+    <published>2020-09-22T18:26:47-04:00</published>
+    <updated>2020-09-22T18:26:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-raspberry-tea-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Raspberry Tea Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-raspberry-tea-plastic-bottle-12-x-473-ml-954600.jpg?v=1611512251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Raspberry Tea Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple<span> <strong data-mce-fragment="1"> Raspberry Tea</strong></span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773802606666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple12712</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773802573898</id>
+    <published>2020-09-22T18:26:46-04:00</published>
+    <updated>2020-09-22T18:26:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-peach-tea-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Peach Tea Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-peach-tea-plastic-bottle-12-x-473-ml-920412.jpg?v=1611513997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Peach Tea Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple<span> <strong data-mce-fragment="1"> Peach Tea</strong></span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773802573898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple1278</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773801132106</id>
+    <published>2020-09-22T18:26:43-04:00</published>
+    <updated>2020-09-22T18:26:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/snapple-lemon-tea-plastic-bottle-12-x-473-ml"/>
+    <title>Snapple - Lemon Tea Plastic Bottle - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Snapple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/snapple-lemon-tea-plastic-bottle-12-x-473-ml-841388.jpg?v=1611513034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Snapple<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><strong><span class="a-list-item">Snapple - Lemon Tea Plastic Bottle - 12 x 473 ml</span></strong></li>
+<li><span class="a-list-item">Delicious and refreshing Snapple <span data-mce-fragment="1">Lemon Tea</span></span></li>
+<li><span class="a-list-item">No artificial flavours</span></li>
+<li><span class="a-list-item">No artificial colours</span></li>
+<li><span class="a-list-item">No preservative</span></li>
+<li><span class="a-list-item">Pack of 12 bottles x 473ml</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Snapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773801132106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>Snapple125</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4773809881162</id>
+    <published>2020-09-21T20:48:05-04:00</published>
+    <updated>2020-09-21T20:48:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/starbucks-frappuccino-vanilla-coffee-drink-12-x-405-ml"/>
+    <title>Starbucks - Frappuccino Vanilla Coffee Drink - 12 x 405 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Starbucks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/starbucks-frappuccino-vanilla-coffee-drink-12-x-405-ml-378688.jpg?v=1611512138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Starbucks<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Starbucks - Frappuccino Vanilla Coffee Drink - 12 x 405 ml</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Pop the cap. Savour the sip. Go. Vanilla Frappuccino® chilled coffee drink is a harmonious blend of Starbucks® coffee and creamy milk with vanilla flavour</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">•A delcious coffee beverage on the go<br>•A delicious blend of coffee, milk and rich, Vanilla flavour.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee Drinks</s:tag>
+    <s:tag>Iced Tea &amp; Coffee</s:tag>
+    <s:tag>Starbucks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4773809881162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>Starbucks5</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

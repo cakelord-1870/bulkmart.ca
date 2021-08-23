@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-chocolate-blocks.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-29T18:22:19-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4808683028554</id>
+    <published>2020-10-29T18:22:19-04:00</published>
+    <updated>2020-10-29T18:22:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-caramel-loaf-block-5-lbs"/>
+    <title>Callebaut - Caramel Loaf Block - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-caramel-loaf-block-5-lbs-765927.jpg?v=1611509314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut FWF-BL-2010001-A99 - Caramel Loaf Block - 5 Lbs</strong></p>
+<p><strong>KD - Kosher- Dairy</strong></p>
+<p><strong><span>In many kitchen today, staff is scarce and there’s only 24 hours in a day. So making caramels from scratch is not always an option. With Callebaut’s Caramel, that changes: you can count on a genuine, great tasting caramel made with the best ingredients and without any artificial flavours or colourings. It has a deep &amp; bold caramel taste and golden-brown colour, typical for home-made caramels. And the best part: it’s there, close at hand, without increasing the workload of your staff!</span></strong></p>
+<p><strong><br><span>Our chefs elaborated the caramel recipe in such a way that it's easy to work with and allows you to use for anything from filling in bonbons to topping your desserts. It has a short tail for perfect piping in small delicacies such as bonbons or bars. And it’s firm enough to be perfectly versatile to also top cakes, pastries and desserts or flavour your creams and crémeux. Moreover, the new caramel is easy to tune with your own personal touch: mixing in fleur de sel or crunches, or mixing with chocolate to create chocolate fudge. </span></strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><span>Callebaut's new Caramel Loaf is the perfect ingredient to add a savour butter toffee flavour and excite the taste buds. Excellent for all dipping and drizzling applications and easy to warm up and apply to a number of delicious treats. Finally a true caramel that is ready to use! Caramel Fill is a real, dark blonde caramel, made from sugar and milk, with a heavenly butter toffee flavour. Just warm up for a few seconds before piping it in pralines, cups etc. Kosher Dairy</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808683028554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>334428</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808605958218</id>
+    <published>2020-10-29T18:22:18-04:00</published>
+    <updated>2020-10-29T18:22:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cacao-barry-160-extruded-batons-boulangers-1-6-kg"/>
+    <title>Cacao Barry - 160 Extruded Bâtons Boulangers - 1.6 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Cacao Berry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cacao-barry-160-extruded-batons-boulangers-16-kg-689238.jpg?v=1611509133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cacao Berry<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cacao Barry CHDBB308BY357 - Baking Sticks - 1.6 Kg</p>
+<p><span>These 8cm dark chocolate sticks, ready to use and resistant to cooking, are in the perfect shape to make pains au chocolat.</span></p>
+<p><span>Extruded Semi-Sweet Chocolate Bake Stable Baking Sticks by Cacao Barry are made with 44% min cocoa.</span></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808605958218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>334424</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808592654410</id>
+    <published>2020-10-29T18:22:17-04:00</published>
+    <updated>2020-10-29T18:22:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-54-5-dark-chocolate-block-5-kg"/>
+    <title>Callebaut - 54.5% Dark Chocolate Block - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-545-dark-chocolate-block-5-kg-257437.jpg?v=1625754242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>811NV132 - Callebaut - 54.5% Dark Chocolate Block - 5 Kg</strong></p>
+<h3>CERTIFICATIONS</h3>
+<ul>
+<li class="first"><span class="certification-kosher-d">KD- Kosher - Dairy</span></li>
+<li class="last"><span class="certification-halal">Halal</span></li>
+</ul>
+<p><strong>The all round, balanced chocolate ready to do great in any job.</strong><br><span>One of the authentic recipes created by Octaaf Callebaut, recipe n° 811 has grown into one of Callebaut®'s iconic chocolate recipes. Like all Finest Belgian Chocolates, it is made from our signature ‘Wieze cocoa blend’. Whole bean roasting guarantee its full taste with a solid cocoa body and fine top notes.</span><br><span>Recipe n° 811 has a round, extremely well-balanced chocolate taste, smooth cocoa body with a pleasant intensity. It is easy to pair with a wide variety of different flavours and ingredients.</span><br><span>Loved by chefs all over the world, the 811 is Callebaut’s all-round chocolate for confectionery, ganaches, mousses, biscuits, sauces, drinks and many other applications. It’s siply made to help you achieve perfect end results every time</span></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808592654410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku>334427</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808567816266</id>
+    <published>2020-10-29T18:22:16-04:00</published>
+    <updated>2020-10-29T18:22:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belcolade-56-dark-chocolate-block-4-x-2-5-kg"/>
+    <title>Belcolade - 56% Dark Chocolate Block - 4 x 2.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belcolade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Belcolade-56_DarkChocolateBlock-4x2.5Kg.jpg?v=1624066708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belcolade<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belcolade - 56% Dark Chocolate Block - 2.5 Kg</strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808567816266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>334422</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808566931530</id>
+    <published>2020-10-29T18:22:15-04:00</published>
+    <updated>2020-10-29T18:22:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belcolade-56-dark-chocolate-block-2-5-kg"/>
+    <title>Belcolade - 56% Dark Chocolate Block - 2.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belcolade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belcolade-56-dark-chocolate-block-25-kg-864044.jpg?v=1624072753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belcolade<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belcolade - 56% Dark Chocolate Block - 2.5 Kg</p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level. </span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream. </span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808566931530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>334421</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808563163210</id>
+    <published>2020-10-29T18:22:14-04:00</published>
+    <updated>2020-10-29T18:22:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-gianduja-dark-chocolate-with-hazelnut-block-5-kg"/>
+    <title>Callebaut - Gianduja Dark Chocolate With Hazelnut Block - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-gianduja-dark-chocolate-with-hazelnut-block-5-kg-835582.png?v=1611509187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            90.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> GIA-D2-144 Callebaut - Pale Gianduja Dark Chocolate With Hazelnut Block - 5 Kg</strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><span><strong>Mix of 70% dark chocolate and 30% hazelnuts.</strong><br>Gianduja Dark is a smooth and creamy mix of Callebaut®'s dark chocolate and a pure hazelnut paste. The cream is mixed, conched and tempered by our Master Concher to create a lovely balanced taste, and a smooth, homogeneous texture for great mouthfeel.<br>Gianduja Dark comes a semi-solid cream that can easily be cut into confectionery delights or enrobed with chocolate.<br>After softening, it can even be piped into moulded chocolate shells, pralines or chocolate bars. After melting, it becomes a perfect base for flavouring ice cream and pastry interiors such as mousse, bavarois and crémeux. Gianduja also works wonders in flavouring desserts such as sabayon or mœlleux. </span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808563163210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.99</s:price>
+      <s:sku>334430</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808561983562</id>
+    <published>2020-10-29T18:22:14-04:00</published>
+    <updated>2020-10-29T18:22:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-gianduja-milk-chocolate-with-hazelnut-block-5-kg"/>
+    <title>Callebaut - Gianduja Milk Chocolate With Hazelnut Block - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-gianduja-milk-chocolate-with-hazelnut-block-5-kg-573418.jpg?v=1611509133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            91.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong> GIA-145 Callebaut - Pale Gianduja Milk Chocolate With Hazelnut Block - 5 Kg</strong></p>
+<p><strong>KD - Kosher - Dairy</strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><span><strong>Mix of 75% milk chocolate and 25% hazelnuts.</strong><br>Gianduja Pale is a smooth and creamy mix of Callebaut®'s milk chocolate and a pure medium roasted hazelnut paste. The cream is mixed, conched and tempered by our Master Concher to create a lovely balanced taste, and a smooth, creamy and homogeneous texture for great mouthfeel.<br>Gianduja Pale comes a semi-solid crème that can easily be cut into confectionery delights or enrobed with chocolate.<br>After softening, it can even be piped into moulded pralines, shells or chocolate bars and tablets. After melting, it becomes a perfect base for flavouring ice cream and pastry interiors such as mousse, bavarois and crémeux. Gianduja also works wonders in flavouring desserts such as sabayon, mœlleux, etc. </span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808561983562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">91.99</s:price>
+      <s:sku>334430</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808555331658</id>
+    <published>2020-10-29T18:22:13-04:00</published>
+    <updated>2020-10-29T18:22:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-31-7-finest-belgian-milk-chocolate-block-5-kg"/>
+    <title>Callebaut - 31.7% Finest Belgian Milk Chocolate Block - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-317-finest-belgian-milk-chocolate-block-5-kg-906231.jpg?v=1611509198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut C823- Finest Belgian 31.7% Milk Chocolate Block - 5 Kg</strong></p>
+<p><strong>KD- Kosher - Dairy</strong></p>
+<p><strong>Halal</strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808555331658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>334426</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808552054858</id>
+    <published>2020-10-29T18:22:12-04:00</published>
+    <updated>2020-10-29T18:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-25-9-white-chocolate-block-5-kg"/>
+    <title>Callebaut - 25.9% White Chocolate Block - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-259-white-chocolate-block-5-kg-808321.jpg?v=1625754241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut - White Chocolate Block - 5 Kg - CW2NV132</strong></p>
+<p><strong>KD:<span> Kosher-Dairy</span><br></strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808552054858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>334425</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4798477107274</id>
+    <published>2020-10-29T18:22:11-04:00</published>
+    <updated>2020-10-29T18:22:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belcolade-56-dark-maltitol-block-no-sugar-added-5-x-5-kg"/>
+    <title>Belcolade - 56% Dark Maltitol Block No Sugar Added - 5 x 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belcolade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Belcolade-56_DarkMaltitolBlockNoSugarAdded-5x5Kg.jpg?v=1624066673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belcolade<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            425.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belcolade - 56% Dark Maltitol Block No Sugar Added - 5 x 5 Kg</strong></p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this chocolate is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<p><span><strong>Temper this chocolate to create the perfect set, snap, and shine to coat</strong> your truffles, fresh fruits, or to create chocolate masterpieces to adorn cakes or make into showpieces. Melt the chocolate to use as an ingredient when baking airy souffles, spongy cakes, rich ganache, silky pastry cream, or smooth ice cream.</span></p>
+<p><span>Or, roughly <strong>chop this bar for the ultimate chocolate chunks to fold into your batters for signature, premium baked goods</strong>. Plus, as a bulk chocolate bar, your business will always be in good supply with premium chocolate for your high-quality confections.</span></p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Chocolate Blocks</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4798477107274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">425.99</s:price>
+      <s:sku>334423</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

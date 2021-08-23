@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-specialty-seafood.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T17:53:05-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4867616866378</id>
+    <published>2020-12-30T17:53:05-05:00</published>
+    <updated>2020-12-30T17:53:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-bay-scallops-60-150-count-400g"/>
+    <title>Ocean Jewel - Bay Scallops 60-150 Count - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-bay-scallops-60-150-count-400g-837606.png?v=1611511173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Jewel - 60/150 Bay Scallops - 400g - SF01466</p>
+<p><strong>Create delicious appetizers and entrees</strong><span> </span>with a rich seafood flavor by using wholesale scallops in your recipes. These products have a succulent texture combined with a buttery and flavorful taste, making them an excellent ingredient to use in your seafood restaurant. You can also prepare scallops in a variety of different ways, such a sauteing, baking, grilling, or steaming, allowing you to choose the option that best suits your menu.</p>
+<p class="no-margin"><strong>Scallops are the perfect option for seafood restaurants,</strong><span> </span>and they are commonly found on fine dining menus, making them an excellent choice for catering businesses, hotels, and other upscale establishments. Our wholesale scallops are fresh, and you can use them immediately or freeze them to prolong their shelf life. Additionally, scallops are high in protein and flavor, but they are low in fat, making them an ideal choice for health-conscious customers that are looking for lean seafood options.<span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scallops</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867616866378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>221011</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867611852874</id>
+    <published>2020-12-30T17:53:04-05:00</published>
+    <updated>2020-12-30T17:53:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-wild-jumbo-sea-scallops-u-10-454-g"/>
+    <title>Ocean Prime - Wild Jumbo Sea Scallops U-10 - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-wild-jumbo-sea-scallops-u-10-454-g-447610.png?v=1611513756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - U-10 Jumbo Scallops - 454 g</strong></p>
+<p><strong>Create delicious appetizers and entrees</strong> with a rich seafood flavor by using wholesale scallops in your recipes. These products have a succulent texture combined with a buttery and flavorful taste, making them an excellent ingredient to use in your seafood restaurant. You can also prepare scallops in a variety of different ways, such a sauteing, baking, grilling, or steaming, allowing you to choose the option that best suits your menu.</p>
+<p class="no-margin"><strong>Scallops are the perfect option for seafood restaurants,</strong> and they are commonly found on fine dining menus, making them an excellent choice for catering businesses, hotels, and other upscale establishments. Our wholesale scallops are fresh, and you can use them immediately or freeze them to prolong their shelf life. Additionally, scallops are high in protein and flavor, but they are low in fat, making them an ideal choice for health-conscious customers that are looking for lean seafood options.<span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scallops</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867611852874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>221013</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867611197514</id>
+    <published>2020-12-30T17:53:03-05:00</published>
+    <updated>2020-12-30T17:53:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-scallops-20-40-count-454-g"/>
+    <title>Ocean Prime - Scallops 20-40 Count - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-scallops-20-40-count-454-g-715364.png?v=1611512019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - 20/40 CT Sea Scallops - 454 g</p>
+<p><strong>Create delicious appetizers and entrees</strong><span> </span>with a rich seafood flavor by using wholesale scallops in your recipes. These products have a succulent texture combined with a buttery and flavorful taste, making them an excellent ingredient to use in your seafood restaurant. You can also prepare scallops in a variety of different ways, such a sauteing, baking, grilling, or steaming, allowing you to choose the option that best suits your menu.</p>
+<p class="no-margin"><strong>Scallops are the perfect option for seafood restaurants,</strong><span> </span>and they are commonly found on fine dining menus, making them an excellent choice for catering businesses, hotels, and other upscale establishments. Our wholesale scallops are fresh, and you can use them immediately or freeze them to prolong their shelf life. Additionally, scallops are high in protein and flavor, but they are low in fat, making them an ideal choice for health-conscious customers that are looking for lean seafood options.<span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scallops</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867611197514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>221012</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867609100362</id>
+    <published>2020-12-30T17:53:01-05:00</published>
+    <updated>2020-12-30T17:53:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-scallops-20-30-count-2-x-5-lbs"/>
+    <title>Toppits - Scallops 20-30 Count - 2 x 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-scallops-20-30-count-2-x-5-lbs-599531.jpg?v=1611512072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            235.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 20/30 CT Scallop - 2 x 5 Lbs</strong></p>
+<p><strong>Create delicious appetizers and entrees</strong><span> </span>with a rich seafood flavor by using wholesale scallops in your recipes. These products have a succulent texture combined with a buttery and flavorful taste, making them an excellent ingredient to use in your seafood restaurant. You can also prepare scallops in a variety of different ways, such a sauteing, baking, grilling, or steaming, allowing you to choose the option that best suits your menu.</p>
+<p class="no-margin"><strong>Scallops are the perfect option for seafood restaurants,</strong><span> </span>and they are commonly found on fine dining menus, making them an excellent choice for catering businesses, hotels, and other upscale establishments. Our wholesale scallops are fresh, and you can use them immediately or freeze them to prolong their shelf life. Additionally, scallops are high in protein and flavor, but they are low in fat, making them an ideal choice for health-conscious customers that are looking for lean seafood options.<span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scallops</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867609100362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">235.99</s:price>
+      <s:sku>221014</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867606020170</id>
+    <published>2020-12-30T17:53:00-05:00</published>
+    <updated>2020-12-30T17:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-chef-scallop-with-vermicelli-and-garlic-180-g"/>
+    <title>Ocean Chef - Scallop With Vermicelli And Garlic - 180 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Chef</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-chef-scallop-with-vermicelli-and-garlic-180-g-791234.jpg?v=1611513700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Chef<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Chef -  Easy Cook Garlic Scallop With Vermicelli - 180 g</p>
+<p><strong>Create delicious appetizers and entrees</strong><span> </span>with a rich seafood flavor by using wholesale scallops in your recipes. These products have a succulent texture combined with a buttery and flavorful taste, making them an excellent ingredient to use in your seafood restaurant. You can also prepare scallops in a variety of different ways, such a sauteing, baking, grilling, or steaming, allowing you to choose the option that best suits your menu.</p>
+<p class="no-margin"><strong>Scallops are the perfect option for seafood restaurants,</strong><span> </span>and they are commonly found on fine dining menus, making them an excellent choice for catering businesses, hotels, and other upscale establishments. Our wholesale scallops are fresh, and you can use them immediately or freeze them to prolong their shelf life. Additionally, scallops are high in protein and flavor, but they are low in fat, making them an ideal choice for health-conscious customers that are looking for lean seafood options.<span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scallops</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867606020170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>221010</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867256549450</id>
+    <published>2020-12-30T16:41:01-05:00</published>
+    <updated>2020-12-30T16:41:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-fridays-unbreaded-seafood-crabcake-2-25-oz-10-lbs"/>
+    <title>Mrs. Fridays - Unbreaded Seafood Crabcake 2.25 Oz - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Fridays</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-fridays-unbreaded-seafood-crabcake-225-oz-10-lbs-793279.jpg?v=1611511772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Fridays<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mrs. Fridays - Uncooked Unbreaded Krabbycakes 2.25 Oz Oven Ready - 10 Lbs</strong></p>
+<p>Great for restaurants, catering companies, and institutions, crab meat is a versatile ingredient that you can incorporate into an array of starters, side dishes, and entrees. We offer wholesale crab meat in several varieties, so you can find the type of crab that you most prefer. Additionally, you can choose lump crab meat that is perfect for making crab cakes and incorporating with pasta dishes, or select claw meat for a finer texture that is excellent for soups and sauces.</p>
+<p class="no-margin">If you want to incorporate crab into the menu at your restaurant or catered event, wholesale crab meat is a versatile option. Select from several crab varieties to find the perfect taste for your unique menu items. Plus, we carry crab meat in bulk quantities to accommodate high-volume establishments like schools and other institutions.</p>
+<p>9 x 8 Count Crab Cakes </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crab</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867256549450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867247308874</id>
+    <published>2020-12-30T16:41:00-05:00</published>
+    <updated>2020-12-30T16:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aquastar-jonah-crab-claws-triple-scored-1-lb"/>
+    <title>Aquastar - Jonah Crab Claws Triple Scored - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Aquastar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Aquastar-JonahCrabClawsTripleScored-1Lb.jpg?v=1624067893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aquastar<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aquastar - Jonah Crab Claws Triple Scored - 454 g</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Jonah Crab is famous for its bright orange shell and large claws filled with rich, sweet meat with a delicate texture. Wild caught off the coast of the northern Atlantic Ocean, our Jonah Crab Claws are fully cooked and ready to thaw and serve. Each claw is triple scored for easy access to the succulent meat inside.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">- Triple Scored<br>- Fully Cooked<br>- Wild</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crab</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867247308874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867240263754</id>
+    <published>2020-12-30T16:40:59-05:00</published>
+    <updated>2020-12-30T16:40:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-cooked-crab-surimi-680-gocean-prime-cooked-crab-surimi-680-gocean-prime-cooked-crab-surimi-680-g"/>
+    <title>Ocean Prime - Cooked Crab Surimi - 680 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-cooked-crab-surimi-680-g-688270.png?v=1611514545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - Crab Surimi - 680 g</strong></p>
+<p>Great for restaurants, catering companies, and institutions, crab meat is a versatile ingredient that you can incorporate into an array of starters, side dishes, and entrees. We offer wholesale crab meat in several varieties, so you can find the type of crab that you most prefer. Additionally, you can choose lump crab meat that is perfect for making crab cakes and incorporating with pasta dishes, or select claw meat for a finer texture that is excellent for soups and sauces.</p>
+<p class="no-margin">If you want to incorporate crab into the menu at your restaurant or catered event, wholesale crab meat is a versatile option. Select from several crab varieties to find the perfect taste for your unique menu items. Plus, we carry crab meat in bulk quantities to accommodate high-volume establishments like schools and other institutions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crab</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867240263754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867239018570</id>
+    <published>2020-12-30T16:40:58-05:00</published>
+    <updated>2020-12-30T16:40:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/maximum-seafood-100-crab-meat-1-lb"/>
+    <title>Maximum Seafood - 100% Crab Meat - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Maximum Seafood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maximum-seafood-100-crab-meat-1-lb-557145.png?v=1611513755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maximum Seafood<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Maximum Seafood - 100% Crab Meat - 1 Lb</strong></p>
+<p>Great for restaurants, catering companies, and institutions, crab meat is a versatile ingredient that you can incorporate into an array of starters, side dishes, and entrees. We offer wholesale crab meat in several varieties, so you can find the type of crab that you most prefer. Additionally, you can choose lump crab meat that is perfect for making crab cakes and incorporating with pasta dishes, or select claw meat for a finer texture that is excellent for soups and sauces.</p>
+<p class="no-margin">If you want to incorporate crab into the menu at your restaurant or catered event, wholesale crab meat is a versatile option. Select from several crab varieties to find the perfect taste for your unique menu items. Plus, we carry crab meat in bulk quantities to accommodate high-volume establishments like schools and other institutions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crab</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867239018570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867246882890</id>
+    <published>2020-12-30T13:11:26-05:00</published>
+    <updated>2020-12-30T13:11:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/atlantic-canada-lobster-meat-claw-knuckle-tin-11-03-oz"/>
+    <title>Atlantic Canada - Lobster Meat Claw Knuckle Tin - 11.03 Oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Atlantic Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/atlantic-canada-lobster-meat-claw-knuckle-tin-1103-oz-181121.jpg?v=1624072692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atlantic Canada<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Atlantic Canada - Lobster Meat Claws Knuckle Tin - 11.03 Oz</strong></p>
+<p>If you run a seafood-serving establishment, wholesale crawfish and lobster tails are sure to please your guests. Wholesale lobster tails boast a firm and hearty texture with a sweet, delicate flavor to balance it out. Lobster by itself can suffice as a rich entree, or try creating a lobster macaroni and cheese for your young guests.</p>
+<p class="no-margin">Whether you operate a seafood restaurant or want to feature lobster and crawfish on your menu, we have a large selection of wholesale crawfish and lobster that are fit for your needs. Both crawfish and our wholesale lobster have a firm, rich texture and a sweet, delicate flavor that will delight your guests. We carry lobster and crawfish in different package sizes, so you can choose the ideal amount for your restaurant’s needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867246882890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>401201</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867245834314</id>
+    <published>2020-12-30T13:11:25-05:00</published>
+    <updated>2020-12-30T13:11:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-prince-lobster-sensation-907-g"/>
+    <title>King &amp; Prince - Lobster Sensation - 907 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King &amp; Prince</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-prince-lobster-sensation-907-g-192494.jpg?v=1611513401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King &amp; Prince<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>King &amp; Prince - Lobster Sensation - 907 g</strong></p>
+<p><span>Lobster is the first ingredient in the rich, delicious, versatile, and affordable blend of North Atlantic lobster meat and premium surimi seafood. Use it in both hot or cold applications anywhere on the menu to offer an experience that guests are sure to love.</span></p>
+<p>If you run a seafood-serving establishment, wholesale crawfish and lobster tails are sure to please your guests. Wholesale lobster tails boast a firm and hearty texture with a sweet, delicate flavor to balance it out. Lobster by itself can suffice as a rich entree, or try creating a lobster macaroni and cheese for your young guests.</p>
+<p class="no-margin">Whether you operate a seafood restaurant or want to feature lobster and crawfish on your menu, we have a large selection of wholesale crawfish and lobster that are fit for your needs. Both crawfish and our wholesale lobster have a firm, rich texture and a sweet, delicate flavor that will delight your guests. We carry lobster and crawfish in different package sizes, so you can choose the ideal amount for your restaurant’s needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867245834314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>401202</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867244916810</id>
+    <published>2020-12-30T13:11:24-05:00</published>
+    <updated>2020-12-30T13:11:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/seacore-cooked-lobster-meat-2-lbs"/>
+    <title>Seacore - Cooked Lobster Meat - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Seacore</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/seacore-cooked-lobster-meat-2-lbs-940714.png?v=1611514189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Seacore<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Seacore - Frozen Cooked Lobster Meat - 2 Lbs</strong></p>
+<p>If you run a seafood-serving establishment, wholesale crawfish and lobster tails are sure to please your guests. Wholesale lobster tails boast a firm and hearty texture with a sweet, delicate flavor to balance it out. Lobster by itself can suffice as a rich entree, or try creating a lobster macaroni and cheese for your young guests.</p>
+<p class="no-margin">Whether you operate a seafood restaurant or want to feature lobster and crawfish on your menu, we have a large selection of wholesale crawfish and lobster that are fit for your needs. Both crawfish and our wholesale lobster have a firm, rich texture and a sweet, delicate flavor that will delight your guests. We carry lobster and crawfish in different package sizes, so you can choose the ideal amount for your restaurant’s needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobster</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867244916810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>401204</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867240067146</id>
+    <published>2020-12-30T13:11:23-05:00</published>
+    <updated>2020-12-30T13:11:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-4-oz-lobster-tail-227-g"/>
+    <title>Ocean Prime - 4 Oz Lobster Tail - 227 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-4-oz-lobster-tail-227-g-968130.png?v=1611514189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 4 Oz Lobster Tail - 227 g</strong></p>
+<p>If you run a seafood-serving establishment, wholesale crawfish and lobster tails are sure to please your guests. Wholesale lobster tails boast a firm and hearty texture with a sweet, delicate flavor to balance it out. Lobster by itself can suffice as a rich entree, or try creating a lobster macaroni and cheese for your young guests.</p>
+<p class="no-margin">Whether you operate a seafood restaurant or want to feature lobster and crawfish on your menu, we have a large selection of wholesale crawfish and lobster that are fit for your needs. Both crawfish and our wholesale lobster have a firm, rich texture and a sweet, delicate flavor that will delight your guests. We carry lobster and crawfish in different package sizes, so you can choose the ideal amount for your restaurant’s needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867240067146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>401203</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867238592586</id>
+    <published>2020-12-30T13:11:22-05:00</published>
+    <updated>2020-12-30T13:11:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-msc-cooked-lobster-meat-combo-1-lb"/>
+    <title>Toppits - MSC Cooked Lobster Meat Combo - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-msc-cooked-lobster-meat-combo-1-lb-952987.jpg?v=1611514003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - MSC Lobster Meat Combo - 1 Lb</strong></p>
+<p>If you run a seafood-serving establishment, wholesale crawfish and lobster tails are sure to please your guests. Wholesale lobster tails boast a firm and hearty texture with a sweet, delicate flavor to balance it out. Lobster by itself can suffice as a rich entree, or try creating a lobster macaroni and cheese for your young guests.</p>
+<p class="no-margin">Whether you operate a seafood restaurant or want to feature lobster and crawfish on your menu, we have a large selection of wholesale crawfish and lobster that are fit for your needs. Both crawfish and our wholesale lobster have a firm, rich texture and a sweet, delicate flavor that will delight your guests. We carry lobster and crawfish in different package sizes, so you can choose the ideal amount for your restaurant’s needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lobster</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867238592586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>401205</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867621126218</id>
+    <published>2020-12-30T00:25:05-05:00</published>
+    <updated>2020-12-30T00:25:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-firecracker-infused-calamari-bites-454-g"/>
+    <title>Toppits - Firecracker Infused Calamari Bites - 454 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-firecracker-infused-calamari-bites-454-g-767458.png?v=1611514308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toppits - Firecracker Infused Calamari Bites - 454 g</p>
+<p><span><strong>Deliciously crispy and perfectly seasoned,</strong> breaded calamari rings are the perfect balance of crispy and juicy. Each bite crunches through the breading and sinks into the tender, juicy meat for a truly mouthwatering experience. Plus, the spices add incredible depth to the squid, which complements the meat's natural, fresh taste.</span></p>
+<p><span><strong>Add this calamari to your menu</strong> with an assortment of popular dipping sauces, from cocktail sauce and ketchup to sweet honey mustard. It makes for a great-tasting appetizer or game-day dish!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Calamari</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867621126218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>330120</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867620274250</id>
+    <published>2020-12-30T00:25:04-05:00</published>
+    <updated>2020-12-30T00:25:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-sea-salt-peppercorn-calamari-bites-2-lbs"/>
+    <title>Toppits - Sea Salt &amp; Peppercorn Calamari Bites - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-sea-salt-peppercorn-calamari-bites-2-lbs-468690.jpg?v=1611512857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toppits - Sea Salt &amp; Peppercorn Calamari Bites - 2 lbs</p>
+<p class="font_7">Feature &amp; Benefits:</p>
+<ul class="font_7">
+<li>
+<p class="font_7">Wild-Caught</p>
+</li>
+<li>
+<p class="font_7">Crunchy Premium Coating</p>
+</li>
+<li>
+<p class="font_7">Naturally Tender Squid</p>
+</li>
+<li>
+<p class="font_7">Mild, Sweet Flavour</p>
+</li>
+<li>
+<p class="font_7">Cook from Frozen</p>
+</li>
+<li>
+<p class="font_7">Ready to Serve </p>
+</li>
+</ul>
+<p class="font_7">Sea Salt &amp; Pepper Ingredients: Squid, Wheat Flour, Water, Canola Oil, Distarch Phosphate, Sugar, Salt, Pepper, Sodium Phosphate, Sodium Bicarbonate, Yeast Extract, Spices, Soya Sauce Powder (Soybean, Salt, Wheat Flour, Water), Celery Seed, Spice Extract.</p>
+<p class="font_7">Dynamite Ingredients: Squid, Wheat Flour, Water, Canola Oil, Modified Corn Starch, Modified Tapioca Starch, Chili Pepper Flakes, Sugar, Salt, Garlic, Sodium Phosphate, Sodium Bicarbonate, Paprika, Egg White Powder, Hydrolysed Soy Protein, Flavour, Paprika Extract.</p>
+<p class="font_7">Thawing Instructions:</p>
+<p class="font_7">Thaw product in refrigerator overnight. Do not refreeze.</p>
+<p class="font_7">Cooking Instructions:</p>
+<p class="font_7">Deep Fry: Preheat oil to 180°C (356ºF). Deep fry frozen squid for 3 – 4 minutes or until golden brown.</p>
+<p class="font_7">Conventional Oven: Preheat oven to 220°C (428°F). Place frozen squid on a pre-heated baking rack and back for 24-26 minutes or until golden brown, turning over halfway through cooking. </p>
+<p class="font_7">Cook to an internal temperature of 74°C (165°F).</p>
+<p class="font_7">Pack(s):</p>
+<p class="font_7">454 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Calamari</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867620274250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>330121</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867607134282</id>
+    <published>2020-12-30T00:25:03-05:00</published>
+    <updated>2020-12-30T00:25:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-top-breaded-calamari-rings-2-lbs"/>
+    <title>Toppits - Top Breaded Calamari Rings - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-top-breaded-calamari-rings-2-lbs-473301.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Top Breaded Calamari Rings - 2 Lbs</strong></p>
+<p><span><strong>Deliciously crispy and perfectly seasoned,</strong> breaded calamari rings are the perfect balance of crispy and juicy. Each bite crunches through the breading and sinks into the tender, juicy meat for a truly mouthwatering experience. Plus, the spices add incredible depth to the squid, which complements the meat's natural, fresh taste. </span></p>
+<p><span><strong>Add this calamari to your menu</strong> with an assortment of popular dipping sauces, from cocktail sauce and ketchup to sweet honey mustard. It makes for a great-tasting appetizer or game-day dish!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Calamari</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867607134282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>330123</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867221389386</id>
+    <published>2020-12-30T00:01:00-05:00</published>
+    <updated>2020-12-30T00:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-squid-tubes-tentacles-10-kg"/>
+    <title>Toppits - Squid Tubes &amp; Tentacles - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-squid-tubes-tentacles-10-kg-960239.jpg?v=1611514127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            174.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Toppits - Squid Tubes &amp; Tentacles - 10 Kg</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Tentacles</s:tag>
+    <s:tag>Squid Tubes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867221389386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">174.99</s:price>
+      <s:sku>332012</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867214606410</id>
+    <published>2020-12-30T00:00:59-05:00</published>
+    <updated>2020-12-30T00:00:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-loligo-squid-tubes-tentacles-2-5-lbs"/>
+    <title>Toppits - Loligo Squid Tubes &amp; Tentacles - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-loligo-squid-tubes-tentacles-25-lbs-395310.jpg?v=1611514062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Loligo Squid Tubes &amp; Tentacles - 2.5 Lbs</strong></p>
+<p class="font_8">With its white tube and purple tentacles, Toppits Loligo Squid is hard to miss. Featuring a sweet, subtle bite, this squid is not only low in fat and saturated fatty acids, but also a source of Vitamin C. Available in Tubes, Tubes &amp; Tentacles, or Rings &amp; Tentacles, Toppits has your squid needs covered.</p>
+<p class="font_8">Furthermore, our portion pouch packs (rings &amp; tentacles) eliminate product waste and the need for skilled labour. If you’re thinking calamari, start thinking Toppits Loligo Squid.</p>
+<p class="font_7"><span>Features &amp; Benefits:</span></p>
+<ul class="font_8">
+<li>
+<p class="font_8">Tender white flesh and purple tentacles create a beautiful plate presentation</p>
+</li>
+<li>
+<p class="font_8">Mild flavour profile with a subtle sweetness makes it a great introduction for new seafood consumers</p>
+</li>
+<li>
+<p class="font_8">Convenient rings &amp;tentacles pouch allow for 100% yield and portion control as well as eliminating the need for skilled labour</p>
+</li>
+</ul>
+<p class="font_8"><span class="wixGuard">​</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Tentacles</s:tag>
+    <s:tag>Squid Tubes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867214606410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.49</s:price>
+      <s:sku>332011</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867208085578</id>
+    <published>2020-12-30T00:00:57-05:00</published>
+    <updated>2020-12-30T00:00:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-antipasto-cooked-1-lbs"/>
+    <title>Ocean Prime - Squid Antipasto Cooked - 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-antipasto-cooked-1-lbs-176456.png?v=1611513639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Antipasto Cooked - 1 Lbs</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867208085578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>332005</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867207692362</id>
+    <published>2020-12-30T00:00:56-05:00</published>
+    <updated>2020-12-30T00:00:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-tentacles-750-g"/>
+    <title>Ocean Prime - Squid Tentacles - 750 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-tentacles-750-g-317313.png?v=1611513996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Tentacles - 750 g</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Tentacles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867207692362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>332008</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867207331914</id>
+    <published>2020-12-30T00:00:55-05:00</published>
+    <updated>2020-12-30T00:00:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-tubes-tentacles-2-5-lbs"/>
+    <title>Ocean Prime - Squid Tubes &amp; Tentacles - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-tubes-tentacles-25-lbs-871291.png?v=1611513815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Tubes &amp; Tentacles - 2.5 Lbs</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Tentacles</s:tag>
+    <s:tag>Squid Tubes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867207331914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>332009</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867206938698</id>
+    <published>2020-12-30T00:00:54-05:00</published>
+    <updated>2020-12-30T00:00:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-tubes-2-5-lbs"/>
+    <title>Ocean Prime - Squid Tubes - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-tubes-25-lbs-202477.png?v=1611513702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Tubes - 2.5 Lbs</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Tubes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867206938698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>332010</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867205136458</id>
+    <published>2020-12-30T00:00:53-05:00</published>
+    <updated>2020-12-30T00:00:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-rings-large-cut-8-x-2-lbs"/>
+    <title>Ocean Prime - Squid Rings Large Cut - 8 x 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-rings-large-cut-8-x-2-lbs-550367.jpg?v=1611512493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            114.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Rings Large Cut - 8 x 2 Lbs</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Rings</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867205136458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.99</s:price>
+      <s:sku>332007</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867204677706</id>
+    <published>2020-12-30T00:00:52-05:00</published>
+    <updated>2020-12-30T00:00:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-squid-rings-large-cut-2-lbsocean-prime-squid-rings-large-cut-2-lbs"/>
+    <title>Ocean Prime - Squid Rings Large Cut - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-squid-rings-large-cut-2-lbs-121561.jpg?v=1611511123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ocean Prime - Squid Rings Large Cut - 2 Lbs</p>
+<p><span><strong>Add new and exciting dishes to your menu</strong> with this squid tubes and tentacles. The squid features a slightly chewy yet firm texture that is typical of squid, with a subtly sweet, mild flavor. This calamari squid is packaged in bag and is part of distinctive cuisine in Italian, Asian, and seafood restaurants.</span><br><br><span><strong>Calamari is often prepared</strong> by cutting the tentacles and slicing the tubes before breading and frying to produce a sensational appetizer. Sprinkled with salt and a quick squeeze of lemon juice, fried calamari is a crisp snack that is a staple on many menus, but this incredibly versatile food can be served in many other ways, too. Split the tube, cook it flat, and serve an irresistible calamari steak with a side of fresh vegetables. Slice the tube into rings, saute with olive oil, salt, and pepper and serve atop angel hair pasta or rice. You can even blend the tentacles together with shrimp, breadcrumbs, and seasoning and stuff the tube with the mixture for a savory dish that is sure to delight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Squid</s:tag>
+    <s:tag>Squid Rings</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867204677706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>332006</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

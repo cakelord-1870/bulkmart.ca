@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/beverage-flavoring-sauces.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-07T18:07:43-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4851626573898</id>
+    <published>2020-12-07T18:07:43-05:00</published>
+    <updated>2020-12-07T18:07:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/torani-caramel-sauce-64-oz"/>
+    <title>Torani - Caramel Sauce - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Torani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/torani-caramel-sauce-64-oz-219964.jpg?v=1611513156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Torani<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><strong>Torani - Caramel Sauce - 64 Oz</strong></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<span><strong>Torani Caramel Sauce</strong> has a rich, buttery caramel flavor that achieves the authentic burnt brown sugar taste found in artisan caramel. Removed from this formulation are mono-and diglycerides and artificial preservatives.</span><br>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span></span></div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"><span><strong>Indulge your patrons with the rich, creamy flavor of caramel</strong> blended into their coffees and specialty drinks with this Torani 64 oz. Puremade caramel flavoring sauce! It is packaged in a user-friendly 64 oz. plastic squeeze bottle to keep your coffee shop or cafe in good supply. The bottle also features a handy viewing window that will help your bartenders and baristas know how much sauce is left. Use the corresponding pump (sold separately) to easily dispense the sauce over all your favorite drinks &amp; dessert!<br><br><strong>Featuring a thicker consistency than liquid flavoring syrup,</strong> this flavoring sauce is great for swirling atop whipped cream or blending into sweet frappes. It adds just the right amount of sweet, buttery caramel flavor to any cup of freshly-brewed coffee. You can even use it to top ice cream, cheesecakes, and other homemade desserts. Best of all, this product is made with non-GMO ingredients, contains no emulsifiers, and is free of artificial flavors, colors, and preservatives for delicious flavor without compromise. This Torani sauce will be the perfect finishing touch to any beverage or dish, and is sure to keep your guests coming back for more!<br><br></span></div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Torani</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851626573898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>1123021</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851591544906</id>
+    <published>2020-12-07T16:53:24-05:00</published>
+    <updated>2020-12-07T16:53:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-white-chocolate-sauce-12-ozmonin-white-chocolate-sauce-12-oz"/>
+    <title>Monin - White Chocolate Sauce - 12 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-white-chocolate-sauce-12-oz-541470.jpg?v=1611513641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Quickly and easily add decadent flavor to anything you make with this Monin 12 oz. white chocolate flavoring sauce!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">Whether blending into coffee or using to add the finishing touch to your specialty drinks and desserts, this Monin white chocolate flavoring sauce promises the perfect consistency with a rich, creamy and buttery melted candy bar flavor. Packaged in an attractive, user-friendly, 12 oz. plastic bottle, it is easy to squeeze and is the perfect size for placing atop counters without taking up too much space.</p>
+<h3 class="item-header">Versatile use</h3>
+<p>Featuring a thicker consistency than liquid flavoring syrup, this flavoring sauce is great for swirling atop whipped cream or blending into sweet frappes. Offering a true-to-taste white chocolate flavor, it's perfect for upgrading your specialty white chocolate mocha or white chocolate espresso martini. You can even use it to top ice cream, cheesecakes, and other homemade desserts. Try drizzling atop your raspberry cheesecake and serve with a glass of pinot noir for a harmonious pairing your customers won't soon forget.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - White Chocolate Sauce - 12 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851591544906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>48013</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851591282762</id>
+    <published>2020-12-07T16:53:23-05:00</published>
+    <updated>2020-12-07T16:53:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-sea-salt-caramel-toffee-sauce-12-oz"/>
+    <title>Monin - Sea Salt Caramel Toffee Sauce - 12 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-sea-salt-caramel-toffee-sauce-12-oz-916194.jpg?v=1611512195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Quickly and easily add decadent flavor to anything you make with this Monin 12 oz. sea salt caramel flavoring sauce!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">Whether blending into coffee or using to add the finishing touch to your specialty drinks and desserts, this Monin sea salt caramel toffee flavoring sauce promises the perfect consistency with multidimensional layers of decadent flavor. It combines the buttery-rich taste of toffee and creamy caramel with hints of gourmet sea salt, which pairs exceptionally well with espresso-based drinks. Packaged in an attractive, user-friendly, 12 oz. plastic bottle, it is easy to squeeze and is the perfect size for placing atop counters without taking up too much space.</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Made with pure cane sugar and no artificial ingredients, preservatives, or colors, this sweet and salty sauce will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. It features a thicker consistency than liquid flavoring syrup, making it ideal for both flavoring and garnishing applications. Use it to create specialty lattes, macchiatos, and iced coffees, or even dessert cocktails, such as a sweeter, seasonal twist on the classic hot toddy! You can even use it to top ice cream, cheesecakes, and other homemade desserts. Try drizzling atop your apple cheesecake to create the perfect fall-inspired treat.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Sea Salt Caramel Toffee Sauce - 12 Oz</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851591282762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>48012</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851591053386</id>
+    <published>2020-12-07T16:53:22-05:00</published>
+    <updated>2020-12-07T16:53:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-dark-chocolate-sauce-12-oz"/>
+    <title>Monin - Dark Chocolate Sauce - 12 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-dark-chocolate-sauce-12-oz-530802.jpg?v=1611511599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Quickly and easily add decadent flavor to anything you make with this Monin 12 oz. dark chocolate flavoring sauce!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">Whether blending into coffee or using to add the finishing touch to your specialty drinks and desserts, this Monin dark chocolate flavoring sauce promises the perfect consistency with rich and velvety, authentic flavor. Packaged in an attractive, user-friendly, 12 oz. plastic bottle, it is easy to squeeze and is the perfect size for placing atop counters without taking up too much space.</p>
+<h3 class="item-header">Versatile use</h3>
+<p>Featuring a thicker consistency than liquid flavoring syrup, this flavoring sauce is great for swirling atop whipped cream or blending into sweet frappes. Offering a true-to-taste, luscious dark chocolate flavor, it's perfect for upgrading your specialty dark chocolate mocha or chocolate espresso martini. You can even use it to top ice cream, cheesecakes, and other homemade desserts. Try drizzling atop your raspberry cheesecake and serve with a glass of syrah for a harmonious pairing your customers won't soon forget.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Dark Chocolate Sauce - 12 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851591053386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>48010</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851590561866</id>
+    <published>2020-12-07T16:53:21-05:00</published>
+    <updated>2020-12-07T16:53:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-caramel-sauce-12-oz"/>
+    <title>Monin - Caramel Sauce - 12 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-caramel-sauce-12-oz-791837.jpg?v=1611510993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline" data-mce-fragment="1">Quickly and easily add decadent flavor to anything you make with this Monin 12 oz. caramel flavoring sauce!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">Whether blending into coffee or using to add the finishing touch to your specialty drinks and desserts, this Monin caramel flavoring sauce promises the perfect consistency with a rich, buttery caramel flavor. Packaged in an attractive, user-friendly, 12 oz. plastic bottle, it is easy to squeeze and is the perfect size for placing atop counters without taking up too much space.</p>
+<h3 class="item-header">Versatile use</h3>
+<p>Featuring a thicker consistency than liquid flavoring syrup, this flavoring sauce is great for swirling atop whipped cream or blending into sweet frappes. Offering a true-to-taste caramel flavor, it's perfect for upgrading your specialty mochas or caramel lattes. You can even use it to top ice cream, cheesecakes, and other homemade desserts.</p>
+<p>Monin - Caramel Sauce - 12 Oz<br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851590561866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>48009</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851590266954</id>
+    <published>2020-12-07T16:53:20-05:00</published>
+    <updated>2020-12-07T16:53:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-dulce-de-leche-sauce-12-oz"/>
+    <title>Monin - Dulce De Leche Sauce - 12 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-dulce-de-leche-sauce-12-oz-486650.jpg?v=1611513156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Quickly and easily add decadent flavor to anything you make with this Monin 12 oz. dulce de leche flavoring sauce!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">Whether blending into coffee or using to add the finishing touch to your specialty drinks and desserts, this Monin dulce de leche flavoring sauce promises the perfect consistency with a rich, buttery caramel flavor. It is packaged in a bulk 12 oz. plastic bottle and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<h3 class="item-header">Versatile Use</h3>
+<p>Featuring a thicker consistency than liquid flavoring syrup, this flavoring sauce is great for swirling atop whipped cream or blending into sweet frappes. Offering a true-to-taste dulce de leche flavor, it's perfect for upgrading your specialty mochas or dulce de leche lattes. You can even use it to top ice cream, cheesecakes, and other homemade desserts.</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Dulce De Leche Sauce - 12 Oz</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoring Sauces</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851590266954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.49</s:price>
+      <s:sku>48011</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

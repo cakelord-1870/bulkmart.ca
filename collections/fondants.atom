@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/fondants.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-26T19:12:56-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4815526232138</id>
+    <published>2020-10-26T19:12:56-04:00</published>
+    <updated>2020-10-26T19:12:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/petra-rolled-fondant-white-10-kg"/>
+    <title>Petra - Rolled Fondant White - 10 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Petra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/petra-rolled-fondant-white-10-kg-293507.jpg?v=1611511722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Petra<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Petra - Rolled Fondant White - 10 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815526232138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4815524429898</id>
+    <published>2020-10-24T23:26:29-04:00</published>
+    <updated>2020-10-24T23:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-fondant-white-easy-roll-10-kg"/>
+    <title>Mccall&apos;s - Fondant White Easy Roll - 10 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-fondant-white-easy-roll-10-kg-511591.jpg?v=1611512735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant White Easy Roll - 10 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4815524429898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812707463242</id>
+    <published>2020-10-23T19:58:11-04:00</published>
+    <updated>2020-10-23T19:58:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-fondant-pink-easy-roll-1-kg"/>
+    <title>Mccall&apos;s - Fondant Pink Easy Roll - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-fondant-pink-easy-roll-1-kg-684167.jpg?v=1611511657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant Pink Easy Roll - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812707463242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku>692303</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812707266634</id>
+    <published>2020-10-23T19:58:09-04:00</published>
+    <updated>2020-10-23T19:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-fondant-chocolate-brown-easy-roll-1-kg"/>
+    <title>Mccall&apos;s - Fondant Chocolate Brown Easy Roll - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-fondant-chocolate-brown-easy-roll-1-kg-140291.jpg?v=1611512496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant Chocolate Brown Easy Roll - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812707266634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku>692302</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812706807882</id>
+    <published>2020-10-23T19:58:08-04:00</published>
+    <updated>2020-10-23T19:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-fondant-white-easy-roll-1-kgmccalls-fondant-white-easy-roll-1-kg"/>
+    <title>Mccall&apos;s - Fondant White Easy Roll - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-fondant-white-easy-roll-1-kg-892611.jpg?v=1611513577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant White Easy Roll - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812706807882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.49</s:price>
+      <s:sku>692305</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812706283594</id>
+    <published>2020-10-23T19:58:06-04:00</published>
+    <updated>2020-10-23T19:58:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-easyice-rolled-fondant-black-easy-roll-1-kg"/>
+    <title>Mccall&apos;s - EasyIce Rolled Fondant Black Easy Roll - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-easyice-rolled-fondant-black-easy-roll-1-kg-230432.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant Black Easy Roll - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812706283594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>692301</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812705890378</id>
+    <published>2020-10-23T19:58:05-04:00</published>
+    <updated>2020-10-23T19:58:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-fondant-red-easy-roll-1-kg"/>
+    <title>Mccall&apos;s - Fondant Red Easy Roll - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-fondant-red-easy-roll-1-kg-479461.jpg?v=1611512189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Fondant Red Easy Roll - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Easy Ice rolled fondant produces a smooth, elegant finish to any cake, cookie, dessert or confectionery. Our unique formula and mixing process produces a creamy, smooth product that is freezer and fridge stable and ready for your baking creation.</span></li>
+<li><span class="a-list-item">Spend more time decorating and less time fussing. Every batch of our ready to roll fondant ensures a high quality, even texture for consistent workability every time. Our pre-made fondant saves you time and effort.</span></li>
+<li><span class="a-list-item">Rolls ultra thin, isn't sticky, won't fade or dry out too quickly and holds it's shape to create custom decorations like bows, flowers, cake toppers or where ever your imagination takes you.</span></li>
+<li><span class="a-list-item">Never tried using fondant? Open up a whole new world of professional looking cake decorating possibilities. Find out how easily you can become a cake artist with our colourful range of EasyIce rolled fondant.</span></li>
+<li><span class="a-list-item">Made in Canada</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fondants</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812705890378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>692304</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

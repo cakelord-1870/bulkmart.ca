@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/baking-toppings.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-06-29T12:37:14-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6607415836746</id>
+    <published>2021-06-29T12:37:14-04:00</published>
+    <updated>2021-06-29T12:37:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/christie-oreo-cookie-crumbs-medium-ground-bulk-25-lbs"/>
+    <title>Christie - Oreo Cookie Crumbs Medium Ground Bulk - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Christie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/christie-oreo-cookie-crumbs-medium-ground-bulk-25-lbs-672622.jpg?v=1625048667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Christie<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oreo Cookie Crumbs 25 Lbs</strong></p>
+<p><span>Top off milkshakes and ice cream sundaes with the world's top-selling cookie! This Nabisco Oreo Medium cookie pieces bag uses the same embossed, chocolate-flavored wafers and rich creme filling as traditional whole Oreos, but provides it in Medium crumb pieces that are great for adding to sweet treats. Simply sprinkle pieces onto ice cream cakes or gourmet donuts, or mix them into a cheesecake recipe for a signature dessert. Keep this product on hand in your kitchen or at dessert buffet stations to add a familiar, delectable cookie and creme taste and crunch to any treat.</span><br><br><span>This product provides an ample 25 lb. bulk supply of cookie crumb pieces. Use it to expand your menu selections by offering profitable Oreo-flavored pies and dessert bars. No matter what you're creating, the Medium Oreo cookie pieces are sure to be a popular hit in any bakery, restaurant, or ice cream shop.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Crumbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6607415836746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku>44770</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4798470357066</id>
+    <published>2021-01-05T11:00:47-05:00</published>
+    <updated>2021-01-05T11:00:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cacao-barry-paillette-feuilletine-2-5-kg"/>
+    <title>Cacao Barry - Paillette Feuilletine - 2.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Cacao Berry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cacao-barry-pallette-feuilletine-25-kg-569894.jpg?v=1611509916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cacao Berry<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Callebaut - Cacao Barry Pallette Feuilletine - 2.5 Kg BIG-PF-1B-0401</p>
+<p><span><strong>Essential for any bakery</strong>, chocolate shop, or restaurant and cafe that uses the finest products, this is more than an ingredient: it is the multi-dimensional element that takes your recipe to the next level.</span></p>
+<div class="short-description" itemprop="description">Pure-butter flake Feuilletine.</div>
+<div class="item" itemprop="description">These thin crisp flakes make a wonderful crunchy addition to ganache, candies, pastries and cakes. Fragments of very thin pancakes for pralines, bonbons and pastries
+<div data-mce-fragment="1" class="product-detail__cta-block"><br></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cookie Crumbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4798470357066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>034628</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854203121738</id>
+    <published>2020-12-19T18:19:35-05:00</published>
+    <updated>2020-12-19T18:19:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-whole-cherries-4-l"/>
+    <title>Trans Alpine - Whole Cherries - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-whole-cherries-4-l-412885.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Trans Alpine - Whole Cherries - 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries are to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854203121738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>623142</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854199582794</id>
+    <published>2020-12-19T18:19:34-05:00</published>
+    <updated>2020-12-19T18:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l-614314.jpg?v=1611513817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            60.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854199582794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.99</s:price>
+      <s:sku>623140</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854198829130</id>
+    <published>2020-12-19T18:19:33-05:00</published>
+    <updated>2020-12-19T18:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-4-l-281488.jpg?v=1611512132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854198829130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>623141</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832499990602</id>
+    <published>2020-11-15T14:42:28-05:00</published>
+    <updated>2020-11-15T14:42:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-dried-blackcurrants-13-61-kg"/>
+    <title>Prosperity - Dried Blackcurrants - 13.61 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-dried-blackcurrants-1361-kg-225899.jpg?v=1611513755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prosperity - Black Currants - 13.61 Kg</p>
+<h2 class="headline">Snack or bake with these best quality<span> </span><span data-mce-fragment="1">Black Currents</span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832499990602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>123655</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832496943178</id>
+    <published>2020-11-15T14:42:28-05:00</published>
+    <updated>2020-11-15T14:42:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-dried-pitted-dates-5-kg"/>
+    <title>Prosperity - Dried Pitted Dates - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-dried-pitted-dates-5-kg-628673.jpg?v=1611513151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Naturally Good - Dried Pitted Dates - 5 Kg</p>
+<h2 class="headline">Snack or bake with these best quality<span> Pitted Dates </span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832496943178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>123653</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832495894602</id>
+    <published>2020-11-15T14:42:27-05:00</published>
+    <updated>2020-11-15T14:42:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/prosperity-dried-prunes-pitted-1-5-kg"/>
+    <title>Prosperity - Dried Prunes Pitted - 1.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/prosperity-dried-prunes-pitted-15-kg-478982.jpg?v=1611514248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Prosperity - Prunes Pitted - 1.5 Kg</p>
+<h2 class="headline">Snack or bake with these best quality<span> Prunes Pitted</span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832495894602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>123656</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832494747722</id>
+    <published>2020-11-15T14:42:26-05:00</published>
+    <updated>2020-11-15T14:42:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-dried-blackcurrants-5-lbs"/>
+    <title>Harvest - Dried Blackcurrants - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-blackcurrants-5-lbs-131282.jpg?v=1611510194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Black Currents - 5 Lbs</p>
+<h2 class="headline">Snack or bake with these best quality <span data-mce-fragment="1">Black Currents</span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832494747722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>1236540</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832494420042</id>
+    <published>2020-11-15T14:42:25-05:00</published>
+    <updated>2020-11-15T14:42:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-dried-cherries-1-kg"/>
+    <title>Harvest - Dried Cherries - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cherries-1-kg-822421.jpg?v=1611510274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Dried Cherries - 1 Kg</p>
+<h2 class="headline">Snack or bake with these best quality<span> Dried Cherries</span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832494420042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>123651</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832494092362</id>
+    <published>2020-11-15T14:42:25-05:00</published>
+    <updated>2020-11-15T14:42:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-dried-apricots-5-lbs"/>
+    <title>Harvest - Dried Apricots - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-apricots-5-lbs-845624.jpg?v=1611512019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Dried Apricots - 5 Lbs</p>
+<h2 class="headline">Snack or bake with these best quality<span> Dried Apricots</span>!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs#product","name":"Harvest - Dried Cranberries - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4465610424394","sku":"SLBM457","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-dried-cranberries-5-lbs-bulk-mart_954.jpg","description":"Harvest - Dried Cranberries - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Harvest"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"SLBM457","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"26.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/harvest-dried-cranberries-5-lbs?variant=31646076076106","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Dried Fruit</s:tag>
+    <s:tag>Dried Fruit</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832494092362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>123650</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832493142090</id>
+    <published>2020-11-15T14:42:24-05:00</published>
+    <updated>2020-11-15T14:42:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-golden-raisins-5-lbs"/>
+    <title>Harvest - Golden Raisins - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-golden-raisins-5-lbs-529463.gif?v=1611514368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Golden Raisins - 5 Lbs</p>
+<h2 class="headline">Snack or bake with these best quality Raisins!</h2>
+<p><span>Perfect for snacking or for use in cooking, baking, and even brewing. Trust the quality consistent product that's sure to please all of your patrons time and time again. Offering impeccable taste, feature a rich color. They have a long shelf life, don't need refrigeration, and are a healthy addition to your favorite foods.</span></p>
+<h3 class="item-header">Full of Nutrition</h3>
+<p>Having the Perfect taste, they also contain protein and healthy antioxidants to appease your more health-conscious patrons. In fact, they're an excellent, easy way to incorporate a serving of fruit into your most popular sweet treats. Sun-dried and bursting with flavor, sure to please no matter what you cook.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Perfectly dried having the natural taste. Serve them raw atop of your pastries, or use them for making raisin bars, Granola bars, cinnamon desserts, or ethnic curries. Packaged in a convenient packing, will last for multiple recipes in your busy restaurant..!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dried Fruit</s:tag>
+    <s:tag>Raisins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832493142090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>569741</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812720996426</id>
+    <published>2020-10-23T18:54:39-04:00</published>
+    <updated>2020-10-23T18:54:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-dda-white-sprinkles-3-kg"/>
+    <title>Dawn - DDA White Sprinkles - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-dda-white-sprinkles-3-kg-902597.jpg?v=1611514605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dawn - DDA White Sprinkles - 3 Kg</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these White sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic White sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>White sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812720996426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>78605</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812720570442</id>
+    <published>2020-10-23T18:54:38-04:00</published>
+    <updated>2020-10-23T18:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-dda-red-sprinkles-3-kg"/>
+    <title>Dawn - DDA Red Sprinkles - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-dda-red-sprinkles-3-kg-895982.jpg?v=1611510123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dawn - DDA Red Sprinkles - 3 Kg</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these Red sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic Red sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Red sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812720570442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>78604</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812720046154</id>
+    <published>2020-10-23T18:54:37-04:00</published>
+    <updated>2020-10-23T18:54:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-dda-chocolate-flavored-sprinkles-3-kg"/>
+    <title>Dawn - DDA Chocolate Flavored Sprinkles - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-dda-chocolate-flavored-sprinkles-3-kg-915431.jpg?v=1611509860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dawn - DDA Chocolate Flavored Sprinkles - 3 Kg</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these chocolate sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Eye-Catching Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic chocolate brown-colored sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812720046154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>78601</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812719390794</id>
+    <published>2020-10-23T18:54:35-04:00</published>
+    <updated>2020-10-23T18:54:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-dda-rainbow-sprinkles-nonpareils-3-kg"/>
+    <title>Dawn - DDA Rainbow Sprinkles Nonpareils - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-dda-rainbow-sprinkles-nonpareils-3-kg-692281.jpg?v=1611509553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dawn - DDA Rainbow Sprinkles Nonpareils - 3 Kg</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these rainbow sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic rainbow sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Rainbow sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812719390794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>78603</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812718669898</id>
+    <published>2020-10-23T18:54:34-04:00</published>
+    <updated>2020-10-23T18:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-dda-rainbow-sprinkles-3-kg"/>
+    <title>Dawn - DDA Rainbow Sprinkles - 3 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-dda-rainbow-sprinkles-3-kg-734080.jpg?v=1611511897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dawn - DDA Rainbow Sprinkles - 3 Kg</strong></p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these rainbow sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic rainbow sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Rainbow sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812718669898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>78602</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812713984074</id>
+    <published>2020-10-23T18:54:33-04:00</published>
+    <updated>2020-10-23T18:54:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-sprinkles-nonpareil-red-800-g"/>
+    <title>Mccall&apos;s - Sprinkles Nonpareil Red - 800 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-sprinkles-nonpareil-red-800-g-323159.jpg?v=1611511307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mccall's - Sprinkles Nonpareil Red - 800 g</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these Red sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic Red sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Red sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812713984074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>78607</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812712083530</id>
+    <published>2020-10-23T18:54:31-04:00</published>
+    <updated>2020-10-23T18:54:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-sprinkles-nonpareil-assorted-800-g"/>
+    <title>Mccall&apos;s - Sprinkles Nonpareil Assorted - 800 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-sprinkles-nonpareil-assorted-800-g-500824.jpg?v=1611510935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mccall's - Sprinkles Nonpareil Assorted - 800 g</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these rainbow sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic rainbow sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Rainbow sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812712083530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>78606</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812710772810</id>
+    <published>2020-10-23T18:54:30-04:00</published>
+    <updated>2020-10-23T18:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-sprinkles-rainbow-800-g"/>
+    <title>Mccall&apos;s - Sprinkles Rainbow - 800 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-sprinkles-rainbow-800-g-848342.jpg?v=1611510933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mccall's - Sprinkles Rainbow - 800 g</p>
+<p><span>Put the finishing touch on all of your fun and festive baked treats with these rainbow sprinkles! Perfect for a consistent product that's sure to please all of your patrons time and time again. Sprinkle these tiny, thin, rod-shaped confections into your signature cookie batter, atop a flavorful ice cream sundae, or use them to garnish frosted cupcakes. They'll add sugary sweetness and unique texture to any dish.</span></p>
+<h3 class="item-header">Colorful Garnish</h3>
+<p>Turn every occasion into a celebration with delicious baked pastries and confections covered in sprinkles! Fun and decorative, these classic rainbow sprinkles enhance the overall presentation of any dessert, tempting your customers back for more.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>Rainbow sprinkles can be used in a variety of desserts such as brownies or cakes! Plus, since they are slightly crunchy they add a nice texture to your dish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sprinkles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812710772810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>78608</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812713361482</id>
+    <published>2020-10-22T19:44:40-04:00</published>
+    <updated>2020-10-22T19:44:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-yellow-coarse-sugar-1-kg"/>
+    <title>Mccall&apos;s - Yellow Coarse Sugar - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-yellow-coarse-sugar-1-kg-661334.jpg?v=1611513573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mccall's - Yellow Coarse Sugar - 1 Kg</p>
+<p><span>Enhance your baked goods' appearance with the help of this </span><span>Yellow </span><span>sanding sugar! Unlike granulated sugar, sanding sugar does not dissolve when subjected to heat or wet icing and liquids, allowing it to hold up better through baking and easily stick to the surface of your baked goods for a nice, crunchy texture and polished look. Plus, with larger granules than granulated sugar, this sugar reflects light to achieve a beautiful sparkling effect that helps upscale even the simplest of offerings.</span><br><br><span></span><strong>A great addition to any specialty baker and caterer's arsenal,</strong><span> this sanding sugar is ideal for decorating and garnishing cookies, scones, cupcakes, muffins, and candies. Its </span><span mce-data-marked="1">Yellow </span><span>color is great for matching your customer's event's color schemes or theme, creating festive sweets for the holidays, or simply for giving your treats a unique pop of color and glimmer! Because it is bake-stable, this sugar can be used before or after baking as the perfect finishing touch. For best results when getting your sanding sugar to stick to your baked goods, let them cool completely, brush with an egg wash, and decorate with the sugar as desired. In addition to an egg wash, icings, glazes, and melted chocolate can also be used as a foundation to the sanding sugar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Sugar</s:tag>
+    <s:tag>Rimming Sugar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812713361482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>90814</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812713132106</id>
+    <published>2020-10-22T19:44:39-04:00</published>
+    <updated>2020-10-22T19:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-orange-coarse-sugar-1-kg"/>
+    <title>Mccall&apos;s - Orange Coarse Sugar - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-orange-coarse-sugar-1-kg-590974.jpg?v=1611511300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - Orange Coarse Sugar - 1 Kg</strong></p>
+<p>Enhance your baked goods' appearance with the help of this orange sanding sugar! Unlike granulated sugar, sanding sugar does not dissolve when subjected to heat or wet icing and liquids, allowing it to hold up better through baking and easily stick to the surface of your baked goods for a nice, crunchy texture and polished look. Plus, with larger granules than granulated sugar, this sugar reflects light to achieve a beautiful sparkling effect that helps upscale even the simplest of offerings.<br><br><strong>A great addition to any specialty baker and caterer's arsenal</strong>, this sanding sugar is ideal for decorating and garnishing cookies, scones, cupcakes, muffins, and candies. Its orange color is great for matching your customer's event's color schemes or theme, creating festive sweets for the holidays, or simply for giving your treats a unique pop of color and glimmer! Because it is bake-stable, this sugar can be used before or after baking as the perfect finishing touch. For best results when getting your sanding sugar to stick to your baked goods, let them cool completely, brush with an egg wash, and decorate with the sugar as desired. In addition to an egg wash, icings, glazes, and melted chocolate can also be used as a foundation to the sanding sugar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Sugar</s:tag>
+    <s:tag>Rimming Sugar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812713132106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>90812</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812712542282</id>
+    <published>2020-10-22T19:44:37-04:00</published>
+    <updated>2020-10-22T19:44:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mccalls-white-coarse-sugar-1-kg"/>
+    <title>Mccall&apos;s - White Coarse Sugar - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Mccall&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mccalls-white-coarse-sugar-1-kg-149959.jpg?v=1611514244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mccall&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mccall's - White Coarse Sugar - 1 Kg</strong></p>
+<p>Enhance your baked goods' appearance with the help of this White sanding sugar! Unlike granulated sugar, sanding sugar does not dissolve when subjected to heat or wet icing and liquids, allowing it to hold up better through baking and easily stick to the surface of your baked goods for a nice, crunchy texture and polished look. Plus, with larger granules than granulated sugar, this sugar reflects light to achieve a beautiful sparkling effect that helps upscale even the simplest of offerings.<br><br><strong>A great addition to any specialty baker and caterer's arsenal,</strong> this sanding sugar is ideal for decorating and garnishing cookies, scones, cupcakes, muffins, and candies. Its White color is great for matching your customer's event's color schemes or theme, creating festive sweets for the holidays, or simply for giving your treats a unique pop of color and glimmer! Because it is bake-stable, this sugar can be used before or after baking as the perfect finishing touch. For best results when getting your sanding sugar to stick to your baked goods, let them cool completely, brush with an egg wash, and decorate with the sugar as desired. In addition to an egg wash, icings, glazes, and melted chocolate can also be used as a foundation to the sanding sugar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Colored Sugar</s:tag>
+    <s:tag>Rimming Sugar</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812712542282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>90813</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808624013386</id>
+    <published>2020-10-22T19:12:33-04:00</published>
+    <updated>2020-10-22T19:12:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-semi-sweet-chocolate-chips-1m-20-kg"/>
+    <title>Callebaut - Semi Sweet Chocolate Chips 1M - 20 kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-semi-sweet-chocolate-chips-1m-20-kg-680530.jpg?v=1611509856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut CHDDR6000329002 - Delight Semi Sweet Chocolate Chips 10,00 Ct - 20 kg</strong></p>
+<p><span><strong>Add texture and flavor</strong> to a variety of sweet treats with these semi sweet chocolate baking chips! They are perfect for sprinkling throughout a variety of decadent desserts and drinks.</span></p>
+<p><span><strong>Specially developed to use</strong> in frozen mochas, hot cocoas, or as a specialty drink topping, these chips enhance the presentation of your most popular coffee shop drinks. They can even be added to your signature trail mix or granola bar recipe.</span></p>
+<p><span><strong>Featuring a creamy and sweet white chocolate flavor</strong>, these white chocolate chips will upgrade the taste of your classic cookie, pancake, and brownie batters.</span></p>
+<p>Disclaimer: BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Chips</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808624013386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>47904</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808604745802</id>
+    <published>2020-10-22T19:12:31-04:00</published>
+    <updated>2020-10-22T19:12:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-grue-de-cacao-nibs-1-kg"/>
+    <title>Callebaut - Grue De Cacao Nibs - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-grue-de-cacao-nibs-1-kg-203395.jpg?v=1611509138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut NIBS-S-609 - Grue De Cacao Nibs - 1 Kg</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">These minimally processed crushed cacao beans (nibs) are an excellent source of antioxidants, iron and magnesium.</span></li>
+<li><span class="a-list-item">A whole food, cacao nibs are also a great source of fiber. Sprinkle them onto cereal, trail mix, yogurt or ice cream or mix them into baked goods.</span></li>
+</ul>
+<p><span class="a-list-item"><span>Cacao nibs are from roasted and hulled cacao beans. The first thing that chocolate manufacturers do with cacao beans is roast them. Roasting brings out the colour and flavour of the bean into what will eventually become chocolate. </span></span></p>
+<p><span class="a-list-item"><span>After roasting, the shells are removed from the cacao beans. The inner cacao bean 'meat' is broken into small pieces called cacao nibs. Made from cocoa beans that have been roasted and crushed. <strong>Cacao nibs are crunchy, contain a dark cocoa smell and have a slightly bitter, dark chocolate/coffee taste. </strong></span></span></p>
+<p><span class="a-list-item"><span>An all-natural ingredient that adds great texture and cocoa flavour. <strong>Can be used as a substitute for chocolate chips or nuts in ice creams, cereals, trail mixes, smoothies, etc. -</strong> 226 g (1/2 lb) and 453 g (1 lb) package options are not in original Valrhona packaging. These have been re-packaged from a larger size into zipperlock polybags. - 1 kg (2.2 lb) package option is in original Valrhona packaging. - All Natural - Product of France -</span></span></p>
+<div><span>The repackaged item was packaged using machines that may have come into contact with nuts, egg proteins, wheat/gluten, dairy or dairy products, soy, tartrazine, corn, poppy seeds, MSG, mustard, sulphites, lupine and sesame.</span></div>
+<div><span></span></div>
+<div>
+<p><strong>Disclaimer</strong>: BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Chips</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808604745802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>47902</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

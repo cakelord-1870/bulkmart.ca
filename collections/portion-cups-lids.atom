@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/portion-cups-lids.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-12T00:46:45-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4855055056970</id>
+    <published>2020-12-12T00:46:45-05:00</published>
+    <updated>2020-12-12T00:46:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-solo-3-25-oz-white-paper-souffle-portion-cups-5000-case"/>
+    <title>Dart Solo - 3.25 Oz White Paper Souffle / Portion Cups - 5000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-325-oz-white-paper-souffle-portion-cups-5000-case-688638.jpg?v=1611509501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dart Solo 325-2050 - 3.25 Oz Paper Portion Cups / Souffles Cup - 20 x 250 / Case</p>
+<p><span><strong>This Solo paper souffle / portion cup</strong> is perfect for serving sauces, condiments, and dressings. It is an ideal addition to any food truck, kiosk, convenience store, or take-out service. Thanks to its compact size, this souffle cup can be placed in to-go boxes or bags without taking up much room. This cup's wide opening allows for effortless dipping of your signature fresh-cut fries, or excellent visibility of your sides.</span><br><br><span><strong>These freestanding cups can also be used</strong> in healthcare as a medicine cup. It's made from treated paper for resistance to liquid penetration, ensuring long-lasting use for guests. This Solo souffle / portion cup is an ideal solution for serving ketchup, mustard, mayonnaise, and barbeque sauce in your restaurant or convenience store, or even pills in your medical facility!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Portion Cups</s:tag>
+    <s:tag>Souffle Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855055056970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>200304</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855054041162</id>
+    <published>2020-12-12T00:46:44-05:00</published>
+    <updated>2020-12-12T00:46:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-solo-2-oz-white-paper-souffle-portion-cups-5000-case"/>
+    <title>Dart Solo - 2 Oz White Paper Souffle / Portion Cups - 5000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-2-oz-white-paper-souffle-portion-cups-5000-case-342601.jpg?v=1611509733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dart Solo - 2 Oz Paper Portion Cups / Souffles Cup - #200-2050 - 20 x 250 / Case</p>
+<p><span><strong>This Solo paper souffle / portion cup</strong> is perfect for serving sauces, condiments, and dressings. It is an ideal addition to any food truck, kiosk, convenience store, or take-out service. Thanks to its compact size, this souffle cup can be placed in to-go boxes or bags without taking up much room. This cup's wide opening allows for effortless dipping of your signature fresh-cut fries, or excellent visibility of your sides.</span><br><br><span><strong>These freestanding cups can also be used</strong> in healthcare as a medicine cup. It's made from treated paper for resistance to liquid penetration, ensuring long-lasting use for guests. This Solo souffle / portion cup is an ideal solution for serving ketchup, mustard, mayonnaise, and barbeque sauce in your restaurant or convenience store, or even pills in your medical facility!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Portion Cups</s:tag>
+    <s:tag>Souffle Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855054041162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku>200303</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855053025354</id>
+    <published>2020-12-12T00:46:43-05:00</published>
+    <updated>2020-12-12T00:46:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-solo-1-oz-white-paper-souffle-portion-cups-5000-case"/>
+    <title>Dart Solo - 1 Oz White Paper Souffle / Portion Cups - 5000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-1-oz-white-paper-souffle-portion-cups-5000-case-605553.jpg?v=1611509501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dart Solo 100-2050 - 1 Oz Paper Portion Cups / Souffles Cup - 20 x 250 / Case</p>
+<p><span><strong>This Solo paper souffle / portion cup</strong> is perfect for serving sauces, condiments, and dressings. It is an ideal addition to any food truck, kiosk, convenience store, or take-out service. Thanks to its compact size, this souffle cup can be placed in to-go boxes or bags without taking up much room. This cup's wide opening allows for effortless dipping of your signature fresh-cut fries, or excellent visibility of your sides.</span><br><br><span><strong>These freestanding cups can also be used</strong> in healthcare as a medicine cup. It's made from treated paper for resistance to liquid penetration, ensuring long-lasting use for guests. This Solo souffle / portion cup is an ideal solution for serving ketchup, mustard, mayonnaise, and barbeque sauce in your restaurant or convenience store, or even pills in your medical facility!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Portion Cups</s:tag>
+    <s:tag>Souffle Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855053025354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku>200302</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4855052501066</id>
+    <published>2020-12-12T00:46:41-05:00</published>
+    <updated>2020-12-12T00:46:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-solo-0-5-oz-white-paper-souffle-portion-cups-5000-case"/>
+    <title>Dart Solo - 0.5 Oz White Paper Souffle / Portion Cups - 5000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-05-oz-white-paper-souffle-portion-cups-5000-case-918196.jpg?v=1611509799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dart Solo - 0.5 Oz Paper Portion Cups / Souffles Cups - 20 x 250 / Case</strong></p>
+<p><span><strong>This Solo paper souffle / portion cup</strong> is perfect for serving sauces, condiments, and dressings. It is an ideal addition to any food truck, kiosk, convenience store, or take-out service. Thanks to its compact size, this souffle cup can be placed in to-go boxes or bags without taking up much room. This cup's wide opening allows for effortless dipping of your signature fresh-cut fries, or excellent visibility of your sides.</span><br><br><span><strong>These freestanding cups can also be used</strong> in healthcare as a medicine cup. It's made from treated paper for resistance to liquid penetration, ensuring long-lasting use for guests. This Solo souffle / portion cup is an ideal solution for serving ketchup, mustard, mayonnaise, and barbeque sauce in your restaurant or convenience store, or even pills in your medical facility!</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Portion Cups</s:tag>
+    <s:tag>Souffle Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4855052501066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>200301</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054536527942</id>
+    <published>2020-07-16T18:13:36-04:00</published>
+    <updated>2020-07-16T18:13:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-325pcblk-3-25-oz-black-plastic-portion-cups-2500-case"/>
+    <title>Dart Conex - 325PCBLK - 3.25 Oz Black Plastic Portion Cups - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-325pcblk-325-oz-black-plastic-portion-cups-2500case-228512.jpg?v=1611509492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 325PCBLK - 3.25 oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 325PCBLK - 3.25 oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 325PCBLK - 3.25 oz Black Plastic Portion Cups - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054536527942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>882206</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4688063070282</id>
+    <published>2020-07-16T18:06:41-04:00</published>
+    <updated>2020-07-16T18:06:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-250pc-2-5-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 250PC - 2.5 Oz Plastic Portion Cup - 2500/case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-250pc-25-oz-plastic-portion-cup-2500case-930978.jpg?v=1611509678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            87.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 250PC - 2.5 Oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 250PC - 2.5 Oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 250PC - 2.5 Oz Plastic Portion Cup - 2500/case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4688063070282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.99</s:price>
+      <s:sku>882205</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4688061038666</id>
+    <published>2020-07-16T18:04:47-04:00</published>
+    <updated>2020-07-16T18:04:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-550pc-5-5-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 550PC - 5.5 Oz Plastic Portion Cup - 2500/case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-550pc-55-oz-plastic-portion-cup-2500case-751934.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            153.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 550PC - 5.5 Oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 550PC - 5.5 Oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 550PC - 5.5 Oz Plastic Portion Cup - 2500/case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4688061038666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.99</s:price>
+      <s:sku>882209</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4688058024010</id>
+    <published>2020-07-16T18:01:56-04:00</published>
+    <updated>2020-07-16T18:01:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-400pc-4-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 400PC - 4 Oz Plastic Portion Cup - 2500/case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-400pc-4-oz-plastic-portion-cup-2500case-785489.jpg?v=1611509620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 400PC - 4 Oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 400PC - 4 Oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 400PC - 4 Oz Plastic Portion Cup - 2500/case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4688058024010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>882207</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953758339142</id>
+    <published>2020-07-16T16:50:39-04:00</published>
+    <updated>2020-07-16T16:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-400pcblk-4-oz-black-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 400PCBLK - 4 Oz Black Plastic Portion Cup - 2500/case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-400pcblk-4-oz-black-plastic-portion-cup-2500case-812209.jpg?v=1611510038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 400PCBLK - 4 Oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 400PCBLK - 4 Oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 400PCBLK - 4 Oz Black Plastic Portion Cup - 2500/case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953758339142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>882208</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4471657627722</id>
+    <published>2020-01-16T15:49:44-05:00</published>
+    <updated>2020-01-16T15:49:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-pl100n-lids-for-0-5-oz-1-plastic-portidart-pl100n-lids-for-0-5-oz-to-1-25-oz-plastic-portion-cup-2500-caseon-cup-2500-case"/>
+    <title>Dart - PL100N - Lids For 0.5 oz To 1.25 oz Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-pl100n-lids-for-05-oz-to-125-oz-plastic-portion-cup-2500case-673938.jpg?v=1623208631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Dart PL100N Details</h2>
+<p itemprop="description">Keep condiments covered with this PL100N small clear plastic souffle / cup lid! Featuring a tight seal, this PET plastic lid for 0.5 to 1.25 oz. souffle and portion cups helps to limit unsightly spills, when used with a compatible portion cup. The crystal clear color provides optimum visibility, yet the durable PET plastic construction ensures reliability whenever this lid is in use. With a crystal clear coloring, this souffle/portion cup lid allows you to see what is inside the cup for easy identification during busy times. Prepare the cup's contents ahead of time, cover, and come back when ready for service! You'll save both time and hassle by preparing en masse.<br><br>This souffle/portion cup lid is conveniently disposable for easy cleanup. Use it to cover contents prior to table service, or reserve it solely for take-out applications. No matter the use, the disposability remains the same! Made with durable PET plastic, this souffle/portion cup lid is a reliable option for everyday service. It's sturdy enough to retain heavy sauces, yet versatile enough to cover light snacks, too. You'll never need to worry about one of these souffle/portion cup lids bending or breaking on you.<br><br><b><u>Overall Dimensions:</u></b><br>Top Diameter: 1 7/8"<br>Height: 1/4"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cup Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4471657627722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>220100</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4397020414026</id>
+    <published>2019-11-26T00:25:16-05:00</published>
+    <updated>2019-11-26T00:25:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-pl4n-lids-for-3-25-4-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart - PL4N - Lids For 3.25 &amp; 4 oz Plastic Portion Cup - 2500 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-pl4n-lids-for-325-4-oz-plastic-portion-cup-2500-case-240063.jpg?v=1611512850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These PL4N Lids fit our 3.25 oz to 4 oz Plastic Portion Cups, made of polypropylene, specially designed to securely transport sauces and foods, mess-free. See related items for corresponding cups and sizes.</span></p>
+<p><span>This flat lid features a clear construction to allow for maximum product visibility at all times. This makes it easy to identify what is in the container without opening it. Plus, it helps to increase impulse sales, giving customers a glimpse of the product at the point of purchase!<br><br>This lid features a versatile flat styling that enables a precise fit atop sauces. Use it at your restaurant or catered events. It's great for bars and cafes, too! With this lid, there's no need to worry about spilling during transport.</span></p>
+<p><span>Dart - PL4N - Lids For 3.25 &amp; 4 oz Plastic Portion Cup - 2500 / Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cup Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4397020414026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>220102</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953747591238</id>
+    <published>2019-08-09T12:10:57-04:00</published>
+    <updated>2019-08-09T12:10:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-b200en-2-oz-black-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - B200EN - 2 Oz  Black Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-b200en-2-oz-black-plastic-portion-cup-2500case-260950.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The  B200EN - 2 oz Black Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The  B200EN - 2 oz Black portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - B200EN - 2 oz Black Plastic Portion Cup - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953747591238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>882210</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054536626246</id>
+    <published>2019-04-24T01:46:03-04:00</published>
+    <updated>2019-04-24T01:46:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-p325n-3-25-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart - P325N - 3.25 Oz Plastic Portion Cup - 2500 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-p325n-325-oz-plastic-portion-cup-2500-case-815184.jpg?v=1611509733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dart - P325N - 3.25 oz Plastic Portion Cup - 2500 / Case</strong></p>
+<p><span>The P325N 3.25oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant poly-proplyene, makes it ideals for offering customers food to go. The 3.25oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart - P325N - 3.25 oz Plastic Portion Cup - 2500 / Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054536626246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>882200</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054536200262</id>
+    <published>2019-04-24T01:45:55-04:00</published>
+    <updated>2019-04-24T01:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-pl200n-lids-for-2-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart - PL200N - Lids For 2 oz Plastic Portion Cup - 2500 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-pl200n-lids-for-2-oz-plastic-portion-cup-2500-case-857205.jpg?v=1611510634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>These PL200N Lids fit our 2 oz Plastic Portion Cups, made of polypropylene, specially designed to securely transport sauces and foods, mess-free. See related items for corresponding cups and sizes.</span></p>
+<p><span>This flat lid features a clear construction to allow for maximum product visibility at all times. This makes it easy to identify what is in the container without opening it. Plus, it helps to increase impulse sales, giving customers a glimpse of the product at the point of purchase!</span><br><br><span>This lid features a versatile flat styling that enables a precise fit atop sauces. Use it at your restaurant or catered events. It's great for bars and cafes, too! With this lid, there's no need to worry about spilling during transport.</span></p>
+<p><span>Dart - PL200N - Lids For 2 oz Plastic Portion Cup - 2500 / Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cup Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054536200262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>220101</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054535905350</id>
+    <published>2019-04-24T01:45:52-04:00</published>
+    <updated>2019-04-24T01:45:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-p200n-2-oz-clear-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - P200N - 2 Oz Clear Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-200pc-2-oz-plastic-portion-cup-2500case-580611.jpg?v=1615434283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 200PC - 2 oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 200PC - 2 oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 200PC - 2oz Plastic Portion Cup - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054535905350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>882204</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054535446598</id>
+    <published>2019-04-24T01:45:44-04:00</published>
+    <updated>2019-04-24T01:45:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-100pc-1-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 100PC - 1 Oz Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-100pc-1-oz-plastic-portion-cup-2500case-416214.jpg?v=1611509676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 100PC - 1 oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 100PC - 1 oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 100PC - 1 oz Plastic Portion Cup - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054535446598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>882203</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054535381062</id>
+    <published>2019-04-24T01:45:43-04:00</published>
+    <updated>2019-04-24T01:45:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-p150n-1-5-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - P150N - 1.5 Oz Plastic Portion Cup - 2500/case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-p150n-15-oz-plastic-portion-cup-2500case-461226.jpg?v=1611509852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The P150N - 1.5 oz  Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The P150N - 1.5 oz  portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - P150N - 1.5 oz Plastic Portion Cup - 2500/case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054535381062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>882211</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054535217222</id>
+    <published>2019-04-24T01:45:40-04:00</published>
+    <updated>2019-04-24T01:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-075pc-0-75-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 075PC - 0.75 Oz Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-075pc-075-oz-plastic-portion-cup-2500case-880830.jpg?v=1611510125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 075PC - 0.75 oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 075PC - 0.75 oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 075PC - 0.75 oz Plastic Portion Cup - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054535217222</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>882202</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054535151686</id>
+    <published>2019-04-24T01:45:38-04:00</published>
+    <updated>2019-04-24T01:45:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-conex-050pc-0-5-oz-plastic-portion-cup-2500-case"/>
+    <title>Dart Conex - 050PC - 0.5 Oz Plastic Portion Cup - 2500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-conex-050pc-05-oz-plastic-portion-cup-2500case-945956.jpg?v=1611510275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The 050PC - 0.5 oz Plastic Portion Cup provides the perfect portions for any serving. Constructed of durable, crack-resistant polypropylene, makes it ideals for offering customers food to go. The 050PC - 0.5 oz portion cups are ideal for serving items such as small dishes, salad dressings and whipped butter.</span></p>
+<p><span>Help control portion sizes and costs with this souffle cup. This versatile cup is great for salad dressings, condiments, sauces, and samples. Keep it in your deli for to-go orders, or pre-package portions of salad dressing for your buffet or catered event. It's the perfect-sized cup for a variety of uses that comes at a budget-friendly price for your business.</span></p>
+<p><span>Dart Conex - 050PC - 0.5 oz Plastic Portion Cup - 2500/Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Portion Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054535151686</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>882201</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

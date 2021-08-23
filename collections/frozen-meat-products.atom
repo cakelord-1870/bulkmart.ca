@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-meat-products.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T23:37:32-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948740170</id>
+    <published>2020-12-30T23:37:32-05:00</published>
+    <updated>2020-12-30T23:37:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-599-per-lb-avg-wt-50-lb-538086.jpg?v=1611511180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948740170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22319</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948346954</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-649-per-lb-avg-wt-50-lb-705269.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948346954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22317</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947724362</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-cubes-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-cubes-649-per-lb-avg-wt-50-lb-789522.jpg?v=1611510697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947724362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22318</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947331146</id>
+    <published>2020-12-30T23:37:30-05:00</published>
+    <updated>2020-12-30T23:37:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-cubes-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-cubes-599-per-lb-avg-wt-50-lb-360338.jpg?v=1611510995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947331146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22320</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4176333537350</id>
+    <published>2020-12-03T22:34:23-05:00</published>
+    <updated>2020-12-03T22:34:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/australian-halal-lamb-brain-frozen-5-49-lb-qty-2-cases-wt-75-95-lbs"/>
+    <title>Australian Halal Lamb Brain Frozen - $5.49 Per lbs, Weight 40.3 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            221.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Australian Halal Lamb Brain Frozen - $5.49 Per lbs, Weight 40.3 Lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4176333537350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.25</s:price>
+      <s:sku>5BM3820</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833005731914</id>
+    <published>2020-11-16T13:35:46-05:00</published>
+    <updated>2020-11-16T13:35:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/premoro-beef-pizza-topping-2-27-kg"/>
+    <title>Premoro - Beef Pizza Topping - 2.27 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Premoro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premoro-beef-pizza-topping-227-kg-881797.png?v=1611514664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premoro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99 - 69.99
+            <a href="https://bulkmart.ca/products/premoro-beef-pizza-topping-2-27-kg">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Premoro - Beef Sausage Pizza Topping - 2.27 Kg</strong></p>
+<p>Our traditional and specialty beef toppings are well-suited for a variety of applications and dayparts, providing you tremendous versatility. Add an extra savory touch to your favorite pizzas, or explore tacos, bowls, sandwiches and more. With limitless possibilities, you’ll push the limits of your creativity.</p>
+<ul>
+<li>Proprietary cooking process utilizing impingement ovens, which sharpens flavors and prevents the off flavors sometimes associated with fluid cooking</li>
+<li>Produced with fresh, rather than frozen meat for exceptional flavor</li>
+<li>Exclusive, natural antioxidant blend extends the product life to give you the most for your investment while you please your customer</li>
+<li>Individually Quick Frozen (IQF), our toppings can be used right from the freezer</li>
+</ul>
+<h3>OUR HUGE VARIETY GIVES YOU FLEXIBILITY</h3>
+<ul>
+<li>
+<b>Flavor</b><span> </span>– Grill to Italian and mild to spicy</li>
+<li>
+<b>Size<span> </span></b>– 4/oz to fine crumble</li>
+<li>
+<b>Shape</b><span> </span>– Crumble to uniformly round or oblong to the randomly craggy look </li>
+<li>
+<b>Extension</b><span> </span>– All meat to high extension</li>
+<li>
+<b>Pack size<span> </span></b>– 5-lb bags to bulk packaging</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833005731914</id>
+      <title>2.27 Kg</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>362414</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833005731914</id>
+      <title>2 x 2.27 Kg</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>362415</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832946061386</id>
+    <published>2020-11-16T13:35:45-05:00</published>
+    <updated>2020-11-16T13:35:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soloways-jalapeno-sausage-8-12-pcs"/>
+    <title>Soloway&apos;s - Jalapeno Sausage 8&quot;- 12 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Soloway&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soloways-jalapeno-sausage-8-12-pcs-943610.jpg?v=1611512198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soloway&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soloway's - Jalapeno Sausage 8"- 12 Pcs</p>
+<h2 class="smallsubtitle">A Range Of Mouthwatering Wieners And Sausages</h2>
+<p class="bodytext">We provide premium quality sausages at a price that gives you value for your money. When you buy from us, you get the promise of unmatchable taste and quality. Please go through the menu below to choose your favourite style of wieners and sausages.</p>
+<p class="bodytext"><span>Our sausages and wieners can help you put together a juicy and succulent meal within minutes. Easy to prepare and delightful to eat, our sausages are flavourful and wholesome. You can make delicious hot dogs with our classic or specialty sausages. You can also add our breakfast sausages to your eggs and add some cheer to the breakfast table. Loved by kids and adults alike, our sausages are the perfect blend of good quality and great taste. Whether you’re roasting them on a grill on a sunny day, or just frying them up with some sautéed onions, our sausages are sure to leave you with a full belly and a smiling face.</span></p>
+<p class="bodytext"><span>Over the years, Soloway's Hot Dog Factory has served clients across Great Toronto Area. Our dedication to providing complete customer satisfaction to our clients has helped us consolidate our place as a trusted supplier. Our broad base of clients is a resounding testimony to the quality of our products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832946061386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>362401</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832945799242</id>
+    <published>2020-11-16T13:35:44-05:00</published>
+    <updated>2020-11-16T13:35:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soloways-honey-garlic-sausage-8-12-pcs"/>
+    <title>Soloway&apos;s - Honey Garlic Sausage 8&quot;- 12 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Soloway&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soloways-honey-garlic-sausage-8-12-pcs-411013.jpg?v=1611514125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soloway&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soloway's - Honey Garlic Sausage 8"- 12 Pcs</p>
+<h2 class="smallsubtitle">A Range Of Mouthwatering Wieners And Sausages</h2>
+<p class="bodytext">We provide premium quality sausages at a price that gives you value for your money. When you buy from us, you get the promise of unmatchable taste and quality. Please go through the menu below to choose your favourite style of wieners and sausages.</p>
+<p class="bodytext"><span>Our sausages and wieners can help you put together a juicy and succulent meal within minutes. Easy to prepare and delightful to eat, our sausages are flavourful and wholesome. You can make delicious hot dogs with our classic or specialty sausages. You can also add our breakfast sausages to your eggs and add some cheer to the breakfast table. Loved by kids and adults alike, our sausages are the perfect blend of good quality and great taste. Whether you’re roasting them on a grill on a sunny day, or just frying them up with some sautéed onions, our sausages are sure to leave you with a full belly and a smiling face.</span></p>
+<p class="bodytext"> </p>
+<p class="bodytext"><span>Over the years, Soloway's Hot Dog Factory has served clients across Great Toronto Area. Our dedication to providing complete customer satisfaction to our clients has helped us consolidate our place as a trusted supplier. Our broad base of clients is a resounding testimony to the quality of our products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832945799242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>362419</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832944980042</id>
+    <published>2020-11-16T13:35:43-05:00</published>
+    <updated>2020-11-16T13:35:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soloways-all-beef-jumbo-wieners-7-32-pcs"/>
+    <title>Soloway&apos;s - All Beef Jumbo Wieners 7&quot;- 32 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Soloway&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soloways-all-beef-jumbo-wieners-7-32-pcs-663023.jpg?v=1611512141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soloway&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Soloway's - All Beef Jumbo Wieners 7"- 32 Pcs</strong></p>
+<p class="bodytext"><span>Our sausages and wieners can help you put together a juicy and succulent meal within minutes. Easy to prepare and delightful to eat, our sausages are flavourful and wholesome. You can make delicious hot dogs with our classic or specialty sausages. You can also add our breakfast sausages to your eggs and add some cheer to the breakfast table. Loved by kids and adults alike, our sausages are the perfect blend of good quality and great taste. Whether you’re roasting them on a grill on a sunny day, or just frying them up with some sautéed onions, our sausages are sure to leave you with a full belly and a smiling face.</span></p>
+<p class="bodytext"> </p>
+<p class="bodytext"><span>Over the years, Soloway's Hot Dog Factory has served clients across Great Toronto Area. Our dedication to providing complete customer satisfaction to our clients has helped us consolidate our place as a trusted supplier. Our broad base of clients is a resounding testimony to the quality of our products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832944980042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>362417</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832944783434</id>
+    <published>2020-11-16T13:35:42-05:00</published>
+    <updated>2020-11-16T13:35:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soloways-halal-jumbo-chicken-wieners-7-16-pcs"/>
+    <title>Soloway&apos;s - Halal Jumbo Chicken Wieners 7&quot;- 16 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Soloway&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soloways-halal-jumbo-chicken-wieners-7-16-pcs-698529.jpg?v=1611512854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soloway&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Soloway's - Halal Jumbo Chicken Wieners 7"- 16 Pcs</strong></p>
+<h2 class="smallsubtitle">A Range Of Mouthwatering Wieners And Sausages</h2>
+<p class="bodytext">We provide premium quality sausages at a price that gives you value for your money. When you buy from us, you get the promise of unmatchable taste and quality. Please go through the menu below to choose your favourite style of wieners and sausages.</p>
+<p class="bodytext"><span>Our sausages and wieners can help you put together a juicy and succulent meal within minutes. Easy to prepare and delightful to eat, our sausages are flavourful and wholesome. You can make delicious hot dogs with our classic or specialty sausages. You can also add our breakfast sausages to your eggs and add some cheer to the breakfast table. Loved by kids and adults alike, our sausages are the perfect blend of good quality and great taste. Whether you’re roasting them on a grill on a sunny day, or just frying them up with some sautéed onions, our sausages are sure to leave you with a full belly and a smiling face.</span></p>
+<p class="bodytext"> </p>
+<p class="bodytext"><span>Over the years, Soloway's Hot Dog Factory has served clients across Great Toronto Area. Our dedication to providing complete customer satisfaction to our clients has helped us consolidate our place as a trusted supplier. Our broad base of clients is a resounding testimony to the quality of our products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832944783434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>362418</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832944095306</id>
+    <published>2020-11-16T13:35:42-05:00</published>
+    <updated>2020-11-16T13:35:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soloways-jerk-chicken-sausage-12-pcs"/>
+    <title>Soloway&apos;s - Jerk Chicken Sausage - 12 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Soloway&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soloways-jerk-chicken-sausage-12-pcs-762652.jpg?v=1611512675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soloway&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soloway's - Jerk Chicken Sausage - 12 Pcs</p>
+<h2 class="smallsubtitle">A Range Of Mouthwatering Wieners And Sausages</h2>
+<p class="bodytext">We provide premium quality sausages at a price that gives you value for your money. When you buy from us, you get the promise of unmatchable taste and quality. Please go through the menu below to choose your favourite style of wieners and sausages.</p>
+<p class="bodytext"><span>Our sausages and wieners can help you put together a juicy and succulent meal within minutes. Easy to prepare and delightful to eat, our sausages are flavourful and wholesome. You can make delicious hot dogs with our classic or specialty sausages. You can also add our breakfast sausages to your eggs and add some cheer to the breakfast table. Loved by kids and adults alike, our sausages are the perfect blend of good quality and great taste. Whether you’re roasting them on a grill on a sunny day, or just frying them up with some sautéed onions, our sausages are sure to leave you with a full belly and a smiling face.</span></p>
+<p class="bodytext"><span>Over the years, Soloway's Hot Dog Factory has served clients across Great Toronto Area. Our dedication to providing complete customer satisfaction to our clients has helped us consolidate our place as a trusted supplier. Our broad base of clients is a resounding testimony to the quality of our products.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832944095306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.49</s:price>
+      <s:sku>362402</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832942456906</id>
+    <published>2020-11-16T13:35:41-05:00</published>
+    <updated>2020-11-16T13:35:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/maple-leaf-natural-top-dogs-original-375-g"/>
+    <title>Maple Leaf - Natural Top Dogs Original -375 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Maple Leaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maple-leaf-natural-top-dogs-original-375-g-650331.jpg?v=1611513757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maple Leaf<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Maple Leaf - Top Dogs Original -375g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Top Dogs® Wieners Family Pack</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Same Top Dogs® taste that your family loves.</div>
+<h2>Ingredients</h2>
+<div class="ingredients">chicken, pork; water, tapioca starch, sea salt, spice, vinegar, cultured celery extract, cane sugar, cherry powder, smoke</div>
+<div class="ingredients"><a title="" class="et_pb_lightbox_image" href="https://www.mapleleaf.ca/wp-content/uploads/2018/04/NFP-00043_20018776.png"><span class="et_pb_image_wrap"><img title="" alt="" src="https://www.mapleleaf.ca/wp-content/uploads/2018/04/NFP-00043_20018776.png"></span></a></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832942456906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>362413</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832942161994</id>
+    <published>2020-11-16T13:35:40-05:00</published>
+    <updated>2020-11-16T13:35:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/butchers-selection-stampede-hotdog-original-900g"/>
+    <title>Butchers Selection - Stampede Hotdog Original - 900g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Butchers Selection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/butchers-selection-stampede-hotdog-original-900g-694588.jpg?v=1611509078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Butchers Selection<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Butchers Selection - Stampede Hotdog Original - 900g - 10 Each</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Ready to eat , Butchers Selection Stampede Hot dog's are delicious ! comes in a pack of 10 and can be grilled or steamed. Great for BBQ, and Family dinners.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">Jumbo 10 Pack<br>Heat &amp; Serve<br>Keep refrigerated<br>Always heat thoroughly to 165°F<br>Made in Canada</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832942161994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>362410</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832941867082</id>
+    <published>2020-11-16T13:35:39-05:00</published>
+    <updated>2020-11-16T13:35:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-creek-halal-chicken-wieners-900-g"/>
+    <title>Harvest Creek - Halal Chicken Wieners - 900 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Harvest Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-creek-halal-chicken-wieners-900-g-355752.png?v=1611511176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Harvest Creek - Halal Chicken Wieners - 900 g</strong></p>
+<div data-animation-delay="0.0" data-node="58c6f12cdf1b6" class="fl-module fl-module-rich-text fl-node-58c6f12cdf1b6 fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><strong>INGREDIENTS</strong></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c6f12cdf15c" class="fl-module fl-module-rich-text fl-node-58c6f12cdf15c fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Mechanically Separated Chicken, Chicken skin, Water, Salt, Modified corn starch, Sugars (corn syrup solids), Wheat flour, Sodium phosphate, Sodium diacetate, Onion powder, Garlic powder, Sodium erythorbate, Mesquite smoke flavour, Spices (celery), Spice extracts, Sodium nitrite, Paprika extract.</p>
+<p><em><strong>Contains: Wheat. May Contain: Egg</strong></em></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c837bc2413d" class="fl-module fl-module-rich-text fl-node-58c837bc2413d fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><strong>COOKING INSTRUCTIONS</strong></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c6f12cdf228" class="fl-module fl-module-rich-text fl-node-58c6f12cdf228 fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p class="p1">Heat &amp; serve</p>
+<p class="p1">Keep refrigerated</p>
+<p class="p1">Always heat thoroughly to 165°F</p>
+<h2>IFANCC HALAL CERTIFIED</h2>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832941867082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>362412</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832941277258</id>
+    <published>2020-11-16T13:35:38-05:00</published>
+    <updated>2020-11-16T13:35:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-creek-chicken-wieners-450-g"/>
+    <title>Harvest Creek - Chicken Wieners - 450 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Harvest Creek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-creek-chicken-wieners-450-g-995278.jpg?v=1611513573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest Creek<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest Creek - Chicken Wieners - 450 g</p>
+<div data-animation-delay="0.0" data-node="58c6f0162631a" class="fl-module fl-module-rich-text fl-node-58c6f0162631a fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><strong>INGREDIENTS</strong></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c6f016262cd" class="fl-module fl-module-rich-text fl-node-58c6f016262cd fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p>Ingredients: Mechanically Separated Chicken, Chicken skin, Water, Salt, Modified corn starch, Sugars (corn syrup solids), Wheat flour, Sodium phosphate, Sodium diacetate, Onion powder, Garlic powder, Sodium erythorbate, Mesquite smoke flavour, Spices (celery), Spice extracts, Sodium nitrite, Paprika extract.</p>
+<p><em><strong>Contains: Wheat. May Contain: Egg.</strong></em></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c6f016263aa" class="fl-module fl-module-rich-text fl-node-58c6f016263aa fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p><strong>COOKING INSTRUCTIONS</strong></p>
+</div>
+</div>
+</div>
+<div data-animation-delay="0.0" data-node="58c6f01626363" class="fl-module fl-module-rich-text fl-node-58c6f01626363 fl-animation fl-slide-up fl-animated">
+<div class="fl-module-content fl-node-content">
+<div class="fl-rich-text">
+<p class="p1">Heat &amp; serve</p>
+<p class="p1">Keep refrigerated</p>
+<p>ALWAYS HEAT THOROUGHLY TO 165°F (74°C)</p>
+</div>
+</div>
+</div>
+<p><br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832941277258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>362411</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832940720202</id>
+    <published>2020-11-16T13:35:37-05:00</published>
+    <updated>2020-11-16T13:35:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/schneiders-juicy-jumbo-all-beef-wieners-375g"/>
+    <title>Schneiders - Juicy Jumbo All Beef Wieners - 375g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Schneiders</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/schneiders-juicy-jumbo-all-beef-wieners-375g-305714.png?v=1611513457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schneiders<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Schneiders - Juicy Jumbos 100% All Beef - 375g</strong></p>
+<p>The trick behind making these wieners so “juicy” is the coarser grind we use for the premium cuts of beef inside. It retains moisture better. Because the beef is so bold, we add extra amounts of our signature spice blend – featuring nutmeg, paprika, coriander, garlic, and pimento – to make the flavours just sing together.</p>
+<p>Also available in a larger 750g party pack.</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<strong>Schneiders® Juicy Jumbos®</strong> All Beef Wieners are a delicious take on an iconic classic. These juicy hot dogs are crafted with our premium cuts of beef and a mix of signature spices for a perfect harmony of flavours. The result is a tasty and versatile beef hot dog that pairs perfectly with classic condiments. Since 1890, Schneiders® brand has established a rich heritage of original and authentic recipes, using premium ingredients and taking all the time needed to honour the origin and inspiration of each recipe. Quality never gets old.™</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">
+<strong>EXTRA JUICY WIENERS:</strong> Made with juicy ground beef<br>MILDLY SPICED: A signature blend of spices complements the all beef hot dog<br>GREAT FOR ANY COOKOUT: Versatile flavour of these wieners pairs perfectly with classic condiments<br>PREMIUM CUTS: Schneiders® brand hot dogs are crafted using only our quality cuts of meat<br>QUALITY NEVER GETS OLD™: Uncompromising commitment to quality since 1890</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g#product","name":"Cardinal -  Veggie Burger - 24 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463800902","sku":"1BM1702","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-veggie-burger-24-x-113-g-bulk-mart_248.jpg","description":"Cardinal - Veggie Burger - 24 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"1BM1702","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-veggie-burger-24-x-113-g?variant=19271302971462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832940720202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>362416</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887463604294</id>
+    <published>2020-11-06T11:15:37-05:00</published>
+    <updated>2020-11-06T11:15:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cardinal-mini-beef-burgers-48-x-45g"/>
+    <title>Cardinal - Mini Beef Burgers  - 48 x 45G</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cardinal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-mini-beef-burgers-48-x-45g-951918.jpg?v=1611509196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardinal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cardinal - Mini Beef Burgers - 48 x 45G - 2.18 Kg</p>
+<p><strong>Small in Size. Big on Menu Impact.</strong></p>
+<p>Great for appetizers, kids menu, or just something different at lunch! Made with Cardinal's premium beef and spices for a perfectly small-eating delight.</p>
+<ul>
+<li>Good coverage on standard mini hamburger bun</li>
+<li>Consistent size, shape, and portion control</li>
+<li>Serve in 2, 3, 4 burger combos, or fun party platter</li>
+<li>Cardinal food safety, takes the worry out of making your own</li>
+</ul>
+<p><span><strong>Satisfy even the most avid meat-lovers</strong> with rich and juicy Beef burgers. These burgers are known for the  well balanced ratio of fat and muscle. This ensures that every bite of every patty is consistently tender. This quality meat makes for juicy, mouthwatering burgers with an unforgettable sizzle, heat, and robust flavor. They pair perfectly with crisp greens or melted cheese on a grainy roll or smooth and soft bun. Plus, the natural shape of each burger adds the perfect, trendy touch to any menu.</span></p>
+<p><span><strong>Add new and delicious flavors</strong> to your menu with these burgers. These burgers are made ideal for making juicy, flavorful burgers cooked rare or medium rare and avoids extra, un-rendered fat in the cooked burgers.</span><br><br><span><strong>Able to be cooked</strong> on a charcoal grill, flat top grill, stove-top, or in an oven, these burgers will bring a versatile addition to your restaurant. The size of these patties is ideal for making samplers, appetizers, or sliders for your customers. Keep these burgers on hand to make sandwiches full of rich, savory flavors.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-mini-beef-burgers-48-x-45g#product","name":"Cardinal -  Mini Beef Burgers  - 48 x 45G","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463604294","sku":"7BM1704","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-mini-beef-burgers-48-x-45g-bulk-mart_927.gif","description":"Cardinal - Mini Beef Burgers - 48 x 45G.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"},"offers":[{"sku":"7BM1704","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"27.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-mini-beef-burgers-48-x-45g?variant=19271302611014","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"16"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887463604294</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>127951</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825625952330</id>
+    <published>2020-11-06T11:15:23-05:00</published>
+    <updated>2020-11-06T11:15:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/madina-halal-beef-burger-5-oz-34-pcs"/>
+    <title>Madina - Halal Beef Burger 5 Oz - 34 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Madina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/madina-halal-beef-burger-5-oz-34-pcs-233163.jpg?v=1611512257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Madina<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Madina - Halal Beef Burger 5 Oz Frozen - 34 Pcs - 4 Kg</strong></p>
+<p><span>Madina Fine Foods is Ontario’s premier producer of certified Zabeeha Halal fresh chicken and prepared frozen meals. Madina’s prepared foods contain only the finest ingredients and are fashioned with great care. Madina has an unmatched commitment to quality and taste, with love.</span></p>
+<p><span><strong>Satisfy even the most avid meat-lovers</strong> with rich and juicy Beef burgers. These burgers are known for the  well balanced ratio of fat and muscle. This ensures that every bite of every patty is consistently tender. This quality meat makes for juicy, mouthwatering burgers with an unforgettable sizzle, heat, and robust flavor. They pair perfectly with crisp greens or melted cheese on a grainy roll or smooth and soft bun. Plus, the natural shape of each burger adds the perfect, trendy touch to any menu.</span></p>
+<p><span><strong>Add new and delicious flavors</strong> to your menu with these burgers. These burgers are made ideal for making juicy, flavorful burgers cooked rare or medium rare and avoids extra, un-rendered fat in the cooked burgers.</span><br><br><span><strong>Able to be cooked</strong> on a charcoal grill, flat top grill, stove-top, or in an oven, these burgers will bring a versatile addition to your restaurant. The size of these patties is ideal for making samplers, appetizers, or sliders for your customers. Keep these burgers on hand to make sandwiches full of rich, savory flavors.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-roadhouse-beef-burger-30-x-6-oz#product","name":"Cardinal - Roadhouse Beef Burger - 30 x 6 oz","itemCondition":"https://schema.org/NewCondition","mpn":"1887463702598","sku":"9BM1706","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-roadhouse-beef-burger-30-x-6-oz-bulk-mart_366.jpg","description":"Cardinal - Roadhouse Beef Burger - 30 x 6 oz...","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"26"},"weight":{"@type":"QuantitativeValue","unitText":"oz","value":"220"},"gtin14":"FroBur09BM1706","offers":[{"name":"Cardinal - Roadhouse Beef Burger - 30 x 6 oz","sku":"9BM1706","gtin14":"FroBur09BM1706","@type":"Offer","priceCurrency":"CAD","price":"66.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-roadhouse-beef-burger-30-x-6-oz?variant=19271302709318","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825625952330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>127955</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825623134282</id>
+    <published>2020-11-06T11:15:22-05:00</published>
+    <updated>2020-11-06T11:15:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cardinal-halal-butcher-style-beef-burger-5-33-oz-30-pcs"/>
+    <title>Cardinal - Halal Butcher Style Beef Burger 5.33 Oz - 30 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Cardinal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-halal-butcher-style-beef-burger-533-oz-30-pcs-915583.jpg?v=1611509982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardinal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cardinal - Butcher Style Beef Burger 5.33 Oz - 30 Pcs - 4.54 Kg</p>
+<p><strong>BEHOLD! - The Evolution of the Burger</strong></p>
+<p>Natural Texture Forming - Another Innovation from Cardinal. In the quest for the perfect burger eating experience, Cardinal introduces Butcher-style Beef Burgers – made with a revolutionary new technology that creates a unique burger texture and bite.</p>
+<ul>
+<li>Pure beef texture and bite</li>
+<li>Great moisture retention delivering juicy flavour</li>
+<li>Fast cook times - half the time of traditional hand-formed burgers</li>
+</ul>
+<p><span><strong>Satisfy even the most avid meat-lovers</strong> with rich and juicy Beef burgers. These burgers are known for the  well balanced ratio of fat and muscle. This ensures that every bite of every patty is consistently tender. This quality meat makes for juicy, mouthwatering burgers with an unforgettable sizzle, heat, and robust flavor. They pair perfectly with crisp greens or melted cheese on a grainy roll or smooth and soft bun. Plus, the natural shape of each burger adds the perfect, trendy touch to any menu.</span></p>
+<p><span><strong>Add new and delicious flavors</strong> to your menu with these burgers. These burgers are made ideal for making juicy, flavorful burgers cooked rare or medium rare and avoids extra, un-rendered fat in the cooked burgers.</span><br><br><span><strong>Able to be cooked</strong> on a charcoal grill, flat top grill, stove-top, or in an oven, these burgers will bring a versatile addition to your restaurant. The size of these patties is ideal for making samplers, appetizers, or sliders for your customers. Keep these burgers on hand to make sandwiches full of rich, savory flavors.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cardinal-beef-burger-42-x-113-g#product","name":"Cardinal -  Beef Burger - 42 x 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887463440454","sku":"5BM1703","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-beef-burger-42-x-113-g-bulk-mart_585.jpg","description":"Cardinal - Beef Burger - 42 x 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cardinal"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"5BM1703","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"64.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cardinal-beef-burger-42-x-113-g?variant=19271302447174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Burger &amp; Sausages</s:tag>
+    <s:tag>Frozen Beef Products</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825623134282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>127950</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4291483795530</id>
+    <published>2019-10-19T16:47:09-04:00</published>
+    <updated>2019-10-19T16:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lamb-rack-halal-frozen-new-zeeland-36-38-lbs-case"/>
+    <title>New Zeeland -Halal Frozen Lamb Rack Frenched- $17.49 Per Lb Avg. Wt. 18 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            314.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> New Zeeland Halal Frozen Lamb Rack Frenched - $17.49 Per Lb Avg. Wt. 18 Lbs</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case#product","name":"Lamb shank Halal Frozen - New Zeeland - $5.21 / Lbs - Qty 24.69 Lbs / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3875238903878","sku":"BM21619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case-bulk-mart_743.jpg","description":"Lamb shank Halal Frozen - New Zeeland - $5.21 / Lbs - Qty 24.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"BM21619","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8.48"},"priceCurrency":"CAD","price":"128.65","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case?variant=29204208418886","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4291483795530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">314.82</s:price>
+      <s:sku>BM21619</s:sku>
+      <s:grams>8480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3959647010886</id>
+    <published>2019-08-16T08:07:21-04:00</published>
+    <updated>2019-08-16T08:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb"/>
+    <title>Halal Lamb Leg &amp; Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-leg-shoulder-bone-in-cubes-599-per-lb-avg-wt-50-lb-298631.jpg?v=1611510576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg &amp; Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3959647010886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>5BM3820</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3875238903878</id>
+    <published>2019-06-21T22:18:30-04:00</published>
+    <updated>2019-06-21T22:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case"/>
+    <title>New Zeeland Lamb shank Halal Frozen - $6.15 per Lb Avg. Wt. 25 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/new-zeeland-lamb-shank-halal-frozen-615-per-lb-avg-wt-25-lbs-412669.jpg?v=1611513213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            153.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">New Zeeland Lamb shank Halal Frozen - $6.15 per Lb Avg. Wt. 25 Lbs<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case#product","name":"Lamb shank Halal Frozen - New Zeeland - Approx Qty 25 Lbs / Case","itemCondition":"https://schema.org/NewCondition","mpn":"3875238903878","sku":"BM21619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case-bulk-mart-255.jpg","description":"Lamb shank Halal Frozen - New Zeeland - $5.99 / Lbs - Qty 25 Lbs / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"offers":[{"name":"Lamb shank Halal Frozen - New Zeeland - Approx Qty 25 Lbs / Case","sku":"BM21619","@type":"Offer","priceCurrency":"CAD","price":"149.75","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case?variant=29204208418886","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3875238903878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.75</s:price>
+      <s:sku>BM21619</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054548422726</id>
+    <published>2019-04-24T01:50:08-04:00</published>
+    <updated>2019-04-24T01:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99"/>
+    <title>Opal Valley - Australian Halal Lamb Shank Bone In  - Weight 25.62 Kg - $11.99 / Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Opal Valley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-2562-kg-1199-kg-873065.jpg?v=1611514491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Opal Valley<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            139.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opal Valley - Australian Halal Lamb Shank Bone In </p>
+<p>11.99 Per Kg.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99#product","name":"Opal Valley - Australian Halal Lamb Shank Bone In - Weight 25.62 Kg - $11.99 / Kg","itemCondition":"https://schema.org/NewCondition","mpn":"SZLSBM3825","sku":"SBM3825","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99-bulk-mart-821.jpg","description":"Opal Valley - Australian Halal Lamb Shank Bone In 11.99 Per Kg....","category":"FOOD","brand":{"@type":"Brand","name":"Opal Valley"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"40"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"offers":[{"name":"Opal Valley - Australian Halal Lamb Shank Bone In - Weight 25.62 Kg - $11.99 / Kg","sku":"SBM3825","mpn":"SZLSBM3825","@type":"Offer","priceCurrency":"CAD","price":"139.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99?variant=20686517698630","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054548422726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.49</s:price>
+      <s:sku>SBM3825</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504409670</id>
+    <published>2019-03-31T23:16:52-04:00</published>
+    <updated>2019-03-31T23:16:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/premoro-beef-topping-12422-2-x-5-lbs"/>
+    <title>Premoro - Beef Topping  12422  - 2 x 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Premoro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premoro-beef-topping-12422-2-x-5-lbs-117462.png?v=1611512075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premoro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premoro - Beef Topping  12422  - 2 x 5 Lbs</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/premoro-beef-topping-12422-2-x-5-lbs#product","name":"Premoro - Beef Topping 12422 - 2 x 5 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"FroBeTBM3212","sku":"TBM3212","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premoro-beef-topping-12422-2-x-5-lbs-bulk-mart-344.png","description":"Premoro - Beef Topping 12422 - 2 x 5 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Premoro"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"Premoro - Beef Topping 12422 - 2 x 5 Lbs","sku":"TBM3212","mpn":"FroBeTBM3212","@type":"Offer","priceCurrency":"CAD","price":"54.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/premoro-beef-topping-12422-2-x-5-lbs?variant=20604616310854","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504409670</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>TBM3212</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037504311366</id>
+    <published>2019-03-31T23:16:52-04:00</published>
+    <updated>2019-03-31T23:16:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/premoro-beef-topping-12422-5-lbs"/>
+    <title>Premoro - Beef Topping  12422  -  5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Premoro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premoro-beef-topping-12422-5-lbs-219699.png?v=1611512554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Premoro<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premoro - Beef Topping  12422  -  5 Lbs</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/premoro-beef-topping-12422-5-lbs#product","name":"Premoro - Beef Topping 12422 - 5 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"FroBeTBM3211","sku":"TBM3211","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premoro-beef-topping-12422-5-lbs-bulk-mart-201.png","description":"Premoro - Beef Topping 12422 - 5 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Premoro"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"12"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"offers":[{"name":"Premoro - Beef Topping 12422 - 5 Lbs","sku":"TBM3211","mpn":"FroBeTBM3211","@type":"Offer","priceCurrency":"CAD","price":"28.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/premoro-beef-topping-12422-5-lbs?variant=20604616179782","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037504311366</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>TBM3211</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

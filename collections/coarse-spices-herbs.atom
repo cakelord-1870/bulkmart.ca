@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/coarse-spices-herbs.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-07-27T18:37:07-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6626311635018</id>
+    <published>2021-07-27T18:37:07-04:00</published>
+    <updated>2021-07-27T18:37:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-freeze-dried-chives-300-g"/>
+    <title>Belle Donne - Freeze Dried Chives - 300 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-freeze-dried-chives-300-g-400527.jpg?v=1627425723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Freeze Dried Chives - 300 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chopped &amp; Bits</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6626311635018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>10240</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037477310534</id>
+    <published>2021-07-21T20:24:00-04:00</published>
+    <updated>2021-07-21T20:24:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-onion-minced-425-g"/>
+    <title>King Of Spice - Onion Minced  - 425 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-onion-minced-425-g-747367.jpg?v=1626985747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Onion Minced - 425 g</p>
+<h2 class="headline">Use minced onion to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Minced</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037477310534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>33991</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622564712522</id>
+    <published>2021-07-21T20:15:51-04:00</published>
+    <updated>2021-07-21T20:15:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-minced-onion-5-lbs"/>
+    <title>King Of Spice - Minced Onion - 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-minced-onion-5-lbs-740705.jpg?v=1626985744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Minced Onion - 5 Lbs</p>
+<h2 class="headline">Use minced onion to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Minced</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622564712522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>33990</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622539251786</id>
+    <published>2021-07-21T19:43:32-04:00</published>
+    <updated>2021-07-21T19:43:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-onion-granulated-10-lbs"/>
+    <title>King Of Spice - Onion Granulated - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-onion-granulated-10-lbs-280947.jpg?v=1626985740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Onion Granulated - 10 Lbs</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622539251786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>220020</s:sku>
+      <s:grams>5897</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4794775699530</id>
+    <published>2021-07-21T19:41:06-04:00</published>
+    <updated>2021-07-21T19:41:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-onion-granulated-39-6-lbs"/>
+    <title>King Of Spice - Onion Granulated - 39.6 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-onion-granulated-396-lbs-133510.jpg?v=1626985741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            183.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Onion Granulated - 39.6 Lbs</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4794775699530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">183.99</s:price>
+      <s:sku>220022</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4666393657418</id>
+    <published>2021-07-21T19:41:05-04:00</published>
+    <updated>2021-07-21T19:41:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-onion-granulated-2-2-kg"/>
+    <title>King Of Spice - Onion Granulated - 2.2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-onion-granulated-22-kg-793807.jpg?v=1626985742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Onion Granulated - 2.2 Kg</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4666393657418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>220021</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4206660288582</id>
+    <published>2021-07-21T18:44:48-04:00</published>
+    <updated>2021-07-21T18:44:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-oregano-rubbed-5-lbs"/>
+    <title>King Of Spice - Oregano Rubbed - 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-oregano-rubbed-5-lbs-731183.jpg?v=1626985748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Oregano Rubbed - 5 Lbs</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/krinos-oregano-rubbed-5-lbs#product","name":"Krinos - Oregano Rubbed - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4206660288582","sku":"9BM2706","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-oregano-rubbed-1-kg-bulk-mart_781_bc0359f8-1dae-41c5-8b58-dedae5cd9e92.jpg","description":"Krinos - Oregano Rubbed - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"9BM2706","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/krinos-oregano-rubbed-5-lbs?variant=30551907467334","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4206660288582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>006698</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887492014150</id>
+    <published>2020-12-03T13:23:55-05:00</published>
+    <updated>2020-12-03T13:23:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/handi-zaika-fried-onions-400-g"/>
+    <title>Handi / Zaika - Fried Onions - 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Handi - Zaika</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/handi-zaika-fried-onions-400-g-387503.jpg?v=1611510187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Handi - Zaika<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handi / Zaika - Fried Onions - 400 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fried Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887492014150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>BM1036</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887491948614</id>
+    <published>2020-12-03T13:23:54-05:00</published>
+    <updated>2020-12-03T13:23:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/handi-zaika-fried-onions-12-x-400-g"/>
+    <title>Handi - Fried Onions - 12 x 400 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Handi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/handi-fried-onions-12-x-400-g-192053.png?v=1611511900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Handi<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Handi / Zaika - Fried Onions - 12 x 400 g</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">These crispy toppers add an onion crunch to virtually any popular foodservice recipe</span></li>
+<li><span class="a-list-item">Crunchy Onions add a crunch your whole family will love!</span></li>
+<li><span class="a-list-item">A delicious addition to any dish such as casseroles, potatoes, burgers, and salads</span></li>
+<li><span class="a-list-item">These crunchy toppers are a simple way to add incredible flavor and crunch to your favorite meals</span></li>
+<li><span class="a-list-item">When it comes to tasting the best, you will not miss a beat</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fried Onions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887491948614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>BM1035</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4840432369738</id>
+    <published>2020-11-23T15:42:07-05:00</published>
+    <updated>2020-11-23T15:42:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-garlic-granulated-55-lbs-1"/>
+    <title>SmartChoice - Garlic Granulated - 55 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-garlic-granulated-55-lbs-513747.jpg?v=1611512375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice - Garlic Granulated - 55 Lbs</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4840432369738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">229.00</s:price>
+      <s:sku>010111</s:sku>
+      <s:grams>26308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4840422473802</id>
+    <published>2020-11-23T15:20:31-05:00</published>
+    <updated>2020-11-23T15:20:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-onion-flakes-30-8-lbs"/>
+    <title>SmartChoice - Onion Flakes - 30.8 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-onion-flakes-308-lbs-898083.jpg?v=1611512073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SmartChoice King Of Spice - Onion Flakes Box - 5 Lbs</p>
+<h2 class="headline">Use<span> Onion Flakes </span>to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flakes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4840422473802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>010119</s:sku>
+      <s:grams>14969</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4746592845898</id>
+    <published>2020-11-05T00:16:42-05:00</published>
+    <updated>2020-11-05T00:16:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-dried-chives-small-chop-22-lbs"/>
+    <title>King Of Spice - Dried Chives Small Chop - 22 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King Of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-chives-small-chop-22-lbs-572575.jpg?v=1611513035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            418.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">SmartChoice</span> - Dried / Dehydrated Chives Rings - 22 Lb<br></p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chopped &amp; Bits</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4746592845898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">418.99</s:price>
+      <s:sku>136973</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037472985158</id>
+    <published>2020-11-05T00:16:41-05:00</published>
+    <updated>2020-11-05T00:16:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-dried-chives-small-chop-260-g"/>
+    <title>King Of Spice - Dried Chives Small Chop - 260 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-chives-small-chop-260-g-306579.jpg?v=1623889375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Dried / Dehydrated Chives Rings Jar - 260 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chopped &amp; Bits</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037472985158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>136972</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821169143882</id>
+    <published>2020-11-04T23:56:00-05:00</published>
+    <updated>2020-11-04T23:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-hot-crushed-chili-350-g"/>
+    <title>Belle Donne Spices - Hot Crushed Chili - 350 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-hot-crushed-chili-350-g-941286.jpg?v=1611509311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Hot Crushed Chilies Jar - 350 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crushed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821169143882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>1364780</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4819583631434</id>
+    <published>2020-11-04T23:55:59-05:00</published>
+    <updated>2020-11-04T23:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-crushed-red-pepper-350-g"/>
+    <title>Club House - Crushed Red Pepper - 350 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-crushed-red-pepper-350-g-245278.png?v=1611509626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Club House - Crushed Red Pepper - 350 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crushed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4819583631434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>1364781</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037478293574</id>
+    <published>2020-11-04T20:51:53-05:00</published>
+    <updated>2020-11-04T20:51:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-basil-rubbed-5-lbs"/>
+    <title>King Of Spice - Basil Rubbed - 5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-basil-rubbed-5-lbs-269379.jpg?v=1611510404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Basil Rubbed - 5 Lbs</p>
+<h2 class="headline">Use<span> Basil Rubbed </span>to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-basil-rubbed-5-lbs#product","name":"King Of Spice - Basil Rubbed - 5 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037478293574","sku":"3BM2841","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-basil-rubbed-5-lbs-bulk-mart_112.gif","description":"King Of Spice - Basil Rubbed - 5 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"3BM2841","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"5"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-basil-rubbed-5-lbs?variant=20604584624198","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037478293574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>010120</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3932834791494</id>
+    <published>2020-11-04T20:46:45-05:00</published>
+    <updated>2020-11-04T20:46:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-oregano-rubbed-180-g"/>
+    <title>King Of Spice - Oregano Rubbed - 180 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-oregano-rubbed-180-g-811831.jpg?v=1611510278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Dried Oregano Rubbed Jar - 180 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-oregano-rubbed-180-g#product","name":"King Of Spice - Oregano Rubbed - 180 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3932834791494","sku":"9BM2706","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-oregano-rubbed-180-g-bulk-mart_948.jpg","description":"King Of Spice - Oregano Rubbed - 180 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"9BM2706","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"3.10","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-oregano-rubbed-180-g?variant=29402113638470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3932834791494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>126983</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037478424646</id>
+    <published>2020-11-04T20:46:44-05:00</published>
+    <updated>2020-11-04T20:46:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-basil-rubbed-140-g"/>
+    <title>King Of Spice - Basil Rubbed - 140 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-basil-rubbed-140-g-570071.jpg?v=1611511116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Dried Basil Rubbed Jar - 140 g</p>
+<h2 class="headline">Use<span> Basil Rubbed </span>to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-basil-rubbed-140-g#product","name":"King Of Spice - Basil Rubbed - 140 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037478424646","sku":"3BM2843","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-basil-rubbed-140-g-bulk-mart_759.gif","description":"King Of Spice - Basil Rubbed - 140 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"3BM2843","weight":{"@type":"QuantitativeValue","unitText":"g","value":"140"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-basil-rubbed-140-g?variant=20604584755270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037478424646</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>126980</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037473640518</id>
+    <published>2020-11-04T20:46:43-05:00</published>
+    <updated>2020-11-04T20:46:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-sage-rubbed-200-g"/>
+    <title>King Of Spice - Sage Rubbed - 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-sage-rubbed-200-g-137478.jpg?v=1611512073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Sage Rubbed - 200 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-sage-rubbed-200-g#product","name":"King Of Spice - Sage Rubbed - 200 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037473640518","sku":"1BM2783","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-sage-rubbed-200-g-bulk-mart_645.gif","description":"King Of Spice - Sage Rubbed - 200 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"1BM2783","weight":{"@type":"QuantitativeValue","unitText":"g","value":"200"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-sage-rubbed-200-g?variant=20604579577926","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037473640518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>126984</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037465153606</id>
+    <published>2020-11-04T20:46:43-05:00</published>
+    <updated>2020-11-04T20:46:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/king-of-spice-marjoram-rubbed-113-g"/>
+    <title>King Of Spice - Marjoram Rubbed - 113 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>King of Spice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-marjoram-rubbed-113-g-990169.jpg?v=1611511894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King of Spice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>King Of Spice - Dried Marjoram Rubbed Jar - 113 g</p>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p>
+<ul>
+<li>Sprinkle chopped marjoram over your favourite pizza.</li>
+<li>Use in minced meat mixtures, such as sausages, meatballs or bolognaise.</li>
+<li>Sprinkle over a fresh salad.</li>
+<li>Marjoram goes very well with cheese, egg or tomato dishes.</li>
+<li>Try adding marjoram to soups, stews and sauces.</li>
+<li>Use marjoram in stuffing mixtures.</li>
+<li>Add marjoram to a cheese<span> omelette </span>or<span> quiche.</span>
+</li>
+<li>Use in place of oregano for a gentler flavour.</li>
+<li>Use to flavour homemade bread or herby scones.</li>
+<li>Use in any type of citrus marinade for meat.</li>
+<li>Cook foods that promote bloating and wind, such as cabbage, cauliflower or beans with marjoram to help relive indigestion.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/king-of-spice-marjoram-rubbed-113-g#product","name":"King Of Spice - Marjoram Rubbed - 113 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037465153606","sku":"1BM2686","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/king-of-spice-marjoram-rubbed-113-g-bulk-mart_104.jpg","description":"King Of Spice - Marjoram Rubbed - 113 g.","category":"FOOD","brand":{"@type":"Brand","name":"King of Spice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"1BM2686","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"3.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/king-of-spice-marjoram-rubbed-113-g?variant=20604567126086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herbs</s:tag>
+    <s:tag>Rubbed</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037465153606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>126982</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821160722506</id>
+    <published>2020-11-04T19:20:32-05:00</published>
+    <updated>2020-11-04T19:20:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-garlic-granulated-600-g"/>
+    <title>Belle Donne Spices - Garlic Granulated - 600 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-garlic-granulated-600-g-578246.jpg?v=1611509073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Garlic Granulated Jar - 600 g</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821160722506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>246981</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4818727010378</id>
+    <published>2020-11-04T19:20:31-05:00</published>
+    <updated>2020-11-04T19:20:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-house-onion-granulated-600-g"/>
+    <title>Club House - Onion Granulated - 600 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Club House</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-house-onion-granulated-600-g-185837.jpg?v=1611509738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club House<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Club House - Onion Granulated - 600 g</strong></p>
+<div class="description" itemprop="description">One of the most universal seasonings, onion has a pungency and bittersweet taste which can be mild or powerfully sharp. Granulated onion provides the full bodied aroma and pungent flavour of onion in a convenient granulated powder.</div>
+<div class="description" itemprop="description">Use on all meats, fish, shellfish and poutlry. 1 tbsp (15 mL) is equivalent to one medium sized fresh onion. Use wherever onion flavour is required without the appearance or texture of onion particles.</div>
+<div class="description" itemprop="description"></div>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4818727010378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>246982</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4818709708874</id>
+    <published>2020-11-04T19:20:30-05:00</published>
+    <updated>2020-11-04T19:20:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-garlic-granulated-3-kg"/>
+    <title>Belle Donne Spices - Garlic Granulated - 3 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-garlic-granulated-3-kg-558006.jpg?v=1611509019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            51.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Garlic Granulated Jar - 3 Kg</p>
+<p><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.<br></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Spices</s:tag>
+    <s:tag>Granulated</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4818709708874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.99</s:price>
+      <s:sku>246980</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821166522442</id>
+    <published>2020-11-04T18:47:59-05:00</published>
+    <updated>2020-11-04T18:47:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-parsley-flakes-90-g"/>
+    <title>Belle Donne Spices - Parsley Flakes - 90 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-parsley-flakes-90-g-495563.jpg?v=1611509018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Parsley Flakes Jar - 90 g</p>
+<h2 class="headline">Use<span> Parsley Flakes </span>to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flakes</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821166522442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>589603</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821156167754</id>
+    <published>2020-11-04T18:47:58-05:00</published>
+    <updated>2020-11-04T18:47:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-spices-basil-flakes-175-g"/>
+    <title>Belle Donne Spices - Basil Flakes - 175 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Belle Donne Spices</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-spices-basil-flakes-175-g-853140.jpg?v=1611509314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne Spices<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne Spices - Basil Flakes Jar - 175 g</p>
+<h2 class="headline">Use<span> Basil Flakes </span>to season crusts, toppings, and sauces at your restaurant or pizzeria.</h2>
+<p><span data-mce-fragment="1"><strong>Try adding this spice</strong> to salsa, sauces, taco or your authentic cuisines for extra flavor, or allow guests to season their own meals via front-of-house condiment stations. Whether you run a Mexican or Indian restaurant, pizzeria, or upscale bistro, this spice is sure to take your food to the next level.</span></p>
+<p><span data-mce-fragment="1"><strong>Its a pantry staple</strong> that can be used in marinades, tomato-based sauces, and soups. Whether you own a pizzeria, Italian restaurant, or upscale bistro, this spice is the perfect addition to all of your favorite menu items.</span></p>
+<p><span data-mce-fragment="1"><strong>The unique and delicious flavor and aroma</strong> is commonly used in Asian, Middle Eastern, Latin American, and Italian cuisines. However, it also works well with traditional Canadian and American dishes.</span></p>
+<p><span data-mce-fragment="1"><strong>The Available bulk packing of spices</strong> is a cost-efficient option for high-volume kitchens and can easily be portioned into smaller quantities. Dehydrated spices also last longer than fresh ingredients and are easier to store, making them the perfect addition to any busy, high-output kitchen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flakes</s:tag>
+    <s:tag>Herbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821156167754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>589600</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/canned-fruit.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-14T17:00:33-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/2037518565446</id>
+    <published>2021-08-14T17:00:33-04:00</published>
+    <updated>2021-08-14T17:00:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml"/>
+    <title>Dole -  Crushed Pineapple In Juice - 398 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-398-ml-772979.jpg?v=1629003796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dole -  Crushed Pineapple In Juice - 398 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml#product","name":"Dole -  Crushed Pineapple In Juice - 398 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037518565446","sku":"6BM3390","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-398-ml-bulk-mart_181.jpg","description":"Dole - Crushed Pineapple In Juice - 398 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"6BM3390","weight":{"@type":"QuantitativeValue","unitText":"g","value":"398"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml?variant=20604643967046","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:tag>Popular</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037518565446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.89</s:price>
+      <s:sku>22221</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037518336070</id>
+    <published>2021-08-14T17:00:32-04:00</published>
+    <updated>2021-08-14T17:00:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-24-x-398-ml"/>
+    <title>Dole -  Crushed Pineapple In Juice - 24 x 398 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dole</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-24-x-398-ml-360167.jpg?v=1629003796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dole<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dole -  Crushed Pineapple In Juice - 24 x 398 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-24-x-398-ml#product","name":"Dole -  Crushed Pineapple In Juice - 24 x 398 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037518336070","sku":"6BM3389","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-24-x-398-ml-bulk-mart_667.jpg","description":"Dole - Crushed Pineapple In Juice - 24 x 398 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"},"offers":[{"sku":"6BM3389","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.6"},"mpn":"","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-24-x-398-ml?variant=20604643835974","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:tag>Popular</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037518336070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>22220</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854203121738</id>
+    <published>2020-12-19T18:19:35-05:00</published>
+    <updated>2020-12-19T18:19:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-whole-cherries-4-l"/>
+    <title>Trans Alpine - Whole Cherries - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-whole-cherries-4-l-412885.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Trans Alpine - Whole Cherries - 4 L</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries are to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854203121738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>623142</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854199582794</id>
+    <published>2020-12-19T18:19:34-05:00</published>
+    <updated>2020-12-19T18:19:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-2-x-4-l-614314.jpg?v=1611513817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            60.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 2 x 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854199582794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.99</s:price>
+      <s:sku>623140</s:sku>
+      <s:grams>12701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854198829130</id>
+    <published>2020-12-19T18:19:33-05:00</published>
+    <updated>2020-12-19T18:19:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/trans-alpine-maraschino-cherries-with-stems-4-l"/>
+    <title>Trans Alpine - Maraschino Cherries With Stems - 4 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Trans Alpine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/trans-alpine-maraschino-cherries-with-stems-4-l-281488.jpg?v=1611512132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trans Alpine<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Trans Alpine - Maraschino Cherries With Stems - 4 L</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 class="headline">Put the cherry on top of your signature desserts with these maraschino cherries with stems.</h2>
+<p><span>Featuring a vibrant red color, these maraschino cherries are sure to brighten up your menu items and bring something new to the table. These cherries have their stems left on to add a more natural-looking decoration to your offerings. The bulk gallon jar ensures that there's plenty for you to use to match the color scheme of your next holiday display or special event.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>These cherries boast a crisp, sweet flavor and soft texture, making them a must-have topping for your restaurant, bar, ice cream shop, or bakery.</p>
+<h3 class="item-header">Resealable Container</h3>
+<p>To ensure optimum freshness, these cherries are picked at the peak of ripeness and packed in a hermetically sealed gallon container.</p>
+<h3 class="item-header">Versatile Ingredient</h3>
+<p>With their ruby red coloring and plump, juicy flesh, cherries are an excellent ingredient in a variety of desserts and cocktails. They're famous in pineapple upside down cakes, topping off any sundae, or garnishing a cocktail. With their juice, craft Shirley Temples or other cherry juice-based beverages. Plus, the juice can act as a natural food coloring dye, giving a beautiful pink hue to cake batters, housemade ice cream, and even gourmet marshmallows.</p>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Maraschino Cherries</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854198829130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>623141</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801164771402</id>
+    <published>2020-10-12T14:48:05-04:00</published>
+    <updated>2020-10-12T14:48:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-pineapple-slices-6-x-2-84-l"/>
+    <title>Nature&apos;s Taste -  Pineapple Slices - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-pineapple-slices-6-x-284-l-448510.jpg?v=1611511061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Pineapple Slices - 6 x 2.84 L</strong></p>
+<p><span>The sweet, tropical flavor of these pineapple rings is a perfect addition to many meals and fruit-based drinks! Sliced in a classic ring shape, these pineapples make an excellent addition to your diner, cafeteria, or restaurant.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/choice-pineapple-slices-100-oz#product","name":"Choice -  Pineapple Slices - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887469797446","sku":"eSBM351","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/choice-pineapple-slices-100-oz-bulk-mart_450.jpg","description":"Choice - Pineapple Slices - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Choice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"eSBM351","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/choice-pineapple-slices-100-oz?variant=19271319027782","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801164771402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801164214346</id>
+    <published>2020-10-12T14:48:03-04:00</published>
+    <updated>2020-10-12T14:48:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-pineapple-slices-2-84-l"/>
+    <title>Nature&apos;s Taste -  Pineapple Slices - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-pineapple-slices-284-l-583375.jpg?v=1611511123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Pineapple Slices - 2.84 L</strong></p>
+<p><span>The sweet, tropical flavor of these pineapple rings is a perfect addition to many meals and fruit-based drinks! Sliced in a classic ring shape, these pineapples make an excellent addition to your diner, cafeteria, or restaurant.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/choice-pineapple-slices-100-oz#product","name":"Choice -  Pineapple Slices - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887469797446","sku":"eSBM351","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/choice-pineapple-slices-100-oz-bulk-mart_450.jpg","description":"Choice - Pineapple Slices - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Choice"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"eSBM351","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/choice-pineapple-slices-100-oz?variant=19271319027782","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801164214346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801163362378</id>
+    <published>2020-10-12T14:48:02-04:00</published>
+    <updated>2020-10-12T14:48:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-crushed-pineapple-2-84-l"/>
+    <title>Nature&apos;s Taste -  Crushed Pineapple - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-crushed-pineapple-284-l-694987.jpg?v=1611511173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Crushed Pineapple - 2.84 L</strong></p>
+<p><span>Add tropical island flair to your restaurant's menu with these cans of crushed pineapple! Naturally sweetened and subtly sour, the tender texture of crushed pineapple is ideal for a variety of recipes. Instantly enhance profitable menu items with fresh fruit taste, and add a pop of pineapple flavor to any meal or fruit-based drink! High in Vitamin C, the refreshing taste of pineapple is both nutritious and sure to serve up a satisfying sweetness.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml#product","name":"Dole -  Crushed Pineapple In Juice - 398 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037518565446","sku":"6BM3390","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-398-ml-bulk-mart_181.jpg","description":"Dole - Crushed Pineapple In Juice - 398 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"6BM3390","weight":{"@type":"QuantitativeValue","unitText":"g","value":"398"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml?variant=20604643967046","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801163362378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>22222</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801162575946</id>
+    <published>2020-10-12T14:48:00-04:00</published>
+    <updated>2020-10-12T14:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-crushed-pineapple-6-x-2-84-l"/>
+    <title>Nature&apos;s Taste -  Crushed Pineapple - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-crushed-pineapple-6-x-284-l-431416.jpg?v=1611512678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Crushed Pineapple - 6 x 2.84 L</strong></p>
+<p><span>Add tropical island flair to your restaurant's menu with these cans of crushed pineapple! Naturally sweetened and subtly sour, the tender texture of crushed pineapple is ideal for a variety of recipes. Instantly enhance profitable menu items with fresh fruit taste, and add a pop of pineapple flavor to any meal or fruit-based drink! High in Vitamin C, the refreshing taste of pineapple is both nutritious and sure to serve up a satisfying sweetness.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml#product","name":"Dole -  Crushed Pineapple In Juice - 398 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037518565446","sku":"6BM3390","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-crushed-pineapple-in-juice-398-ml-bulk-mart_181.jpg","description":"Dole - Crushed Pineapple In Juice - 398 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"6BM3390","weight":{"@type":"QuantitativeValue","unitText":"g","value":"398"},"mpn":"","priceCurrency":"CAD","price":"2.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-crushed-pineapple-in-juice-398-ml?variant=20604643967046","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801162575946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>22223</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801168375882</id>
+    <published>2020-10-12T13:51:29-04:00</published>
+    <updated>2020-10-12T13:51:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swad-kesar-mango-pulp-3-1-kg"/>
+    <title>Swad - Kesar Mango Pulp - 3.1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-31-kg-827418.jpg?v=1611514430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swad<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Swad - Kesar Mango Pulp - 3.1 Kg</strong></p>
+<p><span>This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g#product","name":"Swad -  Kesar Mango Pulp - 850 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887536021574","sku":"gPBM295","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-850-g-bulk-mart_265.jpg","description":"Swad - Kesar Mango Pulp - 850 g.","category":"FOOD","brand":{"@type":"Brand","name":"Swad"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"gPBM295","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g?variant=19271437746246","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801168375882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>12407</s:sku>
+      <s:grams>3500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4801154023498</id>
+    <published>2020-10-12T13:51:28-04:00</published>
+    <updated>2020-10-12T13:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-mandarin-orange-2-84-l"/>
+    <title>Nature&apos;s Taste - Mandarin Orange - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-mandarin-orange-284-l-481397.jpg?v=1611511116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste - Mandarin Orange - 2.84 L</strong></p>
+<p>Great for appetizers and desserts, these perfectly-sized, flavorful mandarin oranges soak in their naturally sweetened and slightly tangy juice. Slightly smaller and sweeter than traditional oranges, mandarin oranges make an excellent addition to cakes, meats, and stir fries.</p>
+<p>They are packaged in a generously-sized can for easy preparation and superior service. Plus, their canned convenience makes it easy to serve a seasonal favorite year round!</p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Mandarins, Water, Sugar and Citric acid</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maoli-crushed-pineapple-6-x-100-oz#product","name":"Maoli -  Crushed Pineapple  - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887506923590","sku":"CrBM344","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maoli-crushed-pineapple-6-x-100-oz-bulk-mart_947.jpg","description":"Maoli - Crushed Pineapple - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Maoli"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"CrBM344","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"39.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maoli-crushed-pineapple-6-x-100-oz?variant=19271388364870","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4801154023498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>12402</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887536021574</id>
+    <published>2020-10-12T13:51:26-04:00</published>
+    <updated>2020-10-12T13:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zaika-kesar-mango-pulp-850-g"/>
+    <title>Zaika -  Kesar Mango Pulp - 850 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Zaika</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zaika-kesar-mango-pulp-850-g-165382.jpg?v=1611512497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zaika<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Zaika -  Kesar Mango Pulp - 850 g</strong></p>
+<p><span>This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g#product","name":"Swad -  Kesar Mango Pulp - 850 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887536021574","sku":"gPBM295","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-850-g-bulk-mart_265.jpg","description":"Swad - Kesar Mango Pulp - 850 g.","category":"FOOD","brand":{"@type":"Brand","name":"Swad"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"gPBM295","mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/swad-kesar-mango-pulp-850-g?variant=19271437746246","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887536021574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>12408</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4457089728586</id>
+    <published>2020-01-02T14:21:54-05:00</published>
+    <updated>2020-01-02T14:21:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-mandarin-orange-6-x-2-84-l"/>
+    <title>Nature&apos;s Taste - Mandarin Orange - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-mandarin-orange-6-x-284-l-352489.jpg?v=1611510998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste - Mandarin Orange - 6 x 2.84 L</strong></p>
+<p>Great for appetizers and desserts, these perfectly-sized, flavorful mandarin oranges soak in their naturally sweetened and slightly tangy juice. Slightly smaller and sweeter than traditional oranges, mandarin oranges make an excellent addition to cakes, meats, and stir fries.</p>
+<p>They are packaged in a generously-sized can for easy preparation and superior service. Plus, their canned convenience makes it easy to serve a seasonal favorite year round!</p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Mandarins, Water, Sugar and Citric acid</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maoli-crushed-pineapple-6-x-100-oz#product","name":"Maoli -  Crushed Pineapple  - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887506923590","sku":"CrBM344","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maoli-crushed-pineapple-6-x-100-oz-bulk-mart_947.jpg","description":"Maoli - Crushed Pineapple - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Maoli"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"CrBM344","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"39.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maoli-crushed-pineapple-6-x-100-oz?variant=19271388364870","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4457089728586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>12403</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887535923270</id>
+    <published>2018-11-28T15:08:45-05:00</published>
+    <updated>2018-11-28T15:08:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/swad-kesar-mango-pulp-24-x-850-g"/>
+    <title>Swad -  Kesar Mango Pulp - 24 x 850 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Swad</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/swad-kesar-mango-pulp-24-x-850-g-275816.png?v=1611512731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swad<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Swad - Kesar Mango Pulp - 24 x 850 g</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">This is the sweet, golden pulp derived from mangoes. The pulp is extracted from "Kesar" Mangoes, a sugary variety native to north india. It is great by itself or warmed and poured on Ice cream. It also makes a great ice cream shake. It is often used in sweets and yogurt drinks.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:tag>Smoothie Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887535923270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>12406</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887521603654</id>
+    <published>2018-11-28T15:06:18-05:00</published>
+    <updated>2018-11-28T15:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-6-x-100-oz"/>
+    <title>Pantry Shelf - Apple Sauce - Sweetened - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pantry Shelf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-apple-sauce-sweetened-6-x-100-oz-557653.jpg?v=1611513876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantry Shelf<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            41.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pantry Shelf - Apple Sauce - Sweetened - 6 x 2.84 L</strong></p>
+<p><span>With a familiar flavor, perfectly smooth texture, and a touch of added sweetness, this sweetened applesauce delivers fresh-from-the-orchard taste with a homemade feel.</span></p>
+<p><span>It is great for offering as a delicious side dish on your kids' or breakfast menu, in buffet lines, or as an ingredient in popular dishes. Pour it over roasted meats for a sweet autumnal flavor, or use as a healthy alternative to oil and other fats in baked goods.</span></p>
+<p><span>The possibilities are endless! It is packaged in a generously-sized can for easy preparation and great service.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-6-x-2-84-l#product","name":"Pantry Shelf - Apple Sauce - Sweetened - 6 x 2.84 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887521603654","sku":"12BM325","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-apple-sauce-sweetened-6-x-2-84-l-bulk-mart_747.jpg","description":"Pantry Shelf - Apple Sauce - Sweetened - 6 x 2.84 L.","category":"FOOD","brand":{"@type":"Brand","name":"Pantry Shelf"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"12BM325","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"29.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-6-x-2-84-l?variant=19271412482118","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887521603654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.99</s:price>
+      <s:sku>12405</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887521046598</id>
+    <published>2018-11-28T15:06:12-05:00</published>
+    <updated>2018-11-28T15:06:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-peach-halves-2-84-l-1"/>
+    <title>Nature&apos;s Taste -  Peach Halves - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-peach-halves-284-l-308567.jpg?v=1611513816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Peach Halves - 2.84 L</strong></p>
+<p><span>Bring the sweet taste of peaches to your restaurant, bakery, or cafe with this can of peach halves in light syrup. Conveniently skinned and pitted, these peach halves are ready for baking. Whether you're baking traditional peach cobbler or trying out a new recipe for peach crisp to top ice cream, yogurt, or oatmeal, these peach halves are an essential addition to your pantry. Great for purees, glazes, and smoothies, you can create a variety of menu options ranging from drinks to desserts.</span><br><br><span>Already cut in half to save time in the kitchen, these sweet, juicy peaches are packaged in a convenient, generously-sized can for easy preparation and superior service. Indulge your guests in orchard-fresh peach taste with the convenience of canned fruit.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pantry-shelf-peach-halves-2-84-l#product","name":"Pantry Shelf -  Peach Halves - 2.84  L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887521046598","sku":"O7BM334","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-peach-halves-2-84-l-bulk-mart_430.jpg","description":"Pantry Shelf - Peach Halves - 2.84 L.","category":"FOOD","brand":{"@type":"Brand","name":"Pantry Shelf"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"},"offers":[{"sku":"O7BM334","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pantry-shelf-peach-halves-2-84-l?variant=19271411761222","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"9"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887521046598</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>12401</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887520948294</id>
+    <published>2018-11-28T15:06:11-05:00</published>
+    <updated>2018-11-28T15:06:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-peach-halves-2-84-l"/>
+    <title>Nature&apos;s Taste -  Peach Halves - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-peach-halves-284-l-609787.jpg?v=1611514546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Peach Halves - 6 x 2.84 L</strong></p>
+<p><span>Bring the sweet taste of peaches to your restaurant, bakery, or cafe with this can of peach halves in light syrup. Conveniently skinned and pitted, these peach halves are ready for baking. Whether you're baking traditional peach cobbler or trying out a new recipe for peach crisp to top ice cream, yogurt, or oatmeal, these peach halves are an essential addition to your pantry. Great for purees, glazes, and smoothies, you can create a variety of menu options ranging from drinks to desserts.</span><br><br><span>Already cut in half to save time in the kitchen, these sweet, juicy peaches are packaged in a convenient, generously-sized can for easy preparation and superior service. Indulge your guests in orchard-fresh peach taste with the convenience of canned fruit.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pantry-shelf-peach-halves-6-x-2-84-l#product","name":"Pantry Shelf - Peach Halves - 6 x 2.84 L","itemCondition":"https://schema.org/NewCondition","mpn":"PANTO7BM333","sku":"O7BM333","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-peach-halves-6-x-2-84-l-bulk-mart_943.jpg","description":"Pantry Shelf - Peach Halves - 6 x 2.84 L...","category":"FOOD","brand":{"@type":"Brand","name":"Pantry Shelf"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"18"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"17.04"},"offers":[{"name":"Pantry Shelf - Peach Halves - 6 x 2.84 L","sku":"O7BM333","mpn":"PANTO7BM333","@type":"Offer","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pantry-shelf-peach-halves-6-x-2-84-l?variant=19271411597382","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887520948294</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>12400</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887520391238</id>
+    <published>2018-11-28T15:06:04-05:00</published>
+    <updated>2018-11-28T15:06:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-100-oz"/>
+    <title>Pantry Shelf -  Apple Sauce - Sweetened - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pantry Shelf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-apple-sauce-sweetened-100-oz-921431.jpg?v=1611511650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pantry Shelf<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pantry Shelf - Apple Sauce - Sweetened - 2.84 L</strong></p>
+<p><span>With a familiar flavor, perfectly smooth texture, and a touch of added sweetness, this sweetened applesauce delivers fresh-from-the-orchard taste with a homemade feel.</span></p>
+<p><span> It is great for offering as a delicious side dish on your kids' or breakfast menu, in buffet lines, or as an ingredient in popular dishes. Pour it over roasted meats for a sweet autumnal flavor, or use as a healthy alternative to oil and other fats in baked goods.</span></p>
+<p><span> The possibilities are endless! It is packaged in a generously-sized can for easy preparation and great service.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-2-84-l#product","name":"Pantry Shelf - Apple Sauce - Sweetened - 2.84 L","itemCondition":"https://schema.org/NewCondition","mpn":"PANT12BM326","sku":"12BM326","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pantry-shelf-apple-sauce-sweetened-2-84-l-bulk-mart_322.jpg","description":"Pantry Shelf - Apple Sauce - Sweetened - 2.84 L...","category":"FOOD","brand":{"@type":"Brand","name":"Pantry Shelf"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"offers":[{"name":"Pantry Shelf - Apple Sauce - Sweetened - 2.84 L","sku":"12BM326","mpn":"PANT12BM326","@type":"Offer","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pantry-shelf-apple-sauce-sweetened-2-84-l?variant=19271410679878","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887520391238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>12404</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485165638</id>
+    <published>2018-11-28T14:59:23-05:00</published>
+    <updated>2018-11-28T14:59:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/freshe-pineapple-pizza-cuts-100-oz"/>
+    <title>Freshe -  Pineapple Pizza Cuts - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Freshe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/freshe-pineapple-pizza-cuts-100-oz-268079.jpg?v=1611512609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Freshe<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Freshe - Pineapple Pizza Cuts - 100 oz</strong></p>
+<div class="body-copy">
+<div id="productDescriptionText">Our golden-yellow pineapple pieces of the Smooth Cayenne variety are cut into wedge-shaped segments and packed in light syrup.</div>
+<div></div>
+<div class="more-copy">
+<div id="productAdditionalDescriptionText">
+<div class="product-description-sub-layout product-description-sub-layout-2-column product-description-sub-layout-2-column-left-image" id="productContainer">
+<div class="inner">
+<div class="product-details">
+<div class="product-info">
+<div class="nutrition-container">
+<div id="nutritionModal" class="overlay-content">
+<div class="nutrition-info">
+<div class="text-content">
+<div id="nutritionDescription">PINEAPPLE PIECES, WATER, SUGAR, CITRIC ACID. IN LIGHT SYRUP.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="content-placeholder">
+<div data-mobile-image="" data-desktop-image="" class="content-placeholder-sub-layout-3-column content-placeholder-sub-layout-3-column-t availableBrands">
+<div class="columns-container">
+<div class="column triple">
+<div title="" class="content-placeholder-component"></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/freshe-pineapple-pizza-cuts-100-oz#product","name":"Freshe -  Pineapple Pizza Cuts - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887485165638","sku":"eFBM349","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/freshe-pineapple-pizza-cuts-100-oz-bulk-mart_642.jpg","description":"Freshe - Pineapple Pizza Cuts - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Freshe"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"},"offers":[{"sku":"eFBM349","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/freshe-pineapple-pizza-cuts-100-oz?variant=19271349010502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"59"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485165638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>eFBM349</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485067334</id>
+    <published>2018-11-28T14:59:22-05:00</published>
+    <updated>2018-11-28T14:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/freshe-pineapple-pizza-cuts-6-x-100-oz"/>
+    <title>Freshe -  Pineapple Pizza Cuts - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Freshe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/freshe-pineapple-pizza-cuts-6-x-100-oz-314600.jpg?v=1611512851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Freshe<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Freshe - Pineapple Pizza Cuts - 6 x 100 oz</p>
+<div id="productDescriptionText">Our golden-yellow pineapple pieces of the Smooth Cayenne variety are cut into wedge-shaped segments and packed in light syrup.</div>
+<div><br></div>
+<div class="more-copy">
+<div id="productAdditionalDescriptionText">
+<div class="product-description-sub-layout product-description-sub-layout-2-column product-description-sub-layout-2-column-left-image" id="productContainer">
+<div class="inner">
+<div class="product-details">
+<div class="product-info">
+<div class="nutrition-container">
+<div id="nutritionModal" class="overlay-content">
+<div class="nutrition-info">
+<div class="text-content">
+<div id="nutritionDescription">PINEAPPLE PIECES, WATER, SUGAR, CITRIC ACID. IN LIGHT SYRUP.</div>
+</div>
+<div id="nutritionImage"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Pineapple</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485067334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>eFBM348</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476482118</id>
+    <published>2018-11-28T14:58:03-05:00</published>
+    <updated>2018-11-28T14:58:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-fruit-cocktail-2-84-l"/>
+    <title>Nature&apos;s Taste -  Fruit Cocktail - 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-fruit-cocktail-284-l-737795.jpg?v=1611511052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Fruit Cocktail - 2.84 L</strong></p>
+<p><span>Indulge your customers with this fruit cocktail's perfect assortment of sweet and subtly tart classic fruit flavors. This fruit cocktail combines a brightly colored mix of juicy peaches and pears with tropical pineapples, crisp seedless grapes, and sugary cherries in light syrup. This mix of smooth citrus flavors also makes for a sweet end to any meal.</span></p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Peaches, Water, Pears, Grapes, Pineapple, Sugar, Artificially Coloured Cherries and Citrid Acid</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-tropical-fruit-salad-100-oz#product","name":"Dole -  Tropical Fruit Salad - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476482118","sku":"O2BM258","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-tropical-fruit-salad-100-oz-bulk-mart_621.jpg","description":"Dole - Tropical Fruit Salad - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"O2BM258","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-tropical-fruit-salad-100-oz?variant=19271333707846","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476482118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>12398</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476416582</id>
+    <published>2018-11-28T14:58:03-05:00</published>
+    <updated>2018-11-28T14:58:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/natures-taste-fruit-cocktail-6-x-2-84-l"/>
+    <title>Nature&apos;s Taste -  Fruit Cocktail - 6 x 2.84 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nature&apos;s Taste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natures-taste-fruit-cocktail-6-x-284-l-246891.jpg?v=1611511957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nature&#39;s Taste<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nature's Taste -  Fruit Cocktail - 6 x 2.84 L</strong></p>
+<p><span>Indulge your customers with this fruit cocktail's perfect assortment of sweet and subtly tart classic fruit flavors. This fruit cocktail combines a brightly colored mix of juicy peaches and pears with tropical pineapples, crisp seedless grapes, and sugary cherries in light syrup. This mix of smooth citrus flavors also makes for a sweet end to any meal.</span></p>
+<h4 class="black font-weight-bold">Ingredients</h4>
+<p>Peaches, Water, Pears, Grapes, Pineapple, Sugar, Artificially Coloured Cherries and Citrid Acid</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dole-tropical-fruit-salad-6-x-100-oz#product","name":"Dole -  Tropical Fruit Salad - 6 x 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476416582","sku":"O2BM257","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dole-tropical-fruit-salad-6-x-100-oz-bulk-mart_284.jpg","description":"Dole - Tropical Fruit Salad - 6 x 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Dole"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"},"offers":[{"sku":"O2BM257","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"60.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dole-tropical-fruit-salad-6-x-100-oz?variant=19271333609542","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476416582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>12399</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

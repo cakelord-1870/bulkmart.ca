@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/milk-cream.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-05-17T10:23:31-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6585724272714</id>
+    <published>2021-05-17T10:23:31-04:00</published>
+    <updated>2021-05-17T10:23:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/savoy-coconut-cream-400-ml"/>
+    <title>Savoy - Coconut Cream - 400 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Savoy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/savoy-coconut-cream-400-ml-359187.jpg?v=1621286154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savoy<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Savoy - Coconut Cream - 400 ml</p>
+<h2 class="headline">Whisk your guests off to a tropical state of mind when you prepare drinks with this coconut cream!</h2>
+<p><span>Use coconut cream to create delicious recipes. Craft pina colada cocktails using this cream of coconut for the perfect flavor and consistency!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>Allow your patrons to relax and unwind at your hotel or resort with a creamy pineapple and coconut flavored drink. Coconut Cream is great to have on hand at all times for your restaurant. Its smooth consistency is also great for adding a burst of creamy coconut flavor into dessert recipes or fruit smoothies!</p>
+<h3 class="item-header">Convenient Packaging</h3>
+<p>This coconut cream has a convenient packing that's easy to stack and store in your busy kitchen or bar.  Shake well before using and refrigerate after opening.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mae-ploy-coconut-cream-24-x-560-ml#product","name":"Mae Ploy -  Coconut Cream - 24 x 560 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887506432070","sku":"rMBM477","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mae-ploy-coconut-cream-24-x-560-ml-bulk-mart_141.jpg","description":"Mae Ploy - Coconut Cream - 24 x 560 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Mae Ploy"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"rMBM477","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.4"},"mpn":"","priceCurrency":"CAD","price":"98.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mae-ploy-coconut-cream-24-x-560-ml?variant=19271387381830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6585724272714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6585722994762</id>
+    <published>2021-05-17T10:23:30-04:00</published>
+    <updated>2021-05-17T10:23:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/savoy-coconut-cream-24-x-400-ml"/>
+    <title>Savoy - Coconut Cream - 24 x 400 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Savoy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/savoy-coconut-cream-24-x-400-ml-803224.jpg?v=1621286154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Savoy<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            86.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Savoy - Coconut Cream - 24 x 400 ml</p>
+<h2 class="headline">Whisk your guests off to a tropical state of mind when you prepare drinks with this coconut cream!</h2>
+<p><span>Use coconut cream to create delicious recipes. Craft pina colada cocktails using this cream of coconut for the perfect flavor and consistency!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>Allow your patrons to relax and unwind at your hotel or resort with a creamy pineapple and coconut flavored drink. Coconut Cream is great to have on hand at all times for your restaurant. Its smooth consistency is also great for adding a burst of creamy coconut flavor into dessert recipes or fruit smoothies!</p>
+<h3 class="item-header">Convenient Packaging</h3>
+<p>This coconut cream has a convenient packing that's easy to stack and store in your busy kitchen or bar.  Shake well before using and refrigerate after opening.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mae-ploy-coconut-cream-24-x-560-ml#product","name":"Mae Ploy -  Coconut Cream - 24 x 560 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887506432070","sku":"rMBM477","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mae-ploy-coconut-cream-24-x-560-ml-bulk-mart_141.jpg","description":"Mae Ploy - Coconut Cream - 24 x 560 ml.","category":"FOOD","brand":{"@type":"Brand","name":"Mae Ploy"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"rMBM477","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.4"},"mpn":"","priceCurrency":"CAD","price":"98.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mae-ploy-coconut-cream-24-x-560-ml?variant=19271387381830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6585722994762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.99</s:price>
+      <s:sku>220088</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887495913542</id>
+    <published>2020-11-29T18:32:57-05:00</published>
+    <updated>2020-11-29T18:32:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aaa-sour-cream-14-10-l"/>
+    <title>AAA - Sour Cream 14% - 10 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>AAA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AAA-SourCream-10L.jpg?v=1623985918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AAA<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AAA - 14% Sour Cream - 10 L</strong></p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887495913542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>246780</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4821469593674</id>
+    <published>2020-11-22T20:36:37-05:00</published>
+    <updated>2020-11-22T20:36:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/philadelphia-whipped-original-cream-cheese-227-g"/>
+    <title>Philadelphia - Whipped Original Cream Cheese - 227 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Philadelphia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/philadelphia-whipped-original-cream-cheese-227-g-920922.jpg?v=1611513337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Philadelphia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Philadelphia - Whipped Original Cream Cheese - 227 g</strong></p>
+<p><span>Philadelphia Whipped Original Cream Cheese product blends the cool, creamy goodness of Philly with a special whipping process to give you the fluffiest, lightest texture of any cream cheese.</span></p>
+<p><span> Philadelphia Cream Cheese traces its roots back to 1872, and it has been the standard of high quality cream cheese ever since. Today, it still sets the bar high for what cream cheese should be and is perfect for adding creaminess to anything. </span></p>
+<p><span>Philadelphia Whipped Cream Cheese is the perfect spread on toast in the morning or on a cracker as part of your favourite snack – it is also a great addition to any meal, from appetizers to desserts. Make sure you always keep some on hand because everything seems just a little bit better with the creamy taste of Philly.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"> Perfect for spreading on a cracker for a snack and a great addition to appetizers!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• No artificial flavours or colours<br>• Perfect for snacking<br>• Perfect for entertaining</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-real-whipped-cream-m-f-20-225-g#product","name":"Natrel -  Real Whipped Cream M.F 20% - 225 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517573190","sku":"5BM1102","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-real-whipped-cream-m-f-20-225-g-bulk-mart_796.jpg","description":"Natrel - Real Whipped Cream M. F 20% - 225 g.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"},"offers":[{"sku":"5BM1102","weight":{"@type":"QuantitativeValue","unitText":"g","value":"225"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-real-whipped-cream-m-f-20-225-g?variant=19271406157894","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"27"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4821469593674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>246715</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825312526410</id>
+    <published>2020-11-15T13:05:54-05:00</published>
+    <updated>2020-11-15T13:05:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/choice-premium-coconut-cream-kosher-2-84-l"/>
+    <title>Choice - Premium Coconut Cream Kosher - 2.84 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Choice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/choice-premium-coconut-cream-kosher-284-l-643994.jpg?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Choice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            12.99 - 69.99
+            <a href="https://bulkmart.ca/products/choice-premium-coconut-cream-kosher-2-84-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choice - Premium Coconut Cream Kosher - 2.84 L</p>
+<h2 class="headline">Whisk your guests off to a tropical state of mind when you prepare drinks with this coconut cream!</h2>
+<p><span>Use coconut cream to create delicious recipes. Craft pina colada cocktails using this cream of coconut for the perfect flavor and consistency!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>Allow your patrons to relax and unwind at your hotel or resort with a creamy pineapple and coconut flavored drink. Coconut Cream is great to have on hand at all times for your restaurant. Its smooth consistency is also great for adding a burst of creamy coconut flavor into dessert recipes or fruit smoothies!</p>
+<h3 class="item-header">Convenient Packaging</h3>
+<p>This coconut cream has a convenient packing that's easy to stack and store in your busy kitchen or bar.  Shake well before using and refrigerate after opening.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g#product","name":"Cedar -  Coconut Cream - 40 x 170 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887466782790","sku":"CeBM474","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-coconut-cream-40-x-170-g-bulk-mart_898.jpg","description":"Cedar - Coconut Cream - 40 x 170 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cedar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"CeBM474","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6.8"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g?variant=19271310901318","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Cream</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825312526410</id>
+      <title>2.84 L</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>246702</s:sku>
+      <s:grams>2840</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825312526410</id>
+      <title>6 x 2.84 L</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>246703</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825302302794</id>
+    <published>2020-11-15T13:05:53-05:00</published>
+    <updated>2020-11-15T13:05:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tropic-isle-coconut-cream-2-84-l"/>
+    <title>Tropic -  Isle Coconut Cream - 2.84 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Tropic Isle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tropic-isle-coconut-cream-284-l-277798.jpg?v=1611512382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tropic Isle<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.99 - 87.99
+            <a href="https://bulkmart.ca/products/tropic-isle-coconut-cream-2-84-l">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tropic - Isle Coconut Cream - 2.84 L</p>
+<h2 class="headline">Whisk your guests off to a tropical state of mind when you prepare drinks with this coconut cream!</h2>
+<p><span>Use coconut cream to create delicious recipes. Craft pina colada cocktails using this cream of coconut for the perfect flavor and consistency!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>Allow your patrons to relax and unwind at your hotel or resort with a creamy pineapple and coconut flavored drink. Coconut Cream is great to have on hand at all times for your restaurant. Its smooth consistency is also great for adding a burst of creamy coconut flavor into dessert recipes or fruit smoothies!</p>
+<h3 class="item-header">Convenient Packaging</h3>
+<p>This coconut cream has a convenient packing that's easy to stack and store in your busy kitchen or bar.  Shake well before using and refrigerate after opening.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g#product","name":"Cedar -  Coconut Cream - 40 x 170 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887466782790","sku":"CeBM474","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-coconut-cream-40-x-170-g-bulk-mart_898.jpg","description":"Cedar - Coconut Cream - 40 x 170 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cedar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"CeBM474","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6.8"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g?variant=19271310901318","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825302302794</id>
+      <title>2.84 L</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>246706</s:sku>
+      <s:grams>2840</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825302302794</id>
+      <title>6 x 2.84 L</title>
+      <s:price currency="CAD">87.99</s:price>
+      <s:sku>246707</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825300074570</id>
+    <published>2020-11-15T13:05:52-05:00</published>
+    <updated>2020-11-15T13:05:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/grace-coconut-cream-141-g"/>
+    <title>Grace -  Coconut Cream - 141 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Grace</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/grace-coconut-cream-141-g-630899.jpg?v=1611510130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Grace<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.69 - 31.99
+            <a href="https://bulkmart.ca/products/grace-coconut-cream-141-g">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grace -  Coconut Cream - 141 g</p>
+<h2 class="headline">Whisk your guests off to a tropical state of mind when you prepare drinks with this coconut cream!</h2>
+<p><span>Use coconut cream to create delicious recipes. Craft pina colada cocktails using this cream of coconut for the perfect flavor and consistency!</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>Allow your patrons to relax and unwind at your hotel or resort with a creamy pineapple and coconut flavored drink. Coconut Cream is great to have on hand at all times for your restaurant. Its smooth consistency is also great for adding a burst of creamy coconut flavor into dessert recipes or fruit smoothies!</p>
+<h3 class="item-header">Convenient Packaging</h3>
+<p>This coconut cream has a convenient packing that's easy to stack and store in your busy kitchen or bar.  Shake well before using and refrigerate after opening.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g#product","name":"Cedar -  Coconut Cream - 40 x 170 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887466782790","sku":"CeBM474","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cedar-coconut-cream-40-x-170-g-bulk-mart_898.jpg","description":"Cedar - Coconut Cream - 40 x 170 g.","category":"FOOD","brand":{"@type":"Brand","name":"Cedar"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"},"offers":[{"sku":"CeBM474","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6.8"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cedar-coconut-cream-40-x-170-g?variant=19271310901318","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"5"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825300074570</id>
+      <title>141 g</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>141000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825300074570</id>
+      <title>18 x 141 g</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>246704</s:sku>
+      <s:grams>2600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825296732234</id>
+    <published>2020-11-15T01:08:22-05:00</published>
+    <updated>2020-11-15T01:08:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/beatrice-sour-cream-fat-free-500-ml"/>
+    <title>Beatrice - Sour Cream Fat Free - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Beatrice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beatrice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Beatrice - Sour Cream Fat Free - 500 ml</strong></p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/beatrice-sour-cream-14-2-l#product","name":"Beatrice -  Sour Cream 14% - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3921934057542","sku":"3BM1090","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/beatrice-sour-cream-14-2-l-bulk-mart_326.jpg","description":"Beatrice - Sour Cream 14% - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"3BM1090","mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/beatrice-sour-cream-14-2-l?variant=29362355798086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825296732234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>025640</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825295355978</id>
+    <published>2020-11-15T01:08:21-05:00</published>
+    <updated>2020-11-15T01:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elite-sour-cream-14-10-kg"/>
+    <title>Elite Dairy - Sour Cream 14% - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elite-dairy-sour-cream-14-10-kg-196058.png?v=1611509858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elite<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Elite - 14% Sour Cream - 10 Kg</strong></p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825295355978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>025642</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825294307402</id>
+    <published>2020-11-15T01:08:20-05:00</published>
+    <updated>2020-11-15T01:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/elegant-sour-cream-14-10-kg"/>
+    <title>Elegant - Sour Cream 14% - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Elegant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/elegant-sour-cream-14-10-kg-727646.jpg?v=1611510038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Elegant<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Elegant - 14% Sour Cream - 10 Kg</strong></p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825294307402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>025641</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825293815882</id>
+    <published>2020-11-15T01:08:19-05:00</published>
+    <updated>2020-11-15T01:08:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gay-lea-sour-cream-14-10-l"/>
+    <title>Gay Lea - Sour Cream 14%  - 10 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gay Lea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-sour-cream-14-10-l-842967.png?v=1611510194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gay Lea<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            53.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gay Lea - 14% Sour Cream - 10 L</p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825293815882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.99</s:price>
+      <s:sku>025643</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825292832842</id>
+    <published>2020-11-15T01:08:19-05:00</published>
+    <updated>2020-11-15T01:08:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gay-lea-sour-cream-14-lactose-free-450-ml"/>
+    <title>Gay Lea - Sour Cream 14% Lactose Free - 450 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gay Lea</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gay-lea-sour-cream-14-lactose-free-450-ml-667493.jpg?v=1611511238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gay Lea<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Gay Lea - 14% Sour Cream Lactose Free - 450 ml</strong></p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825292832842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>025644</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4825290997834</id>
+    <published>2020-11-15T01:08:18-05:00</published>
+    <updated>2020-11-15T01:08:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/beatrice-sour-cream-14-500-ml"/>
+    <title>Beatrice - Sour Cream 14% - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Beatrice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beatrice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beatrice - Sour Cream 14% - 500 ml</p>
+<p><span><strong>From loaded nachos, to a classic baked potato, to tacos, a dollop of this sour cream enhances any dish!</strong> Featuring a rich, tangy flavor with an ultra-creamy texture, this versatile ingredient pairs as well with your hot, spicy foods as it does with cool, sweet dishes. Not just for use as a topping, sour cream makes an excellent base for a variety of dips and dressings! Whip up an extra-creamy macaroni salad, serve a delicious french onion dip, or create a mouthwatering avocado cream great for dipping or smoothing onto sandwiches. This powerhouse ingredient also adds a tangier, richer flavor to your dessert products; use to lighten the heaviness of cheesecake, or enhance the tenderness of your muffins and Bundt cakes.</span><br><br><span><strong>This grade A sour cream is a valuable addition</strong> to virtually any foodservice establishment. Made with all natural ingredients, its hot fill packaging process and minimal stabilization allows this sour cream to arrive in an "unbroken" state. The perfect ingredient to keep on hand to embellish any dish, provide your guests with high quality, fresh foods like this sour cream.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/beatrice-sour-cream-14-2-l#product","name":"Beatrice -  Sour Cream 14% - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3921934057542","sku":"3BM1090","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/beatrice-sour-cream-14-2-l-bulk-mart_326.jpg","description":"Beatrice - Sour Cream 14% - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"3BM1090","mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/beatrice-sour-cream-14-2-l?variant=29362355798086","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sour Cream</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4825290997834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>025647</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832908378186</id>
+    <published>2020-11-15T00:47:32-05:00</published>
+    <updated>2020-11-15T00:47:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silk-soy-milk-original-dairy-free-1-89-l"/>
+    <title>Silk Soy - Milk Original Dairy-Free - 1.89 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Silk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silk-soy-milk-original-dairy-free-189-l-902610.jpg?v=1611513213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silk Soy - Milk Original Dairy-Free - 1.89 L</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Try Silk® Original Soy Beverage anywhere you enjoy dairy milk—over your cereal, in your coffee or simply by itself. It has as much calcium as dairy milk, and is a good source of wholesome, nutritionally-complete soy protein.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Made with whole organic soybeans<br>• 7 grams of soy protein<br>• As much calcium as dairy milk<br>• Cholesterol-free<br>• Low saturated fat<br>• Free of dairy, lactose, gluten, casein, egg and carrageenan<br>• Verified by the Non-GMO Project’s product verification program<br>• No artificial colours, flavours or funny business</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. </span></p>
+<p><span>Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Soy Milk substitute, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Milk</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832908378186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>1365407</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832908148810</id>
+    <published>2020-11-15T00:47:31-05:00</published>
+    <updated>2020-11-15T00:47:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silk-soy-almond-beverage-vanilla-dairy-free-1-89-l"/>
+    <title>Silk Soy - Almond Beverage Vanilla Dairy-Free - 1.89 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Silk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silk-soy-almond-beverage-vanilla-dairy-free-189-l-358876.jpg?v=1611511954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silk Soy - Almond Vanilla Soy milk- 1.89 L</strong></p>
+<p><span>Unsweetened, unbelievably delish and a source of vitamins, too! High in calcium, our Silk Unsweetened Almond Vanilla Beverage is a carton-ful of oh-my-yummm! Kissed with just a hint of vanilla, you won’t miss the sugar, and you’ll be delighted by the taste.</span></p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes.</span></p>
+<p><span>Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Soy Milk substitute, Dairy-Free Milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Soy Milk</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832908148810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>1365404</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832907493450</id>
+    <published>2020-11-15T00:47:30-05:00</published>
+    <updated>2020-11-15T00:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silk-soy-almond-milk-unsweetened-original-dairy-free-1-89-l"/>
+    <title>Silk Soy - Almond Milk Unsweetened Original Dairy-Free - 1.89 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Silk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silk-soy-almond-milk-unsweetened-original-dairy-free-189-l-446682.jpg?v=1611513397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silk Soy - Almond Milk Beverage Unsweetened Dairy-Free - 1.89 L</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Oh, yes, it is… a mere 30 calories per serving. Enjoy the goodness of Silk® Unsweetened Original Almond Beverage for less than half the calories of skim milk.1 Over cereal, in recipes and more, you won’t miss the sugar, and you’ll be delighted by the taste.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• 30 calories per serving<br>• Absolutely no added sugar<br>• As much calcium as dairy milk<br>• Excellent source of vitamin D<br>• Absolutely no cholesterol<br>• Low saturated fat<br>• Free of dairy, soy, lactose, gluten, casein, egg and MSG<br>• Verified by the Non-GMO Project’s product verification program<br>• No artificial colours, flavours or funny business</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications"></div>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes.</span></p>
+<p><span>Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Soy Milk substitute, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Free Foods</s:tag>
+    <s:tag>Soy Milk</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832907493450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>1365406</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832907231306</id>
+    <published>2020-11-15T00:47:30-05:00</published>
+    <updated>2020-11-15T00:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silk-soy-almond-milk-original-dairy-free-1-89-l"/>
+    <title>Silk Soy - Almond Milk Original Dairy-Free - 1.89 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Silk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silk-soy-almond-milk-original-dairy-free-189-l-443521.jpg?v=1611514369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silk Soy - Almond Milk Beverage Original Dairy-Free - 1.89 L</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">How will you enjoy the smooth taste of Silk® Original Almond Beverage? Probably with a great big smile on your face! At a sensible 60 calories a serving, it’s delicious over cereal, in coffee, as part of a favourite recipe or served straight up in a glass</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• 60 calories per serving<br>• As much calcium as dairy milk<br>• Excellent source of vitamin D<br>• Absolutely no cholesterol<br>• Low saturated fat<br>• Free of dairy, soy, lactose, gluten, casein, egg and MSG<br>• Verified by the Non-GMO Project’s product verification program<br>• No artificial colors, flavors or funny business</div>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes.</span></p>
+<p><span>Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Soy Milk substitute, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>No MSG Foods</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Free Foods</s:tag>
+    <s:tag>Soy Milk</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832907231306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>1365405</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832904478794</id>
+    <published>2020-11-15T00:47:29-05:00</published>
+    <updated>2020-11-15T00:47:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/silk-soy-organic-milk-unsweetened-original-dairy-free-1-89-l"/>
+    <title>Silk Soy - Organic Milk Unsweetened Original Dairy-Free - 1.89 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Silk</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/silk-soy-organic-milk-unsweetened-original-dairy-free-189-l-366823.jpg?v=1611512499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Silk Soy - Organic Milk Unsweetened Original Dairy-Free - 1.89 L</strong></p>
+<p>• Made from whole organic soybeans<br>• Absolutely no added sugar<br>• 8 grams of soy protein<br>• Excellent source of calcium<br>• 100% cholesterol-free<br>• Low saturated fat<br>• Free of dairy, lactose, gluten, casein, egg and carrageenan<br>• Verified by the Non-GMO Project’s product verification program<br>• No artificial colours, flavours</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Soy Milk substitute, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>Soy Milk</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832904478794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.59</s:price>
+      <s:sku>1365408</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832895041610</id>
+    <published>2020-11-15T00:47:28-05:00</published>
+    <updated>2020-11-15T00:47:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-ultra-pur-1-chocolate-milk-1-5-l"/>
+    <title>Lactantia - Ultra Pur 1% Chocolate Milk - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-ultra-pur-1-chocolate-milk-15-l-384587.jpg?v=1611512735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lactantia - Ultra Pur 1% Chocolate Milk - 1.5 L</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Milk</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832895041610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>1365402</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832894484554</id>
+    <published>2020-11-15T00:47:27-05:00</published>
+    <updated>2020-11-15T00:47:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-purfilter-0-skim-milk-1-5-l"/>
+    <title>Lactantia - PurFilter 0% Skim Milk - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-purfilter-0-skim-milk-15-l-713550.png?v=1611512372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - PurFilter 0% Skim Milk - 1.5 L</strong></p>
+<p><span>With Lactantia PūrFiltre milk, every drop of milk is carefully filtered to provide a smooth, pure taste that stays fresher longer than pasteurized milk* – naturally. Lactantia PūrFiltre milk contains no preservatives, like all regular milk.</span></p>
+<p>Lactantia milk products have always used only milk from Canadian farms. Today, that is still the case. Nothing has changed and we are proud to support Canadian farms.</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832894484554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.79</s:price>
+      <s:sku>1365476</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832894255178</id>
+    <published>2020-11-15T00:47:27-05:00</published>
+    <updated>2020-11-15T00:47:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-purfiltre-1-milk-1-5-l"/>
+    <title>Lactantia - PurFiltre 1% Milk - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-purfiltre-1-milk-15-l-966682.png?v=1611511355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - PurFilter 1% Milk - 1.5 L</strong></p>
+<p><span>With Lactantia PūrFiltre milk, every drop of milk is carefully filtered to provide a smooth, pure taste that stays fresher longer than pasteurized milk* – naturally. Lactantia PūrFiltre milk contains no preservatives, like all regular milk.</span></p>
+<p>Lactantia milk products have always used only milk from Canadian farms. Today, that is still the case. Nothing has changed and we are proud to support Canadian farms.</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832894255178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.79</s:price>
+      <s:sku>1365477</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832893698122</id>
+    <published>2020-11-15T00:47:26-05:00</published>
+    <updated>2020-11-15T00:47:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-purfiltre-2-milk-1-5-l"/>
+    <title>Lactantia - PurFiltre 2% Milk - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-purfiltre-2-milk-15-l-326171.png?v=1611513817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - PurFilter 2% Milk - 1.5 L</strong></p>
+<p><span>With Lactantia PūrFiltre milk, every drop of milk is carefully filtered to provide a smooth, pure taste that stays fresher longer than pasteurized milk* – naturally. Lactantia PūrFiltre milk contains no preservatives, like all regular milk.</span></p>
+<p>Lactantia milk products have always used only milk from Canadian farms. Today, that is still the case. Nothing has changed and we are proud to support Canadian farms.</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832893698122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.79</s:price>
+      <s:sku>1365478</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832893403210</id>
+    <published>2020-11-15T00:47:25-05:00</published>
+    <updated>2020-11-15T00:47:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-purfiltre-3-25-milk-1-5-l"/>
+    <title>Lactantia - PurFiltre 3.25% Milk - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-purfiltre-325-milk-15-l-352475.png?v=1611513878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - PurFilter  3.25% Milk - 1.5 L</strong></p>
+<p><span>With Lactantia PūrFiltre milk, every drop of milk is carefully filtered to provide a smooth, pure taste that stays fresher longer than pasteurized milk* – naturally. Lactantia PūrFiltre milk contains no preservatives, like all regular milk.</span></p>
+<p>Lactantia milk products have always used only milk from Canadian farms. Today, that is still the case. Nothing has changed and we are proud to support Canadian farms.</p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832893403210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.79</s:price>
+      <s:sku>1365401</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832888258634</id>
+    <published>2020-11-15T00:47:24-05:00</published>
+    <updated>2020-11-15T00:47:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-lactose-free-skim-milk-0-1-5-l"/>
+    <title>Lactantia - Lactose Free Skim Milk 0% - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-lactose-free-skim-milk-0-15-l-824405.png?v=1611513513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Lactose Free Skim Milk 0% - 1.5 L</strong></p>
+<p><span>Rediscover the fresh taste of dairy that’s easy to digest and easy to love. With Lactantia Lactose Free dairy products, get the delicious taste you know and love without the discomfort.</span></p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Lactose Free Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832888258634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>1365472</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832888029258</id>
+    <published>2020-11-15T00:47:23-05:00</published>
+    <updated>2020-11-15T00:47:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lactantia-lactose-free-milk-1-1-5-l"/>
+    <title>Lactantia - Lactose Free Milk 1% - 1.5 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lactantia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lactantia-lactose-free-milk-1-15-l-836420.png?v=1611510455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lactantia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lactantia - Lactose Free Milk 1% - 1.5 L</strong></p>
+<p><span>Rediscover the fresh taste of dairy that’s easy to digest and easy to love. With Lactantia Lactose Free dairy products, get the delicious taste you know and love without the discomfort.</span></p>
+<p><span><strong>Serve your guests the wholesome flavor</strong> of this milk with their meals. </span><br><span>This grade A milk is ultra-pasteurized to extend its shelf-life, making it perfect for supplying in your cafe, hotel breakfast bar, or bakery. Serve the milk plain with your patron's breakfast, pour over cereal, or use to create specialty lattes and teas.</span></p>
+<p><span><strong>It's also great for using in smoothies</strong> along with fresh cut fruit and organic yogurt to make an energy-boosting, on-the-go drink. From bakeries to fine dining establishments, milk and milk products are used to enhance almost any dish or dessert. The staple of any fridge or freezer, dairy products are essential for baking, cooking, and complementing your freshly prepared dishes. Our wide variety of milk, includes homo whole milk, skim, partly skimmed, Lactose free milk, Chocolate, Strawberry, Caramel milkshakes are important ingredients to stock at your breakfast, diner, restaurant, or bakery.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l#product","name":"Natrel -  Lactose Free Skim  0 % M.F  Milk - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887517540422","sku":"1BM1066","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/natrel-lactose-free-skim-0-m-f-milk-2-l-bulk-mart_137.jpg","description":"Natrel - Lactose Free Skim % M. F Milk - 2 L.","category":"FOOD","brand":{"@type":"Brand","name":"Natrel"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"},"offers":[{"sku":"1BM1066","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/natrel-lactose-free-skim-0-m-f-milk-2-l?variant=19271406092358","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"39"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lactose Free</s:tag>
+    <s:tag>Lactose Free Milk</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832888029258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>1365479</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

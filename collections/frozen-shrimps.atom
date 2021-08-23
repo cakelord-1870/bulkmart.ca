@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-shrimps.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T19:12:26-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4867618144330</id>
+    <published>2020-12-30T19:12:26-05:00</published>
+    <updated>2020-12-30T19:12:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-black-tiger-shrimp-p-d-26-30-count-2-lbs"/>
+    <title>Toppits - Black Tiger Shrimp P&amp;D 26-30 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-black-tiger-shrimp-pd-26-30-count-2-lbs-954218.jpg?v=1611513699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 26/30 Black Tiger Shrimp Peeled and Deveined - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tiger Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867618144330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>52033</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867615785034</id>
+    <published>2020-12-30T19:12:25-05:00</published>
+    <updated>2020-12-30T19:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-black-tiger-shrimp-p-d-21-25-count-2-lbs"/>
+    <title>Toppits - Black Tiger Shrimp P&amp;D 21-25 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-black-tiger-shrimp-pd-21-25-count-2-lbs-673721.jpg?v=1611512193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 21/25 Black Tiger Shrimp Peeled and Deveined - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tiger Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867615785034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>52032</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867612409930</id>
+    <published>2020-12-30T19:12:24-05:00</published>
+    <updated>2020-12-30T19:12:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-black-tiger-shrimp-p-d-8-12-count-2-lbs"/>
+    <title>Toppits - Black Tiger Shrimp P&amp;D 8-12 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-black-tiger-shrimp-pd-8-12-count-2-lbs-523413.jpg?v=1611513815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Black Tiger Shrimp Peeled &amp; Deveined 8/12 Count - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tiger Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867612409930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>52034</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867604774986</id>
+    <published>2020-12-30T19:12:24-05:00</published>
+    <updated>2020-12-30T19:12:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-cooked-salad-shrimp-100-200-count-908-g"/>
+    <title>Ocean Jewel - Cooked Salad Shrimp 100-200 Count - 908 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-cooked-salad-shrimp-100-200-count-908-g-802727.jpg?v=1611511177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 100/200 CT Cooked Salad Shrimp - 908 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooked Shrimps</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867604774986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52013</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867604021322</id>
+    <published>2020-12-30T19:12:23-05:00</published>
+    <updated>2020-12-30T19:12:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-black-tiger-shrimp-p-d-16-20-count-2-lbs"/>
+    <title>Toppits - Black Tiger Shrimp P&amp;D 16-20 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-black-tiger-shrimp-pd-16-20-count-2-lbs-713398.jpg?v=1611514128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 16/20 CT Black Tiger Shrimp Peeled and Deveined - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Tiger Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867604021322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>52031</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867602415690</id>
+    <published>2020-12-30T19:12:22-05:00</published>
+    <updated>2020-12-30T19:12:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-white-shrimp-easy-peel-16-20-ct-400-g"/>
+    <title>Ocean Jewel - White Shrimp Easy Peel 16/20 CT - 400 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-white-shrimp-easy-peel-1620-ct-400-g-227514.jpg?v=1611511430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 16/20 CT Easy Peel White Shrimp - 400 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867602415690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>52022</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867601334346</id>
+    <published>2020-12-30T19:12:22-05:00</published>
+    <updated>2020-12-30T19:12:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-cooked-white-shrimp-p-d-tail-on-16-20-count-2-lbs"/>
+    <title>Ocean Jewel - Cooked White Shrimp P&amp;D Tail On 16-20 Count- 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-cooked-white-shrimp-pd-tail-on-16-20-count-2-lbs-832060.jpg?v=1611511591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 16-20 CT Cooked White Shrimp P&amp;D Tail On - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooked Shrimps</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867601334346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>52015</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867600449610</id>
+    <published>2020-12-30T19:12:21-05:00</published>
+    <updated>2020-12-30T19:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-pacific-white-shrimp-p-d-tail-on-13-15-count-5-x-2-lbs"/>
+    <title>Ocean Jewel - Pacific White Shrimp P&amp;D Tail On 13-15 Count - 5 x 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-pacific-white-shrimp-pd-tail-on-13-15-count-5-x-2-lbs-768270.jpg?v=1611513876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 13/15 CT Pacific White Shrimp P&amp;D Tail On - 5 x 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867600449610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>52017</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867599433802</id>
+    <published>2020-12-30T19:12:21-05:00</published>
+    <updated>2020-12-30T19:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-pacific-white-shrimp-p-d-tail-on-13-15-count-2-lbs"/>
+    <title>Ocean Jewel - Pacific White Shrimp P&amp;D Tail On 13-15 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-pacific-white-shrimp-pd-tail-on-13-15-count-2-lbs-458675.jpg?v=1611512377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 13-15 CT Pacific White Shrimp P&amp;D Tail On - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867599433802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>52016</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867597729866</id>
+    <published>2020-12-30T19:12:20-05:00</published>
+    <updated>2020-12-30T19:12:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-pacific-white-shrimp-easy-peel-13-15-count-20-x-1-lb"/>
+    <title>Ocean Prime - Pacific White Shrimp Easy Peel 13-15 Count - 20 x 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-pacific-white-shrimp-easy-peel-13-15-count-20-x-1-lb-925582.png?v=1611511535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 13/15 CT Easy Peel Pacific White Shrimp Shell On - 20 x 1 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867597729866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>52026</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867596451914</id>
+    <published>2020-12-30T19:12:19-05:00</published>
+    <updated>2020-12-30T19:12:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-pacific-white-shrimp-easy-peel-13-15-count-1-lb"/>
+    <title>Ocean Prime - Pacific White Shrimp Easy Peel 13-15 Count - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-pacific-white-shrimp-easy-peel-13-15-count-1-lb-392404.png?v=1611511429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 13/15 CT Ez Peel Pacific White Shrimp Shell On - 1 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867596451914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>52025</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867595108426</id>
+    <published>2020-12-30T19:12:19-05:00</published>
+    <updated>2020-12-30T19:12:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-pacific-white-shrimp-easy-peel-16-20-count-20-x-1-lb"/>
+    <title>Ocean Prime - Pacific White Shrimp Easy Peel 16-20 Count - 20 x 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-pacific-white-shrimp-easy-peel-16-20-count-20-x-1-lb-998534.png?v=1611514782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            239.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 16/20 CT Easy Peel Pacific White Shrimp Shell On - 20 x 1 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867595108426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.99</s:price>
+      <s:sku>52028</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867594813514</id>
+    <published>2020-12-30T19:12:18-05:00</published>
+    <updated>2020-12-30T19:12:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-prime-pacific-white-shrimp-easy-peel-16-20-count-1-lb"/>
+    <title>Ocean Prime - Pacific White Shrimp Easy Peel 16-20 Count - 1 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Prime</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-prime-pacific-white-shrimp-easy-peel-16-20-count-1-lb-222258.png?v=1611512138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Prime<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Prime - 16/20 CT Easy Peel Pacific White Shrimp Shell On - 1 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867594813514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>52027</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867593437258</id>
+    <published>2020-12-30T19:12:18-05:00</published>
+    <updated>2020-12-30T19:12:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-20-x-200-g"/>
+    <title>Ocean Harvest - Breaded Torpedo Shrimp 21-25 Count - 20 x 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-20-x-200-g-504293.jpg?v=1611513941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Harvest - 21/25 CT Breaded Torpedo Shrimp - 200 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867593437258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>52010</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867593044042</id>
+    <published>2020-12-30T19:12:17-05:00</published>
+    <updated>2020-12-30T19:12:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-200-g"/>
+    <title>Ocean Harvest - Breaded Torpedo Shrimp 21-25 Count - 200 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-harvest-breaded-torpedo-shrimp-21-25-count-200-g-428066.jpg?v=1611511357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Harvest<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Harvest - 21-25 CT Breaded Torpedo Shrimp - 200 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867593044042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>52011</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867592355914</id>
+    <published>2020-12-30T19:12:16-05:00</published>
+    <updated>2020-12-30T19:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-tempura-shrimp-21-25-count-2-lbs"/>
+    <title>Ocean Jewel - Tempura Shrimp 21-25 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-tempura-shrimp-21-25-count-2-lbs-111323.jpg?v=1611511652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 21-25 CT Tempura Battered Raw Pacific White Shrimp - 908 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p>
+<p class="no-margin">Hand-dipped in an authentic Tempura-Style batter, these lightly coated 21-25 count raw Shrimp offer a convenient way to add trendy Asian-inspired dishes to your menu. 4 Hand-dipped to ensure consistent batter coverage and texture, no prep required 4 Stretched shape and large size delivers excellent plate coverage 4 Great as an appetizer, in sushi rolls, or on top of an Asian-inspired salad entrée</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867592355914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>52020</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867591307338</id>
+    <published>2020-12-30T19:12:16-05:00</published>
+    <updated>2020-12-30T19:12:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-tropicolada-coconut-breaded-shrimp-14-15-count-2-5-lbs"/>
+    <title>Toppits - Tropicolada Coconut Breaded Shrimp 14-15 Count - 2.5 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-tropicolada-coconut-breaded-shrimp-14-15-count-25-lbs-672090.jpg?v=1611514371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - 14/15 CT Tropicolada Coconut Breaded Shrimp - 2.5 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867591307338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>52038</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867590160458</id>
+    <published>2020-12-30T19:12:15-05:00</published>
+    <updated>2020-12-30T19:12:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-breaded-butterfly-shrimp-21-25-count-2-lbs"/>
+    <title>Ocean Jewel - Breaded Butterfly Shrimp 21-25 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-breaded-butterfly-shrimp-21-25-count-2-lbs-327426.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 21/25 CT Raw Pacific White Shrimp Tail On Breaded Butterfly Shrimp - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867590160458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52012</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867589701706</id>
+    <published>2020-12-30T19:12:14-05:00</published>
+    <updated>2020-12-30T19:12:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oceanic-fisheries-argentina-pink-shrimp-easy-peel-16-20-count-2-lbs"/>
+    <title>Oceanic Fisheries - Argentina Pink Shrimp Easy Peel 16-20 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Oceanic Fisheries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oceanic-fisheries-argentina-pink-shrimp-easy-peel-16-20-count-2-lbs-905018.jpg?v=1611511600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oceanic Fisheries<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oceanic Fisheries - 16/20 CT Argentinian Ez Peel Shrimp, Pink Shrimp - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pink Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867589701706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>52029</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867589275722</id>
+    <published>2020-12-30T19:12:14-05:00</published>
+    <updated>2020-12-30T19:12:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/oceanic-fisheries-argentina-pink-shrimp-easy-peel-21-25-count-1lbs"/>
+    <title>Oceanic Fisheries - Argentina Pink Shrimp Easy Peel 21-25 Count - 1Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Oceanic Fisheries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/oceanic-fisheries-argentina-pink-shrimp-easy-peel-21-25-count-1lbs-600310.jpg?v=1611511126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Oceanic Fisheries<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Oceanic Fisheries - 21/25 CT Raw Argentinian Eze Peel Pink Shrimp - 1 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pink Shrimps</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867589275722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>52030</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867587047498</id>
+    <published>2020-12-30T19:12:13-05:00</published>
+    <updated>2020-12-30T19:12:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-pacific-white-shrimp-p-d-tail-on-26-30-count-5-x-2-lbs"/>
+    <title>Ocean Jewel - Pacific White Shrimp P&amp;D Tail On 26-30 Count - 5 x 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-pacific-white-shrimp-pd-tail-on-26-30-count-5-x-2-lbs-635089.jpg?v=1611514368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            101.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 26/30 CT Pacific White Shrimp P&amp;D Tail On - 5 x 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867587047498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku>52019</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867585835082</id>
+    <published>2020-12-30T19:12:13-05:00</published>
+    <updated>2020-12-30T19:12:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-pacific-white-shrimp-p-d-tail-on-26-30-count-2-lbs"/>
+    <title>Ocean Jewel - Pacific White Shrimp P&amp;D Tail On 26-30 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-pacific-white-shrimp-pd-tail-on-26-30-count-2-lbs-744721.jpg?v=1611513151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 26-30 CT Raw Pacific White Shrimp P&amp;D Tail On - 2 Lbs</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shrimps</s:tag>
+    <s:tag>White Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867585835082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>52018</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867582591050</id>
+    <published>2020-12-30T19:12:12-05:00</published>
+    <updated>2020-12-30T19:12:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-jumbo-cooked-shrimp-platter-with-cocktail-sauce-425-g"/>
+    <title>Toppits - Jumbo Cooked Shrimp Platter With Cocktail Sauce - 425 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-jumbo-cooked-shrimp-platter-with-cocktail-sauce-425-g-859660.png?v=1611514548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - Jumbo Cooked Shrimp Platter With Cocktail Sauce - 425 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooked Shrimps</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867582591050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>52036</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867581542474</id>
+    <published>2020-12-30T19:12:11-05:00</published>
+    <updated>2020-12-30T19:12:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ocean-jewel-ultimate-coconut-shrimp-13-15-count-2-lbs"/>
+    <title>Ocean Jewel - Ultimate Coconut Shrimp 13-15 Count - 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ocean Jewel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ocean-jewel-ultimate-coconut-shrimp-13-15-count-2-lbs-468731.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ocean Jewel<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ocean Jewel - 13-15 CT Raw Uncooked Breaded Ultimate Coconut Shrimp - 2 Lb</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867581542474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>52021</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867574530122</id>
+    <published>2020-12-30T19:12:11-05:00</published>
+    <updated>2020-12-30T19:12:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/toppits-shrimp-skewers-unseasoned-p-d-tail-on-31-40-count-756-g"/>
+    <title>Toppits - Shrimp Skewers Unseasoned P&amp;D Tail On 31-40 Count - 756 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Toppits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/toppits-shrimp-skewers-unseasoned-pd-tail-on-31-40-count-756-g-843106.jpg?v=1611513813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Toppits<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Toppits - PTO Shrimp Skewers Unseasoned Tail On -12 Skewers - 756 g</strong></p>
+<p>Whether you operate a catering service or a seafood-serving restaurant, we have a wide assortment of wholesale shrimp that is fit for your needs. Shrimp are an excellent appetizer with cocktail sauce, or you can create delectable shrimp scampi as a hearty entree. With their mild flavor that blends with a number of diversely flavored ingredients, shrimp are a versatile protein to experiment with.</p>
+<p class="no-margin">If you operate a seafood restaurant or catering company, wholesale shrimp are an ideal option to feature as appetizers or even entrees. Shrimp boast a mild flavor that goes with many different flavored ingredients, so you can create a number of different delicious dishes. We carry a range of wholesale shrimps, including cooked or raw shrimp along with shrimp in different sizes</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Battered Snacks</s:tag>
+    <s:tag>Seafood Appetizers</s:tag>
+    <s:tag>Shrimps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867574530122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>52037</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/extracts-emulsion.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-06-29T12:37:13-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6604444958794</id>
+    <published>2021-06-29T12:37:13-04:00</published>
+    <updated>2021-06-29T12:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-artificial-vanilla-extract-dark-1-l"/>
+    <title>Belle Donne - Artificial Vanilla Extract Dark - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-artificial-vanilla-extract-dark-1-l-207312.jpg?v=1625048274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Artificial Vanilla Extract - 1 L</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6604444958794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.49</s:price>
+      <s:sku>080125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827685945418</id>
+    <published>2021-06-29T12:37:13-04:00</published>
+    <updated>2021-06-29T12:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dawn-orange-emulsion-3050-4-l"/>
+    <title>Dawn - Orange Emulsion #3050 - 4 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dawn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dawn-orange-emulsion-3050-4-l-740957.jpg?v=1625048929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dawn<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emulsion - Orange Emulsion #3050 - 4 L</p>
+<p><span>Add a bright, fresh-picked orange flavor to your baked goods and frostings orange bakery emulsion! Preferred by pastry chefs and bakers for their superior results, emulsions are flavorings that are suspended in a water base to deliver richer, more flavorful baked goods than alcohol-based extracts. Because water does not evaporate as quickly as alcohol when exposed to heat, this emulsion will retain its strength and won't bake-out during the baking process, resulting in foods with a richer citrus flavor and aroma. Perfect for high-heat and no-bake applications, use this versatile emulsion to bring delicious flavor to cakes, cookies, and sweet breads as well as frostings, glazes, fondants, fillings, and cream centers. You can also use it to create signature orangeades, iced teas, and cocktails for your specialty beverage menu! No matter how you choose to use it, this emulsion is sure to become an essential ingredient in your kitchen.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Emulsion</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827685945418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>05110</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812730269770</id>
+    <published>2021-06-29T12:37:12-04:00</published>
+    <updated>2021-06-29T12:37:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-artificial-vanilla-extract-clear-1-l"/>
+    <title>Belle Donne - Artificial Vanilla Extract Clear - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-artificial-vanilla-extract-clear-1-l-361025.jpg?v=1625048272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Artificial Vanilla Extract Clear - 1 L</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this flavor is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812730269770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.49</s:price>
+      <s:sku>080125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6538175086666</id>
+    <published>2021-03-18T19:24:56-04:00</published>
+    <updated>2021-03-18T19:24:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nielsen-massey-madagascar-bourbon-pure-vanilla-extract-236-ml-each"/>
+    <title>Nielsen Massey - Madagascar Bourbon Pure Vanilla Extract 236 ml - Each</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Nielsen Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nielsen-massey-madagascar-bourbon-pure-vanilla-extract-236-ml-each-669096.jpg?v=1616133192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nielsen Massey<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nelsen Massey - Madagascar Bourbon Pure Vanilla Extract 236ml - 8oz - Each</p>
+<p><span><strong>Madagascar Bourbon Pure Vanilla Extract</strong> is produced from premium, hand-selected beans cultivated in Madagascar, the world’s leading supplier of the highest quality vanilla. Our proprietary cold extraction process gently draws out and preserves the vanilla’s more than 300 flavor compounds, resulting in a flavor profile that’s full, sweet, creamy and mellow with velvety after-tones. Madagascar Bourbon Pure Vanilla Extract is the perfect all-purpose vanilla for its flavor and consistency in both hot and cold applications.</span></p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Vanilla Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6538175086666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku>551101</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6538174627914</id>
+    <published>2021-03-18T19:24:56-04:00</published>
+    <updated>2021-03-18T19:24:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nielsen-massey-madagascar-bourbon-pure-vanilla-extract-944-ml-each"/>
+    <title>Nielsen Massey - Madagascar Bourbon Pure Vanilla Extract 944 ml - Each</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Nielsen Massey</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nielsen-massey-madagascar-bourbon-pure-vanilla-extract-944-ml-each-507995.jpg?v=1616133191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nielsen Massey<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nelsen Massey - Madagascar Bourbon Pure Vanilla Extract 944ml - 32Oz</p>
+<p><strong>Madagascar Bourbon Pure Vanilla Extract</strong><span> is produced from premium, hand-selected beans cultivated in Madagascar, the world’s leading supplier of the highest quality vanilla. Our proprietary cold extraction process gently draws out and preserves the vanilla’s more than 300 flavor compounds, resulting in a flavor profile that’s full, sweet, creamy and mellow with velvety after-tones. Madagascar Bourbon Pure Vanilla Extract is the perfect all-purpose vanilla for its flavor and consistency in both hot and cold applications.</span></p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Vanilla Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6538174627914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>551100</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812734201930</id>
+    <published>2020-10-23T14:04:41-04:00</published>
+    <updated>2020-10-23T14:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-lemon-extract-1-l"/>
+    <title>Belle Donne - Pure Lemon Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Lemon Extract - 1 L</p>
+<p><span><strong>For a smooth, Lemon flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Lemon flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Lemon Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812734201930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>080545</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812733612106</id>
+    <published>2020-10-23T14:04:39-04:00</published>
+    <updated>2020-10-23T14:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-coconut-extract-1-l"/>
+    <title>Belle Donne - Pure Coconut Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Coconut Extract - 1 L</p>
+<p><span><strong>For a smooth, Coconut flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Coconut flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Coconut Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812733612106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>08054</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812733284426</id>
+    <published>2020-10-23T14:04:38-04:00</published>
+    <updated>2020-10-23T14:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-almond-extract-1-l"/>
+    <title>Belle Donne - Pure Almond Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Almond Extract - 1 L</p>
+<p><span><strong>For a smooth, nutty almond flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This almond flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Almond Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812733284426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>080326</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812732235850</id>
+    <published>2020-10-23T14:04:37-04:00</published>
+    <updated>2020-10-23T14:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-vanilla-extract-125-ml"/>
+    <title>Belle Donne - Pure Vanilla Extract - 125 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-pure-vanilla-extract-125-ml-715019.jpg?v=1624980535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Vanilla Extract - 125 ml</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Vanilla Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812732235850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>080547</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812731285578</id>
+    <published>2020-10-23T14:04:35-04:00</published>
+    <updated>2020-10-23T14:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-rum-extract-1-l"/>
+    <title>Belle Donne - Rum Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-rum-extract-1-l-288828.jpg?v=1611509074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Rum Extract - 1 L</p>
+<p><span><strong>For a smooth, Rum flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Rum flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812731285578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>080354</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812731154506</id>
+    <published>2020-10-23T14:04:34-04:00</published>
+    <updated>2020-10-23T14:04:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-pure-vanilla-extract-1-l"/>
+    <title>Belle Donne - Pure Vanilla Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/belle-donne-pure-vanilla-extract-1-l-962252.jpg?v=1611509374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Pure Vanilla Extract - 1 L</p>
+<p><span><strong>For a smooth, Vanilla flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Vanilla flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:tag>Pure Vanilla Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812731154506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>080454</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812730400842</id>
+    <published>2020-10-23T14:04:32-04:00</published>
+    <updated>2020-10-23T14:04:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-peppermint-extract-125-g"/>
+    <title>Belle Donne - Peppermint Extract - 125 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BelleDonne-PeppermintExtract-125g.jpg?v=1624066187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            4.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Belle Donne - Peppermint Extract - 125 g</p>
+<p><span><strong>For a smooth, Peppermint flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This Peppermint flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812730400842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.69</s:price>
+      <s:sku>080215</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812729811018</id>
+    <published>2020-10-23T14:04:29-04:00</published>
+    <updated>2020-10-23T14:04:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/belle-donne-almond-extract-1-l"/>
+    <title>Belle Donne - Almond Extract - 1 L</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Belle Donne</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BelleDonne-AlmondExtract-1L.jpg?v=1624066594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Belle Donne<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Belle Donne - Almond Extract - 1 L</strong></p>
+<p><span><strong>For a smooth, nutty almond flavor,</strong> Perfect for livening up your cooking and baking alike, this extract is just the ingredient to entice the taste buds and mix up the menu! Use it to create a classic New York-style cheesecake, fruit parfaits to add an element of nuttiness, shortbread crusts, fruit bars, and various desserts for fall baking, or use to add flavor to your cake batter, sweet icings, candies, and other confections.</span><br><br><span><strong>This almond flavor allows you to create</strong> mouthwatering, dietary-friendly menu items that all of your guests can enjoy! Its versatility makes it a must-have for virtually any commercial kitchen or bakery, and its beautiful flavor makes it an irresistible addition that customers are bound to love. Plus, with a flip top closure, you can dispense a couple drops, or unscrew the cap to measure with your teaspoons when making recipes in bulk.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml#product","name":"Sac - Banana Essence - 12 x 25 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887543132230","sku":"BaBM816","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sac-banana-essence-12-x-25-ml-bulk-mart_842.jpg","description":"Sac - Banana Essence - 12 x 25 ml.","category":"FOOD","brand":{"@type":"Brand","name":"SAC"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BaBM816","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sac-banana-essence-12-x-25-ml?variant=19271449280582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extracts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812729811018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>080211</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

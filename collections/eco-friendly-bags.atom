@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/eco-friendly-bags.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-16T19:00:44-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4878571503690</id>
+    <published>2021-01-16T19:00:44-05:00</published>
+    <updated>2021-01-16T19:00:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-24-x-22-utility-white-garbage-bags-500-case"/>
+    <title>Full Circle - 24&quot; x 22&quot; Utility White Garbage Bags- 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-24-x-22-utility-white-garbage-bag-500case-403885.jpg?v=1611509975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose this 7-10 gallon trash bag for an economical, strong solution to waste collection.<br data-mce-fragment="1">Trusted brand 7-10 gallon trash bag as a solution to all of your waste management needs!<br data-mce-fragment="1"><br data-mce-fragment="1">Perfect Utility Bag for use in the office, bedroom and washroom.<br data-mce-fragment="1"><br data-mce-fragment="1">Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.<br data-mce-fragment="1"><br data-mce-fragment="1">This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</p>
+<p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are black in color and they come in various sizes and strength</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:tag>White Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878571503690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>551245</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878570750026</id>
+    <published>2021-01-16T19:00:43-05:00</published>
+    <updated>2021-01-16T19:00:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-20-x-22-white-utility-garbage-bags-500-case"/>
+    <title>Full Circle - 20&quot; x 22&quot; White Utility Garbage Bags - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-20-x-22-utility-white-garbage-bag-500case-500398.jpg?v=1611511960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Choose this 5 - 7 gallon trash bag for an economical, strong solution to waste collection.</h2>
+<p><strong><span data-mce-fragment="1">Trusted brand </span>5 -7<span data-mce-fragment="1"> gallon trash bag as a solution to all of your waste management needs!</span></strong></p>
+<p>Perfect<strong><span> </span>Utility Bag</strong><span> </span>for use in the office, bedroom and washroom.</p>
+<p>Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.</p>
+<p><span>This versatile <strong>can liner</strong> is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></p>
+<p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are black in color and they come in various sizes and strength</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case#product","name":"Cpg - Black 22&quot; x 24&quot; Regular Garbage Bags - 500 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1970255953990","sku":"9001BM2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cpg-black-22-x-24-regular-garbage-bags-500-case-bulk-mart_553.jpg","description":"Cpg - Black 22&amp;quot; x 24&amp;quot; Regular Garbage Bags - 500 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"CPG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"9001BM2","mpn":"","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case?variant=19976729395270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:tag>White Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878570750026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>551244</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878569635914</id>
+    <published>2021-01-16T18:47:13-05:00</published>
+    <updated>2021-01-16T18:47:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-42-x-48-extra-strong-black-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 42&quot; x 48&quot; Extra Strong Black Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-42-x-48-extra-strong-black-eco-garbage-bag-100case-339144.jpg?v=1611511052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Choose this 50-55 gallon trash bag for an economical, strong solution to waste collection.</h2>
+<p><strong><span data-mce-fragment="1">Trusted brand 50-55 </span><span data-mce-fragment="1">gallon trash bag as a solution to all of your waste management needs!</span></strong></p>
+<p>Each bag comes<span> </span><strong>neatly and individually folded</strong><span> </span>in it's packaging, to allow for convenient dispensing.</p>
+<p><span>This versatile <strong>can liner</strong> is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></p>
+<p>Our EcoLogo certified garbage bags are thick, flexible, and highly resistant to puncturing and tearing. We ensure that these bags provide the ideal solution for carrying and sustaining trash material.</p>
+<p>These bags are EcoLogo certified by the Environment Canada program, which is a well-recognized 3<sup>rd</sup><span> </span>party certification body.</p>
+<p>Our garbage bags are black in color, and they come in various sizes and strengths.</p>
+<p>These bags are suitable for offices, schools, Industries, hotels, and hospitals.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case#product","name":"Cpg - Black 22&quot; x 24&quot; Regular Garbage Bags - 500 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1970255953990","sku":"9001BM2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cpg-black-22-x-24-regular-garbage-bags-500-case-bulk-mart_553.jpg","description":"Cpg - Black 22&amp;quot; x 24&amp;quot; Regular Garbage Bags - 500 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"CPG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"9001BM2","mpn":"","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case?variant=19976729395270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878569635914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>991108</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878567505994</id>
+    <published>2021-01-16T18:47:12-05:00</published>
+    <updated>2021-01-16T18:47:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-42-x-48-strong-black-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 42&quot; x 48&quot; Strong Black Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-42-x-48-strong-black-eco-garbage-bag-100case-466220.jpg?v=1611510230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Our EcoLogo certified garbage bags are thick, flexible, and highly resistant to puncturing and tearing. We ensure that these bags provide the ideal solution for carrying and sustaining trash material.</p>
+<p data-mce-fragment="1">These bags are EcoLogo certified by the Environment Canada program, which is a well-recognized 3<sup data-mce-fragment="1">rd</sup><span data-mce-fragment="1"> </span>party certification body.</p>
+<p data-mce-fragment="1">Our garbage bags are black in color, and they come in various sizes and strengths.</p>
+<p data-mce-fragment="1">These bags are suitable for offices, schools, Industries, hotels, and hospitals.</p>
+Choose this 50-55 gallon trash bag for an economical, strong solution to waste collection.<br data-mce-fragment="1">Trusted brand 50-55 gallon trash bag as a solution to all of your waste management needs!<br data-mce-fragment="1"><br data-mce-fragment="1">Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.<br data-mce-fragment="1"><br data-mce-fragment="1">This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878567505994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>991109</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878563508298</id>
+    <published>2021-01-16T18:47:10-05:00</published>
+    <updated>2021-01-16T18:47:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-35-x-50-extra-strong-black-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 35&quot; x 50&quot; Extra Strong Black Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-35-x-50-extra-strong-black-eco-garbage-bag-100case-844529.jpg?v=1611513339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our EcoLogo certified garbage bags are thick, flexible, and highly resistant to puncturing and tearing. We ensure that these bags provide the ideal solution for carrying and sustaining trash material.</p>
+<p>These bags are EcoLogo certified by the Environment Canada program, which is a well-recognized 3<sup>rd</sup><span> </span>party certification body.</p>
+<p>Our garbage bags are black in color, and they come in various sizes and strengths.</p>
+<p>These bags are suitable for offices, schools, Industries, hotels, and hospitals.</p>
+<span>Choose this 40-45 gallon trash bag for an economical, strong solution to waste collection.</span><br data-mce-fragment="1"><span>Trusted brand 40-45 gallon trash bag as a solution to all of your waste management needs!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878563508298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>991107</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878560395338</id>
+    <published>2021-01-16T18:47:07-05:00</published>
+    <updated>2021-01-16T18:47:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-35-x-47-strong-black-eco-garbage-bag-200-case"/>
+    <title>Full Circle - 35&quot; x 47&quot; Strong Black Eco Garbage Bag - 200/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-35-x-47-strong-black-eco-garbage-bag-200case-869451.jpg?v=1611510579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our EcoLogo certified garbage bags are thick, flexible, and highly resistant to puncturing and tearing. We ensure that these bags provide the ideal solution for carrying and sustaining trash material.</p>
+<p>These bags are EcoLogo certified by the Environment Canada program, which is a well-recognized 3<sup>rd</sup><span> </span>party certification body.</p>
+<p>Our garbage bags are black in color, and they come in various sizes and strengths.</p>
+<p>These bags are suitable for offices, schools, Industries, hotels, and hospitals.</p>
+<span>Choose this 30-40 gallon trash bag for an economical, strong solution to waste collection.</span><br data-mce-fragment="1"><span>Trusted brand 30-40 gallon trash bag as a solution to all of your waste management needs!</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878560395338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>991106</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878559576138</id>
+    <published>2021-01-16T18:47:06-05:00</published>
+    <updated>2021-01-16T18:47:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-30-x-38-extra-strong-black-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 30&quot; x 38&quot; Extra Strong Black Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-30-x-38-extra-strong-black-eco-garbage-bag-100case-777854.jpg?v=1611511951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Choose this 20-30 gallon trash bag for an economical, strong solution to waste collection.<br data-mce-fragment="1">Trusted brand 20-30 gallon trash bag as a solution to all of your waste management needs!<br data-mce-fragment="1"><br data-mce-fragment="1">Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.<br data-mce-fragment="1"><br data-mce-fragment="1">This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</p>
+<p>Our EcoLogo certified garbage bags are thick, flexible, and highly resistant to puncturing and tearing. We ensure that these bags provide the ideal solution for carrying and sustaining trash material.</p>
+<p>These bags are EcoLogo certified by the Environment Canada program, which is a well-recognized 3<sup>rd</sup><span> </span>party certification body.</p>
+<p>Our garbage bags are black in color, and they come in various sizes and strengths.</p>
+<p>These bags are suitable for offices, schools, Industries, hotels, and hospitals.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878559576138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>991105</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878571765834</id>
+    <published>2021-01-16T18:19:01-05:00</published>
+    <updated>2021-01-16T18:19:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-24-x-22-utility-clear-eco-garbage-bag-500-case"/>
+    <title>Full Circle - 24&quot; x 22&quot; Utility Clear Eco Garbage Bag - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-24-x-22-utility-clear-eco-garbage-bag-500case-968646.jpg?v=1611513698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Choose this 7-10 gallon trash bag for an economical, strong solution to waste collection.</h2>
+<p><strong><span data-mce-fragment="1">Trusted brand </span>7-10<span data-mce-fragment="1"> gallon trash bag as a solution to all of your waste management needs!</span></strong></p>
+<p>Perfect<strong><span> </span>Utility Bag</strong><span> </span>for use in the office, bedroom and washroom.</p>
+<p>Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.</p>
+<p><span>This versatile <strong>can liner</strong> is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></p>
+<p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Clear and Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are Clear in color and they come in various sizes and strength</li>
+</ul>
+<h2 class="headline"></h2>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case#product","name":"Cpg - Black 22&quot; x 24&quot; Regular Garbage Bags - 500 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1970255953990","sku":"9001BM2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cpg-black-22-x-24-regular-garbage-bags-500-case-bulk-mart_553.jpg","description":"Cpg - Black 22&amp;quot; x 24&amp;quot; Regular Garbage Bags - 500 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"CPG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"9001BM2","mpn":"","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case?variant=19976729395270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878571765834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>221445</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878569406538</id>
+    <published>2021-01-16T18:19:01-05:00</published>
+    <updated>2021-01-16T18:19:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-42-x-48-extra-strong-clear-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 42&quot; x 48&quot; Extra Strong Clear Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-42-x-48-extra-strong-clear-eco-garbage-bag-100case-559386.jpg?v=1611510191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Clear and Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are Clear in color and they come in various sizes and strength</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878569406538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>221450</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878563016778</id>
+    <published>2021-01-16T18:18:59-05:00</published>
+    <updated>2021-01-16T18:18:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-35-x-50-extra-strong-clear-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 35&quot; x 50&quot; Extra Strong Clear Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-35-x-50-extra-strong-clear-eco-garbage-bag-100case-389703.jpg?v=1611510133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline"></h2>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case#product","name":"Cpg - Black 22&quot; x 24&quot; Regular Garbage Bags - 500 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1970255953990","sku":"9001BM2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cpg-black-22-x-24-regular-garbage-bags-500-case-bulk-mart_553.jpg","description":"Cpg - Black 22&amp;quot; x 24&amp;quot; Regular Garbage Bags - 500 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"CPG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"9001BM2","mpn":"","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case?variant=19976729395270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script>
+<ul>
+<li>
+<p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Clear and Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are Clear in color and they come in various sizes and strength</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878563016778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>221449</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878561181770</id>
+    <published>2021-01-16T18:18:58-05:00</published>
+    <updated>2021-01-16T18:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-35-x-47-extra-strong-clear-eco-garbage-bag-100-case"/>
+    <title>Full Circle - 35&quot; x 47&quot; Extra Strong Clear Eco Garbage Bag - 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-35-x-47-extra-strong-clear-eco-garbage-bag-100case-146888.jpg?v=1611510042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline"></h2>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case#product","name":"Cpg - Black 22&quot; x 24&quot; Regular Garbage Bags - 500 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1970255953990","sku":"9001BM2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cpg-black-22-x-24-regular-garbage-bags-500-case-bulk-mart_553.jpg","description":"Cpg - Black 22&amp;quot; x 24&amp;quot; Regular Garbage Bags - 500 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"CPG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"9001BM2","mpn":"","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/cpg-black-22-x-24-regular-garbage-bags-500-case?variant=19976729395270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script>
+<ul>
+<li>
+<p>Available in full range sizes with the convenience of collecting and storing garbage. Other uses include storing on housekeeping carts, storage cabinets and bottom of water receptacle.</p>
+<p>Other features</p>
+<ul>
+<li>Clear and Frosted performance liners made with LLDPE resins manufactured with 100% renewable energy.</li>
+<li>EcoLogo certified making this both environmentally safe and cost efficient.</li>
+<li>Our garbage bags are Clear in color and they come in various sizes and strength</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878561181770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>221448</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878558986314</id>
+    <published>2021-01-16T18:18:57-05:00</published>
+    <updated>2021-01-16T18:18:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-30-x-38-extra-strong-clear-eco-garbage-bag-150-case"/>
+    <title>Full Circle - 30&quot; x 38&quot; Extra Strong Clear Eco Garbage Bag - 150/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-30-x-38-extra-strong-clear-eco-garbage-bag-150case-819706.jpg?v=1611510034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline" data-mce-fragment="1">Choose this 20-30 gallon trash bag for an economical, strong solution to waste collection.</h2>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"><span data-mce-fragment="1">Trusted brand 20-30 </span><span data-mce-fragment="1">gallon trash bag as a solution to all of your waste management needs!</span></strong></p>
+<p data-mce-fragment="1">Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This versatile <strong data-mce-fragment="1">can liner</strong> is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878558986314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>221446</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878558232650</id>
+    <published>2021-01-16T18:18:56-05:00</published>
+    <updated>2021-01-16T18:18:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/full-circle-30-x-38-strong-clear-eco-garbage-bag-200-case"/>
+    <title>Full Circle - 30&quot; x 38&quot; Strong Clear Eco Garbage Bag - 200/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Full Circle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-circle-30-x-38-strong-clear-eco-garbage-bag-200case-967429.jpg?v=1611510333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Full Circle<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Choose this 20-30 gallon trash bag for an economical, strong solution to waste collection.<br>Trusted brand 20-30 gallon trash bag as a solution to all of your waste management needs!<br><br>Each bag comes neatly and individually folded in it's packaging, to allow for convenient dispensing.<br><br>This versatile can liner is perfect for bars, kitchens, and catered events. With all of the same benefits of a traditional low density liner, this bag is environmentally-friendly so you can save money and go green!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clear Garbage Bags</s:tag>
+    <s:tag>Eco Garbage Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878558232650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>221447</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878597619786</id>
+    <published>2021-01-16T11:50:16-05:00</published>
+    <updated>2021-01-16T11:50:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wfn-s4-printed-white-biodegradable-shopping-bags-18-x-22-500-case"/>
+    <title>WFN - S4 Printed White Biodegradable Shopping Bags 18&quot; x 22&quot; - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wfn-s4-printed-white-biodegradable-shopping-bags-18-x-22-500case-125882.jpg?v=1611512793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Take a green step forward with this biodegradable plastic t-shirt bag.</h2>
+<p><span>For a tough and durable plastic bag, choose this biodegradable t-shirt bag. With the same heat / cold tolerance and shelf life as traditional plastic bags, this environmentally-friendly option provides the same convenience without the wastefulness and damaging carbon footprint</span></p>
+<h3 class="item-header">Biodegradable, Reusable, and Recyclable</h3>
+<p>Made from environmentally friendly, recyclable HDPE material, this bag's construction allows decomposition. It fully breaks down much faster than other bags, therefore lowering your carbon footprint!</p>
+<div class="detail-section textimage-left-template">
+<div class="flex-container">
+<div class="template-text">
+<h3 class="item-header">Attractive Color</h3>
+<p>The attractive color, along with the leafy design, is a step up from white plastic bags, while also demonstrating the bag's eco-friendliness.</p>
+<h3 class="item-header">Dual Handles</h3>
+<p>Great for carrying heavy items, the dual handles make this bag perfect for grocery stores, delis, take-out restaurants and more!</p>
+<div class="about" itemprop="description">
+<p>Both convenient and eco-friendly, t-shirt bags are perfect for grocery stores, delis, and take-out restaurants. They are just like regular plastic t-shirt bags, but are biodegradable and healthier for the environment!</p>
+</div>
+</div>
+</div>
+</div>
+<p itemprop="description">Provide your customers with a durable bag for toting their purchases in with these<span> </span><strong>T-shirt bags</strong>. These quality bags are made to resist ripping and tearing. This<span> </span><strong>sturdy bag</strong><span> </span>has the ability to successfully hold good weight! Its durable construction means that fewer bags can be used per customer, cutting down on cost.<br></p>
+<p itemprop="description">Ideal for grocery stores, convenience stores, restaurants, and retail locations, lightweight T-shirt bag is perfect for bringing home groceries, to-go containers of food, or merchandize. The bag is thick and resists rips and tears to keep items from breaking through the material and falling out of the bag. Combined with the<span> </span><strong>rip and tear resistant material</strong>, this bag also features convenient cutout handles for easy carrying. Furthermore, this bag is a<span> </span><strong>cost effective</strong> and it can easily be recycled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biodegradable Shopping Bags</s:tag>
+    <s:tag>T Shirt Shopping Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878597619786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>662312</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878597259338</id>
+    <published>2021-01-16T11:50:15-05:00</published>
+    <updated>2021-01-16T11:50:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wfn-s4-printed-grey-biodegradable-shopping-bags-18-x-22-500-case"/>
+    <title>WFN - S4 Printed Grey Biodegradable Shopping Bags 18&quot; x 22&quot; - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wfn-s4-printed-grey-biodegradable-shopping-bags-18-x-22-500case-481913.jpg?v=1611513032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Take a green step forward with this biodegradable plastic t-shirt bag.</h2>
+<p><span>For a tough and durable plastic bag, choose this biodegradable t-shirt bag. With the same heat / cold tolerance and shelf life as traditional plastic bags, this environmentally-friendly option provides the same convenience without the wastefulness and damaging carbon footprint</span></p>
+<h3 class="item-header">Biodegradable, Reusable, and Recyclable</h3>
+<p>Made from environmentally friendly, recyclable HDPE material, this bag's construction allows decomposition. It fully breaks down much faster than other bags, therefore lowering your carbon footprint!</p>
+<div class="detail-section textimage-left-template">
+<div class="flex-container">
+<div class="template-text">
+<h3 class="item-header">Attractive Color</h3>
+<p>The attractive color, along with the leafy design, is a step up from white plastic bags, while also demonstrating the bag's eco-friendliness.</p>
+<h3 class="item-header">Dual Handles</h3>
+<p>Great for carrying heavy items, the dual handles make this bag perfect for grocery stores, delis, take-out restaurants and more!</p>
+<div class="about" itemprop="description">
+<p>Both convenient and eco-friendly, t-shirt bags are perfect for grocery stores, delis, and take-out restaurants. They are just like regular plastic t-shirt bags, but are biodegradable and healthier for the environment!</p>
+</div>
+</div>
+</div>
+</div>
+<p itemprop="description">Provide your customers with a durable bag for toting their purchases in with these<span> </span><strong>T-shirt bags</strong>. These quality bags are made to resist ripping and tearing. This<span> </span><strong>sturdy bag</strong><span> </span>has the ability to successfully hold good weight! Its durable construction means that fewer bags can be used per customer, cutting down on cost.<br></p>
+<p itemprop="description">Ideal for grocery stores, convenience stores, restaurants, and retail locations, lightweight T-shirt bag is perfect for bringing home groceries, to-go containers of food, or merchandize. The bag is thick and resists rips and tears to keep items from breaking through the material and falling out of the bag. Combined with the<span> </span><strong>rip and tear resistant material</strong>, this bag also features convenient cutout handles for easy carrying. Furthermore, this bag is a<span> </span><strong>cost effective</strong> and it can easily be recycled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biodegradable Shopping Bags</s:tag>
+    <s:tag>T Shirt Shopping Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878597259338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>662311</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4878596505674</id>
+    <published>2021-01-16T11:50:13-05:00</published>
+    <updated>2021-01-16T11:50:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wfn-s4-printed-green-biodegradable-shopping-bags-18-x-22-500-case"/>
+    <title>WFN - S4 Printed Green Biodegradable Shopping Bags 18&quot; x 22&quot; - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wfn-s4-printed-green-biodegradable-shopping-bags-18-x-22-500case-308088.jpg?v=1611514000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Take a green step forward with this biodegradable plastic t-shirt bag.</h2>
+<p><span>For a tough and durable plastic bag, choose this biodegradable t-shirt bag. With the same heat / cold tolerance and shelf life as traditional plastic bags, this environmentally-friendly option provides the same convenience without the wastefulness and damaging carbon footprint</span></p>
+<h3 class="item-header">Biodegradable, Reusable, and Recyclable</h3>
+<p>Made from environmentally friendly, recyclable HDPE material, this bag's construction allows decomposition. It fully breaks down much faster than other bags, therefore lowering your carbon footprint!</p>
+<div class="detail-section textimage-left-template">
+<div class="flex-container">
+<div class="template-text">
+<h3 class="item-header">Attractive Color</h3>
+<p>The attractive color, along with the leafy design, is a step up from white plastic bags, while also demonstrating the bag's eco-friendliness.</p>
+<h3 class="item-header">Dual Handles</h3>
+<p>Great for carrying heavy items, the dual handles make this bag perfect for grocery stores, delis, take-out restaurants and more!</p>
+<div class="about" itemprop="description">
+<p>Both convenient and eco-friendly, t-shirt bags are perfect for grocery stores, delis, and take-out restaurants. They are just like regular plastic t-shirt bags, but are biodegradable and healthier for the environment!</p>
+</div>
+</div>
+</div>
+</div>
+<p itemprop="description">Provide your customers with a durable bag for toting their purchases in with these<span> </span><strong>T-shirt bags</strong>. These quality bags are made to resist ripping and tearing. This<span> </span><strong>sturdy bag</strong><span> </span>has the ability to successfully hold good weight! Its durable construction means that fewer bags can be used per customer, cutting down on cost.<br></p>
+<p itemprop="description">Ideal for grocery stores, convenience stores, restaurants, and retail locations, lightweight T-shirt bag is perfect for bringing home groceries, to-go containers of food, or merchandize. The bag is thick and resists rips and tears to keep items from breaking through the material and falling out of the bag. Combined with the<span> </span><strong>rip and tear resistant material</strong>, this bag also features convenient cutout handles for easy carrying. Furthermore, this bag is a<span> </span><strong>cost effective</strong> and it can easily be recycled.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biodegradable Shopping Bags</s:tag>
+    <s:tag>T Shirt Shopping Bags</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4878596505674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>662310</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/yeast.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-22T20:04:10-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4809632809034</id>
+    <published>2020-10-22T20:04:10-04:00</published>
+    <updated>2020-10-22T20:04:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-star-dry-active-yeast-2-lbs"/>
+    <title>Red Star - Dry Active Yeast - 2 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-star-dry-active-yeast-2-lbs-574627.jpg?v=1611513397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Red Star - Dry Active Yeast - 2 Lbs</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! </span></p>
+<p><span>Lesaffre Red Star bakers active dry yeast 2 lb. vacuum pack can be used in all yeast-leavened goods, making it a versatile option for any bakery, pizzeria, or restaurant! The airtight vacuum packaging helps to extend this yeast's already lengthy shelf life by keeping moisture out. When you're ready to use it, simply dissolve the yeast in warm water before adding it into your ingredient mixture!<br><br>Yeast converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! This 2 lb. bag of active dry yeast is perfect for making pizza crust, round loaves, or long "French-style" breads.<br></span></p>
+<p><span><strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809632809034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>305154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809631531082</id>
+    <published>2020-10-22T20:04:08-04:00</published>
+    <updated>2020-10-22T20:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pakmaya-dry-instant-yeast-20-x-454-g"/>
+    <title>Pakmaya - Dry Instant Yeast - 20 x 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pakmaya-dry-instant-yeast-20-x-454-g-709107.jpg?v=1611511955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            93.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pakmaya - Dry Instant Yeast - 20 x 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809631531082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>30545</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809631367242</id>
+    <published>2020-10-22T20:04:06-04:00</published>
+    <updated>2020-10-22T20:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pakmaya-dry-instant-yeast-454-g"/>
+    <title>Pakmaya - Dry Instant Yeast - 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pakmaya-dry-instant-yeast-454-g-342709.jpg?v=1611512617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pakmaya - Dry Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809631367242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>30154</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809630810186</id>
+    <published>2020-10-22T20:04:05-04:00</published>
+    <updated>2020-10-22T20:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-bread-machine-yeast-jar-113-g"/>
+    <title>Fleischmann&apos;s - Bread Machine Yeast Jar - 113 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-bread-machine-yeast-jar-113-g-927447.jpg?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmanns - Bread Machine Yeast Jar - 113 g</strong></p>
+<p><span><strong>Reduce mixing time</strong> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast, also known as "bread machine yeast", saving you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809630810186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>30454</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809628713034</id>
+    <published>2020-10-22T20:04:03-04:00</published>
+    <updated>2020-10-22T20:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-quick-rise-yeast-jar-113-g"/>
+    <title>Fleischmann&apos;s - Quick Rise Yeast Jar - 113 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-quick-rise-yeast-jar-113-g-633508.jpg?v=1611510402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Quick Rise Yeast Jar - 113 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809628713034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>30784</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809625469002</id>
+    <published>2020-10-22T20:04:02-04:00</published>
+    <updated>2020-10-22T20:04:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-quick-rise-yeast-envelopes-3-x-8-g"/>
+    <title>Fleischmann&apos;s - Quick Rise Yeast Envelopes - 3  x 8 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-quick-rise-yeast-envelopes-3-x-8-g-606402.jpg?v=1611510127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmanns - Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809625469002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>30548</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887482576966</id>
+    <published>2020-04-20T23:07:34-04:00</published>
+    <updated>2020-04-20T23:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-instant-yeast-20-x-454-g"/>
+    <title>Fleischmann&apos;s - Instant Yeast - 20 x 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-instant-yeast-20-x-454-g-175944.jpg?v=1611510287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Instant Yeast - 20 x 454 g</strong></p>
+<p><span><strong>Reduce mixing time</strong> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fleischmans-instant-yeast-20-x-454-g#product","name":"Fleischman’s - Instant Yeast - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"YeaFBM1130","sku":"FBM1130","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmans-instant-yeast-20-x-454-g-bulk-mart_649.jpg","description":"Fleischman&#039;s - Instant Yeast - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Fleischmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"37"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.1"},"offers":[{"name":"Fleischman’s - Instant Yeast - 20 x 454 g","sku":"FBM1130","mpn":"YeaFBM1130","@type":"Offer","priceCurrency":"CAD","price":"215.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fleischmans-instant-yeast-20-x-454-g?variant=19271344160838","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887482576966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.99</s:price>
+      <s:sku>30784</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887482642502</id>
+    <published>2018-11-28T14:59:01-05:00</published>
+    <updated>2018-11-28T14:59:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-instant-yeast-454-g"/>
+    <title>Fleischmann&apos;s - Instant Yeast - 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-instant-yeast-454-g-694258.jpg?v=1611509920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887482642502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>30564</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

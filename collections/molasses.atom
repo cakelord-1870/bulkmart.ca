@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/molasses.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-19T19:56:59-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4808453455946</id>
+    <published>2020-10-19T19:56:59-04:00</published>
+    <updated>2020-10-19T19:56:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crosbys-100-natural-gluten-free-fancy-molasses-675-ml"/>
+    <title>Crosby&apos;s - 100% Natural Gluten Free Fancy Molasses - 675 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Crosby&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crosbys-100-natural-gluten-free-fancy-molasses-675-ml-667825.jpg?v=1611510338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crosby&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crosby's - Fancy Molasses - 675 g</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<strong>Crosby’s fancy molasses</strong> is the highest grade of molasses, made from pure sugarcane juice that has been inverted into syrup (not unlike the maple syrup making process). The tangy-sweet flavour of Crosby’s is perfect for cookies, cakes, sauces, dressings, marinades and more. It is unsulfured, gluten-free and non-GMO. For wholesome recipes &amp; free eBooks visit crosbys.com. Crosby’s is proudly Canadian and family owned.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">- 100% natural<br>- no additives or preservatives.<br>- Gluten Free<br>- Non GMO Certified<br>- Produced in Peanut Free Facility<br>- Unsulfured<br>- Source of Iron<br>- Good source of Riboflavin</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Molasses</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808453455946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>11222</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808452276298</id>
+    <published>2020-10-19T19:56:57-04:00</published>
+    <updated>2020-10-19T19:56:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crosbys-blackstrap-molasses-2-x-5-kg"/>
+    <title>Crosby&apos;s - Blackstrap Molasses - 2 x 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Crosby&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crosbys-blackstrap-molasses-2-x-5-kg-990215.jpg?v=1611509436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crosby&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crosby's - Blackstrap Molasses - 5 Kg</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808452276298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>11223</s:sku>
+      <s:grams>11793</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808451784778</id>
+    <published>2020-10-19T19:56:55-04:00</published>
+    <updated>2020-10-19T19:56:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/basra-organic-date-molasses-12-x-454-g"/>
+    <title>Basra - Organic Date Molasses - 12 x 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Basra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Basra-OrganicDateMolasses-454g.jpg?v=1624134009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Basra<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            67.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basra - Organic Date Molasses - 12 x 454 g</p>
+<p itemprop="description"><strong>Add rich color, moisture, and a kick to your favorite recipes</strong> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. <br><br><strong>Give a healthy, semi-sweet flavor</strong> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808451784778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.99</s:price>
+      <s:sku>11220</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808451260490</id>
+    <published>2020-10-19T19:56:53-04:00</published>
+    <updated>2020-10-19T19:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/basra-organic-date-molasses-454-g"/>
+    <title>Basra - Organic Date Molasses - 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Basra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/basra-organic-date-molasses-454-g-480018.jpg?v=1624169288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Basra<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Basra - Organic Date Molasses - 454 g</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808451260490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.29</s:price>
+      <s:sku>11221</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4516779556938</id>
+    <published>2020-02-27T16:54:37-05:00</published>
+    <updated>2020-02-27T16:54:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/darna-pomegranate-molasses-12-x-700-ml-case"/>
+    <title>Darna - Pomegranate Molasses - 12 x 700 ml / Case</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Darna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/darna-pomegranate-molasses-12-x-700-ml-case-688598.jpg?v=1611509736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darna<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Darna - Pomegranate Molasses - 12 x 700 ml / Case</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p>
+<p><strong>Pomegranate molasses</strong><span> </span>is a fruit syrup made from pomegranate juice, not sugarcane-derived molasses. It is a reduction from the juice of a tart variety of pomegranate, evaporated to form a thick, dark red liquid. It is used in Iranian fesenjān and Turkish dolma and various salads such as çoban salatası.[10] It is called رب انار (rob e ænar) in Persian, دبس رمّان (dibs rumman) in Arabic, nar ekşisi in Turkish, narşərab in Azerbaijani</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/darna-pomegranate-molasses-12-x-700-ml-case#product","name":"Darna - Pomegranate Molasses - 12 x 700 ml / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4516779556938","sku":"kCBM469","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/darna-pomegranate-molasses-700-ml-bulk-mart_716_9707b546-23e6-4d1e-9c5b-b48a25ce5531.png","description":"Darna - Pomegranate Molasses - 12 x 700 ml / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Darna"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"},"offers":[{"sku":"kCBM469","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.7"},"mpn":"","priceCurrency":"CAD","price":"72.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/darna-pomegranate-molasses-12-x-700-ml-case?variant=31792913809482","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4516779556938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku>11226</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4506727874634</id>
+    <published>2020-02-17T23:58:00-05:00</published>
+    <updated>2020-02-17T23:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/darna-pomegranate-molasses-700-ml"/>
+    <title>Darna - Pomegranate Molasses - 700 ml</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Darna</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/darna-pomegranate-molasses-700-ml-361545.jpg?v=1611509436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darna<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Darna - Pomegranate Molasses -  700 ml</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p>
+<p><strong>Pomegranate molasses</strong> is a fruit syrup made from pomegranate juice, not sugarcane-derived molasses. It is a reduction from the juice of a tart variety of pomegranate, evaporated to form a thick, dark red liquid. It is used in Iranian fesenjān and Turkish dolma and various salads such as çoban salatası.[10] It is called رب انار (rob e ænar) in Persian, دبس رمّان (dibs rumman) in Arabic, nar ekşisi in Turkish, narşərab in Azerbaijani</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4506727874634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>11225</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953080533062</id>
+    <published>2019-08-08T13:09:04-04:00</published>
+    <updated>2019-08-08T13:09:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crosbys-blackstrap-molasses-5-kg"/>
+    <title>Crosby&apos;s - Blackstrap Molasses - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Crosby&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crosbys-blackstrap-molasses-5-kg-977950.jpg?v=1611509374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crosby&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crosby's - Blackstrap Molasses - 5 Kg</p>
+<p><strong>Add rich color, moisture, and a kick to your favorite recipes</strong><span> with this jar of molasses,  in order to create a rich, robust flavor. This molasses, unlike refined sugar, is packed with flavor and minerals such as calcium, magnesium, potassium, and iron. </span><br><br><strong>Give a healthy, semi-sweet flavor</strong><span> to dishes like gingerbread, muffins, pies and more, or add the perfect viscosity to baked beans, chili, and other savory sauces, offers the highest quality baking products made from the finest ingredients. This richly flavored, highly nutritional molasses comes in a sturdy jar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Molasses</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953080533062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>11224</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-entrees-soups.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-16T22:19:16-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4827873181770</id>
+    <published>2020-11-16T22:19:16-05:00</published>
+    <updated>2020-11-16T22:19:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-fettuccine-5-kg"/>
+    <title>Only Pasta - Fettuccine - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-fettuccine-5-kg-345221.jpg?v=1611513636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Fettuccine - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 2 to 3 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827873181770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>908340</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827869282378</id>
+    <published>2020-11-16T22:19:16-05:00</published>
+    <updated>2020-11-16T22:19:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-linguine-5-kg"/>
+    <title>Only Pasta - Linguine - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-linguine-5-kg-479467.jpg?v=1611511114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Linguine - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 2 to 3 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827869282378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>908341</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827880980554</id>
+    <published>2020-11-16T21:57:29-05:00</published>
+    <updated>2020-11-16T21:57:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-squash-agnolotti-5-kg"/>
+    <title>Only Pasta - Squash Agnolotti - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-squash-agnolotti-5-kg-611952.jpg?v=1611512916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            73.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Squash Agnolotti - 5 kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827880980554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.99</s:price>
+      <s:sku>908255</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827879505994</id>
+    <published>2020-11-16T21:57:28-05:00</published>
+    <updated>2020-11-16T21:57:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-mushroom-agnolotti-5-kgonly-pasta-mushroom-agnolotti-5-kg"/>
+    <title>Only Pasta - Mushroom Agnolotti - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-mushroom-agnolotti-5-kg-574537.jpg?v=1611514124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            80.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Mushroom Agnolotti - 5 kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827879505994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.99</s:price>
+      <s:sku>908254</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827874656330</id>
+    <published>2020-11-16T21:57:27-05:00</published>
+    <updated>2020-11-16T21:57:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-vegetable-lasagna-2-x-5lb"/>
+    <title>Only Pasta - Vegetable Lasagna - 2 x 5Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-vegetable-lasagna-2-x-5lb-220285.jpg?v=1611511234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Vegetable Lasagna - 2 x 5Lb</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827874656330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>908256</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827872067658</id>
+    <published>2020-11-16T21:57:26-05:00</published>
+    <updated>2020-11-16T21:57:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/via-fine-foods-eggplant-parmigiana-5lbvia-fine-foods-eggplant-parmigiana-5lb"/>
+    <title>Via Fine Foods - Eggplant Parmigiana - 5Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/via-fine-foods-eggplant-parmigiana-5lb-628921.png?v=1611512675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Via Fine Foods - Eggplant Parmigiana - 5Lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827872067658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>908257</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827868201034</id>
+    <published>2020-11-16T21:57:25-05:00</published>
+    <updated>2020-11-16T21:57:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-gnocchi-5-kg"/>
+    <title>Only Pasta - Gnocchi - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-gnocchi-5-kg-615191.jpg?v=1611513156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            45.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Gnocchi - 5 Kg</p>
+<p><span class="style5">Cooking directions (gnocchi):<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 2 to 3 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetable Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827868201034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.99</s:price>
+      <s:sku>908253</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827877146698</id>
+    <published>2020-11-16T19:37:09-05:00</published>
+    <updated>2020-11-16T19:37:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-ricotta-spinach-cannelloni-80-pcs"/>
+    <title>Only Pasta - Ricotta &amp; Spinach Cannelloni - 80 Pcs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-ricotta-spinach-cannelloni-80-pcs-571747.jpg?v=1611511779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            103.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Ricotta &amp; Spinach Cannelloni - 80 Pcs</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827877146698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">103.99</s:price>
+      <s:sku>908262</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827870691402</id>
+    <published>2020-11-16T19:37:08-05:00</published>
+    <updated>2020-11-16T19:37:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-cheese-tortellini-5-kg"/>
+    <title>Only Pasta - Cheese Tortellini - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-cheese-tortellini-5-kg-896178.jpg?v=1611511835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Cheese Tortellini - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827870691402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>908261</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827867709514</id>
+    <published>2020-11-16T19:37:08-05:00</published>
+    <updated>2020-11-16T19:37:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-ricotta-spinach-ravioli-5-kg"/>
+    <title>Only Pasta - Ricotta &amp; Spinach Ravioli - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-ricotta-spinach-ravioli-5-kg-646773.jpg?v=1611513938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Ricotta &amp; Spinach Ravioli - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827867709514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>908263</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827864301642</id>
+    <published>2020-11-16T19:37:07-05:00</published>
+    <updated>2020-11-16T19:37:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-dinner-mac-cheese-frozen-bites-6-x-2-lbs"/>
+    <title>Kraft - MAC &amp; Cheese Frozen Bites - 6 x 2 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-mac-cheese-frozen-bites-6-x-2-lbs-531579.jpg?v=1611510699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kraft Dinner - MAC &amp; Cheese Frozen Bites - 6 x 2 Lbs</p>
+<p><span>Canadians consumer consume more mac n' cheese than anywhere else in the world.</span></p>
+<div data-cellnumber="1" data-cols="8" class="skc_pageCellLayout sk-ui-layout-grid-cell cls_skWidget widget34" id="skPageLayoutCell_19_t_id-1" widgettype="KHC_Fs_PDP" widgetname="widget34" widgetid="178">
+<div class="cls_customWidgetAPI">
+<div class="skcCellContainer">
+<div class="cls_productDescriptionWrapper">
+<div class="cls_AboutContainer">
+<div class="cls_AboutWrapper cls_showDetails">
+<div class="cls_pdpAboutWrapper cls_skPdpDetailsWrapper cls_boxDetails">
+<div class="cls_ItemDetailsWrapper">
+<div class="cls_ItemDetailsCont cls_product">
+<p><span class="cls_DetTitle">Prep:<span> </span></span><span class="cls_DetVal">Deep fry for three and a half minutes or until golden brown.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827864301642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.99</s:price>
+      <s:sku>908260</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827882487882</id>
+    <published>2020-11-16T19:05:25-05:00</published>
+    <updated>2020-11-16T19:05:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-meat-lasagna-900g"/>
+    <title>Only Pasta - Meat Lasagna - 900g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-meat-lasagna-900g-366836.jpg?v=1611512433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Meat Lasagna - 900g</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meat Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827882487882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>908250</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827875016778</id>
+    <published>2020-11-16T19:05:24-05:00</published>
+    <updated>2020-11-16T19:05:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-meat-lasagna-2-x-5lb"/>
+    <title>Only Pasta - Meat Lasagna - 2 x 5Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-meat-lasagna-2-x-5lb-441999.jpg?v=1611514127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Meat Lasagna tray - 2 x 5Lb</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meat Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827875016778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>908249</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827873902666</id>
+    <published>2020-11-16T19:05:24-05:00</published>
+    <updated>2020-11-16T19:05:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-meat-cannelloni-80-each"/>
+    <title>Only Pasta - Meat Cannelloni - 80 Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-meat-cannelloni-80-each-773154.jpg?v=1611511239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            105.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Meat Cannelloni - 80 Each</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meat Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827873902666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.99</s:price>
+      <s:sku>908248</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827869675594</id>
+    <published>2020-11-16T19:05:23-05:00</published>
+    <updated>2020-11-16T19:05:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-meat-tortellini-5-kg"/>
+    <title>Only Pasta - Meat Tortellini - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-meat-tortellini-5-kg-415343.jpg?v=1611511593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Meat Tortellini - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meat Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827869675594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>908252</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827866759242</id>
+    <published>2020-11-16T19:05:23-05:00</published>
+    <updated>2020-11-16T19:05:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-meat-ravioli-5-kgonly-pasta-meat-ravioli-5-kg"/>
+    <title>Only Pasta - Meat Ravioli - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-meat-ravioli-5-kg-820250.jpg?v=1611513092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Meat Ravioli - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Meat Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827866759242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>908251</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827886288970</id>
+    <published>2020-11-16T18:10:48-05:00</published>
+    <updated>2020-11-16T18:10:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/the-pasta-people-jumbo-cheese-ravioli-1-kg"/>
+    <title>The Pasta People - Jumbo Cheese Ravioli - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>The Pasta People</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/the-pasta-people-jumbo-cheese-ravioli-1-kg-428258.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Pasta People<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pasta People - Jumbo Cheese Ravioli - 1 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827886288970</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>908247</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827884388426</id>
+    <published>2020-11-16T18:10:48-05:00</published>
+    <updated>2020-11-16T18:10:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-cheese-ravioli-900g"/>
+    <title>Only Pasta - Cheese Ravioli - 900g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-cheese-ravioli-900g-280802.jpg?v=1611511956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Cheese Ravioli - 900g</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827884388426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>908245</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827883765834</id>
+    <published>2020-11-16T18:10:47-05:00</published>
+    <updated>2020-11-16T18:10:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-cheese-cannelloni-900g"/>
+    <title>Only Pasta - Cheese Cannelloni - 900g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-cheese-cannelloni-900g-476547.jpg?v=1611514246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Cheese Cannelloni - 900g</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827883765834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>908243</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827877441610</id>
+    <published>2020-11-16T18:10:46-05:00</published>
+    <updated>2020-11-16T18:10:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-ricotta-spinach-agnolotti-5-kg"/>
+    <title>Only Pasta - Ricotta &amp; Spinach Agnolotti - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-ricotta-spinach-agnolotti-5-kg-788401.jpg?v=1611511781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Ricotta &amp; Spinach Agnolotti - 5 Kg</p>
+<p align="left"><em><strong>All specialty pasta are available in the following formats:</strong><span> </span>ravioli (square), Medallions, (Round), Agnolotti (Half Moon), Jumbo Agnolotti</em></p>
+<p align="left"><span class="style5">Cooking directions:<br></span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827877441610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>908246</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827876261962</id>
+    <published>2020-11-16T18:10:46-05:00</published>
+    <updated>2020-11-16T18:10:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-cheese-spinach-heart-shape-5-kg"/>
+    <title>Only Pasta - Cheese &amp; Spinach Heart Shape - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-cheese-spinach-heart-shape-5-kg-549598.jpg?v=1611512319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Cheese &amp; Spinach Heart Shape - 5 Kg</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bring water to a rapid boil; pour frozen contents into boiling water with some salt for approximately 7 to 9 minutes. Strain and add you favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827876261962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>908242</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827875573834</id>
+    <published>2020-11-16T18:10:45-05:00</published>
+    <updated>2020-11-16T18:10:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/only-pasta-cheese-lasagna-2-x-5lb"/>
+    <title>Only Pasta - Cheese Lasagna - 2 x 5Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Only Pasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/only-pasta-cheese-lasagna-2-x-5lb-689380.jpg?v=1611511901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Only Pasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Only Pasta - Cheese Lasagna - 2 x 5Lb</p>
+<p><span class="style5">Cooking directions:<br></span><span>Bake for about 30 - 40 minutes at 375 degrees with your favourite sauce.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827875573834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>908244</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827872460874</id>
+    <published>2020-11-16T18:10:45-05:00</published>
+    <updated>2020-11-16T18:10:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kraft-signature-mac-cheese-4-x-4lb"/>
+    <title>Kraft - Signature MAC &amp; Cheese - 4 x 4Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kraft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kraft-signature-mac-cheese-4-x-4lb-957860.jpg?v=1611511303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>KRAFT Signatures Bulk Frozen Homestyle Cheddar Macaroni &amp; Cheese, 4 Lb. Bag (Pack Of 4)</h1>
+<p><span>Kraft Signature Homestyle Cheddar Mac &amp; Cheese with elbow noodles, brings in rich, creamy real KRAFT cheese to create a one-of-a-kind experience. These frozen bags are easy-to-use and provide a convenient kitchen solution.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cheese Pasta</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827872460874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>908241</s:sku>
+      <s:grams>8165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887462752326</id>
+    <published>2020-11-16T01:21:26-05:00</published>
+    <updated>2020-11-16T01:21:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-vegan-vegetable-soup-4-lbscampbells-vegan-vegetable-soup-4-lbs"/>
+    <title>Campbell&apos;s - Vegan Vegetable Soup - 4 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-vegan-vegetable-soup-4-lbs-861733.jpg?v=1611509430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Campbell's - Vegan Vegetable Soup 20543 - 4 Lbs</p>
+<p><span>Made with carrots, tomatoes, Great Northern beans and red lentils, this hearty home-style soup is slow-simmered with aromatic herbs and a dash of balsamic vinegar for a sweet, savoury flavour.</span></p>
+<h4>SPECIAL DIETARY NEEDS</h4>
+<p>Vegetarian Vegan</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Soup</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887462752326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>712769</s:sku>
+      <s:grams>1810</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887462981702</id>
+    <published>2018-11-28T14:55:59-05:00</published>
+    <updated>2018-11-28T14:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/campbells-wicked-thai-style-soup-with-chicken-4-lbs"/>
+    <title>Campbell&apos;s -  Wicked Thai Style Soup With Chicken - 4 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Campbell&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/campbells-wicked-thai-style-soup-with-chicken-4-lbs-784601.jpg?v=1611509251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Campbell&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Campbell's - Wicked Thai Style Soup With Chicken <span data-mce-fragment="1">24722 </span>- 4 Lbs</p>
+<p><span>An exotic blend of chicken, rice, peppers and aromatic spices including lemongrass, enhanced with the flavour of coconut in a spicy broth.</span></p>
+<h4>FEATURES AND BENEFITS</h4>
+<p>Fully Prepared: Pouch saves time and labour<br></p>
+<div>Easy to prepare: Ability to boil in the bag</div>
+<div>Consistent taste and appearance every time</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Soup</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887462981702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>712764</s:sku>
+      <s:grams>1810</s:grams>
+    </s:variant>
+  </entry>
+</feed>

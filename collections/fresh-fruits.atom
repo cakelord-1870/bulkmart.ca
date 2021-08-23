@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/fresh-fruits.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-29T19:00:49-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/3933396697158</id>
+    <published>2020-11-29T19:00:49-05:00</published>
+    <updated>2020-11-29T19:00:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/honey-dew-jumbo-per-case"/>
+    <title>Honey Dew - Jumbo - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/honey-dew-jumbo-per-case-321457.jpg?v=1611513456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honey Dew - Jumbo - Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3933396697158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>49132</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3933393354822</id>
+    <published>2020-11-29T19:00:48-05:00</published>
+    <updated>2020-11-29T19:00:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cantaloupe-jumbo-case"/>
+    <title>Cantaloupe Jumbo - Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cantaloupe-jumbo-15-per-case-239263.jpg?v=1611511718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cantaloupe Jumbo - 9 / Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3933393354822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>49128</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4844891373642</id>
+    <published>2020-11-28T18:41:57-05:00</published>
+    <updated>2020-11-28T18:41:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cantaloupe-jumbo-sweet-each"/>
+    <title>Cantaloupe Jumbo Sweet - Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cantaloupe-jumbo-sweet-each-770803.jpg?v=1611513030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cantaloupe Jumbo - Each</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4844891373642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>49129</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4550406471754</id>
+    <published>2020-04-11T13:00:25-04:00</published>
+    <updated>2020-04-11T13:00:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/orange-navel-per-bagorange-navel-12-pack"/>
+    <title>Orange Navel - 6 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/orange-navel-12-pack-435022.jpg?v=1611514431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Navel - Per Bag</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/orange-navel-per-bag#product","name":"Orange Navel - Per Bag","itemCondition":"https://schema.org/NewCondition","mpn":"4550406471754","sku":"6BM1887","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/orange-navel-per-bag-bulk-mart-662.jpg","description":"Orange Navel - Per Bag...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"gtin13":"PrAp116BM1887","offers":[{"name":"Orange Navel - Per Bag","sku":"6BM1887","gtin13":"PrAp116BM1887","@type":"Offer","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/orange-navel-per-bag?variant=31920014590026","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4550406471754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>49137</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4445829431370</id>
+    <published>2019-12-20T17:21:47-05:00</published>
+    <updated>2019-12-20T17:21:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pomegranate-red-per-case"/>
+    <title>Pomegranate Red - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pomegranate-red-12-case-822242.jpg?v=1611513100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pomegranate - 7 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pomegranate-12-case#product","name":"Pomegranate - 12 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4445829431370","sku":"6BM1887","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pomegranate-12-case-bulk-mart_119.jpg","description":"Pomegranate - 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"6BM1887","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"3"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pomegranate-12-case?variant=31563853627466","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4445829431370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>49141</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3963841085510</id>
+    <published>2019-08-20T16:28:02-04:00</published>
+    <updated>2019-08-20T16:28:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mango-haden-kent-per-case"/>
+    <title>Mango Haden / Kent - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mango-haden-kent-per-case-461925.jpg?v=1611511122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Haden / Kent - Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mango-haden-kent-per-case#product","name":"Mango Haden / Kent - Per Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3963841085510","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mango-haden-kent-per-case-bulk-mart_292.jpg","description":"Mango Haden / Kent - Per Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"19"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mango-haden-kent-per-case?variant=29527750541382","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3963841085510</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>49136</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3956411596870</id>
+    <published>2019-08-12T16:00:00-04:00</published>
+    <updated>2019-08-12T16:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/orange-navel-72-count"/>
+    <title>Orange Navel - 72 Count</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/orange-navel-72-count-396782.jpg?v=1611512496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Navel - 72 Count</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/orange-navel-100-count#product","name":"Orange Navel - 100 Count","itemCondition":"https://schema.org/NewCondition","mpn":"3956411596870","sku":"6BM1887","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/orange-navel-100-count-bulk-mart-799.jpg","description":"Orange Navel - 100 Count...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"gtin13":"PrAp116BM1887","offers":[{"name":"Orange Navel - 100 Count","sku":"6BM1887","gtin13":"PrAp116BM1887","@type":"Offer","priceCurrency":"CAD","price":"39.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/orange-navel-100-count?variant=29493452767302","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3956411596870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>49138</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3951419260998</id>
+    <published>2019-08-06T12:54:08-04:00</published>
+    <updated>2019-08-06T12:54:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/blueberries-170-g"/>
+    <title>Blueberries - 170 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blueberries-170-g-273299.jpg?v=1611509500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blueberries - 170 g</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/blueberries-170-g#product","name":"Blueberries - 170 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3951419260998","sku":"BM19219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/blueberries-12-x-170-g-bulk-mart_166_a29f1d28-dcba-4cd7-996a-40ca28f23a8c.jpg","description":"Blueberries - 170 g.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"},"offers":[{"sku":"BM19219","weight":{"@type":"QuantitativeValue","unitText":"g","value":"170"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/blueberries-170-g?variant=29472112803910","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3951419260998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>49127</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938413510726</id>
+    <published>2019-07-21T00:31:47-04:00</published>
+    <updated>2019-07-21T00:31:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/watermelon-large-each"/>
+    <title>Watermelon Large - Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/watermelon-large-each-536092.jpg?v=1611512069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Watermelon Large - Each</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/watermelon-large-each#product","name":"Watermelon Large - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938413510726","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/watermelon-large-each-bulk-mart_660.jpg","description":"Watermelon Large - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/watermelon-large-each?variant=29424458793030","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938413510726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>49147</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938412003398</id>
+    <published>2019-07-21T00:29:58-04:00</published>
+    <updated>2019-07-21T00:29:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mango-ataulfo-per-case"/>
+    <title>Mango Ataulfo - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mango-ataulfo-per-case-985204.png?v=1611513876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Ataulfo - Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mango-atulfo-per-case#product","name":"Mango Atulfo - Per Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938412003398","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mango-atulfo-per-case-bulk-mart_236.png","description":"Mango Atulfo - Per Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"19"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mango-atulfo-per-case?variant=29424452796486","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"2"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938412003398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>49135</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938411020358</id>
+    <published>2019-07-21T00:27:08-04:00</published>
+    <updated>2019-07-21T00:27:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-grapes-per-case"/>
+    <title>Red Grapes - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-grapes-per-case-461649.jpg?v=1611512673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Red Grapes - Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/red-grapes-per-case#product","name":"Red Grapes - Per Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938411020358","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-grapes-per-case-bulk-mart_913.jpg","description":"Red Grapes - Per Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"19"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/red-grapes-per-case?variant=29424448897094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938411020358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>49143</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938410168390</id>
+    <published>2019-07-21T00:23:08-04:00</published>
+    <updated>2019-07-21T00:23:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/green-seedless-grapes-per-case"/>
+    <title>Green Seedless Grapes - Per Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/green-seedless-grapes-19-lbs-894171.png?v=1611511122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green Grapes - Per Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/green-grapes-per-case#product","name":"Green Grapes - Per Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938410168390","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/green-grapes-per-case-bulk-mart_313.png","description":"Green Grapes - Per Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"19"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/green-grapes-per-case?variant=29424444932166","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938410168390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>49131</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938405613638</id>
+    <published>2019-07-21T00:10:53-04:00</published>
+    <updated>2019-07-21T00:10:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pineapple-6-casepineapple-5-case"/>
+    <title>Pineapple - 5 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pineapple-5-case-548517.jpg?v=1611513695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pineapple - 5 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pineapple-6-case#product","name":"Pineapple - 5 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938405613638","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pineapple-6-case-bulk-mart_835.jpg","description":"Pineapple - 5 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pineapple-6-case?variant=29424422912070","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938405613638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>49139</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938404794438</id>
+    <published>2019-07-21T00:07:23-04:00</published>
+    <updated>2019-07-21T00:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pineapple-each"/>
+    <title>Pineapple - Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pineapple-each-481678.jpg?v=1611513515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pineapple - Each</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pineapple-each#product","name":"Pineapple - Each","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938404794438","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pineapple-each-bulk-mart_467.jpg","description":"Pineapple - Each.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pineapple-each?variant=29424417931334","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938404794438</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>49140</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938092253254</id>
+    <published>2019-07-20T12:49:45-04:00</published>
+    <updated>2019-07-20T12:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lemon-113-case"/>
+    <title>Lemon - 113 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lemon-113-case-717103.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon - 113 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938092253254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>49200</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938091565126</id>
+    <published>2019-07-20T12:48:13-04:00</published>
+    <updated>2019-07-20T12:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lime-200-caselime-230-case"/>
+    <title>Lime - 230 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lime-230-case-120930.jpg?v=1611511899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lime - 230 / Case</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lime-200-case#product","name":"Lime - 200 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938091565126","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lime-200-case-bulk-mart_854.jpg","description":"Lime - 200 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"26.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lime-200-case?variant=29423320367174","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938091565126</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>49203</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2071907467334</id>
+    <published>2019-05-15T16:55:12-04:00</published>
+    <updated>2019-05-15T16:55:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/golden-valley-natural-dates-1-kg"/>
+    <title>Golden Valley - Natural Dates - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Golden Valley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-valley-natural-dates-1-kg-109933.jpg?v=1611513514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Golden Valley<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La Palma - Natural Medjoul Dates - 1 Kg</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/la-palma-natural-medjoul-dates-1-kg#product","name":"La Palma - Natural Medjoul Dates - 1 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"DATESBM15519","sku":"BM15519","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-palma-natural-medjoul-dates-1-kg-bulk-mart_514.jpg","description":"La Palma - Natural Medjoul Dates - 1 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"La Palma"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"30"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"La Palma - Natural Medjoul Dates - 1 Kg","sku":"BM15519","mpn":"DATESBM15519","@type":"Offer","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/la-palma-natural-medjoul-dates-1-kg?variant=20750067892294","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2071907467334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>49130</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2035345326150</id>
+    <published>2019-03-28T12:02:02-04:00</published>
+    <updated>2019-03-28T12:02:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lime-12-pack"/>
+    <title>Lime - 12 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lime-12-pack-575647.jpg?v=1611513518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lime - 12 / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035345326150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>49202</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2035070140486</id>
+    <published>2019-03-28T01:33:44-04:00</published>
+    <updated>2019-03-28T01:33:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lemon-12-pack"/>
+    <title>Lemon - 12 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lemon-12-pack-980836.jpg?v=1611512436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lemon - 12 / Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lemon-12-pack#product","name":"Lemon - 12 / Pack","itemCondition":"https://schema.org/NewCondition","mpn":"2035070140486","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lemon-12-pack-bulk-mart_514.jpg","description":"Lemon - 12 / Pack...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"gtin14":"PrLe103BM32819","offers":[{"name":"Lemon - 12 / Pack","sku":"BM32819","gtin14":"PrLe103BM32819","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lemon-12-pack?variant=20592047685702","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon &amp; Lime</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035070140486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>49201</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2035067420742</id>
+    <published>2019-03-28T01:25:56-04:00</published>
+    <updated>2019-03-28T01:25:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kiwi-per-pack"/>
+    <title>Kiwi - Per pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kiwi-per-pack-851017.jpg?v=1611513510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kiwi - Per pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035067420742</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>49134</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2035062046790</id>
+    <published>2019-03-28T01:09:43-04:00</published>
+    <updated>2019-03-28T01:09:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/honeydew-large-per-piece"/>
+    <title>Honeydew Large - Per Piece</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/honeydew-large-per-piece-173205.jpg?v=1611513816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Honeydew Large - Per Piece</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/honeydew-large-per-piece#product","name":"Honeydew Large - Per Piece","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2035062046790","sku":"BM32819","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/honeydew-large-per-piece-bulk-mart_154.jpg","description":"Honeydew Large - Per Piece.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM32819","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"8.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/honeydew-large-per-piece?variant=20592002465862","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2035062046790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>49133</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2034816581702</id>
+    <published>2019-03-27T16:34:58-04:00</published>
+    <updated>2019-03-27T16:34:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/avocado-3-each"/>
+    <title>Avocado - 3 Each</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Avocado - Per Pack</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2034816581702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>49123</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1995696046150</id>
+    <published>2019-02-19T14:23:23-05:00</published>
+    <updated>2019-02-19T14:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/strawberries-8-x-1-lbs"/>
+    <title>Strawberries - 8 x 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/strawberries-8-x-1-lbs-961517.jpg?v=1611512494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberries - 8 x 1 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/strawberries-8-x-1-lbs#product","name":"Strawberries - 8 x 1 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1995696046150","sku":"BM19219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/strawberries-8-x-1-lbs-bulk-mart_192.jpg","description":"Strawberries - 8 x 1 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BM19219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/strawberries-8-x-1-lbs?variant=20102812762182","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1995696046150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>49146</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1995691065414</id>
+    <published>2019-02-19T14:23:23-05:00</published>
+    <updated>2019-02-19T14:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/strawberries-1-lbs"/>
+    <title>Strawberries - 1 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/strawberries-1-lbs-323407.jpg?v=1611514001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Strawberries - 1 Lbs</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1995691065414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>49145</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1995681300550</id>
+    <published>2019-02-19T14:23:23-05:00</published>
+    <updated>2019-02-19T14:23:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/raspberry-170-g"/>
+    <title>Raspberry - 170 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Market</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/raspberry-170-g-120430.jpg?v=1611514783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Market<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Raspberry - 170 g</p>
+<p><strong>Buy the Best Grade A Fresh Produce!</strong></p>
+<ul>
+<li>Good-quality fruits and veggies,</li>
+<li>Available in abundant variety and at low prices.</li>
+<li>Both Bulk packing and small repacks are available.</li>
+<li>We also carry bulk cases of almost all the small packing available on the website, please ask for that if you need them.</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/raspberry-170-g#product","name":"Raspberry - 170 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1995681300550","sku":"BM19219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/raspberry-170-g-bulk-mart_149.jpg","description":"Raspberry - 170 g.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"},"offers":[{"sku":"BM19219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"3.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/raspberry-170-g?variant=20102775144518","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"43"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1995681300550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>49142</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

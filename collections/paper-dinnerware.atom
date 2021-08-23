@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/paper-dinnerware.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-08-26T18:33:39-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275745862</id>
+    <published>2020-08-26T18:33:39-04:00</published>
+    <updated>2020-08-26T18:33:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22007-6-75-dessert-heavy-paper-plate-250-sleeve"/>
+    <title>Royal Chinet - 22007 - 6.75&quot; Dessert Heavy Paper Plate - 250/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22007-675-dessert-heavy-paper-plate-250sleeve-652966.jpg?v=1611512912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - Paper Plate Dessert Heavy 22007 - 6.75" - 250 / Sleeve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dessert Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275745862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>80044</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275549254</id>
+    <published>2020-08-26T18:33:39-04:00</published>
+    <updated>2020-08-26T18:33:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22012-9-75-x-12-5-oval-platter-125-sleeve"/>
+    <title>Royal Chinet - 22012 - 9.75&quot; x 12.5&quot; Oval Platter - 125 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22012-975-x-125-oval-platter-125-sleeve-789841.jpg?v=1611511536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            33.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner on an elegant dish without any of the cleanup with this<span> </span>Paper<span> platter</span>!</h2>
+<p><span>This platter is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This platter is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this platter provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this platter gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this platter!</p>
+<p>Royal Chinet - 22012 - 9.75" x 12.5" Natural Pulp Fiber Oval Platter - 125 / Sleeve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Oval Platter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275549254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.49</s:price>
+      <s:sku>80046</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275450950</id>
+    <published>2020-08-26T18:33:38-04:00</published>
+    <updated>2020-08-26T18:33:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-10260-8-75-lunch-heavy-paper-plate-500-case"/>
+    <title>Royal Chinet - 10260 - 8.75&quot; Lunch Heavy Paper Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-10260-875-lunch-heavy-paper-plate-500case-727892.jpg?v=1611514250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            77.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22009 - 8.75" Lunch Heavy Paper Plate - 500 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lunch Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275450950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.99</s:price>
+      <s:sku>81040</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275483718</id>
+    <published>2020-08-25T06:50:50-04:00</published>
+    <updated>2020-08-25T06:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-10260-8-75-lunch-heavy-paper-plate-150-sleeve"/>
+    <title>Royal Chinet - 10260 - 8.75&quot; Lunch Heavy Paper Plate - 150/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-10260-875-lunch-heavy-paper-plate-150sleeve-924522.jpg?v=1611512792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22009 - 8.75" Lunch Heavy Paper Plate - 150 / Sleeve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lunch Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275483718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>81051</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275418182</id>
+    <published>2020-08-25T06:50:50-04:00</published>
+    <updated>2020-08-25T06:50:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22006-6-dessert-heavy-paper-plate-250-sleeve"/>
+    <title>Royal Chinet - 22006 - 6&quot; Dessert Heavy Paper Plate - 250/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22006-6-dessert-heavy-paper-plate-250sleeve-253728.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22006 -6" Dessert Heavy Paper Plate - 250 / Sleeve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dessert Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275418182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>80042</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4479374557258</id>
+    <published>2020-01-21T09:57:41-05:00</published>
+    <updated>2020-01-21T09:57:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gold-star-9-uncoated-pizza-paper-plates-1200-case"/>
+    <title>Gold Star- 9&quot; Uncoated Pizza Paper Plates - 1200 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Gold Star</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gold-star-9-uncoated-pizza-paper-plates-1200-case-905503.jpg?v=1611514251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gold Star<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p> Gold Star- 9" Uncoated Pizza Paper Plates - 1200 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4479374557258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>81048</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3877350375494</id>
+    <published>2019-06-23T23:07:11-04:00</published>
+    <updated>2019-06-23T23:07:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22023-12-oz-heavy-paper-bowls-1000-case"/>
+    <title>Royal Chinet - 22023 - 12 Oz Heavy Paper Bowls- 1000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22023-12-oz-heavy-paper-bowls-1000-case-171015.png?v=1611513754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            81.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Royal Chinet - 22023 - 12 Oz Heavy Paper Bowls- 1000 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Heavy Paper Bowls</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3877350375494</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.99</s:price>
+      <s:sku>BM22023</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275713094</id>
+    <published>2019-01-22T12:19:53-05:00</published>
+    <updated>2019-01-22T12:19:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22007-6-75-dessert-heavy-paper-plate-1000-case"/>
+    <title>Royal Chinet - 22007 - 6.75&quot; Dessert Heavy Paper Plate - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22007-675-dessert-heavy-paper-plate-1000case-477498.jpg?v=1611511475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            90.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - Paper Plate Dessert Heavy 22007 - 6.75" - 1000 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dessert Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275713094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.99</s:price>
+      <s:sku>80043</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275614790</id>
+    <published>2019-01-22T12:19:51-05:00</published>
+    <updated>2019-01-22T12:19:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22011-10-375-dinner-heavy-paper-plate-125-sleeve"/>
+    <title>Royal Chinet - 22011 - 10.375&quot; Dinner Heavy Paper Plate - 125/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22011-10375-dinner-heavy-paper-plate-125sleeve-553038.jpg?v=1611513820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22011- 10.375" Dinner Heavy Paper Plate - 125 / Sleeve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dinner Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275614790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>80045</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275582022</id>
+    <published>2019-01-22T12:19:50-05:00</published>
+    <updated>2019-01-22T12:19:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22011-10-375-heavy-dinner-paper-plate-500-case"/>
+    <title>Royal Chinet - 22011 - 10.375&quot; Heavy Dinner Paper Plate - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22011-10375-heavy-dinner-paper-plate-500case-836743.jpg?v=1611513031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22011 - 10.375" Heavy Dinner Paper Plate - 500 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dinner Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275582022</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>81046</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275516486</id>
+    <published>2019-01-22T12:19:49-05:00</published>
+    <updated>2019-01-22T12:19:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22012-9-75-x-12-5-oval-platter-500-case"/>
+    <title>Royal Chinet - 22012 - 9.75&quot; x 12.5&quot; Oval Platter - 500 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22012-975-x-125-oval-platter-500-case-807451.jpg?v=1611511897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner on an elegant dish without any of the cleanup with this<span> </span>Paper<span> platter</span>!</h2>
+<p><span>This platter is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This platter is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this platter provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this platter gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this platter!</p>
+<p>Royal Chinet - 22012 - 9.75" x 12.5" Natural Pulp Fiber Oval Platter - 500 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Paper Oval Platter</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275516486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>80047</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275385414</id>
+    <published>2019-01-22T12:19:46-05:00</published>
+    <updated>2019-01-22T12:19:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/royal-chinet-22006-6-dessert-heavy-paper-plate-1000-case"/>
+    <title>Royal Chinet - 22006 - 6&quot; Dessert Heavy Paper Plate - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Royal Chinet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/royal-chinet-22006-6-dessert-heavy-paper-plate-1000case-765903.jpg?v=1611514665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Royal Chinet<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Royal Chinet - 22006 - 6" Dessert Heavy Paper Plate - 1000 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dessert Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275385414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>80041</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275287110</id>
+    <published>2019-01-22T12:19:44-05:00</published>
+    <updated>2019-01-22T12:19:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eilat-6-uncoated-snack-paper-plates-1000-case"/>
+    <title>Eilat - 6&quot; Uncoated Snack Paper Plates - 1000 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Eilat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eilat-6-uncoated-snack-paper-plates-1000-case-893212.jpg?v=1611512795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eilat<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this Paper plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Eilat - 6" Uncoated Snack Paper Plates - 1000 / Case</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275287110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>81045</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970275188806</id>
+    <published>2019-01-22T12:19:42-05:00</published>
+    <updated>2019-01-22T12:19:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eilat-9-uncoated-pizza-paper-plates-1200-case"/>
+    <title>Eilat - 9&quot; Uncoated Pizza   Paper Plates - 1200 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Eilat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eilat-9-uncoated-pizza-paper-plates-1200-case-307606.jpg?v=1611509729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eilat<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Serve your signature appetizers, lunch, dinner and desserts on an elegant dish without any of the cleanup with this<span> </span>Paper<span> </span>plate!</h2>
+<p><span>This plate is sure to draw attention while adding an upscale look to your wedding receptions, banquets, or other catered events.</span></p>
+<h3 class="item-header">Convenient and Disposable</h3>
+<p>This plate is designed to provide the convenience of disposability that your events require. Plus, with a versatile diameter, it's ideal for serving not only meat and potatoes, but salads, pasta, and sandwiches, too! Its lightweight design also allows for easy product separation, enabling you to quickly set tables before guests arrive.</p>
+<h3 class="item-header">Sophisticated Elegance</h3>
+<p>Producing sophisticated, high-quality products with the cost-efficient consumer in mind, this plate provides the perfect solution for attractive, convenient dining, and the lattice design line is no exception. Made of durable material, this plate gives you superior strength and durability without the hefty cost and risk of breakage that comes with fine china. Add some elegance to your next event with this plate!</p>
+<p>Eilat - 9" Uncoated Pizza Paper Plates - 1200 / Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pizza Paper Plates</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970275188806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>81046</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

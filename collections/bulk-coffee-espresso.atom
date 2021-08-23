@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bulk-coffee-espresso.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-07-09T11:53:23-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6615332028490</id>
+    <published>2021-07-09T11:53:23-04:00</published>
+    <updated>2021-07-09T11:53:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mokate-gold-premium-latte-classic-10-x-14g"/>
+    <title>Mokate Gold - Premium Latte Classic - 10 x 14g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/MokateGoldPremiumLatteClassic.jpg?v=1625846089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A premium instant latte. Mokate instant coffee sachets offer a quick and easy way to kick start your day. Our Mokate Gold Premium Latte Classic contains 10 instant coffee sachets per pack.</span></p>
+<p><span data-mce-fragment="1">Mokate Gold Premium Latte Classic </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6615332028490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>66440</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854088761418</id>
+    <published>2020-12-19T16:25:45-05:00</published>
+    <updated>2020-12-19T16:25:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-coffee-craft-roasters-viennese-whole-coffee-beans-907-g"/>
+    <title>Club Coffee - Craft Roasters Viennese Whole Coffee Beans - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Club Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-coffee-craft-roasters-viennese-whole-coffee-beans-907-g-415410.jpg?v=1611509374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club Coffee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">CRAFT ROASTERS VIENNESE ROAST WHOLE BEAN BAG</h1>
+<p class="price"> If you like your coffee deep, dark and delicious, you’ll fall for this strong, full-bodied blend. Enjoy the rich, spicy flavor and excellent aroma of our Viennese. Not just your average cup of coffee!</p>
+<div class="item-description" itemprop="description">
+<p>Medium-Dark Roast  •  33% Rainforest Alliance Certified<sup>TM</sup></p>
+</div>
+<p>Club Coffee - Craft Roasters Viennese Whole Beans - 907 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854088761418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>90124</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854088007754</id>
+    <published>2020-12-19T16:25:44-05:00</published>
+    <updated>2020-12-19T16:25:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-coffee-100-colombian-coffee-96-x-2-5-oz"/>
+    <title>Club Coffee - 100% Colombian Coffee - 96 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Club Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-coffee-100-colombian-coffee-96-x-25-oz-201625.jpg?v=1611511122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club Coffee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">CRAFT ROASTERS VIENNESE ROAST WHOLE BEAN BAG</h1>
+<p class="price"> If you like your coffee deep, dark and delicious, you’ll fall for this strong, full-bodied blend. Enjoy the rich, spicy flavor and excellent aroma of our Viennese. Not just your average cup of coffee!</p>
+<div class="item-description" itemprop="description">
+<p>Medium-Dark Roast  •  33% Rainforest Alliance Certified<sup>TM</sup></p>
+</div>
+<p>Club Coffee - Craft Roasters Viennese Whole Beans - 907 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Roast Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854088007754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>90123</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854087123018</id>
+    <published>2020-12-19T16:25:43-05:00</published>
+    <updated>2020-12-19T16:25:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-exclusive-blend-red-coffee-64-x-2-oz"/>
+    <title>Mother Parkers - Exclusive Blend Red Coffee - 64 x 2 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-exclusive-blend-red-coffee-64-x-2-oz-735767.jpg?v=1611510992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="h5 product-details__title">Product Details</h3>
+<div class="product-details__content">
+<p>Mother Parkers Exclusive Coffee features a mouth-watering blend of the finest Arabica coffee beans for a smooth, gourmet taste you'll love. To create this exclusive blend, Mother Parkers starts with Colombian beans for a full-bodied flavour then adds Guatemalan beans for a slightly spicy note, Costa Rican beans for unparalleled smoothness and richness, and Brazilian beans for their light, nutty character. The result is a delicious coffee with a unique, satisfying personality. Packaged as 64 individually-sealed pouches per carton for long-lasting freshness, this ground coffee makes a great addition to any home or office kitchen.</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2" itemprop="description">Exclusive blend contains Colombian, Guatemalan, Costa Rican and Brazilian coffee beans for a unique, gourmet taste</li>
+<li class="product-details__list-item mb-2" itemprop="description">Individual pouches are tightly sealed for maximum freshness</li>
+<li class="product-details__list-item mb-2" itemprop="description">Ideal for home use or to share at the office</li>
+</ul>
+</div>
+<p>Mother Parkers - Exclusive Blend Red - 64 x 2 Oz</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854087123018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>90136</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854086565962</id>
+    <published>2020-12-19T16:25:43-05:00</published>
+    <updated>2020-12-19T16:25:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-cafe-mystique-coffee-64-x-2-5-oz"/>
+    <title>Mother Parkers - Cafe&apos; Mystique Coffee - 64 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-cafe-mystique-coffee-64-x-25-oz-747261.jpg?v=1611514314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            106.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Signature select 100% Arabica beans with a sweet, smooth, mellow flavour. Slightly nutty aroma with a clean finish.</p>
+<p>Light roast coffee.</p>
+<p>Mother Parkers - Exclusive Blend - 64 x 2.5 Oz </p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854086565962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.99</s:price>
+      <s:sku>90134</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854085845066</id>
+    <published>2020-12-19T16:25:42-05:00</published>
+    <updated>2020-12-19T16:25:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-exclusive-blend-coffee-64-x-2-5-oz"/>
+    <title>Mother Parkers - Exclusive Blend Coffee  - 64 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-exclusive-blend-coffee-64-x-25-oz-408049.jpg?v=1611511121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Signature select 100% Arabica beans with a sweet, smooth, mellow flavour. Slightly nutty aroma with a clean finish.</p>
+<p>Light roast coffee.</p>
+<p>Mother Parkers - Exclusive Blend - 64 x 2.5 Oz </p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854085845066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>90135</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854082863178</id>
+    <published>2020-12-19T16:25:41-05:00</published>
+    <updated>2020-12-19T16:25:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tim-hortons-premium-instant-coffee-100-g"/>
+    <title>Tim Hortons - Premium Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tim Hortons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tim-hortons-premium-instant-coffee-100-g-945294.png?v=1611513275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Hortons<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100g jar of Medium Roast Premium Instant coffee</span></li>
+<li><span class="a-list-item">100% Arabica beans grown in Colombia</span></li>
+<li><span class="a-list-item">Well-balanced, crisp flavour with a smooth finish</span></li>
+<li><span class="a-list-item">Stir in about one teaspoon of instant coffee for every 175 mL (6 oz) of boiling water</span></li>
+<li><span class="a-list-item">Use for Dalgonas</span></li>
+</ul>
+<p>Tim Hortons - Premium Instant Coffee - 100 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854082863178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku>90152</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854081617994</id>
+    <published>2020-12-19T16:25:41-05:00</published>
+    <updated>2020-12-19T16:25:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-sweet-creamy-french-vanilla-sachets-18-x-22-g"/>
+    <title>Nestle Nescafe - Sweet &amp; Creamy French Vanilla Sachets - 18 x 22 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-sweet-creamy-french-vanilla-sachets-18-x-22-g-398253.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Pack of 6 boxes (18 sachets per box)</span></li>
+<li><span class="a-list-item">All in one instant French vanilla coffee</span></li>
+<li><span class="a-list-item">Predosed, no sugar, coffee creamer or coffee whitener required</span></li>
+<li><span class="a-list-item">Makes a consistently sweet and creamy cup of coffee</span></li>
+<li><span class="a-list-item">Perfect at home or on-the-go</span></li>
+</ul>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="z770r5-gjkqhp-wuiusn-ajckb3" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>With NESCAFÉ Sweet &amp; Creamy French Vanilla Mix (18 x 22 g), you are never more than moments away from a consistently delicious cup of coffee. Just rip a pre-dosed sachet into a mug, stir and enjoy a sweet and creamy cup of self-made coffee. Stir, sip, love!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Nestle Nescafe - Sweet &amp; Creamy French Vanilla Sachets - 18 x 22 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854081617994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>90146</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854081060938</id>
+    <published>2020-12-19T16:25:40-05:00</published>
+    <updated>2020-12-19T16:25:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-sweet-creamy-instant-coffee-sachets-18-x-19-g"/>
+    <title>Nestle Nescafe - Sweet &amp; Creamy Instant Coffee Sachets - 18 x 19 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-sweet-creamy-instant-coffee-sachets-18-x-19-g-236029.png?v=1622245726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Pack of 6 boxes (18 sachets per box)</span></li>
+<li><span class="a-list-item">All-in-one instant coffee</span></li>
+<li><span class="a-list-item">Predosed, no sugar, coffee creamer or coffee whitener required</span></li>
+<li><span class="a-list-item">Makes a consistently sweet and creamy cup of coffee</span></li>
+<li><span class="a-list-item">Perfect at home or on-the-go</span></li>
+</ul>
+<p>Nestle Nescafe - Sweet &amp; Creamy Instant Coffee Sachets - 18 x 19 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854081060938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>90147</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854080372810</id>
+    <published>2020-12-19T16:25:39-05:00</published>
+    <updated>2020-12-19T16:25:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-rich-instant-coffee-170-gnestle-nescafe-rich-instant-coffee-170-g"/>
+    <title>Nestle Nescafe - Rich Instant Coffee - 170 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-instant-coffee-170-g-815576.jpg?v=1611514065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="ttbn1r-orxq5u-an4nc8-vjx066" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich makes a deliciously rich tasting coffee from 100% natural coffee beans. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>170 g jar of instant coffee<br>
+</li>
+<li><span class="a-list-item">Made from 100% natural coffee beans</span></li>
+<li><span class="a-list-item">Free of additives or preservatives</span></li>
+<li><span class="a-list-item">Has been waking up Canadians for over 75 years</span></li>
+<li><span class="a-list-item">Makes over 85 servings</span></li>
+<li><span class="a-list-item">instant</span></li>
+</ul>
+<p>Nestle Nescafe - Rich Instant Coffee - 170 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854080372810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>90145</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854079717450</id>
+    <published>2020-12-19T16:25:38-05:00</published>
+    <updated>2020-12-19T16:25:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-rich-decaf-100-gnestle-nescafe-rich-decaf-instant-coffee-100-g"/>
+    <title>Nestle Nescafe - Rich Decaf Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-decaf-instant-coffee-100-g-334369.png?v=1611511058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="v922vv-melvb-qqghcq-kgfxyh" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich Decaf Instant Coffee (100 g) makes 100% pure decaffeinated coffee with all the full-bodied taste of NESCAFÉ Rich. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100g jar of instant decaffeinated coffee</span></li>
+<li><span class="a-list-item">Made from 100% natural coffee beans</span></li>
+<li><span class="a-list-item">Free of additives or preservatives</span></li>
+<li><span class="a-list-item">Has been waking up Canadians for over 75 years</span></li>
+<li><span class="a-list-item">Makes over 50 cups of coffee</span></li>
+</ul>
+<p>Nestle Nescafe - Rich Decaf Instant Coffee - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaffeinated  Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854079717450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90144</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854079455306</id>
+    <published>2020-12-19T16:25:38-05:00</published>
+    <updated>2020-12-19T16:25:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-rich-blend-instant-coffee-475-g"/>
+    <title>Nestle Nescafe - Rich Blend Instant Coffee - 475 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-blend-instant-coffee-475-g-703925.jpg?v=1611514843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">475g tin of Instant coffee</span></li>
+<li><span class="a-list-item">Made from 100% natural coffee beans</span></li>
+<li><span class="a-list-item">Free of additives or preservatives</span></li>
+<li><span class="a-list-item">Has been waking up Canadians for over 75 years</span></li>
+<li><span class="a-list-item">Makes over 260 servings</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="qi99of-76wzk-8s1g1s-fukcdv" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich makes a deliciously rich tasting coffee from 100% natural coffee beans. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Nestle Nescafe - Rich Blend - 475 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854079455306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>90143</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854078636106</id>
+    <published>2020-12-19T16:25:37-05:00</published>
+    <updated>2020-12-19T16:25:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-gold-origins-colombia-coffee-95-g"/>
+    <title>Nestle Nescafe - Gold Origins Colombia Coffee - 95 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-gold-origins-colombia-coffee-95-g-524136.png?v=1611513570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="95luwl-vpnxdf-baxj4b-t3eljx" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Enjoy a cup of NESCAFÉ Gold origins Colombia coffee (95 g), a delicious coffee brew that exceeds all expectations when it comes to instant Coffee. Sustainably sourced from some of the finest coffee growing regions of Columbia, this premium, single origin coffee brews medium-bodied cup with a juicy, fruity flavour. It’s expertly crafted with a flavour profile that delights the senses, so you can enjoy the perfect cup – Every time. Sit back and savour the extraordinary experience that’s unlike any other.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">NESCAFÉ Gold origins Colombia coffee (95 g) is a medium-bodied profile with a juicy and fruity flavour</span></li>
+<li><span class="a-list-item">Easy to adjust to taste, so you can experiment and customize your perfect cup</span></li>
+<li><span class="a-list-item">A high-quality coffee that will exceed any expectations you have for instant Coffee</span></li>
+<li><span class="a-list-item">Passionately crafted with single origin Arabica coffee beans from South America</span></li>
+<li><span class="a-list-item">Responsibly grown coffee through sustainable farming practices</span></li>
+</ul>
+<p>Nestle Nescafe - Gold Origins Colombia Coffee - 95 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854078636106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90141</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854078144586</id>
+    <published>2020-12-19T16:25:36-05:00</published>
+    <updated>2020-12-19T16:25:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-hazelnut-instant-coffee-100-g"/>
+    <title>Nestle Nescafe - Hazelnut Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-hazelnut-instant-coffee-100-g-738735.png?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100 g jar</span></li>
+<li><span class="a-list-item">Hazelnut flavoured instant coffee</span></li>
+<li><span class="a-list-item">Two flavour favourites combined full bodied NESCAFÉ Rich coffee and sweet hazelnut</span></li>
+<li><span class="a-list-item">10 calories per serving</span></li>
+<li><span class="a-list-item">Makes over 50 cups of coffee</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="4u8d7n-dd6lhm-nldc0n-gn1uf6" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich Hazelnut Instant Coffee (100g) offers the great taste of NESCAFÉ Rich with a sweet hazelnut finish. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Nestle Nescafe - Hazelnut Instant Coffee - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854078144586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90142</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854077882442</id>
+    <published>2020-12-19T16:25:35-05:00</published>
+    <updated>2020-12-19T16:25:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-french-vanilla-coffee-100-g"/>
+    <title>Nestle Nescafe - French Vanilla Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-french-vanilla-coffee-100-g-585520.png?v=1611513996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">NESCAFÉ Rich French Vanilla offers two classics combined: The full-bodied NESCAFÉ Rich with the delicious flavour of French vanilla. A perfect way to kick-start the day.®</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">•100 g jar<br>•French Vanilla flavoured instant coffee<br>•10 calories per serving<br>•Makes over 50 cups of coffee</div>
+<p>Nestle Nescafe - French Vanilla - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854077882442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90139</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854077587530</id>
+    <published>2020-12-19T16:25:35-05:00</published>
+    <updated>2020-12-19T16:25:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-encore-instant-coffee-100-g"/>
+    <title>Nestle Nescafe - Encore Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-encore-instant-coffee-100-g-240036.jpg?v=1620321338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100 g jar of Instant coffee with chicory</span></li>
+<li><span class="a-list-item">Gentle mellow taste</span></li>
+<li><span class="a-list-item">Makes over 50 cups of coffee</span></li>
+<li><span class="a-list-item">A perfect way to kick-start the day.</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="7j2pjv-lk1o7c-eg9xom-o8b3vj" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Encore Instant Coffee (100 g) makes a deliciously smooth blend of coffee and chicory, delivering a full flavour of coffee with the gentleness you crave. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Nestle Nescafe - Encore - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854077587530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90138</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854076768330</id>
+    <published>2020-12-19T16:25:34-05:00</published>
+    <updated>2020-12-19T16:25:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-dark-roast-coffee-100-gnestle-nescafe-gold-dark-roast-coffee-100-g"/>
+    <title>Nestle Nescafe - Gold Dark Roast Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-gold-dark-roast-coffee-100-g-395080.jpg?v=1611511711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="h5 product-details__title">Product Details</h3>
+<div class="product-details__content">
+<p>NESCAFE GOLD Dark Roast Instant and Roast &amp; Ground Coffee (100 g) is a rich and full-bodied premium coffee with full of bold flavours and strong toasted notes. The secret to our coffee is our micro grind process, which takes Arabica beans and grinds them 10 times finer than regular coffee to unlock their hidden taste and the true soul of the bean</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2" itemprop="description">Instant coffee, Roast &amp; Ground Coffee</li>
+<li class="product-details__list-item mb-2" itemprop="description">A dark roast coffee full of strong toasted notes.</li>
+<li class="product-details__list-item mb-2" itemprop="description">Blended with arabica beans ground 10 times finer*. *Than the average roast and ground coffee.</li>
+</ul>
+</div>
+<p>Nestle Nescafe - Gold Dark Roast - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Roast Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854076768330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>90140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854075162698</id>
+    <published>2020-12-19T16:25:33-05:00</published>
+    <updated>2020-12-19T16:25:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-tasters-choice-decaffeinated-coffee-100-g"/>
+    <title>Nestle Nescafe - Taster&apos;s Choice Decaffeinated Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-tasters-choice-decaffeinated-coffee-100-g-163072.png?v=1611514244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Get a perfectly rich, robust coffee in mere moments with NESCAFÉ® TASTER’S CHOICE® Decaffeinated Instant Coffee (100 g). We use the same carefully selected beans from around the world as our regular TASTER’S CHOICE®, just decaffeinated. It’s our passion to ensure a quality, well-rounded, and oh-so-satisfying smooth cup of coffee, every time.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">•100g jar<br>•Premium instant decaffeinated coffee coffee<br>•100% pure coffee made from specially selected coffee beans<br>•Smooth taste and rich aroma<br>•Makes over 50 cups of coffee</div>
+<p>Nestle Nescafe - Taster's Choice Decaffeinated Coffee - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaffeinated  Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854075162698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.29</s:price>
+      <s:sku>90149</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854073688138</id>
+    <published>2020-12-19T16:25:33-05:00</published>
+    <updated>2020-12-19T16:25:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lavazza-qualita-rosa-whole-coffee-beans-1-kg"/>
+    <title>Lavazza - Qualita Rosa Whole Coffee Beans - 1 Kg</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lavazza</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lavazza-qualita-rosa-whole-coffee-beans-1-kg-515140.png?v=1611512432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavazza<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="title" data-mce-fragment="1">Qualità Rossa</h1>
+<p class="parg" data-mce-fragment="1">Qualità Rossa is a special blend of mainly Brazilian Arabica as well as African and Southeast Asian Robusta. This icon of Italian coffee, with its unmistakable aroma, is ideal for an energetic start to the day. Ideal for Black Coffee and Latte</p>
+<p class="parg" data-mce-fragment="1">Lavazza - Qualita Rosa Whole Coffee Beans - 1 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854073688138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>90132</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854070247498</id>
+    <published>2020-12-19T16:25:32-05:00</published>
+    <updated>2020-12-19T16:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lavazza-organic-ground-coffee-premium-blend-340-g"/>
+    <title>Lavazza - Organic Ground Coffee Premium Blend - 340 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lavazza</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lavazza-organic-ground-coffee-premium-blend-340-g-160308.jpg?v=1611513816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavazza<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavazza - Espresso Organic Drip - 340 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">340gr bag of Lavazza Tierra ground coffee</span></li>
+<li><span class="a-list-item">Full-bodied and aromatic</span></li>
+<li><span class="a-list-item">Premium organic blend, roasted using authentic and traditional Italian roasting techniques</span></li>
+<li><span class="a-list-item">Blended and roasted in Italy</span></li>
+<li><span class="a-list-item">Suitable for all coffee makers</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Organic Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854070247498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>90131</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854069723210</id>
+    <published>2020-12-19T16:25:31-05:00</published>
+    <updated>2020-12-19T16:25:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lavazza-espresso-intenso-drip-340-glavazza-espresso-intenso-dark-roast-ground-coffee-340-g"/>
+    <title>Lavazza - Espresso Intenso Dark Roast Ground Coffee - 340 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lavazza</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lavazza-espresso-intenso-dark-roast-ground-coffee-340-g-313248.jpg?v=1611510889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavazza<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavazza - Espresso Intenso Drip - 340 g Intensity 9</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">A bold coffee that features a balance of smoky and caramelized flavours. The tailored dark roasting enhances strength and body, producing a lingering finish with chocolaty notes.</span></li>
+<li><span class="a-list-item"><span>A full-flavoured coffee that boasts smoky, caramelized notes. The dark roasting further strengthens the coffee's body and intensity of the flavour which makes Intenso so delicious, whether it is enjoyed black or with milk and sugar.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854069723210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>90128</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854069493834</id>
+    <published>2020-12-19T16:25:30-05:00</published>
+    <updated>2020-12-19T16:25:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lavazza-ground-coffee-gran-aroma-340-g"/>
+    <title>Lavazza - Ground Coffee Gran Aroma - 340 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lavazza</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lavazza-ground-coffee-gran-aroma-340-g-371611.png?v=1611511424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavazza<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lavazza - Espresso Gran Aroma - 340 g</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Famous Italian Coffee</span></li>
+<li><span class="a-list-item">Lavazza</span></li>
+<li><span class="a-list-item">Gran Aroma</span></li>
+<li><span class="a-list-item">100% Arabica</span></li>
+<li><span class="a-list-item">2 x 12oz</span></li>
+<li><span class="a-list-item"><span>Gran Aroma is a balanced and aromatic blend, made with 100% Arabica beans from South America. It features a floral aroma with citrus notes: ideal for coffee connoisseurs.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854069493834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>90129</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854068936778</id>
+    <published>2020-12-19T16:25:30-05:00</published>
+    <updated>2020-12-19T16:25:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lavazza-ground-coffee-gran-selezione-340-g"/>
+    <title>Lavazza - Ground Coffee Gran Selezione - 340 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Lavazza</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lavazza-ground-coffee-gran-selezione-340-g-698143.jpg?v=1611510514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lavazza<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Lavazza - Espresso Gran Selezione - 340 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">This blend comes exclusively from rainforest alliance certified coffee farms. It is a premium Arabica coffee blend with intense flavour, chocolate undertones, and a full-bodied taste</span></li>
+<li><span class="a-list-item">Authentic Italian coffee</span></li>
+<li><span class="a-list-item"><span>Rainforest Alliance Certified™, this product is a blend of premium Arabica from Central and South America, with chocolaty tasting notes and a full-bodied aroma. 100% pure Arabica, 100% sustainable.</span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854068936778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>90130</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854060843082</id>
+    <published>2020-12-19T16:25:29-05:00</published>
+    <updated>2020-12-19T16:25:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-coffee-mate-original-coffee-whitener-1-4-kg"/>
+    <title>Nestle - Coffee Mate Original Coffee Whitener - 1.4 Kg</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-coffee-mate-original-coffee-whitener-14-kg-610591.png?v=1611513513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Coffee's perfect mate since 1961.</span></li>
+<li><span class="a-list-item">Transform your coffee into creamy deliciousness</span></li>
+<li><span class="a-list-item">Lactose Free and Cholesterol Free</span></li>
+<li><span class="a-list-item">No refrigeration required; Enjoy a creamy coffee anytime, anywhere</span></li>
+<li><span class="a-list-item">Extra Value! Coffee-Lover's Format</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="qerzmn-8ee3br-21czub-9p7rzr" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Since 1961, COFFEE-MATE Powder Original has been coffee's perfect mate. The original rich and deliciously creamy coffee whitener - perfect anytime you want to enjoy a velvety-smooth cup of coffee.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Nestle - Coffee Mate Original - 1.4 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Whitener</s:tag>
+    <s:tag>Lactose Free</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854060843082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>90137</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854060122186</id>
+    <published>2020-12-19T16:25:28-05:00</published>
+    <updated>2020-12-19T16:25:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/folgers-classic-roast-coffee-920-g"/>
+    <title>Folgers - Classic Roast Coffee - 920 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Foldgers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/folgers-classic-roast-coffee-920-g-499110.jpg?v=1611510760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foldgers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><strong>Warm and inviting, this coffee is the ideal addition to your beverage service.</strong> Each package of ground coffee contains the mild taste and earthy aroma of carefully-selected Colombian Arabica coffee beans that have been roasted to perfection. Already ground, this medium-roast coffee comes ready to brew, helping to save you time and fill drink orders more quickly! Rather than taking the time to grind whole beans for every order, you can quickly grab a fresh packet for each new pot you brew.</span></p>
+<p><span data-mce-fragment="1">Filled with natural antioxidants, coffee is a great morning beverage choice for your more health-conscious patrons as well! Serve up a hot cup of fresh-brewed black coffee, or pour over ice for a chilled caffeinated beverage that customers will love. For a truly customized and specialty coffee beverage, add a splash of flavoring syrup to each hand crafted cup. The possibilities are limitless!</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Enjoy your mornings with our Signature Blend of Coffee.</span></li>
+<li><span class="a-list-item">Medium Roast blend with smooth, balanced taste.</span></li>
+<li><span class="a-list-item">Folgers is an iconic brand that has been brewing great-tasting coffee for over 165 years.</span></li>
+<li><span class="a-list-item">Made from Pure 100% Coffee.</span></li>
+<li><span class="a-list-item">Savour the fresh aroma of a perfectly brewed cup of Folgers Coffee.</span></li>
+<li>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="73wp4y-cd5cpl-531dn2-1uxwnl" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Start your mornings with the smooth taste and eye-opening aroma of Folgers Ground Coffees. Enjoy our signature coffee blend - Folgers Classic Roast. A medium roast coffee specially ground for a smooth, balanced taste and aroma.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<p>Folgers - Classic Roast Coffee - 920 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"10.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854060122186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>90125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

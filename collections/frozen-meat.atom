@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-meat.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T23:37:32-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948740170</id>
+    <published>2020-12-30T23:37:32-05:00</published>
+    <updated>2020-12-30T23:37:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-599-per-lb-avg-wt-50-lb-538086.jpg?v=1611511180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948740170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22319</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948346954</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-649-per-lb-avg-wt-50-lb-705269.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948346954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22317</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947724362</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-cubes-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-cubes-649-per-lb-avg-wt-50-lb-789522.jpg?v=1611510697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947724362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22318</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947331146</id>
+    <published>2020-12-30T23:37:30-05:00</published>
+    <updated>2020-12-30T23:37:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-cubes-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-cubes-599-per-lb-avg-wt-50-lb-360338.jpg?v=1611510995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947331146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22320</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832999800906</id>
+    <published>2020-12-30T23:29:31-05:00</published>
+    <updated>2020-12-30T23:29:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/glacial-treasure-chicken-breast-5-oz-4-kg"/>
+    <title>Glacial Treasure - Chicken Breast 5 Oz - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Glacial Treasure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/glacial-treasure-chicken-breast-5-oz-4-kg-495773.png?v=1611513158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glacial Treasure<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glacial Treasure - #15106 Regular IQF Chicken Breast 5 Oz 25-27 Pcs - 4 Kg</p>
+<h3>Description</h3>
+<div class="client-provided-content">Our intent was to provide the finest quality products, cost effective prices, paramount services and ensuring systematic approaches to food and safety.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg#product","name":"Golden Maple - 93324  Chicken Burgers - 2 x 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887488606278","sku":"2BM1739","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-maple-93324-chicken-burgers-2-x-kg-bulk-mart_943.jpg","description":"Golden Maple - 93324 Chicken Burgers - 2 x 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Golden Maple"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"2BM1739","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg?variant=19271356186694","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Chicken</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832999800906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.99</s:price>
+      <s:sku>162871</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832999505994</id>
+    <published>2020-12-30T23:29:30-05:00</published>
+    <updated>2020-12-30T23:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/glacial-treasure-chicken-breast-6-oz-4-kg"/>
+    <title>Glacial Treasure - Chicken Breast 6 Oz - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Glacial Treasure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/glacial-treasure-chicken-breast-6-oz-4-kg-188263.png?v=1611511001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glacial Treasure<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glacial Treasure - #15328 Frozen IQF Chicken Breast</p>
+<p>6 Oz/170g 21-23 Pcs - 4 Kg</p>
+<p> </p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg#product","name":"Golden Maple - 93324  Chicken Burgers - 2 x 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887488606278","sku":"2BM1739","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-maple-93324-chicken-burgers-2-x-kg-bulk-mart_943.jpg","description":"Golden Maple - 93324 Chicken Burgers - 2 x 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Golden Maple"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"2BM1739","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg?variant=19271356186694","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Chicken</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832999505994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>162872</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4176333537350</id>
+    <published>2020-12-03T22:34:23-05:00</published>
+    <updated>2020-12-03T22:34:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/australian-halal-lamb-brain-frozen-5-49-lb-qty-2-cases-wt-75-95-lbs"/>
+    <title>Australian Halal Lamb Brain Frozen - $5.49 Per lbs, Weight 40.3 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            221.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Australian Halal Lamb Brain Frozen - $5.49 Per lbs, Weight 40.3 Lb</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4176333537350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.25</s:price>
+      <s:sku>5BM3820</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833000554570</id>
+    <published>2020-11-16T17:12:22-05:00</published>
+    <updated>2020-11-16T17:12:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/glacial-treasure-random-chicken-breast-4-kg"/>
+    <title>Glacial Treasure - Random Chicken Breast - 4 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Glacial Treasure</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/glacial-treasure-random-chicken-breast-4-kg-320519.png?v=1611510125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glacial Treasure<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Glacial Treasure - #14440 Frozen Random Chicken Breast 6-10 Oz - 4 Kg</p>
+<h3>Description</h3>
+<div class="client-provided-content">Glacial Treasure Random Chicken Breast IQF 4kg Skinless Boneless</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg#product","name":"Golden Maple - 93324  Chicken Burgers - 2 x 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887488606278","sku":"2BM1739","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/golden-maple-93324-chicken-burgers-2-x-kg-bulk-mart_943.jpg","description":"Golden Maple - 93324 Chicken Burgers - 2 x 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Golden Maple"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"2BM1739","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/golden-maple-93324-chicken-burgers-2-x-kg?variant=19271356186694","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Chicken</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833000554570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4291483795530</id>
+    <published>2019-10-19T16:47:09-04:00</published>
+    <updated>2019-10-19T16:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lamb-rack-halal-frozen-new-zeeland-36-38-lbs-case"/>
+    <title>New Zeeland -Halal Frozen Lamb Rack Frenched- $17.49 Per Lb Avg. Wt. 18 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            314.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> New Zeeland Halal Frozen Lamb Rack Frenched - $17.49 Per Lb Avg. Wt. 18 Lbs</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case#product","name":"Lamb shank Halal Frozen - New Zeeland - $5.21 / Lbs - Qty 24.69 Lbs / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3875238903878","sku":"BM21619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case-bulk-mart_743.jpg","description":"Lamb shank Halal Frozen - New Zeeland - $5.21 / Lbs - Qty 24.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"BM21619","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8.48"},"priceCurrency":"CAD","price":"128.65","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-5-21-lbs-qty-24-69-case?variant=29204208418886","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4291483795530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">314.82</s:price>
+      <s:sku>BM21619</s:sku>
+      <s:grams>8480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3959647010886</id>
+    <published>2019-08-16T08:07:21-04:00</published>
+    <updated>2019-08-16T08:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb"/>
+    <title>Halal Lamb Leg &amp; Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-leg-shoulder-bone-in-cubes-599-per-lb-avg-wt-50-lb-298631.jpg?v=1611510576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg &amp; Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3959647010886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>5BM3820</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3875238903878</id>
+    <published>2019-06-21T22:18:30-04:00</published>
+    <updated>2019-06-21T22:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case"/>
+    <title>New Zeeland Lamb shank Halal Frozen - $6.15 per Lb Avg. Wt. 25 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bulk Mart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/new-zeeland-lamb-shank-halal-frozen-615-per-lb-avg-wt-25-lbs-412669.jpg?v=1611513213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bulk Mart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            153.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">New Zeeland Lamb shank Halal Frozen - $6.15 per Lb Avg. Wt. 25 Lbs<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case#product","name":"Lamb shank Halal Frozen - New Zeeland - Approx Qty 25 Lbs / Case","itemCondition":"https://schema.org/NewCondition","mpn":"3875238903878","sku":"BM21619","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case-bulk-mart-255.jpg","description":"Lamb shank Halal Frozen - New Zeeland - $5.99 / Lbs - Qty 25 Lbs / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"offers":[{"name":"Lamb shank Halal Frozen - New Zeeland - Approx Qty 25 Lbs / Case","sku":"BM21619","@type":"Offer","priceCurrency":"CAD","price":"149.75","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lamb-shank-halal-frozen-new-zeeland-approx-qty-25-lbs-case?variant=29204208418886","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3875238903878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.75</s:price>
+      <s:sku>BM21619</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054548422726</id>
+    <published>2019-04-24T01:50:08-04:00</published>
+    <updated>2019-04-24T01:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99"/>
+    <title>Opal Valley - Australian Halal Lamb Shank Bone In  - Weight 25.62 Kg - $11.99 / Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Opal Valley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-2562-kg-1199-kg-873065.jpg?v=1611514491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Opal Valley<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            139.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Opal Valley - Australian Halal Lamb Shank Bone In </p>
+<p>11.99 Per Kg.</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99#product","name":"Opal Valley - Australian Halal Lamb Shank Bone In - Weight 25.62 Kg - $11.99 / Kg","itemCondition":"https://schema.org/NewCondition","mpn":"SZLSBM3825","sku":"SBM3825","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99-bulk-mart-821.jpg","description":"Opal Valley - Australian Halal Lamb Shank Bone In 11.99 Per Kg....","category":"FOOD","brand":{"@type":"Brand","name":"Opal Valley"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"40"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"25"},"offers":[{"name":"Opal Valley - Australian Halal Lamb Shank Bone In - Weight 25.62 Kg - $11.99 / Kg","sku":"SBM3825","mpn":"SZLSBM3825","@type":"Offer","priceCurrency":"CAD","price":"139.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/opal-valley-australian-halal-lamb-shank-bone-in-weight-25-62-kg-11-99?variant=20686517698630","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054548422726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.49</s:price>
+      <s:sku>SBM3825</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

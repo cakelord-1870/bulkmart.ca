@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/tomato-sauce.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-20T19:59:06-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4812014420042</id>
+    <published>2020-10-20T19:59:06-04:00</published>
+    <updated>2020-10-20T19:59:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-marinara-sauce-6-x-100-oz"/>
+    <title>Stanislaus Full Red - Marinara Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-marinara-sauce-6-x-100-oz-454497.jpg?v=1611512497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Create authentic Italian dishes with this Stanislaus Full Red marinara sauce!</h2>
+<p><span>Made with high-quality California vine-ripened tomatoes, this sauce is mildly seasoned and can be served straight from the can or used as a foundation for creating delicious homemade sauces. This sauce is perfect for restaurants and pizzerias who strive to achieve serving quality, Italian-style marinara sauce to their guests, but do not have the time or labor capacity to do so.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>With its smooth consistency and rich flavor, this marinara sauce is perfect for using in a variety of recipes, including traditional spaghetti dishes, stromboli, and even chicken and seafood dishes. It is also great for using as a dipping sauce for bread sticks and mozzarella sticks! The tomatoes experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, this sauce is packed from fresh tomatoes, and not from concentrate for maximum freshness.</p>
+<h3 class="item-header">Real Italian Recipe</h3>
+<p>With family roots in the small farms of Tuscany and Liguri in Italy, it is no surprise that Stanislaus is dedicated to the unwavering commitment to providing quality tomato products. Since 1942, Stanislaus's family-owned cannery has specialized in fresh-packing "Real Italian" tomato products to Italian restaurants and delivers homemade-quality products that are never from concentrate. With the belief that quality products create quality customers, you can always rest assured you are serving the best with Stanislaus.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz#product","name":"Full Red -  Tomato Puree - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486050374","sku":"urBM417","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-tomato-puree-100-oz-bulk-mart_655.jpg","description":"Full Red - Tomato Puree - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Full Red"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"urBM417","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz?variant=19271352025158","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812014420042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>36008</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4812013928522</id>
+    <published>2020-10-20T19:59:04-04:00</published>
+    <updated>2020-10-20T19:59:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-marinara-sauce-100-oz"/>
+    <title>Stanislaus Full Red - Marinara Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-marinara-sauce-100-oz-118870.jpg?v=1611512736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Create authentic Italian dishes with this Stanislaus Full Red marinara sauce!</h2>
+<p><span>Made with high-quality California vine-ripened tomatoes, this sauce is mildly seasoned and can be served straight from the can or used as a foundation for creating delicious homemade sauces. This sauce is perfect for restaurants and pizzerias who strive to achieve serving quality, Italian-style marinara sauce to their guests, but do not have the time or labor capacity to do so.</span></p>
+<h3 class="item-header">Delicious Flavor</h3>
+<p>With its smooth consistency and rich flavor, this marinara sauce is perfect for using in a variety of recipes, including traditional spaghetti dishes, stromboli, and even chicken and seafood dishes. It is also great for using as a dipping sauce for bread sticks and mozzarella sticks! The tomatoes experience minimal exposure to flavor-damaging heat to maximize the sauce's flavor profile. Plus, this sauce is packed from fresh tomatoes, and not from concentrate for maximum freshness.</p>
+<h3 class="item-header">Real Italian Recipe</h3>
+<p>With family roots in the small farms of Tuscany and Liguri in Italy, it is no surprise that Stanislaus is dedicated to the unwavering commitment to providing quality tomato products. Since 1942, Stanislaus's family-owned cannery has specialized in fresh-packing "Real Italian" tomato products to Italian restaurants and delivers homemade-quality products that are never from concentrate. With the belief that quality products create quality customers, you can always rest assured you are serving the best with Stanislaus.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz#product","name":"Full Red -  Tomato Puree - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486050374","sku":"urBM417","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-tomato-puree-100-oz-bulk-mart_655.jpg","description":"Full Red - Tomato Puree - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Full Red"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"urBM417","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz?variant=19271352025158","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4812013928522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>36007</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811990564938</id>
+    <published>2020-10-20T19:59:03-04:00</published>
+    <updated>2020-10-20T19:59:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-tomato-sauce-6-x-100-oz"/>
+    <title>Primo - Tomato Sauce - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-tomato-sauce-6-x-100-oz-930135.jpg?v=1611512734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Primo - Tomato Sauce - 6 x 100 oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811990564938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>36001</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811990532170</id>
+    <published>2020-10-20T19:59:02-04:00</published>
+    <updated>2020-10-20T19:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/primo-tomato-sauce-100-oz"/>
+    <title>Primo - Tomato Sauce - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Primo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/primo-tomato-sauce-100-oz-288610.jpg?v=1611513153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Primo<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Primo - Tomato Sauce - 100 oz</p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811990532170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>36009</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811971592266</id>
+    <published>2020-10-20T19:59:00-04:00</published>
+    <updated>2020-10-20T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chefs-choice-tomato-paste-100-oz"/>
+    <title>Chef&apos;s Choice - Tomato Paste - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Chef&apos;s Choice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chefs-choice-tomato-paste-100-oz-595158.jpg?v=1611510131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chef&#39;s Choice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chef Choice - Tomato Paste - 100  oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811971592266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>36497</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4682209722442</id>
+    <published>2020-07-14T16:22:56-04:00</published>
+    <updated>2020-07-14T16:22:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-tomato-paste-13-oz-369-ml"/>
+    <title>Unico - Tomato Paste - 13 oz - 369 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-tomato-paste-13-oz-369-ml-653725.jpg?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unico - Tomato Paste - 13 oz - 369 ml</p>
+<p>Packing Available = 24 / Case</p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4682209722442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>36060</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4682195075146</id>
+    <published>2020-07-14T16:15:31-04:00</published>
+    <updated>2020-07-14T16:15:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-tomato-paste-5-5-oz-156-ml"/>
+    <title>Unico - Tomato Paste - 5.5 Oz -156 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-tomato-paste-55-oz-156-ml-640440.jpg?v=1611514067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            1.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unico - Tomato Paste - 5.5 Oz -156 ml</p>
+<p>Packing Available = 48 / Case</p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4682195075146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.10</s:price>
+      <s:sku>360012</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4529992138826</id>
+    <published>2020-03-14T10:28:13-04:00</published>
+    <updated>2020-03-14T10:28:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chefs-choice-tomato-paste-6-x-100-oz"/>
+    <title>Chef&apos;s Choice - Tomato Paste - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Chef&apos;s Choice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chefs-choice-tomato-paste-6-x-100-oz-322871.jpg?v=1611509497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chef&#39;s Choice<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chef Choice - Tomato Paste - 6 x 100  oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4529992138826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>36006</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887537823814</id>
+    <published>2018-11-28T15:09:05-05:00</published>
+    <updated>2018-11-28T15:09:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-tomato-paste-100-oz"/>
+    <title>Unico - Tomato Paste - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-tomato-paste-100-oz-128265.jpg?v=1611514063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Tomato Paste - 100 oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887537823814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>360066</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887537791046</id>
+    <published>2018-11-28T15:09:05-05:00</published>
+    <updated>2018-11-28T15:09:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/unico-tomato-paste-6-x-100-oz"/>
+    <title>Unico - Tomato Paste - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Unico</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/unico-tomato-paste-6-x-100-oz-131472.jpg?v=1611512191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Unico<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Unico - Tomato Paste - 6 x 100 oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887537791046</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>36013</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887486050374</id>
+    <published>2018-11-28T14:59:32-05:00</published>
+    <updated>2018-11-28T14:59:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-heavy-tomato-puree-100-oz"/>
+    <title>Stanislaus Full Red - Heavy Tomato Puree - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-heavy-tomato-puree-100-oz-338781.jpg?v=1611513038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Full Red - Heavy Tomato Puree - 100 oz</strong></p>
+<p><strong>An essential ingredient with classic taste,</strong> this canned tomato Puree is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato Puree is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.<br></p>
+<p><span><strong> This tomato Puree is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato Puree ! This tomato Puree is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato Puree !</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz#product","name":"Full Red -  Tomato Puree - 100  oz","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486050374","sku":"urBM417","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-tomato-puree-100-oz-bulk-mart_655.jpg","description":"Full Red - Tomato Puree - 100 oz.","category":"FOOD","brand":{"@type":"Brand","name":"Full Red"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"urBM417","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.84"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/full-red-tomato-puree-100-oz?variant=19271352025158","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887486050374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>36002</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485984838</id>
+    <published>2018-11-28T14:59:31-05:00</published>
+    <updated>2018-11-28T14:59:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-heavy-tomato-puree-6-x-100-oz"/>
+    <title>Stanislaus Full Red - Heavy Tomato Puree - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-heavy-tomato-puree-6-x-100-oz-192082.jpg?v=1611512069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Full Red - Heavy Tomato Puree - 6 x 100 oz</p>
+<p><strong>An essential ingredient with classic taste,</strong> this canned tomato Puree is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato Puree is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.<br></p>
+<p><span><strong> This tomato Puree is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato Puree ! This tomato Puree is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato Puree !</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/full-red-tomato-puree-6-x-100-oz#product","name":"Full Red - Tomato Puree - 6 x 100 oz","itemCondition":"https://schema.org/NewCondition","mpn":"TomPurBM416","sku":"urBM416","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/full-red-tomato-puree-6-x-100-oz-bulk-mart_267.jpg","description":"Full Red - Tomato Puree - 6 x 100 oz...","category":"FOOD","brand":{"@type":"Brand","name":"Full Red"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"offers":[{"name":"Full Red - Tomato Puree - 6 x 100 oz","sku":"urBM416","mpn":"TomPurBM416","@type":"Offer","priceCurrency":"CAD","price":"48.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/full-red-tomato-puree-6-x-100-oz?variant=19271351795782","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485984838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>36003</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485460550</id>
+    <published>2018-11-28T14:59:26-05:00</published>
+    <updated>2018-11-28T14:59:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-tomato-paste-100-oz"/>
+    <title>Stanislaus Full Red - Tomato Paste - 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-tomato-paste-100-oz-529110.jpg?v=1611513816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Stanislaus Full Red - California Tomato Paste - 100 oz</strong></p>
+<p>﻿<span data-mce-fragment="1"><strong data-mce-fragment="1">An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1"> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485460550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>36004</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887485395014</id>
+    <published>2018-11-28T14:59:25-05:00</published>
+    <updated>2018-11-28T14:59:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stanislaus-full-red-tomato-paste-6-x-100-oz"/>
+    <title>Stanislaus Full Red - Tomato Paste - 6 x 100 oz</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stanislaus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stanislaus-full-red-tomato-paste-6-x-100-oz-315342.jpg?v=1611514490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stanislaus<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            62.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Full Red - California Tomato Paste - 6 x 100 oz</strong></p>
+<p><span><strong>An essential ingredient with classic taste,</strong> this canned tomato paste is sure to delight your guests with tangy tomato flavor! With vine-ripened, juicy tomatoes being the one and only ingredient, this tomato paste is bursting with rich, fresh flavor. Its smooth, dense texture makes a great thickener for all of your recipes, and it's sure to enhance your signature pasta and pizza sauces.</span><br><br><span><strong> This tomato paste is a versatile addition</strong> to a variety of your delicious offerings. Create a tasty marinara sauce, perfect for dipping warm, garlic bread sticks. Use it to create smooth and creamy tomato bisque, or zesty chili made with ingredients to suit your tastes. Add tomato flavor to complement barbequed items, or in a layered lasagna.</span><br><br><span><strong>Save time crushing supermarket tomatoes</strong>, and use this tomato paste! This tomato paste is a good source of Lycopene, an antioxidant found in cooked tomatoes. Ready when you are, it ensures convenience and consistency. Introduce your customers to fresh-picked tomato flavor with the accessibility of this tomato paste!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canned Tomatoes</s:tag>
+    <s:tag>Tomato sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887485395014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.99</s:price>
+      <s:sku>360060</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

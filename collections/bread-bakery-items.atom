@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/bread-bakery-items.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-16T01:03:57-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4827838185546</id>
+    <published>2020-11-16T01:03:57-05:00</published>
+    <updated>2020-11-16T01:03:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stonefire-mini-naan-dippers-20-x-200g"/>
+    <title>Stonefire - Mini Naan Dippers - 20 x 200g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stonefire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stonefire-mini-naan-dippers-20-x-200g-898970.jpg?v=1611513403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stonefire<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Stonefire - Frozen Mini Naan Dippers - 20 x 200g</strong></p>
+<p><span>They may be bite-sized but they’re still Stonefire® naan, baked in our tandoor tunnel oven. That means you’ll enjoy the same authentic taste with just the right amount of bubbles and char. Give your family and guests a whole new way to enjoy their favorite dips and spreads</span><em>. </em><span>Approx. 20 per pack. </span></p>
+<p><span>Perfect for Oven, </span>Microwave</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack#product","name":"Kontos -  7&quot; Whole Wheat Pita - 12 x 10 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459409990","sku":"WBM1428","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bnc-7-whole-wheat-pita-12-x-10-pack-bulk-mart_437.jpg","description":"Bnc - 7&amp;quot; Whole Wheat Pita - 12 x 10 / Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Kontos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"WBM1428","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack?variant=19271293304902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naan &amp; Paratha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827838185546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>3102501</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827836547146</id>
+    <published>2020-11-16T01:03:57-05:00</published>
+    <updated>2020-11-16T01:03:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stonefire-garlic-naan-18-x-250g"/>
+    <title>Stonefire - Roasted Garlic Naan - 18 x 250g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stonefire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stonefire-roasted-garlic-naan-18-x-250g-545695.jpg?v=1611514245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stonefire<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Stonefire - Frozen Roasted Garlic Naan - 18 x 250g</strong></p>
+<p><span>Our classic hand-stretched naan, with delicious fire-roasted garlic and a hint of cilantro. Perfect for meals that need a savory companion. 2 per pack.</span></p>
+<p><span>Perfect for Microwave, Toaster, Grill, Oven</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack#product","name":"Kontos -  7&quot; Whole Wheat Pita - 12 x 10 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459409990","sku":"WBM1428","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bnc-7-whole-wheat-pita-12-x-10-pack-bulk-mart_437.jpg","description":"Bnc - 7&amp;quot; Whole Wheat Pita - 12 x 10 / Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Kontos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"WBM1428","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack?variant=19271293304902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naan &amp; Paratha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827836547146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>3102503</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827836186698</id>
+    <published>2020-11-16T01:03:56-05:00</published>
+    <updated>2020-11-16T01:03:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/stonefire-original-naan-250g"/>
+    <title>Stonefire - Original Naan - 2 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Stonefire</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/stonefire-original-naan-2-pack-180484.png?v=1611513703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stonefire<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Stonefire - Frozen Original Naan - 250g</strong></p>
+<p><span><strong>So soft, fluffy and buttery!</strong> The timeless taste of our Original Naan is always welcome at your table. We stay true to an ancient recipe by using fresh buttermilk, ghee (clarified butter) and hand stretching each naan into its unique teardrop shape. Then they’re baked in our patented tandoor tunnel oven to give the texture and taste of a traditional tandoor oven. Just heat and serve to make any meal special. 2 per pack.</span></p>
+<div class="product__nutrition__content__ingredients">
+<p><strong>Ingredients:</strong> Enriched wheat flour (wheat flour, niacin, reduced iron, ascorbic acid as dough conditioner, thiamine mononitrate, riboflavin, enzyme, folic acid), buttermilk (skim milk, dry buttermilk, bacterial culture), water, soybean and/or canola oil, cultured wheat flour, eggs, sugar, baking powder (sodium acid pyrophosphate, sodium bicarbonate, cornstarch, monocalcium phosphate), sea salt, ghee (clarified butter), wheat gluten, dextrose, dextrin, vegetable fiber, yeast. Contains wheat, milk and eggs. May contain soy.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack#product","name":"Kontos -  7&quot; Whole Wheat Pita - 12 x 10 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887459409990","sku":"WBM1428","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bnc-7-whole-wheat-pita-12-x-10-pack-bulk-mart_437.jpg","description":"Bnc - 7&amp;quot; Whole Wheat Pita - 12 x 10 / Pack.","category":"FOOD","brand":{"@type":"Brand","name":"Kontos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"WBM1428","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/bnc-7-whole-wheat-pita-12-x-10-pack?variant=19271293304902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Naan &amp; Paratha</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827836186698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>3102502</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827024425034</id>
+    <published>2020-11-16T00:33:57-05:00</published>
+    <updated>2020-11-16T00:33:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wonder-english-muffins-breakfast-sandwich-bun-6-pack"/>
+    <title>Wonder - English Muffins Breakfast Sandwich Bun - 6 Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Wonder</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wonder-english-muffins-breakfast-sandwich-bun-6-pack-120900.jpg?v=1611512910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wonder<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wonder - Classic English Muffins - 684g</p>
+<p><span>Wonderfully soft, Wonder English Muffins are perfect for your next breakfast sandwich, side dish, or snack. Made with no artificial flavours or colours, you will never have to compromise on taste or quality. Our softest Wonder, Championing the Power of Softness. Try these today!</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/weston-white-bread-each#product","name":"Weston - White Bread - Each","itemCondition":"https://schema.org/NewCondition","mpn":"1887541166150","sku":"WBM1017","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/weston-white-bread-each-bulk-mart_209.jpg","description":"Weston - White Bread - Each...","category":"FOOD","brand":{"@type":"Brand","name":"Weston"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"24"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"500"},"gtin13":"WonderWBM1017","offers":[{"name":"Weston - White Bread - Each","sku":"WBM1017","gtin13":"WonderWBM1017","@type":"Offer","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/weston-white-bread-each?variant=19271446855750","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827024425034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>621455</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4826984382538</id>
+    <published>2020-11-16T00:33:57-05:00</published>
+    <updated>2020-11-16T00:33:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/weston-5-sesame-hamburger-bun-12-pack"/>
+    <title>Weston - 5&quot; Sesame Hamburger Bun - 12 / Pack</title>
+    <s:type></s:type>
+    <s:vendor>Weston</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/weston-5-sesame-hamburger-bun-12-pack-202702.png?v=1611512435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weston<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Weston - 5" Sesame Hamburger Bun - 12 / Pack</strong><br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/weston-sesame-hamburger-bun-16-sleeve#product","name":"Weston - Sesame Hamburger Bun - 16 / Sleeve","itemCondition":"https://schema.org/NewCondition","mpn":"2092769574982","sku":"2092769574982","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/weston-sesame-hamburger-bun-16-sleeve-bulk-mart_767.jpg","description":"Weston - Sesame Hamburger Bun - 16 / Sleeve...","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"50"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"700"},"offers":[{"name":"Weston - Sesame Hamburger Bun - 16 / Sleeve","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/weston-sesame-hamburger-bun-16-sleeve?variant=20823363223622","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></p>
+<p><span>The classic foundation to any foodservice burger, this tender burger bun has a golden crust and is sprinkled with sesame seeds.</span></p>
+<h6>INGREDIENTS*</h6>
+<p>Enriched wheat flour, water, sucre/glucose-fructose, yeast, soybean and/or canola oil, salt, wheat gluten, annatto and turmeric (colour), sodium stearoyl-2-lactylate, calcium propionate. Topping: sesame seeds.</p>
+<p><span><strong>Our gourmet buns are the buns your burgers have been dreaming of!</strong> We’re </span><span><strong>and delicious Bread,</strong> this hamburger bun is perfect for serving your tastiest burgers and sandwiches! With a light and fluffy body, this bun is the perfect-tasting foundation for a juicy burger or flavorful deli sandwich. This ensures you have plenty of buns for your busy concession stand, restaurant, or deli. Because these buns ship frozen, you can thaw each as needed, which helps you serve your patrons fresh buns every time!</span><br><br><span><strong>Despite its soft and airy texture,</strong> this bun is made to stand up to plump, juicy burgers or deliciously saucy sloppy joes. Pile it high with your patrons' favorite toppings and condiments, or fill it with a savory barbeque drenched in sauce. Made with only the highest-quality ingredients, this golden bun has a delicious, classic taste that complements a number of sandwiches!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4826984382538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>621451</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827006074954</id>
+    <published>2020-11-15T23:59:36-05:00</published>
+    <updated>2020-11-15T23:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kikkoman-panko-japanese-style-toasted-bread-crumbs-25-lbs"/>
+    <title>Kikkoman - Panko Japanese Style Toasted Bread Crumbs - 25 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kikkoman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-panko-japanese-style-toasted-bread-crumbs-25-lbs-236870.jpg?v=1611512798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kikkoman<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kikkoman - Panko Japanese Style Toasted Coarse Bread Crumbs - 25 Lbs</p>
+<p><span><strong>Add a light and crispy crunch to your most popular fried foods</strong> with these Kikkoman panko Japanese-style toasted bread crumbs! Compared to other types of bread crumbs, panko bread crumbs have a larger crumb size for a crispier coating. Since these panko bread crumbs are less dense, they won't absorb excess oil or grease when fried and your dishes will have a lighter taste. They're perfect for your lighter menu items, including fish filets, fried shrimp, and other seafood dishes.</span><br><br><span>Offering a wide range of soy sauce and other Asian-style products, Kikkoman is a recognizable brand for your Asian-inspired restaurant, noodle restaurant, or cafe! With their authentic taste, these Japanese-style toasted panko bread crumbs are large, delicate, and crisp. Especially popular in Asian cuisine, they add an attractive golden brown color to any dish!</span><br><br><span><strong>Easy to use for baked or fried foods,</strong> these toasted bread crumbs make a crispy coating for chicken, crab cakes, or onion rings. They're great for sprinkling on casseroles before baking or adding a crisp topping to apple fritters and crumbles. They are unseasoned for versatility, but you can mix in your own spice blend to create a signature flavorful breading. Plus, they have zero grams trans fat per serving, and the bulk 25 lb. supply will keep your commercial kitchen in great supply!</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-panko-toasted-bread-crumbs-japanese-style-2-5-lbs#product","name":"Kikkoman - Panko Toasted Bread Crumbs Japanese Style 2.5 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"3927940694086","sku":"WBM1017","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-panko-toasted-bread-crumbs-japanese-style-2-5-lbs-bulk-mart_907.jpg","description":"Kikkoman - Panko Toasted Bread Crumbs Japanese Style 2.5 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Weston"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"53"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"2.5"},"gtin13":"WonderWBM1017","offers":[{"name":"Kikkoman - Panko Toasted Bread Crumbs Japanese Style 2.5 Lbs","sku":"WBM1017","gtin13":"WonderWBM1017","@type":"Offer","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-panko-toasted-bread-crumbs-japanese-style-2-5-lbs?variant=29385200861254","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croutons &amp; Crumbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827006074954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>134564</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827003650122</id>
+    <published>2020-11-15T23:59:35-05:00</published>
+    <updated>2020-11-15T23:59:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/italpasta-bread-crumbs-jug-2-27-kg"/>
+    <title>Italpasta - Bread Crumbs Jug - 2.27 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Italpasta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/italpasta-bread-crumbs-jug-227-kg-170085.png?v=1611510276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Italpasta<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Italpasta - Bread Crumbs Jug - 2.27 Kg</strong></p>
+<p><span>Did you know that over 5.4 million pounds of bakery bread are processed each year to make Italpasta Plain and Italian Style, Seasoned Bread Crumbs? Use Italpasta bread crumbs in your favourite casseroles, as a coating for fried fish or meat or in vegetable gratin recipes.</span></p>
+<p><span><strong>Add delicious taste and crispy texture</strong> to every bite of your signature entrees with these bread crumbs! Save time making your own breading for poultry and meats, and use these dry bread crumbs that are already reduced to an ultra-fine consistency, ready for baking or frying. When frying foods, the bread crumb coating becomes exceptionally crispy and crunchy.</span><br><br><span><strong>Give your signature dishes a new, fresh flavor</strong> simply by adding these plain bread crumbs to the recipe! Cover baked chicken, chops, and more with this versatile breading. These bread crumbs deliver a slightly sweet, subtle flavor of toasted bread every time, but you can also add your own mix of spices to create a zesty, original breading.</span><br><br><span><strong>Not only great for breading foods,</strong> these bread crumbs can also be used for topping casseroles. Or, mix them with other ingredients for stuffed chicken breasts or stuffed mushrooms. Whichever way they're prepared, they're sure to add a new, satisfying taste and texture to your dishes!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croutons &amp; Crumbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827003650122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>134562</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827003191370</id>
+    <published>2020-11-15T23:59:35-05:00</published>
+    <updated>2020-11-15T23:59:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/villa-dimanno-white-bread-crumbs-50-lbs"/>
+    <title>Villa Dimanno - White Bread Crumbs - 50 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Villa Dimanno</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/villa-dimanno-white-bread-crumbs-50-lbs-474338.jpg?v=1611513881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Villa Dimanno<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Villa Dimanno - White Plain Bread Crumbs - 50 Lbs</p>
+<p><span><strong>Add delicious taste and crispy texture</strong> to every bite of your signature entrees with these bread crumbs! Save time making your own breading for poultry and meats, and use these dry bread crumbs that are already reduced to an ultra-fine consistency, ready for baking or frying. When frying foods, the bread crumb coating becomes exceptionally crispy and crunchy.</span><br><br><span><strong>Give your signature dishes a new, fresh flavor</strong> simply by adding these plain bread crumbs to the recipe! Cover baked chicken, chops, and more with this versatile breading. These bread crumbs deliver a slightly sweet, subtle flavor of toasted bread every time, but you can also add your own mix of spices to create a zesty, original breading.</span><br><br><span><strong>Not only great for breading foods,</strong> these bread crumbs can also be used for topping casseroles. Or, mix them with other ingredients for stuffed chicken breasts or stuffed mushrooms. Whichever way they're prepared, they're sure to add a new, satisfying taste and texture to your dishes!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croutons &amp; Crumbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827003191370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>134568</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827001389130</id>
+    <published>2020-11-15T23:59:34-05:00</published>
+    <updated>2020-11-15T23:59:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dare-steakhouse-three-bread-caesar-croutons-4-54-kg"/>
+    <title>Dare - Steakhouse Three Bread Caesar Croutons - 4.54 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dare-steakhouse-three-bread-caesar-croutons-454-kg-826418.jpg?v=1611511114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dare<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dare - Steakhouse Three Bread Caesar Croutons - 4.54 Kg</p>
+<h3>Create a feast for your senses with Boulangerie Grissol Three Bread Caesar Croutons, seasoned with cheddar cheese and garlic to add colour, texture and flavour to your Caesar salad.</h3>
+<ul class="bold">
+<li>SOURCE OF IRON</li>
+<li>TRANS FAT FREE</li>
+<li>NO ARTIFICIAL COLOURS OR FLAVOURS</li>
+</ul>
+<p>Feeling spun-out after spin class? Add croutons’ crispy texture and exciting flavours to a simple soup or salad for an easy way to restore balance.</p>
+<h4 class="js-accordion">INGREDIENTS</h4>
+<ul class="plainlist">
+<li>Wheat flour, whole wheat flour, canola oil, sugar, rye flour, whey powder, yeast, salt, dextrose, modified palm oil, wheat gluten, cheddar cheese powder, garlic powder, onion powder, spices, yeast extract, natural flavour (contains sesame seeds), silicon dioxide, paprika, caramel colour.</li>
+</ul>
+<h4 class="js-accordion">ALLERGY INFORMATION</h4>
+<ul class="normal">
+<li>Baked in a peanut free facility</li>
+<li>May contain soya</li>
+<li>Contains wheat, rye, milk and sesame seeds</li>
+<li>
+<h4 class="js-accordion">PRODUCT FACTS</h4>
+<ul class="normal">
+<li>Kosher dairy OU-D</li>
+<li>Low fat</li>
+<li>Low in saturated fat</li>
+<li>No cholesterol</li>
+<li>Source of iron</li>
+<li>Trans fat free</li>
+</ul>
+</li>
+</ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/home-style-croutons-bulk-4-54-kg-case#product","name":"Home Style Croutons Bulk - 4.54 Kg / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4388106600522","sku":"WBM1017","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/home-style-croutons-bulk-4-54-kg-case-mart_263.jpg","description":"Home Style Croutons Bulk - 4.54 Kg / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Home Style"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"59"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"4.54"},"gtin13":"WonderWBM1017","offers":[{"name":"Home Style Croutons Bulk - 4.54 Kg / Case","sku":"WBM1017","gtin13":"WonderWBM1017","@type":"Offer","priceCurrency":"CAD","price":"33.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/home-style-croutons-bulk-4-54-kg-case?variant=31328185679946","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Croutons &amp; Crumbs</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827001389130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.49</s:price>
+      <s:sku>134561</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827804794954</id>
+    <published>2020-11-15T23:06:44-05:00</published>
+    <updated>2020-11-15T23:06:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fiera-foods-cheddar-cheese-bagel-3-8-oz-72-case"/>
+    <title>Fiera Foods - Cheddar Cheese Bagel 3.8 Oz - 72 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fiera Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fiera-foods-cheddar-cheese-bagel-38-oz-72-case-767787.jpg?v=1611510698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiera Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fiera Foods - Cheddar Cheese Bagel 3.8 Oz - 72 / Case</p>
+<h2>MAXIMUM FLAVOUR</h2>
+<p>Long natural fermentation and development of our Bagel doughs — for up to 12 hours!</p>
+<h2>AUTHENIC TEXTURE</h2>
+<p>Direct fire and stone hearth ovens seal in the moisture and deliver a flavourful crust texture sure to please.</p>
+<h2>DOUGH FORMATS</h2>
+<p>All the formats available to fit your requirements — fully baked, par-baked, or freezer-to-oven.</p>
+<h2>INNOVATION</h2>
+<p>We invented the Bagel Pretzel™, and are constantly researching new and innovative flavours, formats, and production techniques to fit our customers’ changing needs.</p>
+<p>Whether your requirements are for breakfast, lunch or snacking we have all the flavours you require.</p>
+<p><strong>Core flavors:</strong><span> </span>Traditional, Everything, Sesame Seed, Blueberry, Cinnamon Raisin, Poppy Seed, Whole Wheat, Multigrain, Cheese, and more.</p>
+<p><strong>Specialty flavors:</strong><span> </span>Bagel Pretzel™, Asiago Cheese, Onion, Chocolate Chip, Pumpkin, Ancient Grains, French Toast, Jalapeno, and more.</p>
+<h2>FIND YOUR SIZE</h2>
+<p>Choose the size that is right for your business: our bagels range from 3 oz to 5 oz.</p>
+<h2>PACKAGING FORMAT</h2>
+<p>Sliced or unsliced, in bulk or retail ready packaging.</p>
+<h2>KOSHER</h2>
+<p>All our bagels are Kosher certified</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/multigrain-bagel-85-g-72-case#product","name":"Multigrain Bagel 85 g - 72 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1976603541574","sku":"M1167-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/multigrain-bagel-85-g-72-case-bulk-mart_239.jpg","description":"Multigrain Bagel 85 g - 72 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"M1167-1","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/multigrain-bagel-85-g-72-case?variant=20012034621510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827804794954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>165892</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1976604917830</id>
+    <published>2020-11-15T23:06:43-05:00</published>
+    <updated>2020-11-15T23:06:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fiera-foods-whole-wheat-honey-bagel-3-8-oz-72-case"/>
+    <title>Fiera Foods - Whole Wheat &amp; Honey Bagel 3.8 Oz - 72 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fiera Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fiera-foods-whole-wheat-honey-bagel-38-oz-72-case-343195.jpg?v=1611510188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiera Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fiera Foods - Whole Wheat &amp; Honey Bagel 3.8 Oz - 72 / Case</p>
+<h2>MAXIMUM FLAVOUR</h2>
+<p>Long natural fermentation and development of our Bagel doughs — for up to 12 hours!</p>
+<h2>AUTHENIC TEXTURE</h2>
+<p>Direct fire and stone hearth ovens seal in the moisture and deliver a flavourful crust texture sure to please.</p>
+<h2>DOUGH FORMATS</h2>
+<p>All the formats available to fit your requirements — fully baked, par-baked, or freezer-to-oven.</p>
+<h2>INNOVATION</h2>
+<p>We invented the Bagel Pretzel™, and are constantly researching new and innovative flavours, formats, and production techniques to fit our customers’ changing needs.</p>
+<p>Whether your requirements are for breakfast, lunch or snacking we have all the flavours you require.</p>
+<p><strong>Core flavors:</strong><span> </span>Traditional, Everything, Sesame Seed, Blueberry, Cinnamon Raisin, Poppy Seed, Whole Wheat, Multigrain, Cheese, and more.</p>
+<p><strong>Specialty flavors:</strong><span> </span>Bagel Pretzel™, Asiago Cheese, Onion, Chocolate Chip, Pumpkin, Ancient Grains, French Toast, Jalapeno, and more.</p>
+<h2>FIND YOUR SIZE</h2>
+<p>Choose the size that is right for your business: our bagels range from 3 oz to 5 oz.</p>
+<h2>PACKAGING FORMAT</h2>
+<p>Sliced or unsliced, in bulk or retail ready packaging.</p>
+<h2>KOSHER</h2>
+<p>All our bagels are Kosher certified</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/whole-wheat-bagel-85-g-72-case#product","name":"Whole Wheat Bagel 85 g - 72 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1976604917830","sku":"M1167-2","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whole-wheat-bagel-85-g-72-case-bulk-mart_225.jpg","description":"Whole Wheat Bagel 85 g - 72 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"},"offers":[{"sku":"M1167-2","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/whole-wheat-bagel-85-g-72-case?variant=20012038783046","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"55"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1976604917830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>165896</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1976603541574</id>
+    <published>2020-11-15T23:06:41-05:00</published>
+    <updated>2020-11-15T23:06:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fiera-foods-multigrain-bagel-3-8-oz-72-case"/>
+    <title>Fiera Foods - Multigrain Bagel 3.8 Oz - 72 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fiera Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fiera-foods-multigrain-bagel-38-oz-72-case-503143.jpg?v=1611510409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiera Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fiera Foods - Multigrain Bagel 3.8 Oz - 72 / Case</p>
+<h2>MAXIMUM FLAVOUR</h2>
+<p>Long natural fermentation and development of our Bagel doughs — for up to 12 hours!</p>
+<h2>AUTHENIC TEXTURE</h2>
+<p>Direct fire and stone hearth ovens seal in the moisture and deliver a flavourful crust texture sure to please.</p>
+<h2>DOUGH FORMATS</h2>
+<p>All the formats available to fit your requirements — fully baked, par-baked, or freezer-to-oven.</p>
+<h2>INNOVATION</h2>
+<p>We invented the Bagel Pretzel™, and are constantly researching new and innovative flavours, formats, and production techniques to fit our customers’ changing needs.</p>
+<p>Whether your requirements are for breakfast, lunch or snacking we have all the flavours you require.</p>
+<p><strong>Core flavors:</strong><span> </span>Traditional, Everything, Sesame Seed, Blueberry, Cinnamon Raisin, Poppy Seed, Whole Wheat, Multigrain, Cheese, and more.</p>
+<p><strong>Specialty flavors:</strong><span> </span>Bagel Pretzel™, Asiago Cheese, Onion, Chocolate Chip, Pumpkin, Ancient Grains, French Toast, Jalapeno, and more.</p>
+<h2>FIND YOUR SIZE</h2>
+<p>Choose the size that is right for your business: our bagels range from 3 oz to 5 oz.</p>
+<h2>PACKAGING FORMAT</h2>
+<p>Sliced or unsliced, in bulk or retail ready packaging.</p>
+<h2>KOSHER</h2>
+<p>All our bagels are Kosher certified</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/multigrain-bagel-85-g-72-case#product","name":"Multigrain Bagel 85 g - 72 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1976603541574","sku":"M1167-1","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/multigrain-bagel-85-g-72-case-bulk-mart_239.jpg","description":"Multigrain Bagel 85 g - 72 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"M1167-1","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/multigrain-bagel-85-g-72-case?variant=20012034621510","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1976603541574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>165894</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887553093702</id>
+    <published>2020-11-15T23:06:40-05:00</published>
+    <updated>2020-11-15T23:06:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-whole-wheat-dinner-rolls-144-x-38-g-case"/>
+    <title>Ace Bakery - Whole Wheat Dinner Rolls - 144 x 38 g / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ace-bakery-whole-wheat-dinner-rolls-144-x-38-g-case-790760.png?v=1623994633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ace Bakery - Whole Wheat Dinner Rolls - 144 x 38 g / Case</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/whole-wheat-dinner-rolls-8-x-12-case#product","name":"Whole Wheat Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887553093702","sku":"1BM1721","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whole-wheat-dinner-rolls-8-x-12-case-bulk-mart_459.jpg","description":"Whole Wheat Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"1BM1721","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/whole-wheat-dinner-rolls-8-x-12-case?variant=19271467302982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887553093702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>165891</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887542181958</id>
+    <published>2020-11-15T23:06:38-05:00</published>
+    <updated>2020-11-15T23:06:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fiera-foods-everything-bagel-3-8-oz-72-case"/>
+    <title>Fiera Foods - Everything Bagel 3.8 Oz - 72 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fiera Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fiera-foods-everything-bagel-38-oz-72-case-918121.jpg?v=1611510397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiera Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fiera Foods - Everything Bagel 3.8 Oz - 72 / Case</p>
+<h2>MAXIMUM FLAVOUR</h2>
+<p>Long natural fermentation and development of our Bagel doughs — for up to 12 hours!</p>
+<h2>AUTHENIC TEXTURE</h2>
+<p>Direct fire and stone hearth ovens seal in the moisture and deliver a flavourful crust texture sure to please.</p>
+<h2>DOUGH FORMATS</h2>
+<p>All the formats available to fit your requirements — fully baked, par-baked, or freezer-to-oven.</p>
+<h2>INNOVATION</h2>
+<p>We invented the Bagel Pretzel™, and are constantly researching new and innovative flavours, formats, and production techniques to fit our customers’ changing needs.</p>
+<p>Whether your requirements are for breakfast, lunch or snacking we have all the flavours you require.</p>
+<p><strong>Core flavors:</strong><span> </span>Traditional, Everything, Sesame Seed, Blueberry, Cinnamon Raisin, Poppy Seed, Whole Wheat, Multigrain, Cheese, and more.</p>
+<p><strong>Specialty flavors:</strong><span> </span>Bagel Pretzel™, Asiago Cheese, Onion, Chocolate Chip, Pumpkin, Ancient Grains, French Toast, Jalapeno, and more.</p>
+<h2>FIND YOUR SIZE</h2>
+<p>Choose the size that is right for your business: our bagels range from 3 oz to 5 oz.</p>
+<h2>PACKAGING FORMAT</h2>
+<p>Sliced or unsliced, in bulk or retail ready packaging.</p>
+<h2>KOSHER</h2>
+<p>All our bagels are Kosher certified</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887542181958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>165893</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887541854278</id>
+    <published>2020-11-15T23:06:37-05:00</published>
+    <updated>2020-11-15T23:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fiera-foods-plain-bagel-3-8-oz-72-case"/>
+    <title>Fiera Foods - Plain Bagel 3.8 Oz - 72 / Case</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fiera Foods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fiera-foods-plain-bagel-38-oz-72-case-710992.jpg?v=1611510934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fiera Foods<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fiera Foods - Plain Bagel 3.8 Oz - 72 / Case</p>
+<h2>MAXIMUM FLAVOUR</h2>
+<p>Long natural fermentation and development of our Bagel doughs — for up to 12 hours!</p>
+<h2>AUTHENIC TEXTURE</h2>
+<p>Direct fire and stone hearth ovens seal in the moisture and deliver a flavourful crust texture sure to please.</p>
+<h2>DOUGH FORMATS</h2>
+<p>All the formats available to fit your requirements — fully baked, par-baked, or freezer-to-oven.</p>
+<h2>INNOVATION</h2>
+<p>We invented the Bagel Pretzel™, and are constantly researching new and innovative flavours, formats, and production techniques to fit our customers’ changing needs.</p>
+<p>Whether your requirements are for breakfast, lunch or snacking we have all the flavours you require.</p>
+<p><strong>Core flavors:</strong><span> </span>Traditional, Everything, Sesame Seed, Blueberry, Cinnamon Raisin, Poppy Seed, Whole Wheat, Multigrain, Cheese, and more.</p>
+<p><strong>Specialty flavors:</strong><span> </span>Bagel Pretzel™, Asiago Cheese, Onion, Chocolate Chip, Pumpkin, Ancient Grains, French Toast, Jalapeno, and more.</p>
+<h2>FIND YOUR SIZE</h2>
+<p>Choose the size that is right for your business: our bagels range from 3 oz to 5 oz.</p>
+<h2>PACKAGING FORMAT</h2>
+<p>Sliced or unsliced, in bulk or retail ready packaging.</p>
+<h2>KOSHER</h2>
+<p>All our bagels are Kosher certified</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/plain-bagel-85-g-72-case#product","name":"Plain Bagel 85 g - 72 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887541854278","sku":"2BM1166","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/plain-bagel-85-g-72-case-bulk-mart_480.jpg","description":"Plain Bagel 85 g - 72 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"},"offers":[{"sku":"2BM1166","mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/plain-bagel-85-g-72-case?variant=19271447642182","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"24"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bagels &amp; Rolls</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887541854278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>165895</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827022884938</id>
+    <published>2020-11-15T22:37:56-05:00</published>
+    <updated>2020-11-15T22:37:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gioia-savoiardi-ladyfinger-biscuits-400g"/>
+    <title>Gioia - Savoiardi Ladyfinger Biscuits - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gioia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gioia-savoiardi-ladyfinger-biscuits-400g-387258.jpg?v=1611510455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gioia<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emma - Savoiardi Lady Finger Cookies - 400g<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/savoiardi-lady-finger-biscuits#product","name":"Savoiardi - Lady Finger Biscuits","itemCondition":"https://schema.org/NewCondition","mpn":"3884854116422","sku":"3884854116422","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/savoiardi-lady-finger-biscuits-bulk-mart_731.jpg","description":"Savoiardi - Lady Finger Biscuits...","category":"FOOD","brand":{"@type":"Brand","name":"Savoiardi"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"offers":[{"name":"Savoiardi - Lady Finger Biscuits","@type":"Offer","priceCurrency":"CAD","price":"3.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/savoiardi-lady-finger-biscuits?variant=29236521664582","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></p>
+<p><b>Ladyfingers</b><span>, or in British English </span><b>sponge fingers</b><span> (sometimes known by their Italian name </span><b>savoiardi</b><span> or their French one </span><b>boudoirs</b><span> </span><span>are low density, dry, egg-based, sweet Sponge biscuits </span><span>roughly shaped like a large finger. They are a principal ingredient in many dessert recipes, such as Trifles </span><span>and Charlottes</span><span>, and are also used as fruit or chocolate gateau linings, and sometimes for the sponge element of</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Savoiardi is the main ingredient in "Tiramisu" Cake or perfect for dunking in your morning coffee or milk!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Peanut and Tree nut free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady Finger Biscuits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827022884938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku>452102</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827022295114</id>
+    <published>2020-11-15T22:37:55-05:00</published>
+    <updated>2020-11-15T22:37:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/emma-savoiardi-ladyfinger-biscuits-400g"/>
+    <title>Emma - Savoiardi Ladyfinger Biscuits - 400g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Emma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/emma-savoiardi-ladyfinger-biscuits-400g-829540.jpg?v=1611509856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Emma<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Emma - Savoiardi Lady Finger Cookies - 400g<br><script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/savoiardi-lady-finger-biscuits#product","name":"Savoiardi - Lady Finger Biscuits","itemCondition":"https://schema.org/NewCondition","mpn":"3884854116422","sku":"3884854116422","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/savoiardi-lady-finger-biscuits-bulk-mart_731.jpg","description":"Savoiardi - Lady Finger Biscuits...","category":"FOOD","brand":{"@type":"Brand","name":"Savoiardi"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"11"},"offers":[{"name":"Savoiardi - Lady Finger Biscuits","@type":"Offer","priceCurrency":"CAD","price":"3.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/savoiardi-lady-finger-biscuits?variant=29236521664582","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></p>
+<p><b>Ladyfingers</b><span>, or in British English </span><b>sponge fingers</b><span> (sometimes known by their Italian name </span><b>savoiardi</b><span> or their French one </span><b>boudoirs</b><span> </span><span>are low density, dry, egg-based, sweet Sponge biscuits </span><span>roughly shaped like a large finger. They are a principal ingredient in many dessert recipes, such as Trifles </span><span>and Charlottes</span><span>, and are also used as fruit or chocolate gateau linings, and sometimes for the sponge element of</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Savoiardi is the main ingredient in "Tiramisu" Cake or perfect for dunking in your morning coffee or milk!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Peanut and Tree nut free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lady Finger Biscuits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827022295114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>452101</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827832582218</id>
+    <published>2020-11-15T21:00:38-05:00</published>
+    <updated>2020-11-15T21:00:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-multigrain-triangle-45-x-115g"/>
+    <title>Ace Bakery - Multigrain Triangle - 45 x 115g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AceBakery-MultigrainTriangle_100184.png?v=1623986554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ace Bakery - Multigrain Triangle #100184 - 45 x 115g</p>
+<p><span>This nutritious sandwich carrier features a soft crust and ten different grains and seeds. 6" x 6".</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827832582218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>513467</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827831926858</id>
+    <published>2020-11-15T21:00:37-05:00</published>
+    <updated>2020-11-15T21:00:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-swiss-panini-rolls-45-units"/>
+    <title>Ace Bakery - Swiss Panini Rolls - 45 Units</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AceBakery-SwissPaniniRolls-45Units.jpg?v=1623986603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ace Bakery - Swiss Panini Rolls - 45 Units</p>
+<p> <span data-mce-fragment="1">Made in the ACE Bakery®, our artisan rolls are baked to perfection and packaged with care. Try our ciabatta rolls, rosemary focaccia, and wholesome multigrain varieties. Whether you’re entertaining guests or enhancing your favourite family dinners, we’re spreading the word: bread is meant to be shared.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827831926858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>513410</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827831107658</id>
+    <published>2020-11-15T21:00:36-05:00</published>
+    <updated>2020-11-15T21:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-ciabatta-lunga-cluster-45-x-140g"/>
+    <title>Ace Bakery - Ciabatta Lunga Cluster - 45 x 140g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AceBakery-CiabattaLungaCluster..jpg?v=1623986474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ace Bakery - Ciabatta Cluster - 45 x 140g</strong></p>
+<p><span>Our tear-apart Ciabatta Lunga Cluster is made with simple, premium ingredients and is just as flavourful as our Ciabatta Lunga. Then we bake it in a stone-deck oven (notice the floured bottom) giving it a golden crisp crust and a moist interior. </span></p>
+<h3>SERVING INSPIRATION</h3>
+<p>Try serving as mini meatball sliders for bite-sized appetizers.</p>
+<h3>INGREDIENTS</h3>
+<p>Unbleached wheat flour, water, salt, yeast, malted barley flour.</p>
+<h4>CONTAINS</h4>
+<p>Barley, wheat.</p>
+<h4>MAY CONTAIN</h4>
+<p>Almonds, eggs, milk, pecans, sesame seeds, soy, walnuts.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827831107658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>513465</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827830353994</id>
+    <published>2020-11-15T21:00:36-05:00</published>
+    <updated>2020-11-15T21:00:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-multipack-dinner-rolls-108-x-45g"/>
+    <title>Ace Bakery - Multipack Dinner Rolls - 108 x 45g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AceBakery-MultipackDinnerRolls_100293.png?v=1623986574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ace Bakery - Multipack Dinner Rolls #100293 - 108 x 45g</p>
+<p><span>Impress your guests with remarkable artisan dinner rolls. The selection includes White Petit Pain, Multigrain Petite Baguette and Olive Petit Pain. 3-4" x 2-3"</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827830353994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>513468</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827829960778</id>
+    <published>2020-11-15T21:00:35-05:00</published>
+    <updated>2020-11-15T21:00:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ace-bakery-bocata-ronda-6-x-6-units"/>
+    <title>Ace Bakery - Bocata Ronda - 6 x 6 Units</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Ace Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AceBakery-BocataRonda.jpg?v=1623986413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ace Bakery<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ace Bakery - Bocata Ronda - 6 x 6 Units</strong></p>
+<p>The Bocata Ronda is made with simple, premium ingredients. Then they are baked in a stone-deck oven (notice the floured bottom), leaving us with the alluring aroma of rosemary and a soft, flavourful interior.</p>
+<h3>SERVING INSPIRATION</h3>
+<p>A great addition to any sandwich creation.</p>
+<h3>INGREDIENTS</h3>
+<p>Unbleached wheat flour, water, sunflower oil, sugar, salt, yeast, malted barley flour.</p>
+<h4>CONTAINS</h4>
+<p>Wheat, barley.</p>
+<h4>MAY CONTAIN</h4>
+<p>Almonds, eggs, milk, pecans, sesame seeds, soy, walnuts.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827829960778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>513463</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827828060234</id>
+    <published>2020-11-15T21:00:34-05:00</published>
+    <updated>2020-11-15T21:00:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martins-famous-potato-slider-rolls-12-pack"/>
+    <title>Martin&apos;s Famous - Potato Slider Rolls - 12 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martin&apos;s Famous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martins-famous-potato-slider-rolls-12-pack-202122.jpg?v=1611510763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martin&#39;s Famous<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99 - 39.99
+            <a href="https://bulkmart.ca/products/martins-famous-potato-slider-rolls-12-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Martins - Famous Potato Slider Roll - 12 / Pack</strong></p>
+<p>Martin’s 12-Sliced Potato Rolls are the perfect size for sliders and kid-sized sandwiches! Many chefs and restaurants have won top honors in burger contests using these buns! Use them for your sliders and backyard BBQs and you’ll be a winner too!</p>
+<p>They’re also great for sloppy joes, pulled pork, cold cuts, and even PB&amp;J!</p>
+<p>One of our customers said it best: <em>“Martin’s Potato Rolls are like a hug for your sandwich!”</em></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827828060234</id>
+      <title>12 / Pack</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>513418</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827828060234</id>
+      <title>7 x 12 / Case</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>513419</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827827765322</id>
+    <published>2020-11-15T21:00:33-05:00</published>
+    <updated>2020-11-15T21:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martins-famous-potato-long-rolls-hotdog-8-pack"/>
+    <title>Martin&apos;s Famous - Potato Long Rolls Hotdog - 8 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martin&apos;s Famous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martins-famous-potato-long-rolls-hotdog-8-pack-573720.jpg?v=1611513637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martin&#39;s Famous<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martins - Famous Potato Long Rolls Hotdog - 8 / Pack</p>
+<p><strong>For Hot Dogs…and So Much More!</strong></p>
+<p>Piled with chili and cheese, sauerkraut, ketchup and mustard, or just plain…as long as your hot dog is lying on a Martin’s Long Potato Roll, it’ll be delicious!</p>
+<p>But wait! There’s more! You can also use this roll to make the perfect Lobster Roll! Or you can create a mini-sub by piling on some salami and cheese or turkey and veggies! The possibilities are endless!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827827765322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>513423</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4827826946122</id>
+    <published>2020-11-15T21:00:33-05:00</published>
+    <updated>2020-11-15T21:00:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martins-famous-burger-buns-3-5-8-pack"/>
+    <title>Martin&apos;s Famous - Burger Buns 3.5&quot; - 8 / Pack</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martin&apos;s Famous</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martins-famous-burger-buns-35-8-pack-879847.jpg?v=1611510580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martin&#39;s Famous<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Martins - Famous Burger Buns 3.5" - 8 / Pack</strong></p>
+<p><span>This roll has helped many chefs and restaurants win top honors in burger contests! And yet, as perfect as this roll is for burgers, it’s also great for sloppy joes, pulled pork, veggie burgers, and even PB&amp;J! One of our customers said it best: “Martin’s Potato Rolls are like a hug for your sandwich!”</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case#product","name":"White Dinner Rolls - 144 x 38 g / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552962630","sku":"RBM1719","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/white-dinner-rolls-8-x-12-case-bulk-mart_102.jpg","description":"White Dinner Rolls - 8 x 12 / Case.","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"RBM1719","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"6"},"mpn":"","priceCurrency":"CAD","price":"53.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/white-dinner-rolls-8-x-12-case?variant=19271467106374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Bread &amp; Buns</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4827826946122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>513421</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

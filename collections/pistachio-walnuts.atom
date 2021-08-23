@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pistachio-walnuts.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-15T20:28:59-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4832477544522</id>
+    <published>2020-11-15T20:28:59-05:00</published>
+    <updated>2020-11-15T20:28:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/properity-walnut-halves-pieces-450g"/>
+    <title>Properity - Walnut Halves &amp; Pieces - 450g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Prosperity</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/properity-walnut-halves-pieces-450g-351581.jpg?v=1611513459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prosperity<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Properity - Walnut Halves &amp; Pieces - 450g</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Walnut!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Walnuts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832477544522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>39024</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832476889162</id>
+    <published>2020-11-15T20:28:58-05:00</published>
+    <updated>2020-11-15T20:28:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-walnut-pieces-5-lbs"/>
+    <title>Harvest - Walnut Pieces - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-walnut-pieces-5-lbs-151968.jpg?v=1611513576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Walnut Pieces - 5 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Walnut!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Walnuts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832476889162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>39023</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832476692554</id>
+    <published>2020-11-15T20:28:57-05:00</published>
+    <updated>2020-11-15T20:28:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-walnut-halves-pieces-5-lbs"/>
+    <title>Harvest - Walnut Halves &amp; Pieces - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-walnut-halves-pieces-5-lbs-148498.jpg?v=1611510405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Walnut Halves &amp; Pieces - 5 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Walnut!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Walnuts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832476692554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>39022</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832475643978</id>
+    <published>2020-11-15T20:28:56-05:00</published>
+    <updated>2020-11-15T20:28:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-bakers-walnut-light-halves-5-lbs"/>
+    <title>Harvest - Bakers Walnut Light Halves - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-bakers-walnut-light-halves-5-lbs-230917.jpg?v=1611510402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Bakers Walnut Light Halves - 5 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these Walnut!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Walnuts</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832475643978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>39021</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4832474923082</id>
+    <published>2020-11-15T18:35:37-05:00</published>
+    <updated>2020-11-15T18:35:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/harvest-raw-pistachio-kernels-no-shell-1-kg"/>
+    <title>Harvest - Raw Pistachio Kernels No Shell - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Harvest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/harvest-raw-pistachio-kernels-no-shell-1-kg-278894.jpg?v=1611510406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harvest<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harvest - Raw Pistachio Kernels - 1 Kg</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these <span data-mce-fragment="1">Pistachio, Pista</span>!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pistachio-10-lbs#product","name":"Pistachio - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4345044959306","sku":"SBBM463","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pistachio-25-lbs-bulk-mart_392_f3ac6c78-e195-44f7-885c-d89d745cc78f.jpg","description":"Pistachio - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"SBBM463","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"mpn":"","priceCurrency":"CAD","price":"179.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pistachio-10-lbs?variant=31139968712778","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pistachio</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4832474923082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>169740</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4517382160458</id>
+    <published>2020-02-28T21:18:13-05:00</published>
+    <updated>2020-02-28T21:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-pistachio-kernels-no-shell-5-lbs"/>
+    <title>SmartChoice - Pistachio kernels No Shell - 5 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-pistachio-kernels-no-shell-5-lbs-159606.jpg?v=1611511716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add texture and taste to your popular dishes with these <span data-mce-fragment="1">Pistachio, Pista </span>!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pistachio</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4517382160458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>169742</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4345044959306</id>
+    <published>2019-11-05T17:43:00-05:00</published>
+    <updated>2019-11-05T17:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-raw-pistachio-kernels-no-shell-10-lbs"/>
+    <title>SmartChoice - Raw Pistachio Kernels No Shell - 10 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-raw-pistachio-kernels-no-shell-10-lbs-423949.jpg?v=1611514066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pistachio - 10 Lbs</p>
+<h2 class="headline">Add texture and taste to your popular dishes with these <span data-mce-fragment="1">Pistachio, Pista </span>!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pistachio-10-lbs#product","name":"Pistachio - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4345044959306","sku":"SBBM463","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pistachio-25-lbs-bulk-mart_392_f3ac6c78-e195-44f7-885c-d89d745cc78f.jpg","description":"Pistachio - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"SBBM463","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"mpn":"","priceCurrency":"CAD","price":"179.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pistachio-10-lbs?variant=31139968712778","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pistachio</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4345044959306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku>169741</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3938821734470</id>
+    <published>2019-07-21T18:36:10-04:00</published>
+    <updated>2019-07-21T18:36:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/smartchoice-raw-pistachio-kernels-no-shell-25-lbs"/>
+    <title>SmartChoice - Raw Pistachio Kernels No Shell - 25 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>SmartChoice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/smartchoice-raw-pistachio-kernels-no-shell-25-lbs-640587.jpg?v=1611513517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SmartChoice<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            389.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add texture and taste to your popular dishes with these <span data-mce-fragment="1">Pistachio, Pista</span>!</h2>
+<p><span>Perfect for your restaurant or bakery's pantry, a quality product at a great value. This versatile ingredient features an endless number of uses, from garnishing salads and string beans to decorating cakes and pastries. Plus, since they're raw, they won't lend any additional salty flavor.</span></p>
+<h3 class="item-header">Versatile Culinary Ingredient</h3>
+<p>They're just the right size for a variety of applications, such as the finishing touch on salads, parfaits, ice cream, fresh fruit, or enhancing the presentation of baked goods. They add crunchy texture and nutty taste to a variety of entrees such as steamed vegetables or crusted fish, without adding any extra salt.</p>
+<h3 class="item-header">Bulk Supply</h3>
+<p>Perfect for high volume establishments, this packing keeps your bakery or restaurant well-stocked for the variety of uses. Plus, with an ample amount, it's easy to quickly measure your ingredients or simply grab a spoonful to sprinkle on dishes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pistachio-25-lbs#product","name":"Pistachio - 25 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3938821734470","sku":"SBBM463","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pistachio-25-lbs-bulk-mart_392.jpg","description":"Pistachio - 25 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Blue Diamond"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"SBBM463","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"351.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pistachio-25-lbs?variant=29426193367110","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pistachio</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3938821734470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">389.99</s:price>
+      <s:sku>169743</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

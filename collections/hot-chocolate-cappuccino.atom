@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/hot-chocolate-cappuccino.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-04T17:09:07-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848794730570</id>
+    <published>2021-01-04T17:09:07-05:00</published>
+    <updated>2021-01-04T17:09:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-milo-chocolate-malt-energy-drink-900-g"/>
+    <title>Nestle - Milo Chocolate Malt Energy Drink - 900 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-milo-chocolate-malt-energy-drink-900-g-297610.png?v=1611511428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nestle - Milo Energy Drink - 900 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The #1 chocolate malt beverage</span></li>
+<li><span class="a-list-item">provides a well-balanced and complete range of nutrients including protein, carbohydrates, fat, vitamins, and minerals</span></li>
+<li><span class="a-list-item">Each serving is less than 120 calories when prepared with 2-Percent milk</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848794730570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>661246</s:sku>
+      <s:grams>900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848794370122</id>
+    <published>2021-01-04T17:09:06-05:00</published>
+    <updated>2021-01-04T17:09:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-milo-chocolate-malt-energy-drink-400-g"/>
+    <title>Nestle - Milo Chocolate Malt Energy Drink - 400 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-milo-chocolate-malt-energy-drink-400-g-279432.png?v=1611511897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nestle - Milo Chocolate Malt Energy Drink - 400 g</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The #1 chocolate malt beverage.</span></li>
+<li><span class="a-list-item">Provides a well-balanced and complete range of nutrients including protein, carbohydrates, fat, vitamins, and minerals</span></li>
+<li><span class="a-list-item">Each serving is less than 120 calories when prepared with 2-Percent milk.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848794370122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>661245</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848793550922</id>
+    <published>2021-01-04T17:09:05-05:00</published>
+    <updated>2021-01-04T17:09:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nesquik-chocolate-flavored-milk-powder-1-275-kg"/>
+    <title>Nestle - Nesquik Chocolate Flavored Milk Powder - 1.275 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nesquik-chocolate-flavored-milk-powder-1275-kg-765601.jpg?v=1611513276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nestle - Nesquik Chocolate Flavored Milk Powder - 1.275 Kg</strong></p>
+<p>Nesquik®Chocolate Milk Powder turns milk into an irresistibly delicious and nutritious drink for your family to enjoy and for you to feel good about, with 45% less sugar than the leading syrup brand.</p>
+<p>Nesquik®Chocolate Milk Powder provides calcium, 8 grams of protein, and 7 essential vitamins and minerals when combined with low-fat milk to help them start the day.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848793550922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>661247</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854172844106</id>
+    <published>2021-01-04T16:11:13-05:00</published>
+    <updated>2021-01-04T16:11:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-finest-hot-chocolate-mix-single-serve-50-x-28-g"/>
+    <title>Kingsmill - Finest Hot Chocolate Mix Single Serve - 50 x 28 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-finest-hot-chocolate-mix-single-serve-50-x-28-g-774095.jpg?v=1611510764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Finest Hot Chocolate Single Serve Packets - 50 x 28 g</strong></p>
+<p><span>This</span><span> Finest Hot Chocolate Single Serve comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A simple hot chocolate mix to satisfy those cravings. Add 175mL of hot milk or hot water to contents of the pouch and stir well.<br><br>Ingredients: Sugar, corn syrup solids, cocoa, coconut oil, salt, modified milk ingredients, tricalcium phosphate, carboxymethyl, cellulose gum, mono and diglycerides, artificial flavour, dipotassium phosphate, silicon dioxide, maltol, sodium silico aluminate, colour.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854172844106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>66115</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854172090442</id>
+    <published>2021-01-04T16:11:12-05:00</published>
+    <updated>2021-01-04T16:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-cappuccino-mix-6-x-907-g"/>
+    <title>Kingsmill - Cappuccino Mix - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-cappuccino-mix-6-x-907-g-856787.png?v=1611510342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Cappuccino - 6 x 907 g</strong></p>
+<p><span>Balancing coffee and milk ingredients, our Cappuccino offers a smooth finish from start to finish while still delivering those coffee notes.</span></p>
+<p><span>This Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Coconut oil, Modified milk ingredients, Instant coffee, Salt, Tricalcium phosphate, Cellulose gum, Dipotassium phosphate, Mono-and diglycerides, Cocoa, Natural flavour, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854172090442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>66110</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854171893834</id>
+    <published>2021-01-04T16:11:11-05:00</published>
+    <updated>2021-01-04T16:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-cappuccino-mix-907-g"/>
+    <title>Kingsmill - Cappuccino Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-cappuccino-mix-907-g-679466.png?v=1611510577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Cappuccino - 907 g</strong></p>
+<p><span>Balancing coffee and milk ingredients, our Cappuccino offers a smooth finish from start to finish while still delivering those coffee notes.</span></p>
+<p><span>This Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Coconut oil, Modified milk ingredients, Instant coffee, Salt, Tricalcium phosphate, Cellulose gum, Dipotassium phosphate, Mono-and diglycerides, Cocoa, Natural flavour, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854171893834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66111</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854171369546</id>
+    <published>2021-01-04T16:11:10-05:00</published>
+    <updated>2021-01-04T16:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-iced-cappuccino-mix-907-g"/>
+    <title>Kingsmill - Iced Cappuccino Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-iced-cappuccino-mix-907-g-816726.png?v=1611512974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Iced Cappuccino Mix - 2 Lbs</strong></p>
+<p><span>This</span><span> Iced Cappuccino Mix comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A formula specially designed to be made into an iced beverage. The difference in this formula helps provide the beverage with better texture while still delivering the same great flavours.</span></p>
+<h2><strong><span>INGREDIENTS</span></strong></h2>
+<p class="descp-text">Sugars (sugar, dextrose, corn syrup solids), coconut oil, instant coffee, cocoa, salt, modified milk ingredients, tricalcium phosphate, dipotassium phosphate, mono-and diglycerides, flavour, sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854171369546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>66119</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854170189898</id>
+    <published>2021-01-04T16:11:10-05:00</published>
+    <updated>2021-01-04T16:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-french-vanilla-cappuccino-6-x-907-g"/>
+    <title>Kingsmill - French Vanilla Cappuccino - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-french-vanilla-cappuccino-6-x-907-g-646230.png?v=1611511179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - French Vanilla Cappuccino - 6 x 907 g</strong></p>
+<p><span>This</span><span> French Vanilla Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>Amazing coffee notes, mixed with our sweet and creamy recipe provides a well-balanced cappuccino</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids, maltodextrin), Modified milk ingredients, Coconut oil, Tricalcium phosphate, Salt, Cellulose gum, Xanthan gum, Guar gum, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854170189898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>66116</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854169174090</id>
+    <published>2021-01-04T16:11:09-05:00</published>
+    <updated>2021-01-04T16:11:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-french-vanilla-cappuccino-907-g"/>
+    <title>Kingsmill - French Vanilla Cappuccino - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-french-vanilla-cappuccino-907-g-227204.png?v=1611513755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - French Vanilla Cappuccino - 907 g</strong></p>
+<p><span>This</span><span> French Vanilla Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>Amazing coffee notes, mixed with our sweet and creamy recipe provides a well-balanced cappuccino</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids, maltodextrin), Modified milk ingredients, Coconut oil, Tricalcium phosphate, Salt, Cellulose gum, Xanthan gum, Guar gum, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854169174090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66117</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854168256586</id>
+    <published>2021-01-04T16:11:08-05:00</published>
+    <updated>2021-01-04T16:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-12-x-907-g"/>
+    <title>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate Mix- 12 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-12-x-907-g-117806.png?v=1611510404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate - 907 g</strong></p>
+<p><span>This</span><span> Premium Rich &amp; Creamy Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A delightful balance between cocoa and creamy, the Rich &amp; Creamy Hot Chocolate delivers an intense flavour profile with a smooth drinking experience. Our most popular Hot Chocolate Mix.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854168256586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>010140</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854167961674</id>
+    <published>2021-01-04T16:11:07-05:00</published>
+    <updated>2021-01-04T16:11:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-907-g"/>
+    <title>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-907-g-782131.png?v=1611510342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate - 907 g</strong></p>
+<p><span>This</span><span> Premium Rich &amp; Creamy Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A delightful balance between cocoa and creamy, the Rich &amp; Creamy Hot Chocolate delivers an intense flavour profile with a smooth drinking experience. Our most popular Hot Chocolate Mix.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854167961674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>66120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854167273546</id>
+    <published>2021-01-04T16:11:06-05:00</published>
+    <updated>2021-01-04T16:11:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-chocolate-whip-powder-907-g"/>
+    <title>Kingsmill - Chocolate Whip Powder - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-chocolate-whip-powder-907-g-135762.png?v=1611510932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Whipped Hot Chocolate Mix - 907 g</strong></p>
+<p><span>This</span><span> Whipped Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A cheap and cheerful hot chocolate solution that still delivers a delightful balance of sweet cocoa.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Modified milk ingredients, Cocoa, Salt, Coconut oil, Tricalcium phosphate, Artificial flavour, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854167273546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>66112</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854166552650</id>
+    <published>2021-01-04T16:11:05-05:00</published>
+    <updated>2021-01-04T16:11:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-chocolate-whip-powder-12-x-907-g"/>
+    <title>Kingsmill - Chocolate Whip Powder - 12 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-chocolate-whip-powder-12-x-907-g-449966.png?v=1611514369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Whipped Hot Chocolate Mix - 12 x 907 g</strong></p>
+<p><span>This</span><span> Whipped Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A cheap and cheerful hot chocolate solution that still delivers a delightful balance of sweet cocoa.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Modified milk ingredients, Cocoa, Salt, Coconut oil, Tricalcium phosphate, Artificial flavour, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854166552650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>66118</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854166257738</id>
+    <published>2021-01-04T16:11:04-05:00</published>
+    <updated>2021-01-04T16:11:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-creamy-white-hot-chocolate-6-x-907-g"/>
+    <title>Kingsmill - Creamy White Hot Chocolate - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-creamy-white-hot-chocolate-6-x-907-g-428361.png?v=1611511481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Creamy White Hot Chocolate - 6 x 907 g</strong></p>
+<p><span>Putting an emphasis on creamy, our White Hot Chocolate delivers an extremely rich white chocolate flavour that consumers love.</span></p>
+<p><span>This</span><span> Creamy White Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugar (sugar, com syrup solids), coconut oil, modified milk ingredients, salt, tricalcium phosphate, mono- and diglycerides phosphate, Jartificial flavour, silicon dioxide, cocoa, sodium silico aluminate, colour. Conatins milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854166257738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>66113</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854165635146</id>
+    <published>2021-01-04T16:11:03-05:00</published>
+    <updated>2021-01-04T16:11:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-creamy-white-hot-chocolate-907-g"/>
+    <title>Kingsmill - Creamy White Hot Chocolate - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-creamy-white-hot-chocolate-907-g-598107.png?v=1611514783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Creamy White Hot Chocolate - 907 g</strong></p>
+<p><span>Putting an emphasis on creamy, our White Hot Chocolate delivers an extremely rich white chocolate flavour that consumers love.</span></p>
+<p><span>This</span><span> Creamy White Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugar (sugar, com syrup solids), coconut oil, modified milk ingredients, salt, tricalcium phosphate, mono- and diglycerides phosphate, Jartificial flavour, silicon dioxide, cocoa, sodium silico aluminate, colour. Conatins milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854165635146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66114</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848771760202</id>
+    <published>2020-12-07T01:14:04-05:00</published>
+    <updated>2020-12-07T01:14:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-hot-chocolate-liquid-drink-base-2-x-4-l"/>
+    <title>Lynch - Hot Chocolate Liquid Drink Base - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-hot-chocolate-liquid-drink-base-2-x-4-l-548811.png?v=1611511594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch - Hot Chocolate Liquid Drink Base - 4 L</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A premium hot chocolate drink base made from the finest of imported cocoa.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Serve Lynch chocolate drink base with whipped cream or marshmallows, or mix with coffee for a mocha hot chocolate. Add peppermint schnapps, Irish whiskey, baileys or brandy for a special treat. Also use drink base for milkshakes and sundae toppings.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Add 1 fl oz (28.4 mL) drink base to 5 fl oz (142 mL) of hot water.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar/glucose-fructose, water, modified milk ingredients, cocoa, canola oil and modified palm and palm kernel oils, hydrogenated coconut oil and hydrogenated soybean oil, palm oil and soybean oil and modified palm oil, salt, artificial flavour, disodium phosphate, soy lecithin, potassium sorbate.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:tag>Hot Chocolate Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848771760202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>100326</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848771530826</id>
+    <published>2020-12-07T01:14:03-05:00</published>
+    <updated>2020-12-07T01:14:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lynch-hot-chocolate-liquid-drink-base-4-l"/>
+    <title>Lynch - Hot Chocolate Liquid Drink Base - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Lynch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-hot-chocolate-liquid-drink-base-4-l-832596.png?v=1611514129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lynch<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lynch - Hot Chocolate Liquid Drink Base - 4 L</p>
+<div class="gradients">
+<h4>PRODUCT INFORMATION</h4>
+<p>A premium hot chocolate drink base made from the finest of imported cocoa.</p>
+</div>
+<div class="gradients">
+<h4>USE IDEAS</h4>
+<p>Serve Lynch chocolate drink base with whipped cream or marshmallows, or mix with coffee for a mocha hot chocolate. Add peppermint schnapps, Irish whiskey, baileys or brandy for a special treat. Also use drink base for milkshakes and sundae toppings.</p>
+</div>
+<div class="gradients">
+<h4>PRODUCT MAKE-UP INFORMATION</h4>
+<p>Add 1 fl oz (28.4 mL) drink base to 5 fl oz (142 mL) of hot water.</p>
+</div>
+<div class="gradients">
+<h4>INGREDIENTS</h4>
+<p>Sugar/glucose-fructose, water, modified milk ingredients, cocoa, canola oil and modified palm and palm kernel oils, hydrogenated coconut oil and hydrogenated soybean oil, palm oil and soybean oil and modified palm oil, salt, artificial flavour, disodium phosphate, soy lecithin, potassium sorbate.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:tag>Hot Chocolate Drink Mixes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848771530826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>200154</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848791388234</id>
+    <published>2020-12-07T00:10:34-05:00</published>
+    <updated>2020-12-07T00:10:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nesquik-chocolate-syrup-700-ml"/>
+    <title>Nestle - Nesquik Chocolate Syrup - 700 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nesquik-chocolate-syrup-700-ml-143424.jpg?v=1611511358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Enjoy NESQUIK as part a balanced breakfast, with the taste your kids will love.</span></li>
+<li><span class="a-list-item">Quick &amp; easy: mix 1 tablespoon of syrup into 250 ml of cold milk – enjoy!</span></li>
+<li><span class="a-list-item">Dissolves quickly in hot or cold milk. 50 calories per 1 tablespoon serving (15 ml).</span></li>
+<li><span class="a-list-item">Enriched with iron to promote the maintenance of your kid’s good health.</span></li>
+<li><span class="a-list-item">Spread some fun around by adding NESQUIK to other delicious treats like ice cream, cookies, yogurt &amp; sliced fruit.</span></li>
+</ul>
+<p>Nestle - Nesquik Chocolate Syrup - 700 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848791388234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>94504</s:sku>
+      <s:grams>700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848789618762</id>
+    <published>2020-12-07T00:10:32-05:00</published>
+    <updated>2020-12-07T00:10:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nesquik-less-sugar-chocolate-syrup-510-ml"/>
+    <title>Nestle - Nesquik Less Sugar Chocolate Syrup - 510 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nesquik-less-sugar-chocolate-syrup-510-ml-983002.jpg?v=1611514244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Enjoy NESQUIK as part a balanced breakfast, with the taste your kids will love.</span></li>
+<li><span class="a-list-item">Quick &amp; easy: mix 1 tablespoon of syrup into 250 ml of cold milk — enjoy!</span></li>
+<li><span class="a-list-item">25% less sugar than our original chocolate syrup per 250 ml serving.</span></li>
+<li><span class="a-list-item">Dissolves quickly in hot or cold milk. 50 calories per 1 tablespoon serving (15 ml).</span></li>
+<li><span class="a-list-item">Spread some fun around by adding NESQUIK to other delicious treats like ice cream, cookies, yogurt &amp; sliced fruit.</span></li>
+</ul>
+<p>Nestle - Nesquik Chocolate Syrup - 510ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1#product","name":"Lynch - Chocolate Syrup - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3946099572806","sku":"4BM3964","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-chocolate-syrup-4-l-bulk-mart_415.jpg","description":"Lynch - Chocolate Syrup - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"4BM3964","weight":{"@type":"QuantitativeValue","unitText":"g","value":"420"},"mpn":"","priceCurrency":"CAD","price":"15.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-chocolate-syrup-4-l-1?variant=29453016137798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Drink Mixes</s:tag>
+    <s:tag>Milkshake Syrups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848789618762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>94505</s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808527052874</id>
+    <published>2020-10-25T15:50:19-04:00</published>
+    <updated>2020-10-25T15:50:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barry-callebaut-raven-black-cocoa-powder-10-12-50-lbs"/>
+    <title>Barry Callebaut - Raven Black Cocoa Powder 10/12% - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Barry Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barry-callebaut-raven-black-cocoa-powder-1012-50-lbs-844339.jpg?v=1624169288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barry Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            214.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Callebaut - Raven Black Cocoa Powder 10/12% - 50 Lbs</p>
+<div class="product-field__label product-field-certifications__label">Certifications</div>
+<div class="product-field__value product-field-certifications__value">
+<div class="item-list">
+<ul>
+<li>
+<div class="certification-item certification-kosher">Kosher Pareve</div>
+</li>
+<li>Dutched Cocoa Powder</li>
+<li>Color: Black</li>
+</ul>
+<p> </p>
+<p><strong>Disclaimer:</strong><span> </span>BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808527052874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">214.99</s:price>
+      <s:sku>479201</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808522498122</id>
+    <published>2020-10-25T15:50:18-04:00</published>
+    <updated>2020-10-25T15:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cacao-barry-plein-arome-cocoa-powder-6-x-1-kg"/>
+    <title>Cacao Barry - Plein Arome Cocoa Powder - 6 x 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Cacao Berry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cacao-barry-plein-arome-cocoa-powder-6-x-1-kg-427024.jpg?v=1611509073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cacao Berry<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            135.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cacao Barry - Plein Arome Cocoa Powder - 6 x 1 Kg</strong></p>
+<p>This dark brown cocoa powder is very fragrant and less intense than the Extra Brute. It is ideal for flavoring cake batters, dough's, creams and ice creams and sauces, but not suitable for chocolate powder drinks.</p>
+<p>1Kg or 2.2 lbs. 100% Cocoa. 23% Fat, 22% Cocoa Butter. Alkalized/Dutch Processed. Kosher. 24 month shelf life. Product of France.</p>
+<p><b>About Dutch-Processed:</b><span> </span>Also known as<span> </span><b>Alkalized</b><span> </span>cocoa powder which means it has been treated with an alkali to neutralize its acidic nature. Because it is neutral and therefore will not react with baking soda, it should be used in recipes calling for baking powder; unless there are other acidic ingredients in sufficient quantities used; in order for proper leavening to occur.</p>
+<p><strong>Disclaimer:</strong> BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808522498122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.99</s:price>
+      <s:sku>479206</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808519909450</id>
+    <published>2020-10-25T15:50:17-04:00</published>
+    <updated>2020-10-25T15:50:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cacao-barry-extra-brute-cocoa-powder-22-24-1-kg"/>
+    <title>Cacao Barry - Extra Brute Cocoa Powder 22/24%  - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Cacao Berry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cacao-barry-extra-brute-cocoa-powder-2224-1-kg-519107.jpg?v=1611509137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cacao Berry<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>DCP22SP760 - Cacao Barry - Extra Brute Cocoa Powder 22/24%  - 1 Kg</strong></p>
+<p><span>This extra dark alkalized (Dutch-processed) cocoa powder (intense red colour) is full of flavour and is excellent for baking, preparing hot chocolate drinks, and confectionery. Use it for coating truffles or powdering with a fine coppery colour. Additional applications include mousses, creams, and cakes. 22 - 24% cocoa fat content.</span><br><span>1 kilogram/2.2 pound bag</span><br><br></p>
+<ul>
+<li><span>Product of France</span></li>
+<li><span>Ingredients: Cocoa powder (alkalized)</span></li>
+<li><span>Allergens: May contain soy</span></li>
+<li><span>Kosher</span></li>
+</ul>
+<p><strong>Disclaimer</strong>: BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808519909450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>479205</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4808516763722</id>
+    <published>2020-10-25T15:50:15-04:00</published>
+    <updated>2020-10-25T15:50:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bensdorp-100054-722-superior-red-cocoa-powder-22-24-50-lb"/>
+    <title>Bensdorp - 100054-722 Superior Red Cocoa Powder 22/24 - 50 Lb</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Bensdorp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bensdorp-100054-722-superior-red-cocoa-powder-2224-50-lb-344563.jpg?v=1611509626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bensdorp<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            245.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Bensdorp - 100054-722 Superior Red Cocoa Powder 22/24 - 50 Lb</strong><br data-mce-fragment="1"><br data-mce-fragment="1">This mahogany red cocoa powder is Dutch processed and high in fat. Dutch processing reduces the acidity of cocoa powder. High-fat cocoa powders make richer brownies and cakes.<br data-mce-fragment="1"><br data-mce-fragment="1">Bensdorp Dutched Cocoa Powder is wonderful for baking. Try it in brownies and cake for deep chocolate flavor. <br data-mce-fragment="1"><br data-mce-fragment="1">Good to Know: Dutch-process cocoa powders are usually for recipes with baking powder as the primary leavening agent or in recipes that do not have a leavening ingredient, like hot chocolate, brownies, and chocolate pudding.<br data-mce-fragment="1"><br data-mce-fragment="1">
+<ul>
+<li>Highly Dutched cocoa powder</li>
+<li>Made from high-quality West African cocoa<br>
+</li>
+<li>Low moisture content (4.5%)<br>
+</li>
+<li>22.68 kg bag (50 lbs)<br>
+</li>
+<li>Made with finest cocoa beans<br>
+</li>
+<li>Cocoa Horizons Program<br>
+</li>
+<li>Fairtrade<br>
+</li>
+<li>Fairtrade Cocoa Program<br>
+</li>
+<li>Rainforest Alliance<br>
+</li>
+<li>UTZ<br>
+</li>
+<li>Vegan<br>
+</li>
+<li>Kosher Pareve<br>
+</li>
+</ul>
+<p><strong>Disclaimer:</strong> BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4808516763722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">245.99</s:price>
+      <s:sku>479202</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4798467145802</id>
+    <published>2020-10-25T15:50:14-04:00</published>
+    <updated>2020-10-25T15:50:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-dark-chocolate-mousse-powder-800-g"/>
+    <title>Callebaut - Dark Chocolate Mousse Powder - 800 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-dark-chocolate-mousse-powder-800-g-772692.png?v=1611509670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut - Dark Chocolate Mousse Powder - 800 g</strong></p>
+<p><strong>Great taste in just 3 easy steps.</strong><br><span>Nothing beats the taste and texture of your homemade chocolate mousse of course, but Callebaut®'s Dark Chocolate Mousse is a great alternative when a busy service requires you to come up with a fast and tasty solution.</span><br><span>Made with 75% Finest Belgian Dark Chocolate, this mousse premix guarantees a delicious result with a rich mouth feel that comes close to homemade chocolate mousse. It enables you to create a wonderfully smooth, well aerated texture and a lovely intense chocolate taste in just 3 simple steps.</span></p>
+<p><span>Premix for chocolate mousse, rich in dark chocolate.</span></p>
+<div class="product-howtouse-label"><strong>How to use</strong></div>
+<div class="product-howtouse-value">
+<p>A tasty dark chocolate mousse in just 3 easy steps:<br>1. Mix the contents of one pack with 1 litre of cold milk<br>2. Beat at full speed for 5 minutes<br>3. Pipe into cups or glasses and leave to cool in the fridge for approx. 6 hours OR scoop quenelles after cooling</p>
+<h3>SHELF LIFE</h3>
+<ul>
+<li class="first last">18 months</li>
+</ul>
+<p><strong>Disclaimer:</strong> BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4798467145802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>479207</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4798466555978</id>
+    <published>2020-10-25T15:50:12-04:00</published>
+    <updated>2020-10-25T15:50:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/callebaut-milk-chocolate-mousse-powder-800-g"/>
+    <title>Callebaut - Milk Chocolate Mousse Powder - 800 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Callebaut</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-milk-chocolate-mousse-powder-800-g-216686.jpg?v=1611509256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Callebaut<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Callebaut - Milk Chocolate Mousse Powder - 800 g - CHMMOM0EX27</strong></p>
+<p><strong>Rich in milk chocolate and ready in 1, 2, 3.</strong><br><span>Nothing beats homemade chocolate mousse. But with Milk Chocolate Mousse Powder you have a great-tasting alternative at your fingertips. Unrivalled on the market: this chocolate mousse comes close to homemade chocolate mousse, but saves you lots of time.</span><br><span>The secret to its intense and authentic taste lies in the very high chocolate content: it's made with 70% Callebaut® milk chocolate.</span><br><span>Simply mix one bag of powder with 1 litre of milk and beat it for 5 minutes at full speed. It has the rich texture that is perfect for piping in glasses and scooping 'quenelles' on dessert plates. </span><br><span>Our chefs recommend piping the mousse in glasses before cooling to preserve its nicely aerated texture. Quenelles should be scooped after cooling once the mousse has sufficiently set.</span></p>
+<p><span>Powder mix for instant milk chocolate mousse preparations.</span></p>
+<div class="product-howtouse-label"><strong>How to use</strong></div>
+<div class="product-howtouse-value">
+<p>A tasty milk chocolate mousse in just 3 easy steps:<br>1. Mix the contents of one pack with 1 litre of cold milk<br>2. Beat at full speed for 5 minutes<br>3. Pipe into cups or glasses and leave to cool in the fridge for approx. 6 hours OR scoop quenelles after cooling</p>
+<div class="package-item-shelflife">
+<div class="item-list">
+<h3>SHELF LIFE</h3>
+<ul>
+<li class="first last">18 months</li>
+</ul>
+</div>
+</div>
+<div class="package-item-certifications">
+<div class="item-list">
+<h3>CERTIFICATIONS</h3>
+<ul>
+<li class="first last"><span class="certification-halal">Halal</span></li>
+</ul>
+<p><strong>Disclaimer:</strong> BULK MART does<span> </span><b>NOT</b><span> </span>recommend shipping chocolate products during the months of June, July, August &amp; September. If you must have chocolate shipped BULK MART recommends choosing the fastest method of shipping possible.</p>
+<p><span>BULK MART </span><b>CANNOT</b><span> </span>guarantee the prevention of melting chocolate products, no matter the month or current temperature, even though you may follow our recommendation and CHOOSE the fastest shipping method melting still may occur. Purchase at your own risk.</p>
+<p>Should your chocolate arrive melted, often times they can still be used.</p>
+<p> </p>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g#product","name":"Callebaut - Crisp Pearl White Chocolate - 800 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4169547907142","sku":"kFBM453","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/callebaut-crisp-pearl-white-chocolate-800-g-bulk-mart_269.jpg","description":"Callebaut - Crisp Pearl Strawberries - 800 g.","category":"FOOD","brand":{"@type":"Brand","name":"Callebaut"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"},"offers":[{"sku":"kFBM453","weight":{"@type":"QuantitativeValue","unitText":"g","value":"800"},"mpn":"","priceCurrency":"CAD","price":"17.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/callebaut-crisp-pearl-white-chocolate-800-g?variant=30308487954502","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"54"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cocoa Powder</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4798466555978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>479209</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+</feed>

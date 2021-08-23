@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/frozen-fruits.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-04T16:55:26-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4844834062410</id>
+    <published>2021-01-04T16:55:26-05:00</published>
+    <updated>2021-01-04T16:55:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-kiwi-slices-00236-5-x-1-kg"/>
+    <title>Alasko - Kiwi Slices 00236 - 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-kiwi-slices-00236-5-x-1-kg-247680.png?v=1623994672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Kiwi Slices 00236 - 5 x 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg#product","name":"Iqf Wild Blueberries  - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887452102726","sku":"5BM1223","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/iqf-wild-blueberries-1-kg-bulk-mart_885.jpg","description":"Iqf Wild Blueberries - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"5BM1223","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg?variant=19271280590918","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4844834062410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>49417</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4844833570890</id>
+    <published>2021-01-04T16:55:25-05:00</published>
+    <updated>2021-01-04T16:55:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-kiwi-slices-00236-1-kg"/>
+    <title>Alasko - Kiwi Slices 00236 - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Alasko-KiwiSlices00236-1Kg.png?v=1623978875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Kiwi Slices 00236 - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg#product","name":"Iqf Wild Blueberries  - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887452102726","sku":"5BM1223","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/iqf-wild-blueberries-1-kg-bulk-mart_885.jpg","description":"Iqf Wild Blueberries - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"5BM1223","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg?variant=19271280590918","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4844833570890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.29</s:price>
+      <s:sku>49416</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833078181962</id>
+    <published>2020-12-22T15:18:20-05:00</published>
+    <updated>2020-12-22T15:18:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pink-grapefruit-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pink Grapefruit Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pink-grapefruit-puree-1-kg-504205.jpg?v=1611511597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by extracting and filtering a juice, from selected varieties.</p>
+</div>
+La Fruitiere - Pink Grapefruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833078181962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>52717</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833077657674</id>
+    <published>2020-12-22T15:18:19-05:00</published>
+    <updated>2020-12-22T15:18:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pink-guava-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pink Guava Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pink-guava-puree-1-kg-693526.jpg?v=1611510454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by refining of a variety from Brazil.</p>
+</div>
+La Fruitiere - Pink Guava Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833077657674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52718</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833077264458</id>
+    <published>2020-12-22T15:18:18-05:00</published>
+    <updated>2020-12-22T15:18:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-wild-blueberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Wild Blueberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-wild-blueberry-puree-1-kg-618000.jpg?v=1611511961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining wild blueberries from Europe.</p>
+</div>
+La Fruitiere - Wild Blueberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833077264458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52723</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833075855434</id>
+    <published>2020-12-22T15:18:18-05:00</published>
+    <updated>2020-12-22T15:18:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-white-peach-puree-1-kg"/>
+    <title>La Fruitiere - Frozen White Peach Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-white-peach-puree-1-kg-371479.jpg?v=1611510403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </p>
+<div class="entry-content">
+<p>Made by pitting, crushing and refining fresh white peaches from Rhône Valley. Sourcing of seasonal fresh fruit.</p>
+</div>
+<p data-mce-fragment="1">La Fruitiere - White Peach Puree - 1 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833075855434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>52722</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833075003466</id>
+    <published>2020-12-22T15:18:17-05:00</published>
+    <updated>2020-12-22T15:18:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-strawberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Strawberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-strawberry-puree-1-kg-144045.jpg?v=1611513459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining selected varieties from Mediterranean basin.</p>
+</div>
+La Fruitiere - Strawberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833075003466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52721</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833074577482</id>
+    <published>2020-12-22T15:18:16-05:00</published>
+    <updated>2020-12-22T15:18:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-raspberry-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Raspberry Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-raspberry-puree-1-kg-392312.jpg?v=1611514545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining a blend of the Willamette variety from Serbia and varieties harvested in the Val Evel orchards.</p>
+</div>
+La Fruitiere - Raspberry Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833074577482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52720</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833074249802</id>
+    <published>2020-12-22T15:18:15-05:00</published>
+    <updated>2020-12-22T15:18:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pomegranate-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pomegranate Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pomegranate-fruit-puree-1-kg-285083.jpg?v=1611510397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by refining a variety from South Africa.</p>
+</div>
+La Fruitiere - Pomegranate Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833074249802</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.99</s:price>
+      <s:sku>52719</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833073692746</id>
+    <published>2020-12-22T15:18:14-05:00</published>
+    <updated>2020-12-22T15:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-pineapple-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Pineapple Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-pineapple-fruit-puree-1-kg-996559.jpg?v=1611511831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by crushing and refining pineapple pieces of varieties from South America.</p>
+</div>
+La Fruitiere - Pineapple Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833073692746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>52716</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833073430602</id>
+    <published>2020-12-22T15:18:14-05:00</published>
+    <updated>2020-12-22T15:18:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-passion-fruit-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Passion Fruit Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-passion-fruit-puree-1-kg-144169.jpg?v=1611511589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<div class="entry-content">
+<p>Made by extracting and filtering juice from South America.</p>
+</div>
+La Fruitiere - Passion Fruit Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833073430602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52715</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833072808010</id>
+    <published>2020-12-22T15:18:13-05:00</published>
+    <updated>2020-12-22T15:18:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-melon-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Melon Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-melon-puree-1-kg-715010.jpg?v=1611514550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Made by peeling, crushing and refining the Charentais yellow variety, from France. Sourcing of seasonal fresh fruit.</span></p>
+La Fruitiere - Melon Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833072808010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>52714</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833072218186</id>
+    <published>2020-12-22T15:18:12-05:00</published>
+    <updated>2020-12-22T15:18:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-mango-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Mango Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-mango-puree-1-kg-564380.jpg?v=1611513150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Made by peeling, pitting, refining and blending Alphonso variety from West India and Chato De Ica variety from Peru.</span></p>
+La Fruitiere - Mango Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833072218186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>52713</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833071956042</id>
+    <published>2020-12-22T15:18:11-05:00</published>
+    <updated>2020-12-22T15:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lychee-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lychee Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lychee-puree-1-kg-959821.jpg?v=1611514310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            17.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">LYCHEE PUREE 90%<br>Made by peeling, pitting, refining and blending lychee pulp from Thailand and India.</span></p>
+La Fruitiere - Lychee Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833071956042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.49</s:price>
+      <s:sku>52712</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833071431754</id>
+    <published>2020-12-22T15:18:11-05:00</published>
+    <updated>2020-12-22T15:18:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lime-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lime Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lime-puree-1-kg-742277.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+La Fruitiere - Lime Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833071431754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>52711</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4833070350410</id>
+    <published>2020-12-22T15:18:10-05:00</published>
+    <updated>2020-12-22T15:18:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/la-fruitiere-frozen-lemon-puree-1-kg"/>
+    <title>La Fruitiere - Frozen Lemon Puree - 1 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>La Fruitiere</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/la-fruitiere-lemon-puree-1-kg-794099.jpg?v=1611512551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>La Fruitiere<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            13.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1"></span><strong data-mce-fragment="1">Made with real Fruits , this puree has a low viscosity and bitterness,</strong> and is high in aromatic fragrance, acidity, and sweetness, with an all-around full-bodied taste. This puree is made without preservatives and does not contain artificial colors or flavors. In fact, this puree was created to maintain its original characteristics to let its most natural taste, color, and texture shine in your menu items, any time of the year.</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Packaged in a state-of-the-art tray,</strong> optimal efficiency and economical practice is prioritized to get the most out of this top-quality puree. The tray is designed to take up the least amount of space in your refrigerator or freezer, as well as being able to stack on top of one another for perfect organization.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">The puree itself is easy to unmold and portion</strong>, and can also be defrosted for 24 hours in the refrigerator, or thawed in a baine Marie or microwave for easy pouring. Plus, the tray is designed with three tapered edges to have full control over pouring for exact measuring and less messes. When you're done using the puree, the lid is designed with a snap-on seal to let you know that it is properly closed.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">The flavor characteristics of this puree are as versatile as it is in application. With this puree, crafting anything from cocktails to desserts is simple. This puree can be used in fruit glazes, simple syrups, sabayon, meringues, pastry creams, cremeux, and even as a macaroon filling. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This puree can be used to make parfaits, yogurts, sorbets, ice creams, and even cocktails with gin and Sherry. It also pair very well with stone fruits, nectarines, rhubarb, various subtle nuts such as almonds and hazelnuts, or warm cinnamon, zingy ginger, bright mint, and floral thyme.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"><strong>The natural FRUIT PUREES made from selected fruits and cane sugar</strong> are ready-to-use and particularly suitable as an ingredient in confectioneries, for making ice cream, for making confectionery and chocolate, for cooking and for cocktail bars. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">LEMON PUREE 90%<br>Made by extracting and filtering juices from fruits from Sicily.</span></p>
+La Fruitiere - Lemon Puree - 1 Kg</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruit Purees</s:tag>
+    <s:tag>Special</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4833070350410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.49</s:price>
+      <s:sku>52710</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4844823674954</id>
+    <published>2020-12-02T00:14:54-05:00</published>
+    <updated>2020-12-02T00:14:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-peach-sliced-00230-30-lbs-1alasko-peach-sliced-00230-30-lbs"/>
+    <title>Alasko - Peach Sliced 00230 - 30 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-peach-sliced-00230-30-lbs-710683.png?v=1623994686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Peach Sliced 00230 - 30 Lbs</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-peach-sliced-00198-1-kg#product","name":"Alasko - Peach Sliced 00198 - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887450398790","sku":"eBM1240","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-peach-sliced-00198-1-kg-bulk-mart_324.jpg","description":"Alasko - Peach Sliced 00198 - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"32"},"offers":[{"sku":"eBM1240","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-peach-sliced-00198-1-kg?variant=19271277346886","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"32"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4844823674954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>49420</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4844817612874</id>
+    <published>2020-12-02T00:14:53-05:00</published>
+    <updated>2020-12-02T00:14:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-mango-chunks-00233-5-x-1-kgalasko-mango-chunks-00233-5-x-1-kg"/>
+    <title>Alasko - Mango Chunks 00233 - 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-mango-chunks-00233-5-x-1-kg-442474.png?v=1623994678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Mango Chunks 00233 - 5 x 1 Kg</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-pineapples-chunks-00199-1-kg#product","name":"Alasko -  Pineapples Chunks 00199 - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887450136646","sku":"1BM1237","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-pineapples-chunks-00199-1-kg-bulk-mart_506.jpg","description":"Alasko - Pineapples Chunks 00199 - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"1BM1237","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-pineapples-chunks-00199-1-kg?variant=19271276920902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4844817612874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>49418</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887452102726</id>
+    <published>2020-09-21T11:10:18-04:00</published>
+    <updated>2020-09-21T11:10:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/iqf-wild-blueberries-1-kgalasko-wild-blueberries-00202-1-kg"/>
+    <title>Alasko - Wild Blueberries 00202 - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-wild-blueberries-00202-1-kg-188421.jpg?v=1623994755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Wild Blueberries 00202 - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg#product","name":"Iqf Wild Blueberries  - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887452102726","sku":"5BM1223","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/iqf-wild-blueberries-1-kg-bulk-mart_885.jpg","description":"Iqf Wild Blueberries - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"},"offers":[{"sku":"5BM1223","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"7.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/iqf-wild-blueberries-1-kg?variant=19271280590918","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"34"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887452102726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>49430</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887452037190</id>
+    <published>2020-09-21T11:10:16-04:00</published>
+    <updated>2020-09-21T11:10:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-wild-blueberries-00202-5-x-1-kg"/>
+    <title>Alasko - Wild Blueberries 00202 - 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-wild-blueberries-00202-5-x-1-kg-351961.jpg?v=1623994740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Wild Blueberries 00202 - 5 x 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/iqf-wild-blueberries-5-x-1-kg#product","name":"Iqf Wild Blueberries  - 5 x 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887452037190","sku":"5BM1222","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/iqf-wild-blueberries-5-x-1-kg-bulk-mart_230.jpg","description":"Iqf Wild Blueberries - 5 x 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"5BM1222","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/iqf-wild-blueberries-5-x-1-kg?variant=19271280459846","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887452037190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>49431</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4747696635978</id>
+    <published>2020-08-28T14:36:34-04:00</published>
+    <updated>2020-08-28T14:36:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-mango-chunks-00233-1-kg"/>
+    <title>Alasko -  Mango Chunks 00233 - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-mango-chunks-00233-1-kg-212099.jpg?v=1623994693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko -  Mango Chunks 00233 - 1 Kg</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-pineapples-chunks-00199-1-kg#product","name":"Alasko -  Pineapples Chunks 00199 - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887450136646","sku":"1BM1237","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-pineapples-chunks-00199-1-kg-bulk-mart_506.jpg","description":"Alasko - Pineapples Chunks 00199 - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"},"offers":[{"sku":"1BM1237","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-pineapples-chunks-00199-1-kg?variant=19271276920902","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"28"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4747696635978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>49402</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2061857030214</id>
+    <published>2019-06-06T10:10:26-04:00</published>
+    <updated>2019-06-06T10:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-apples-sliced-90194-5-x-1-kg"/>
+    <title>Alasko - Apples Sliced 90194- 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-apples-sliced-90194-5-x-1-kg-905254.jpg?v=1623994684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Apples Sliced 90194- 5 x 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-apples-sliced-90194-5-x-1-kg#product","name":"Alasko - Apples Sliced 90194- 5 x 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2061857030214","sku":"7BM1226","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-apples-sliced-90194-5-x-1-kg-bulk-mart_643.jpg","description":"Alasko - Apples Sliced 90194- 5 x 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"7BM1226","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"45.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-apples-sliced-90194-5-x-1-kg?variant=20716122472518","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2061857030214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>49411</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2061834977350</id>
+    <published>2019-06-06T10:10:26-04:00</published>
+    <updated>2019-06-06T10:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-apples-sliced-90194-1-kgalasko-apples-sliced-90194-1-kg"/>
+    <title>Alasko - Apples Sliced 90194- 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-apples-sliced-90194-1-kg-886947.jpg?v=1623994679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Apples Sliced 90194- 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-apples-sliced-90194-1-kg#product","name":"Alasko - Apples Sliced 90194- 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2061834977350","sku":"7BM1227","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-apples-sliced-90194-1-kg-bulk-mart_786.jpg","description":"Alasko - Apples Sliced 90194- 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"7BM1227","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-apples-sliced-90194-1-kg?variant=20716012929094","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2061834977350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>49410</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887552340038</id>
+    <published>2019-06-06T10:10:26-04:00</published>
+    <updated>2019-06-06T10:10:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-sliced-rhubarb-6-x-2-kgalasko-rhubarb-cut-00502-5-x-1-kg"/>
+    <title>Alasko - Rhubarb Cut 00502 - 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-rhubarb-cut-00502-5-x-1-kg-911668.png?v=1623994755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Rhubarb Cut 00502 - 5 x 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-sliced-rhubarb-6-x-2-kg#product","name":"Alasko - Sliced Rhubarb - 6 x 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552340038","sku":"RBM1388","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-sliced-rhubarb-6-x-2-kg-bulk-mart_901.jpg","description":"Alasko - Sliced Rhubarb - 6 x 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"RBM1388","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"47.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-sliced-rhubarb-6-x-2-kg?variant=19271466221638","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887552340038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>49426</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887552241734</id>
+    <published>2019-06-06T10:10:25-04:00</published>
+    <updated>2019-06-06T10:10:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/alasko-rhubarb-cut-00502-1-kg"/>
+    <title>Alasko - Rhubarb Cut 00502 - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Alasko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-rhubarb-cut-00502-1-kg-786702.png?v=1623994755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Alasko<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="big-centered-text pale-green" _ngcontent-ftf-c3="">With Alasko, the world is your garden. We bring you the most extensive portfolio of IQF frozen fruits from around the world.</h2>
+<p><span>Alasko covers all your frozen vegetable needs. Be it organic or conventional, single vegetable ingredients or blends, exotic or innovative blends.</span></p>
+<p><span>Frozen fruits are harvested at the peak of freshness and frozen in season to capture their flavor, vitamins and nutrients. With IQF (Individual Quick Freezing) technology, each fruit and each vegetable is individually frozen, locking in nutrition</span></p>
+<ul>
+<li><span>Our fruits are harvested at the peak of maturity.</span></li>
+<li><span>They are carefully selected, washed, blanched and quick frozen to lock in the great taste and nutrition.</span></li>
+<li><span>Keep frozen at 0°F or -18°C or below.</span></li>
+<li><span>Do not refreeze if thawed.</span></li>
+</ul>
+<p>Alasko - Rhubarb Cut 00502 - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/alasko-sliced-rhubarb-2-kg#product","name":"Alasko - Sliced Rhubarb - 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887552241734","sku":"RBM1387","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/alasko-sliced-rhubarb-2-kg-bulk-mart_298.jpg","description":"Alasko - Sliced Rhubarb - 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Alasko"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"RBM1387","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2"},"mpn":"","priceCurrency":"CAD","price":"7.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/alasko-sliced-rhubarb-2-kg?variant=19271466156102","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Fruits</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887552241734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.69</s:price>
+      <s:sku>49425</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

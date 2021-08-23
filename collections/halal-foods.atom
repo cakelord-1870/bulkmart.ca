@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/halal-foods.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-07T08:40:44-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/2054547767366</id>
+    <published>2021-01-07T08:40:44-05:00</published>
+    <updated>2021-01-07T08:40:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/solmaz-frozen-sliced-halal-pepperoni-2-kg"/>
+    <title>Solmaz -  Frozen Sliced Halal Pepperoni - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Solmaz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/solmaz-frozen-sliced-halal-pepperoni-2-kg-765828.jpg?v=1611512372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Solmaz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Solmaz -  Halal Sliced Beef Pepperoni - 2 Kg</p>
+<ul>
+<li>Blend of chicken and beef</li>
+<li>2 kg</li>
+<li>Keep frozen</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/solmaz-halal-pepperoni-sliced-2-kg#product","name":"Solmaz -  Halal Pepperoni Sliced - 2 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054547767366","sku":"4BM3805","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/solmaz-halal-pepperoni-sliced-2-kg-bulk-mart_122.gif","description":"Solmaz - Halal Pepperoni Sliced - 2 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Solmaz"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"4BM3805","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.002"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/solmaz-halal-pepperoni-sliced-2-kg?variant=20686517043270","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Pepperoni</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054547767366</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>136549</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948740170</id>
+    <published>2020-12-30T23:37:32-05:00</published>
+    <updated>2020-12-30T23:37:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-599-per-lb-avg-wt-50-lb-538086.jpg?v=1611511180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone In - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948740170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22319</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848948346954</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-649-per-lb-avg-wt-50-lb-705269.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848948346954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22317</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947724362</id>
+    <published>2020-12-30T23:37:31-05:00</published>
+    <updated>2020-12-30T23:37:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-leg-bone-in-cubes-6-49-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-leg-bone-in-cubes-649-per-lb-avg-wt-50-lb-789522.jpg?v=1611510697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            324.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Leg Bone in Cubes - $6.49 Per Lb Avg. Wt. 50 Lb</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947724362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.50</s:price>
+      <s:sku>22318</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848947331146</id>
+    <published>2020-12-30T23:37:30-05:00</published>
+    <updated>2020-12-30T23:37:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frozen-halal-lamb-shoulder-bone-in-cubes-5-99-per-lb-avg-wt-50-lb"/>
+    <title>Frozen Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>WFN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frozen-halal-lamb-shoulder-bone-in-cubes-599-per-lb-avg-wt-50-lb-360338.jpg?v=1611510995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WFN<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Lamb Shoulder Bone in Cubes - $5.99 Per Lb Avg. Wt. 50 Lb</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb#product","name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","itemCondition":"https://schema.org/NewCondition","mpn":"3959647010886","sku":"5BM3820","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lamb-bone-in-cubes-appx-50-lb-bulk-mart-504.jpg","description":"Halal Lamb Bone in Cubes - Appx. 50 Lb...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"50"},"gtin13":"sZ40015BM3820","offers":[{"name":"Halal Lamb Bone in Cubes - Appx. 50 Lb","sku":"5BM3820","gtin13":"sZ40015BM3820","@type":"Offer","priceCurrency":"CAD","price":"284.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/halal-lamb-bone-in-cubes-appx-50-lb?variant=29508925227078","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Frozen Lamb</s:tag>
+    <s:tag>Frozen Meat</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848947331146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.00</s:price>
+      <s:sku>22320</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4867752591434</id>
+    <published>2020-12-30T13:29:06-05:00</published>
+    <updated>2020-12-30T13:29:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g"/>
+    <title>Nutella - Hazelnut Spread Mini Glass Jars - 64 x 25 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nutella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nutella-hazelnut-spread-mini-glass-jars-64-x-25-g-918789.jpg?v=1611511236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nutella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><strong data-mce-fragment="1">Original Nutella hazelnut chocolate spread Mini Glass Jar, Single Serving Jar!</strong></div>
+<ul data-mce-fragment="1" class="a-unordered-list a-vertical a-spacing-mini">
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">The perfect stocking stuffer or topping for Christmas baking, pancakes, waffles, toast, and more!</span></li>
+<li data-mce-fragment="1">Perfect spread for waffles, toast, pancakes, and more at breakfast or as an after school snacks for kids<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Nutella is made with the highest quality raw materials, including premium hazelnuts, cocoa, and never made with GMO ingredients</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1" class="a-list-item">Gluten-free, Certified Kosher, Vegetarian &amp; Halal</span></li>
+</ul>
+Nutella - Hazelnut Spread Glass - 64 x 25 g<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Portions</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Nutella</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Vegetarian Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867752591434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>601209</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848809148490</id>
+    <published>2020-12-19T20:33:47-05:00</published>
+    <updated>2020-12-19T20:33:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/amira-fig-jam-250-mlamira-figs-jam-halal-250-ml"/>
+    <title>Amira - Figs Jam Halal - 250 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Amira</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/amira-figs-jam-halal-250-ml-426591.jpg?v=1624068878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amira<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Amira jam in a 250ml glass jars full of fruit pulp and crushed fruits, sweet enough for your morning spreads or a filling for your favorite cookies.</div>
+<p>Amira - Fig Jam - 250 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848809148490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>51602</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848808984650</id>
+    <published>2020-12-19T20:33:46-05:00</published>
+    <updated>2020-12-19T20:33:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/amira-mango-jam-halal-250-ml"/>
+    <title>Amira - Mango Jam Halal - 250 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Amira</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/amira-mango-jam-halal-250-ml-902623.jpg?v=1624068877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amira<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Amira jam in a 250ml glass jars full of fruit pulp and crushed fruits, sweet enough for your morning spreads or a filling for your favorite cookies.</div>
+<p>Amira - Mango Jam - 250 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848808984650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>51604</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848808788042</id>
+    <published>2020-12-19T20:33:46-05:00</published>
+    <updated>2020-12-19T20:33:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/amira-dates-jam-halal-250-ml"/>
+    <title>Amira - Dates Jam Halal - 250 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Amira</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/amira-dates-jam-halal-250-ml-825056.jpg?v=1624068880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amira<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Amira jam in a 250ml glass jars full of fruit pulp and crushed fruits, sweet enough for your morning spreads or a filling for your favorite cookies.</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<p>Amira - Dates Jam Halal - 250 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848808788042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>51601</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848808230986</id>
+    <published>2020-12-19T20:33:45-05:00</published>
+    <updated>2020-12-19T20:33:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/amira-strawberry-jam-halal-250-ml"/>
+    <title>Amira - Strawberry Jam Halal - 250 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Amira</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Amira-StrawberryJamHalal-250ml.jpg?v=1624065907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amira<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Amira jam in a 250ml glass jars full of fruit pulp and crushed fruits, sweet enough for your morning spreads or a filling for your favorite cookies.</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<p>Amira - Strawberry Jam - 250 ml</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lynch-caramel-topping-4-l#product","name":"Lynch -  Caramel Topping - 4 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054551732294","sku":"8BM3941","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lynch-caramel-topping-4-l-bulk-mart_733.gif","description":"Lynch - Caramel Topping - 4 L.","category":"FOOD","brand":{"@type":"Brand","name":"Lynch"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"8BM3941","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.004"},"mpn":"","priceCurrency":"CAD","price":"36.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lynch-caramel-topping-4-l?variant=20686521794630","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Jams</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848808230986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>51605</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851588989002</id>
+    <published>2020-12-09T09:59:36-05:00</published>
+    <updated>2020-12-09T09:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-chai-tea-concentrate-syrup-750-ml"/>
+    <title>Monin - Chai Tea Concentrate Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-chai-tea-concentrate-syrup-750-ml-217962.jpg?v=1611511175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<h2 class="headline">Quickly and easily make popular chai drinks with this Monin chai tea 7:1 concentrate!</h2>
+<div class="flex-container">Featuring notes of clove, cinnamon, and ginger, this aromatic concentrate offers the perfect way to create delicious, well balanced chai tea beverages in your diner, bakery, hotel, or office. Packaged in a glass bottle, this concentrate boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</div>
+<div class="flex-container"></div>
+<div class="flex-container">
+<h3 class="item-header">Easy to Prepare</h3>
+<p>To make a hot chai tea, simply add 1.5 oz. concentrate to a cup and stir in steamed milk. For an iced chai, simply fill a glass with ice, mix 0.5 oz. concentrate with water, stir, and serve. It is conveniently pre-sweetened with pure cane sugar, making it an easy one step solution to serving quality chai tea in your establishment. Each bottle makes approximately (25) 8 oz. drinks.</p>
+<p><span>This delicious spiced punch is perfect for serving at your winter and fall events!</span><br></p>
+</div>
+</div>
+</div>
+</div>
+Monin - Chai Tea (Masala Chai) Concentrate Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Concentrated Drink Mixes</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851588989002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>728272</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851594559562</id>
+    <published>2020-12-08T00:44:12-05:00</published>
+    <updated>2020-12-08T00:44:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-margarita-mix-syrup-750-mlmonin-margarita-mix-syrup-64-oz"/>
+    <title>Monin - Margarita Mix Syrup - 64 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-margarita-mix-syrup-64-oz-467534.jpg?v=1611511430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Margarita<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Margarita Mix Syrup - 64 Oz</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851594559562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>48112</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851593773130</id>
+    <published>2020-12-08T00:44:11-05:00</published>
+    <updated>2020-12-08T00:44:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-mojito-mix-syrup-750-mlmonin-mojito-mix-syrup-750-ml"/>
+    <title>Monin - Mojito Mix Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-mojito-mix-syrup-750-ml-468169.jpg?v=1611510938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Mojito Mix<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Mojito Mix Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851593773130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48113</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851593314378</id>
+    <published>2020-12-08T00:44:10-05:00</published>
+    <updated>2020-12-08T00:44:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-grenadine-syrup-750-ml"/>
+    <title>Monin - Grenadine Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-grenadine-syrup-750-ml-945318.jpg?v=1611511242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Grenadine flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Grenadine Syrup - 750 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851593314378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48104</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851588071498</id>
+    <published>2020-12-08T00:44:09-05:00</published>
+    <updated>2020-12-08T00:44:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-lychee-syrup-1-lmonin-lychee-syrup-1-l"/>
+    <title>Monin - Lychee Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-lychee-syrup-1-l-717295.jpg?v=1611513277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Lychee<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Lychee Syrup - 1 L</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851588071498</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48109</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587874890</id>
+    <published>2020-12-08T00:44:08-05:00</published>
+    <updated>2020-12-08T00:44:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-ruby-red-grapefruit-syrup-1-lmonin-ruby-red-grapefruit-syrup-1-l"/>
+    <title>Monin - Ruby Red Grapefruit Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-ruby-red-grapefruit-syrup-1-l-525174.jpg?v=1611514251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Red Ruby<span data-mce-fragment="1"> Grapefruit </span>flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Ruby Red Grapefruit Syrup - 1 L</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587874890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587285066</id>
+    <published>2020-12-08T00:44:07-05:00</published>
+    <updated>2020-12-08T00:44:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-watermelon-syrup-1-lmonin-watermelon-syrup-1-l"/>
+    <title>Monin - Watermelon Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-watermelon-syrup-1-l-444078.jpg?v=1611513279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Watermelon<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Watermelon Syrup - 1 L</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587285066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48125</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851587088458</id>
+    <published>2020-12-08T00:44:06-05:00</published>
+    <updated>2020-12-08T00:44:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-guava-syrup-750-mlmonin-guava-syrup-750-ml"/>
+    <title>Monin - Guava Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-guava-syrup-750-ml-215404.jpg?v=1611511003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h2 data-mce-fragment="1" class="headline">Bring exotic citrus flavor to your beverages with this Monin premium Guava flavoring syrup!</h2>
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="detail-section intro-template">
+<div data-mce-fragment="1" class="flex-container">
+<div data-mce-fragment="1" class="template-text">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Guava Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851587088458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48105</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851586826314</id>
+    <published>2020-12-08T00:44:05-05:00</published>
+    <updated>2020-12-08T00:44:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-white-sangria-mix-syrup-750-ml"/>
+    <title>Monin - White Sangria Mix Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-white-sangria-mix-syrup-750-ml-616252.jpg?v=1611511175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium White Sangria Mix<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - White Sangria Mix Syrup - 750 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851586826314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48126</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851586433098</id>
+    <published>2020-12-08T00:44:04-05:00</published>
+    <updated>2020-12-08T00:44:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-red-sangria-mix-syrup-750-ml"/>
+    <title>Monin - Red Sangria Mix Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-red-sangria-mix-syrup-750-ml-651378.jpg?v=1611511956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Red Sangria Mix<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Red Sangria Mix Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851586433098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48118</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851586269258</id>
+    <published>2020-12-08T00:44:03-05:00</published>
+    <updated>2020-12-08T00:44:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-blood-orange-syrup-1-l"/>
+    <title>Monin - Blood Orange Syrup - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-blood-orange-syrup-1-l-729230.jpg?v=1611512076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin 1 liter premium blood orange flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template">
+<div class="flex-container">
+<div class="template-text">
+<p itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p itemprop="description"><strong>Dietary Details:</strong></p>
+<p itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label<br></p>
+</div>
+</div>
+</div>
+</div>
+Monin - Blood Orange Syrup - 1 L</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851586269258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48100</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851585515594</id>
+    <published>2020-12-08T00:44:02-05:00</published>
+    <updated>2020-12-08T00:44:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-orange-syrup-750-mlmonin-orange-spritz-1-l"/>
+    <title>Monin - Orange Spritz - 1 L</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-orange-spritz-1-l-497023.png?v=1611511000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Orange Spritz<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Orange Spritz - 1 L</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851585515594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.49</s:price>
+      <s:sku>48114</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851584696394</id>
+    <published>2020-12-08T00:44:02-05:00</published>
+    <updated>2020-12-08T00:44:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-mango-syrup-750-mlmonin-mango-syrup-750-ml"/>
+    <title>Monin - Mango Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-mango-syrup-750-ml-976049.jpg?v=1611510933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Mango<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Mango Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851584696394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48111</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851584434250</id>
+    <published>2020-12-08T00:44:01-05:00</published>
+    <updated>2020-12-08T00:44:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-stone-fruit-syrup-750-mlmonin-stone-fruit-syrup-750-ml"/>
+    <title>Monin - Stone Fruit Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-stone-fruit-syrup-750-ml-937507.jpg?v=1611512674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Stone Fruit<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Stone Fruit Syrup - 750 ml</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851584434250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48121</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4851584106570</id>
+    <published>2020-12-08T00:44:00-05:00</published>
+    <updated>2020-12-08T00:44:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monin-lime-syrup-750-mlmonin-lime-syrup-750-ml"/>
+    <title>Monin - Lime Syrup - 750 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monin</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monin-lime-syrup-750-ml-246249.jpg?v=1611513034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monin<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h2 class="headline" data-mce-fragment="1">Bring exotic citrus flavor to your beverages with this Monin premium Lime<span data-mce-fragment="1"> </span>flavoring syrup!</h2>
+<div class="flex-container" data-mce-fragment="1">
+<div class="detail-section intro-template" data-mce-fragment="1">
+<div class="flex-container" data-mce-fragment="1">
+<div class="template-text" data-mce-fragment="1">
+<p data-mce-fragment="1" itemprop="description">This syrup provides a quick and easy way to add exciting new flavor and a vibrant color to a variety of your handcrafted cocktails, sodas, iced teas, and lemonades. Made with pure cane sugar and no artificial ingredients, this all natural syrup will enhance the flavor profile of your mixed or blended drinks without overpowering them or being too sweet. You can even use this syrup to create deliciously sweet popsicles, sorbets, or glazes for entrees! Packaged in a shatterproof plastic bottle, this flavoring syrup is an excellent addition to any restaurant, bar, coffee shop, or cafe. It boasts a sleek appearance for an attractive shelf presence and can easily be paired with a compatible pump for quick, efficient service during peak serving hours.</p>
+<p data-mce-fragment="1" itemprop="description"><strong data-mce-fragment="1">Dietary Details:</strong></p>
+<p data-mce-fragment="1" itemprop="description">Allergen Free, Dairy Free, Gluten Free, Halal, Kosher, No Artificial Colours, No Artificial Flavours, No Artificial Ingredients, No Artificial Preservatives, No Artificial Sweeteners, Non GMO, Vegan, Clean Label</p>
+</div>
+</div>
+</div>
+</div>
+Monin - Lime Syrup - 750 ml</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case#product","name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","itemCondition":"https://schema.org/NewCondition","mpn":"4566545072202","sku":"3BM3952","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case-bulk-mart-657.jpg","description":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case...","category":"FOOD","brand":{"@type":"Brand","name":"Rooh Afza"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"45"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"10"},"gtin13":"Syrup13BM3952","offers":[{"name":"Hamdard Rooh Afza - Summer Drink - 12 x 800 ml / Case","sku":"3BM3952","gtin13":"Syrup13BM3952","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/hamdard-rooh-afza-summer-drink-12-x-800-ml-case?variant=31981083033674","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Flavoring Syrups</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Monin</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Vegan Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4851584106570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48108</s:sku>
+      <s:grams>750</s:grams>
+    </s:variant>
+  </entry>
+</feed>

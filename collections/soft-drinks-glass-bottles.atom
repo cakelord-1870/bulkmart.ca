@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/soft-drinks-glass-bottles.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-17T23:39:57-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4771219505226</id>
+    <published>2020-09-17T23:39:57-04:00</published>
+    <updated>2020-09-17T23:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-sangria-24-x-370-ml"/>
+    <title>Jarritos - Sangria - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-sangria-24-x-370-ml-970186.jpg?v=1611512853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Sangria - 24 x 370 ml</h2>
+<p itemprop="description"><span>Quench your customers' thirst with the deliciously sweet, authentic taste of this Sangria Senorial non-alcoholic sangria soda. This carbonated, non-alcoholic sangria soda features a lightly carbonated fizz, deep red color, and a strong, heady aroma. Its unique flavor profile is complex, sweet, and fruity with notes of grape and cherry and a mildly tart aftertaste. The soda is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml#product","name":"Jarritos - Fruit Punch - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736719942","sku":"BM2638","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-fruit-punch-24-x-370-ml-bulk-mart_401.jpg","description":"Jarritos - Fruit Punch - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BM2638","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml?variant=20255597822022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771219505226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>884368</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771217899594</id>
+    <published>2020-09-17T23:39:56-04:00</published>
+    <updated>2020-09-17T23:39:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-guava-24-x-370-ml"/>
+    <title>Jarritos - Guava - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-guava-24-x-370-ml-782521.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Guava - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos guava soda. This naturally-flavored soda features a lightly carbonated fizz, mild tropical fruit aroma, and a subtly sweet, refreshing guava taste with notes of passion fruit. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml#product","name":"Jarritos - Fruit Punch - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736719942","sku":"BM2638","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-fruit-punch-24-x-370-ml-bulk-mart_401.jpg","description":"Jarritos - Fruit Punch - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BM2638","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml?variant=20255597822022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771217899594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>884362</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771212853322</id>
+    <published>2020-09-17T23:34:00-04:00</published>
+    <updated>2020-09-17T23:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-grapefruit-24-x-370-ml"/>
+    <title>Jarritos - Grapefruit - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-grapefruit-24-x-370-ml-117688.jpg?v=1611513214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Grapefruit - 24 x 370 ml</h2>
+<p itemprop="description"><span>Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos grapefruit soda. This naturally-flavored soda features a lightly carbonated fizz, and a true grapefruit aroma with a perfectly balanced tart and sweet flavor. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml#product","name":"Jarritos - Fruit Punch - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736719942","sku":"BM2638","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-fruit-punch-24-x-370-ml-bulk-mart_401.jpg","description":"Jarritos - Fruit Punch - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BM2638","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml?variant=20255597822022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771212853322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884361</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736916550</id>
+    <published>2020-09-17T23:33:58-04:00</published>
+    <updated>2020-09-17T23:33:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-mexican-cola-24-x-370-ml"/>
+    <title>Jarritos - Mexican cola - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-mexican-cola-24-x-370-ml-580495.jpg?v=1611510934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Mexican cola - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos Mexican cola soda. This soda features a lightly carbonated fizz and a crisp, refreshing Mexican cola flavor with notes of vanilla and zingy ginger. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-premium-cola-24-x-370-ml#product","name":"Jarritos - Premium Cola - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736916550","sku":"BM2635","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-premium-cola-24-x-370-ml-bulk-mart_209.gif","description":"Jarritos - Premium Cola - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM2635","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-premium-cola-24-x-370-ml?variant=20255598182470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736916550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>884366</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736818246</id>
+    <published>2020-03-07T11:56:02-05:00</published>
+    <updated>2020-03-07T11:56:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-mandarin-24-x-370-ml"/>
+    <title>Jarritos - Mandarin - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-mandarin-24-x-370-ml-407556.jpg?v=1611511841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Mandarin - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos mandarin soda. This naturally-flavored soda features a strong fizz and a true-to-taste, tangy-sweet mandarin orange flavor. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736818246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884364</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998727839814</id>
+    <published>2019-12-13T18:04:10-05:00</published>
+    <updated>2019-12-13T18:04:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/canada-dry-ginger-ale-glass-bottle-24-x-330-ml-pack"/>
+    <title>Canada Dry - Ginger Ale Glass Bottle - 24 x 330 ml / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Coca-Cola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/canada-dry-ginger-ale-glass-bottle-24-x-330-ml-pack-994963.jpg?v=1611509380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coca-Cola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Canada Dry - Ginger Ale Glass Bottle - 24 x 330 ml</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Canada Dry Ginger Ale is a genuine Canadian sparkling favourite with a crisp, clean light and refreshing taste that is perfect to relax and unwind with.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">100% natural flavour and caffeine free.<br>The ideal can size for pairing with individual meals or snacks.<br>Can be enjoyed on your own or while entertaining family and friends.<br>Best savoured chilled for the ultimate refreshing beverage experience.</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/canada-dry-ginger-ale-glass-bottle-24-x-330-ml#product","name":"Canada Dry -  Ginger Ale Glass Bottle - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998727839814","sku":"BM2393","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/canada-dry-ginger-ale-glass-bottle-24-x-330-ml-bulk-mart_989.jpg","description":"Canada Dry - Ginger Ale Glass Bottle - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Canada Dry"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"BM2393","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"38.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/canada-dry-ginger-ale-glass-bottle-24-x-330-ml?variant=20255574556742","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coca-Cola</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998727839814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>009007</s:sku>
+      <s:grams>14000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737375302</id>
+    <published>2019-02-21T00:50:40-05:00</published>
+    <updated>2019-02-21T00:50:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-strawberry-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Strawberry - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-strawberry-24-x-330-ml-438751.jpg?v=1624169289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free<strong>﻿</strong></span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737375302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>009007</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737342534</id>
+    <published>2019-02-21T00:50:39-05:00</published>
+    <updated>2019-02-21T00:50:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-raspberry-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Raspberry - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-raspberry-24-x-330-ml-470601.jpg?v=1624169292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/barbican-malt-drink-raspberry-24-x-330-ml#product","name":"Barbican - Malt Drink Raspberry - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998737342534","sku":"BM2659","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-raspberry-24-x-330-ml-bulk-mart_448.jpg","description":"Barbican - Malt Drink Raspberry - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Barbican"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"},"offers":[{"sku":"BM2659","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/barbican-malt-drink-raspberry-24-x-330-ml?variant=20255600017478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"22"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737342534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>009006</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737309766</id>
+    <published>2019-02-21T00:50:38-05:00</published>
+    <updated>2019-02-21T00:50:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-pomegranate-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Pomegranate - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-pomegranate-24-x-330-ml-453303.jpg?v=1624169289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737309766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>009005</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737276998</id>
+    <published>2019-02-21T00:50:37-05:00</published>
+    <updated>2019-02-21T00:50:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-pineapple-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Pineapple - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-pineapple-24-x-330-ml-374843.jpg?v=1624169290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737276998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>009004</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737244230</id>
+    <published>2019-02-21T00:50:37-05:00</published>
+    <updated>2019-02-21T00:50:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-peach-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Peach - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-peach-24-x-330-ml-277250.jpg?v=1624169294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737244230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>009003</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737145926</id>
+    <published>2019-02-21T00:50:35-05:00</published>
+    <updated>2019-02-21T00:50:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-lemon-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Lemon - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-lemon-24-x-330-ml-263039.jpg?v=1624169289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737145926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>009002</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737113158</id>
+    <published>2019-02-21T00:50:34-05:00</published>
+    <updated>2019-02-21T00:50:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/barbican-malt-drink-apple-24-x-330-ml"/>
+    <title>Barbican - Malt Drink Apple - 24 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Barbican</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/barbican-malt-drink-apple-24-x-330-ml-140569.jpg?v=1624169294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barbican<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barbican Malt Beverage Non Alcoholic is a smooth and refined drink in a Strawberry flavor. Produced and bottled in the United Arab Emirates. Enjoy cold &amp; icy..!</p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Delicious and wonderfully refreshing malt beverage</span></li>
+<li><span class="a-list-item">Infused with fruit flavor</span></li>
+<li><span class="a-list-item">Crafted with the finest ingredients</span></li>
+<li><span class="a-list-item">Carbonated</span></li>
+<li><span class="a-list-item">Alcohol-free</span></li>
+<li><span class="a-list-item">This Item is Only eligible for Instore Pick up or Local Delivery</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Barbican</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737113158</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>009001</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998737047622</id>
+    <published>2019-02-21T00:50:34-05:00</published>
+    <updated>2019-02-21T00:50:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/brio-chinotto-italian-soda-drink-orange-glass-bottle-12-x-355-ml"/>
+    <title>Brio - Chinotto Italian Soda Drink Orange Glass Bottle - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Brio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/brio-chinotto-italian-soda-drink-orange-glass-bottle-12-x-355-ml-842770.jpg?v=1611513697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brio<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.</span></p>
+<p>Brio - Chinotto Italian Soda Drink Glass Bottle - 12 x 355 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brio</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998737047622</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>BM2644</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736982086</id>
+    <published>2019-02-21T00:50:31-05:00</published>
+    <updated>2019-02-21T00:50:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-tamarind-24-x-370-ml"/>
+    <title>Jarritos - Tamarind - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-tamarind-24-x-370-ml-478132.jpg?v=1611510454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Tamarind - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos tamarind soda. This naturally-flavored soda features a lightly carbonated fizz and a refreshingly sweet, mild tamarind flavor with notes of caramel and bitter orange. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-tamarind-24-x-370-ml#product","name":"Jarritos - Tamarind - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736982086","sku":"BM2639","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-tamarind-24-x-370-ml-bulk-mart_135.jpg","description":"Jarritos - Tamarind - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"BM2639","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-tamarind-24-x-370-ml?variant=20255598411846","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736982086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>010120</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736949318</id>
+    <published>2019-02-21T00:50:30-05:00</published>
+    <updated>2019-02-21T00:50:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-strawberry-24-x-370-ml"/>
+    <title>Jarritos - Strawberry - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-strawberry-24-x-370-ml-986592.jpg?v=1611510771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Strawberry - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos strawberry soda. This soda features a lightly carbonated fizz, candied strawberry aroma, and a sweet, strong strawberry taste. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-strawberry-24-x-370-ml#product","name":"Jarritos - Strawberry - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736949318","sku":"BM2637","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-strawberry-24-x-370-ml-bulk-mart_852.jpg","description":"Jarritos - Strawberry - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"},"offers":[{"sku":"BM2637","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-strawberry-24-x-370-ml?variant=20255598280774","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"11"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736949318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884369</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736883782</id>
+    <published>2019-02-21T00:50:28-05:00</published>
+    <updated>2019-02-21T00:50:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-pineapple-24-x-370-ml"/>
+    <title>Jarritos - Pineapple - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-pineapple-24-x-370-ml-950919.jpg?v=1611510700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Pineapple - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos pineapple soda. This soda features a lightly carbonated fizz, a tropical fruit aroma, and a sweet, perfectly ripe pineapple taste. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736883782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>884367</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736851014</id>
+    <published>2019-02-21T00:50:27-05:00</published>
+    <updated>2019-02-21T00:50:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-mango-24-x-370-ml"/>
+    <title>Jarritos - Mango - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-mango-24-x-370-ml-785135.jpg?v=1611510996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Mango - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos mango soda. This soda features a lightly carbonated fizz, ripe, tropical aroma, and a sweet mango flavor. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736851014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884365</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736785478</id>
+    <published>2019-02-21T00:50:26-05:00</published>
+    <updated>2019-02-21T00:50:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-lime-24-x-370-ml"/>
+    <title>Jarritos - Lime - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-lime-24-x-370-ml-147003.jpg?v=1611513394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Lime - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos lime soda. This naturally-flavored soda features a lightly carbonated fizz, citrus aroma, and a pleasantly sweetened, true lime flavor with a hint of tartness. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736785478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884363</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736719942</id>
+    <published>2019-02-21T00:50:25-05:00</published>
+    <updated>2019-02-21T00:50:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml"/>
+    <title>Jarritos - Fruit Punch - 24 x 370 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Jarritos</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-fruit-punch-24-x-370-ml-548569.jpg?v=1611510521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jarritos<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Jarritos - Fruit Punch - 24 x 370 ml</h2>
+<p itemprop="description">Quench your customers' thirst with the deliciously sweet, authentic taste of this Jarritos fruit punch soda. This soda features a lightly carbonated fizz, mild fruity aroma, and a sweet, candied fruit taste that combines notes of cherry, strawberry, and citrus flavors. It is made with real fruit flavors, real cane sugar, and is never made with high fructose corn syrup to deliver a clean, non-syrupy sweetness. Plus, it is naturally caffeine-free. For best results, serve this soda chilled or over ice to accentuate its high quality taste. It can also be used to easily craft unique cocktails and mocktails with bold, fresh flavor.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml#product","name":"Jarritos - Fruit Punch - 24 x 370 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736719942","sku":"BM2638","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/jarritos-fruit-punch-24-x-370-ml-bulk-mart_401.jpg","description":"Jarritos - Fruit Punch - 24 x 370 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Jarritos"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"},"offers":[{"sku":"BM2638","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"34.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/jarritos-fruit-punch-24-x-370-ml?variant=20255597822022","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"30"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jarritos</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736719942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>884360</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736523334</id>
+    <published>2019-02-21T00:50:13-05:00</published>
+    <updated>2019-02-21T00:50:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dg-ting-grapefruit-24-x-300-ml"/>
+    <title>D&amp;G - Ting Pink Grapefruit - 24 x 300 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-ting-pink-grapefruit-24-x-300-ml-223157.jpg?v=1619796094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;G<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>D&amp;G - Ting Grapefruit - 24 x 300 ml</strong></p>
+<p><span>Quench your thirst with some D&amp;G Ting Pink Grapefruit</span><span data-mce-fragment="1">.</span><span> Refreshing and delicious, it features a crisp taste that is a lot richer. Enjoy it straight from the fridge or served over ice. It is low in sodium and sweetened with sugar to wake up the taste buds. It is also free of fat. Low in calories.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D&amp;G</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736523334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>BM2625</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736490566</id>
+    <published>2019-02-21T00:50:12-05:00</published>
+    <updated>2019-02-21T00:50:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/d-g-ting-soda-24-x-300-ml"/>
+    <title>D&amp;G - Ting Soda - 24 x 300 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-ting-soda-24-x-300-ml-104172.jpg?v=1618921476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;G<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>D&amp;G - Ting Soda - 24 x 300 ml</strong></p>
+<p><span>Quench your thirst with some D&amp;G Ting Pink Grapefruit</span><span data-mce-fragment="1">.</span><span> Refreshing and delicious, it features a crisp taste that is a lot richer. Enjoy it straight from the fridge or served over ice. It is low in sodium and sweetened with sugar to wake up the taste buds. It is also free of fat. Low in calories.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D&amp;G</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736490566</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>BM2624</s:sku>
+      <s:grams>13500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736457798</id>
+    <published>2019-02-21T00:50:12-05:00</published>
+    <updated>2019-02-21T00:50:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dg-pineapple-24-x-355-ml"/>
+    <title>D&amp;G - Pineapple - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-pineapple-24-x-355-ml-217795.jpg?v=1611509432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;G<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>D&amp;G - Pineapple - 24 x 355 ml</strong></p>
+<p>Quench your thirst with some D&amp;G - Pineapple - 24 x 355 ml. Refreshing and delicious, it features a crisp taste that is a lot richer. Enjoy it straight from the fridge or served over ice. It is low in sodium and sweetened with sugar to wake up the taste buds. It is also free of fat. Low in calories.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dg-pineapple-24-x-355-ml#product","name":"D&amp;G - Pineapple - 24 x 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736457798","sku":"BM2621","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-pineapple-24-x-355-ml-bulk-mart_348.jpg","description":"D&amp;amp;G - Pineapple - 24 x 355 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"D&G"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM2621","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dg-pineapple-24-x-355-ml?variant=20255596970054","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D&amp;G</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736457798</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>BM2621</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736425030</id>
+    <published>2019-02-21T00:50:11-05:00</published>
+    <updated>2019-02-21T00:50:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dg-kola-champagne-24-x-355-ml"/>
+    <title>D&amp;G - Kola Champagne - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-kola-champagne-24-x-355-ml-787330.jpg?v=1611514065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;G<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>D&amp;G - Kola Champagne - 24 x 355 ml</strong></p>
+<p>Quench your thirst with some D&amp;G <span data-mce-fragment="1">Kola Champagne.</span> Refreshing and delicious, it features a crisp taste that is a lot richer. Enjoy it straight from the fridge or served over ice. It is low in sodium and sweetened with sugar to wake up the taste buds. It is also free of fat. Low in calories.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dg-kola-champagne-24-x-355-ml#product","name":"D&amp;G - Kola Champagne - 24 x 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998736425030","sku":"BM2622","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-kola-champagne-24-x-355-ml-bulk-mart_471.jpg","description":"D&amp;amp;G - Kola Champagne - 24 x 355 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"D&G"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"BM2622","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dg-kola-champagne-24-x-355-ml?variant=20255596806214","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D&amp;G</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736425030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>BM2622</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998736392262</id>
+    <published>2019-02-21T00:50:10-05:00</published>
+    <updated>2019-02-21T00:50:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dg-jamaican-ginger-beer-24-x-355-ml"/>
+    <title>D&amp;G - Genuine Jamaican Ginger Beer - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>D&amp;G</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-genuine-jamaican-ginger-beer-24-x-355-ml-152349.jpg?v=1611509916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>D&amp;G<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="about-desc about-product-description xs-margin-top">
+<p>Quench your thirst with some D&amp;G Genuine Jamaican Ginger Beer. Refreshing and delicious, it features a crisp, spicy taste that is similar to ginger ale but a lot richer. Enjoy it straight from the fridge or served over ice. Made with Jamaican ginger extract, it is low in sodium and sweetened with sugar to wake up the taste buds. It is also free of fat. Low in calories.</p>
+<p><strong>D&amp;G Genuine Jamaican Ginger Beer:</strong><span></span></p>
+<p><strong>D &amp; G Ginger Beer Soda</strong></p>
+<ul>
+<li>Made with Jamaican ginger extract</li>
+<li>Low in sodium</li>
+<li>Naturally &amp; Artificially Flavored soda</li>
+<li>Jamaican Ginger extract</li>
+<li>Product of Jamaica</li>
+</ul>
+<ul></ul>
+<ul></ul>
+</div>
+<section class="AboutProduct AboutHealth Ingredients">
+<h3 class="font-bold moduleHeading"></h3>
+</section>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dg-jamaican-ginger-beer-24-x-355-ml#product","name":"D&amp;G - Jamaican Ginger Beer - 24 x 355 ml","itemCondition":"https://schema.org/NewCondition","mpn":"BM2623","sku":"BM2623","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dg-jamaican-ginger-beer-24-x-355-ml-bulk-mart_310.jpg","description":"DG - Jamaican Ginger Beer - 24 x 355 ml...","category":"BEVERAGES","brand":{"@type":"Brand","name":"D&G"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"6"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"14"},"offers":[{"name":"D&amp;G - Jamaican Ginger Beer - 24 x 355 ml","sku":"BM2623","mpn":"BM2623","@type":"Offer","priceCurrency":"CAD","price":"33.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dg-jamaican-ginger-beer-24-x-355-ml?variant=20255596675142","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>D&amp;G</s:tag>
+    <s:tag>Soft Drink Glass Bottles</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998736392262</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>BM2623</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/cake-pastry-flour.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-30T13:22:21-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4867769466954</id>
+    <published>2020-12-30T13:22:21-05:00</published>
+    <updated>2020-12-30T13:22:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/adm-monarch-special-cake-enriched-flour-20-kg"/>
+    <title>ADM - Monarch Special Cake Enriched Flour - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ADM-MonarchSpecialCakeEnrichedFlour-20Kg.jpg?v=1623980157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ADM - 732040 - Monarch Cake Flour - 20 Kg</strong></p>
+<p>Monarch Special Cake is a bleached cake flour of very fine granulation. It is used in high sugar ratio cakes and sponge cakes.<br></p>
+<p>MONARCH SPECIAL CAKE Monarch Special Cake is a bleached cake flour of very fine granulation. It is used in high sugar ratio cakes and sponge cakes.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg#product","name":"ADM - Glen Rose Pastry Flour 732050 - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887487524934","sku":"LPPBM84","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/adm-glen-rose-pastry-flour-20-kg-bulk-mart_195.jpg","description":"Adm - Glen Rose Pastry Flour - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"ADM"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"LPPBM84","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg?variant=19271354613830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Pastry Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4867769466954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>230145</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799280283722</id>
+    <published>2020-10-10T18:06:29-04:00</published>
+    <updated>2020-10-10T18:06:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/p-h-hi-ratio-cake-flour-bleached-20-kg"/>
+    <title>P&amp;H - Hi Ratio Cake Flour Bleached - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>P&amp;H</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ph-hi-ratio-cake-flour-bleached-20-kg-309696.jpg?v=1611511178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;H<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>P&amp;H - Hi Ratio Cake Flour Bleached - 20 Kg</strong></p>
+<p><span>finest high ratio cake flour. Its exceptional tolerance to high levels of sugar, shortening, and liquids helps create moist, delicate cakes with the fine grain and silky texture. Excellent volume and symmetry, excellent moisture retention, and bright crumb color. Great for tender pie crusts, cookies, and pastries. Available in a cost-effective,  20 Kg bulk format for larger operations.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg#product","name":"ADM - Glen Rose Pastry Flour 732050 - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887487524934","sku":"LPPBM84","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/adm-glen-rose-pastry-flour-20-kg-bulk-mart_195.jpg","description":"Adm - Glen Rose Pastry Flour - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"ADM"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"LPPBM84","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg?variant=19271354613830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Pastry Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799280283722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>50030</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799279038538</id>
+    <published>2020-10-10T18:06:27-04:00</published>
+    <updated>2020-10-10T18:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monarch-pastry-flour-2-kg"/>
+    <title>Monarch -  Pastry Flour - 2 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>ADM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monarch-pastry-flour-2-kg-116323.jpg?v=1611511296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ADM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Monarch -  Pastry Flour - 2 Kg</strong></p>
+<p>Monarch Special Cake is a bleached cake flour of very fine granulation. It is used in high sugar ratio cakes and sponge cakes.<br></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg#product","name":"ADM - Glen Rose Pastry Flour 732050 - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887487524934","sku":"LPPBM84","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/adm-glen-rose-pastry-flour-20-kg-bulk-mart_195.jpg","description":"Adm - Glen Rose Pastry Flour - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"ADM"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"LPPBM84","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg?variant=19271354613830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Pastry Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799279038538</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>50026</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887487524934</id>
+    <published>2020-10-10T18:06:15-04:00</published>
+    <updated>2020-10-10T18:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg"/>
+    <title>P&amp;H -  Pastry Flour - 20 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>P&amp;H</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ph-pastry-flour-20-kg-583576.jpg?v=1611512260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>P&amp;H<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>P&amp;H -  Pastry Flour - 20 Kg</p>
+<p><span>Pastry flour is milled to a finer texture than </span><b>all-purpose flour</b><span>, and is made with soft wheat for a lower protein content, which helps baked goods like pie crusts and pound cake recipes produce very tender results and a fine crust</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg#product","name":"ADM - Glen Rose Pastry Flour 732050 - 20 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887487524934","sku":"LPPBM84","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/adm-glen-rose-pastry-flour-20-kg-bulk-mart_195.jpg","description":"Adm - Glen Rose Pastry Flour - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"ADM"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"LPPBM84","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"21.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/adm-glen-rose-pastry-flour-20-kg?variant=19271354613830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cake &amp; Pastry Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887487524934</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>548899</s:sku>
+      <s:grams>22000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

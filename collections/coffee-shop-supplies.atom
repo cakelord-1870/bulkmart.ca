@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/coffee-shop-supplies.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-17T19:49:11-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6640725721162</id>
+    <published>2021-08-17T19:49:11-04:00</published>
+    <updated>2021-08-17T19:49:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tapal-danedar-tea-bags-300-pack"/>
+    <title>Tapal Danedar - Tea bags - 300 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tapal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-tea-bags-300-pack-966607.jpg?v=1629359865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tapal<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tapal Danedar - Teabag - 300 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack#product","name":"Tapal Danedar - Teabag - 220 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953135550534","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-teabag-220-pack-bulk-mart_295.jpg","description":"Tapal Danedar - Teabag - 220 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack?variant=29479481245766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoured Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640725721162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>55551</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953135550534</id>
+    <published>2021-08-17T19:49:11-04:00</published>
+    <updated>2021-08-17T19:49:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tapal-danedar-tea-bags-220-pack"/>
+    <title>Tapal Danedar - Tea bags - 220 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tapal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-tea-bags-220-pack-717137.jpg?v=1629359854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tapal<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tapal Danedar - Teabag - 220 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack#product","name":"Tapal Danedar - Teabag - 220 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953135550534","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-teabag-220-pack-bulk-mart_295.jpg","description":"Tapal Danedar - Teabag - 220 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack?variant=29479481245766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoured Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953135550534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>55550</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622882594890</id>
+    <published>2021-07-22T11:13:48-04:00</published>
+    <updated>2021-07-22T11:13:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cafe-express-16-oz-clear-plastic-cup-50-pack"/>
+    <title>Cafe Express - 16 Oz Clear Plastic Cup - 50/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cafe Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cafe-express-16-oz-clear-plastic-cup-50pack-101452.jpg?v=1626984416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cafe Express<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Clear 16 oz. clear PP plastic cold cup is perfect for serving refreshing drinks and cocktails at your bar or catered event. You can also use this cup to serve fruit salads, desserts, or appetizers. This product is compatible with a standard lid size, which makes it easy to serve guests drinks on the go. Regardless of the type of business you own, plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p>
+<p><span>Cafe Express - 16 Oz Clear Plastic Cups - 50/Pack</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve#product","name":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4471744954442","sku":"ABM2921","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-clear-tp16d-16-oz-pet-plastic-cup-1000-case-bulk-mart_977_63c3cb59-4fa5-4643-9e03-60e714ce05ff.jpg","description":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2921","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"15"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve?variant=31663294906442","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622882594890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66001</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622868209738</id>
+    <published>2021-07-22T11:13:47-04:00</published>
+    <updated>2021-07-22T11:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cafe-express-16-oz-clear-plastic-cup-500-case"/>
+    <title>Cafe Express - 16 Oz Clear Plastic Cup - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cafe Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cafe-express-16-oz-clear-plastic-cup-500case-179267.jpg?v=1626984415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cafe Express<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Clear 16 oz. clear PP plastic cold cup is perfect for serving refreshing drinks and cocktails at your bar or catered event. You can also use this cup to serve fruit salads, desserts, or appetizers. This product is compatible with a standard lid size, which makes it easy to serve guests drinks on the go. Regardless of the type of business you own, plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p>
+<p>Cafe Express - 16 Oz Clear Plastic Cups - 500/Case</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve#product","name":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4471744954442","sku":"ABM2921","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-clear-tp16d-16-oz-pet-plastic-cup-1000-case-bulk-mart_977_63c3cb59-4fa5-4643-9e03-60e714ce05ff.jpg","description":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2921","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"15"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve?variant=31663294906442","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622868209738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>66002</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6615332028490</id>
+    <published>2021-07-09T11:53:23-04:00</published>
+    <updated>2021-07-09T11:53:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mokate-gold-premium-latte-classic-10-x-14g"/>
+    <title>Mokate Gold - Premium Latte Classic - 10 x 14g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/MokateGoldPremiumLatteClassic.jpg?v=1625846089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A premium instant latte. Mokate instant coffee sachets offer a quick and easy way to kick start your day. Our Mokate Gold Premium Latte Classic contains 10 instant coffee sachets per pack.</span></p>
+<p><span data-mce-fragment="1">Mokate Gold Premium Latte Classic </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6615332028490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>66440</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6552766152778</id>
+    <published>2021-03-24T10:59:35-04:00</published>
+    <updated>2021-03-24T10:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fabri-kal-5-oz-cold-cup-translucent-25-x-100-case"/>
+    <title>Fabri-kal - RK5 - 5 Oz Cold Cup Translucent - 25 x 100 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fabri-kal-rk5-5-oz-cold-cup-translucent-25-x-100-case-400923.jpg?v=1616678765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span></p>
+<p><span>Fabri-kal - RK5 - 5 Oz Cold Cup Translucent - 2500 / Case</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-y5s-5-oz-translucent-cup-25-x-100-case#product","name":"Dart - Y5S 5 oz Translucent Cup - 25 x 100 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037513125958","sku":"DBM3333","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y5s-5-oz-translucent-cup-25-x-100-case-bulk-mart_608.gif","description":"Dart - Y5S 5 oz Translucent Cup - 25 x 100 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"DBM3333","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"76.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-y5s-5-oz-translucent-cup-25-x-100-case?variant=20604630663238","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6552766152778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>220103</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906797924426</id>
+    <published>2021-02-20T19:40:33-05:00</published>
+    <updated>2021-02-20T19:40:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-jamar-stainless-steel-2-sided-tabletop-tallfold-jdn-napkin-dispenser-each"/>
+    <title>San Jamar - Stainless Steel 2 Sided Tabletop Tallfold/JDN Napkin Dispenser - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>San Jamr</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-jamar-stainless-steel-2-sided-tabletop-tallfoldjdn-napkin-dispenser-each-289342.jpg?v=1613877876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Jamr<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The San Jamar H900X tallfold two-sided tabletop napkin dispenser is a convenient and practical addition to any professional dining establishment. The 150 tallfold napkin capacity means that your dispenser can help keep dozens of hungry patrons clean without needing a refill. Its heavy gauge steel design resists rust, so it will have a long life of serving your customers.</span><br><br><b><u>Dimensions:</u></b><span></span><br><span>Width: 3 3/4"</span><br><span>Depth: 4"</span><br><span>Height: 7 1/2"</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906797924426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>676723</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906795466826</id>
+    <published>2021-02-20T19:40:32-05:00</published>
+    <updated>2021-02-20T19:40:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/frost-195-table-metal-dispenser-for-jdn-junior-dispenser-napkin-each"/>
+    <title>Frost - 195 - Table Metal Dispenser For JDN Junior Dispenser Napkin  - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Frost</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/frost-195-table-metal-dispenser-for-jdn-junior-dispenser-napkin-each-895024.jpg?v=1613876276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frost<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Site Location: </strong>Economical table napkin dispenser comes in three finishes to suit both institutional and commercial applications.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features: </strong> Spring loaded pressure plates provide consistent dispensing of napkins. Dual sided dispensing. Rubber feet to protect countertops.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Materials:</strong><span data-mce-fragment="1"> </span> One piece die formed body of 22 gauge steel with slightly radiused corners.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dispensing: </strong>Will accept all standard napkins.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Weight: </strong>1 lbs. (0.5 kg.)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dimensions:<span data-mce-fragment="1"> </span></strong>3.75”L x 4”W x 7”H</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Maintenance: </strong>Normal preventative maintenance and cleaning will keep Frost products functioning properly and may extend normal product life. Products should be wiped down with a damp soft cloth periodically. Approved stainless steel cleaner may be used to clean scuffs or fingerprints on stainless surfaces. Do not use harsh detergents or chemical cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906795466826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>676717</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906793828426</id>
+    <published>2021-02-20T19:40:31-05:00</published>
+    <updated>2021-02-20T19:40:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-c431-countertop-interfold-napkin-dispenser-grey-each"/>
+    <title>Cascades Pro - C431 Countertop Interfold Napkin Dispenser Grey - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-c431-countertop-interfold-napkin-dispenser-grey-each-418767.jpg?v=1613875479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Cascades PRO Tandem® Countertop Interfold Napkin Dispensers provide the affordable, sustainable solution for all your napkin needs.</span></p>
+<ul class="custom-product-spec hide-print hide-pdf">
+<li>
+<div>Colour:<span>Grey</span>
+</div>
+</li>
+<li>
+<div>Item size: (Width x Depth x Height)<span>8.3 x 16.3 x 6.5 in (21 x 41.5 x 16.5 cm)</span>
+</div>
+</li>
+<li><span>UPC Code:0-67220-62431-7</span></li>
+</ul>
+<p><span>Cascades PRO Tandem® countertop interfold napkin dispensers reduce consumption and waste by up to 25% compared to traditional napkin dispensers, providing users with an affordable and reliable dispenser option. Featuring one at a time napkin dispensing and a 600-napkin capacity, this dispenser can be counted on during peak periods, requiring fewer dispenser refills. Ideal for countertops in high-traffic retail and foodservice settings, this dispenser features a translucent cover to easily monitor napkin levels. Create a window of opportunity to connect with customers with OnDisplay<sup>™</sup> and let your Cascades PRO Tandem® dispensers become powerful marketing tools.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906793828426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>676712</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906793402442</id>
+    <published>2021-02-20T19:40:30-05:00</published>
+    <updated>2021-02-20T19:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-c440-stand-wall-interfold-napkin-dispenser-grey-each"/>
+    <title>Cascades Pro - C440 Stand/Wall Interfold Napkin Dispenser Grey - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-c440-standwall-interfold-napkin-dispenser-grey-each-282027.jpg?v=1613875480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            37.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Cascades PROTandem® Stand/Wall Interfold Napkin Dispensers save space and cut waste and labor costs with one at a time napkin dispensing.</span></p>
+<ul class="custom-product-spec hide-print hide-pdf">
+<li>
+<div>Colour:<span>Grey</span>
+</div>
+</li>
+<li>
+<div>Item size: (Width x Depth x Height)<span>9.1 x 12.4 x 20.3 in (23 x 31.5 x 51.5 cm)</span>
+</div>
+</li>
+<li><span>UPC Code:0-67220-62440-9</span></li>
+</ul>
+<p><span>Cascades PRO Tandem</span><sup>™</sup><span> stand/wall interfold napkin dispensers cut waste and labor costs by delivering one napkin at a time, every time. Featuring a sleek and versatile design, this dispenser can be hung on the wall to free up counter space or set in a stand, making it the ideal choice for any venue in foodservice or retail settings. The 750-napkin capacity helps to extend napkin service through peak periods, while the convenient translucent cover makes it easy to see when it's time to reload. With our OnDisplay</span><sup>™</sup><span> feature your Cascades PRO Tandem</span><sup>™</sup><span> dispensers can become powerful marketing tools, providing a window of opportunity to connect with customers.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906793402442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.99</s:price>
+      <s:sku>676713</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906792779850</id>
+    <published>2021-02-20T19:40:30-05:00</published>
+    <updated>2021-02-20T19:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-c402-table-top-interfold-napkin-dispenser-grey-each"/>
+    <title>Cascades Pro - C402 - Table Top Interfold Napkin Dispenser Grey - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-c402-table-top-interfold-napkin-dispenser-grey-each-331806.jpg?v=1613875479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906792779850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>676711</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906791108682</id>
+    <published>2021-02-20T19:40:29-05:00</published>
+    <updated>2021-02-20T19:40:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/metro-8150-jdn-1-ply-white-junior-dispenser-napkins-tall-fold-9000-case"/>
+    <title>Metro - 8150 - JDN 1 Ply White Junior Dispenser Napkins Tall Fold- 9000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Metro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/metro-8150-jdn-1-ply-white-junior-dispenser-napkins-tall-fold-9000case-440737.jpg?v=1613877228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Metro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Metro - JDN Junior Dispenser Napkins - 18 x 500 / Case</p>
+<ul>
+<li>Prominent overall embossing pattern increases thickness and provides a quality look</li>
+<li>Fits in generic Jr. Dispenser/tall fold dispensers</li>
+<li>Packaged in a 5-sided poly wrap for protection against contaminants</li>
+<li>Made with 100% recycled fibre and at least 88% post-consumer content</li>
+<li>Biodegradable</li>
+</ul>
+<p><span>Reduce napkin consumption and waste by 25% in foodservice settings including cafeterias, ice cream shops, and fast food restaurants.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906791108682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>676721</s:sku>
+      <s:grams>11793</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906790191178</id>
+    <published>2021-02-20T19:40:28-05:00</published>
+    <updated>2021-02-20T19:40:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-kraft-2-ply-interfold-dispenser-napkins-6000-case"/>
+    <title>MC - Kraft 2 Ply Interfold Dispenser Napkins - 6000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-kraft-2-ply-interfold-dispenser-napkins-6000case-801631.jpg?v=1623909688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Offer your guests convenience and comfort with this single fold Kraft.</b></p>
+<p><span>Great for restaurants, cafes, and outdoor events, this kraft napkin helps your basic table setting. With a classic, simple design you can use this napkin in a variety of venues, from a catered event to a casual diner. You can also use this economical, napkin to roll silverware for extra versatility in your busy establishment.</span></p>
+<h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its  design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic Color</h3>
+<p>Thanks to its natural color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>MC - 1 Ply Interfold Napkin 8.5" x 6.5" - 6000/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906790191178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>676720</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906789601354</id>
+    <published>2021-02-20T19:40:28-05:00</published>
+    <updated>2021-02-20T19:40:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-white-2-ply-interfold-dispenser-napkins-6000-case"/>
+    <title>PC - White 2 Ply Interfold Dispenser Napkins - 6000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>PC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-white-2-ply-interfold-dispenser-napkins-6000case-135806.jpg?v=1613877576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Offer your guests convenience and comfort with this white dispenser napkin.</b></p>
+<p><span>Great for restaurants, cafes, and outdoor events, this white napkin helps complete your basic table setting. With a classic, simple design you can use this napkin in a variety of venues, from a catered event to a casual diner. You can also use this economical, napkin to roll silverware for extra versatility in your busy establishment.</span></p>
+<h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its  design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic White Color</h3>
+<p>Thanks to its white color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>PC - White 2 Ply Interfold Dispenser Napkins - 12 x 500/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906789601354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>676722</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4906788126794</id>
+    <published>2021-02-20T19:40:27-05:00</published>
+    <updated>2021-02-20T19:40:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-8-5-x-6-5-white-1-ply-interfold-dispenser-napkins-6000-case"/>
+    <title>MC - 8.5&quot; x 6.5&quot; White 1 Ply Interfold Dispenser Napkins - 6000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-85-x-65-white-1-ply-interfold-dispenser-napkins-6000case-729863.jpg?v=1613877100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            37.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Offer your guests convenience and comfort with this white dispenser napkin.</b></p>
+<p><span>Great for restaurants, cafes, and outdoor events, this white napkin helps complete your basic table setting. With a classic, simple design you can use this napkin in a variety of venues, from a catered event to a casual diner. You can also use this economical, napkin to roll silverware for extra versatility in your busy establishment.</span></p>
+<h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its  design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic White Color</h3>
+<p>Thanks to its white color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>MC - White 1 Ply Interfold Dispenser Napkins 8.5" x 6.5"- 24 x 250/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dispenser Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4906788126794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.49</s:price>
+      <s:sku>676719</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4905503916106</id>
+    <published>2021-02-19T19:37:28-05:00</published>
+    <updated>2021-02-19T19:37:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-1-ply-1-4-fold-white-beverage-cocktail-napkins-4000-case"/>
+    <title>MC - 1 Ply 1/4 Fold White Beverage / Cocktail Napkins - 4000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-1-ply-14-fold-white-beverage-cocktail-napkins-4000case-787830.jpg?v=1613876980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Offer your guests convenience and comfort with this white Beverage napkin.</strong></p>
+<p><span>Great for restaurants, cafes, and outdoor events, this white napkin helps complete your basic table setting. With a classic, simple design you can use this napkin in a variety of venues, from a catered event to a casual diner. You can also use this economical, napkin to roll silverware for extra versatility in your busy establishment.</span></p>
+<h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic White Color</h3>
+<p>Thanks to its white color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>MC - 1 Ply 1/4 Fold Cocktail / Beverage Napkins White - 8 x 500/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4905503916106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>225514</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4905503490122</id>
+    <published>2021-02-19T19:37:28-05:00</published>
+    <updated>2021-02-19T19:37:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cascades-pro-n010-1-ply-white-beverage-cocktail-napkins-4000-case"/>
+    <title>Cascades Pro - N010 - 1 Ply White Beverage / Cocktail Napkins - 4000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cascades Pro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cascades-pro-n010-1-ply-white-beverage-cocktail-napkins-4000case-497405.jpg?v=1613788790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cascades Pro<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<ul class="custom-product-spec hide-print hide-pdf">
+<li>
+<div>Color: <span>White</span>
+</div>
+</li>
+<li>
+<div>Item size: (Width x Depth x Height)<span>8.5 x 8.5 in (21.6 x 21.6 cm)</span>
+</div>
+</li>
+<li>
+<div>Item size folded:<span>4.25 x 4.25 in (10.8 x 10.8 cm)</span>
+</div>
+</li>
+<li>
+<div>Ply:<span>1</span>
+</div>
+</li>
+<li>
+<div>Ply type:<span>1/4 Fold</span>
+</div>
+</li>
+<li>
+<div>Items/Package:<span>1000</span>
+</div>
+</li>
+<li>
+<div>Packages/Shipping unit:<span>4</span>
+</div>
+</li>
+<li>
+<div>Items/Shipping unit:<span>4000</span>
+</div>
+</li>
+<li>
+<div>SCC Code:<span>1-00-67220-67010-6</span>
+</div>
+</li>
+<li>
+<div>UPC Code:<span>0-67220-67010-9</span>
+</div>
+</li>
+</ul>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic White Color</h3>
+<p>Thanks to its white color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>Cascades Pro - N010 - 1 Ply 1/4 Fold Cocktail / Beverage Napkins -  4 x 1000/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4905503490122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>225513</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4905503064138</id>
+    <published>2021-02-19T19:37:27-05:00</published>
+    <updated>2021-02-19T19:37:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cardinal-bev24m-2-ply-white-beverage-cocktail-napkins-3600-case"/>
+    <title>Cardinal - BEV24M - 2 Ply White Beverage / Cocktail Napkins - 3600/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cardinal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cardinal-bev24m-2-ply-white-beverage-cocktail-napkins-3600case-249996.jpg?v=1613788790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cardinal<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Offer your guests convenience and comfort with this white Beverage napkin.</strong></p>
+<p><span>Great for restaurants, cafes, and outdoor events, this white napkin helps complete your basic table setting. With a classic, simple design you can use this napkin in a variety of venues, from a catered event to a casual diner. You can also use this economical, napkin to roll silverware for extra versatility in your busy establishment.</span></p>
+<h3 class="item-header">Smooth Sophisticated Material</h3>
+<p>Boasting a soft, absorbent construction, this napkin is a practical addition to any establishment. With its design and large this napkin is perfect for cleaning up spills. It also easily covers patrons' laps to protect their clothing throughout their dining experience.</p>
+<h3 class="item-header">Great Value</h3>
+<p>Easily stock up on these economy napkins without breaking your budget! Whether you want to roll your silverware with these napkins or leave an extra stack of them at the table for convenience, they get the job done. Plus, they are a cost-effective solution for any restaurant or diner that wants to give out extra napkins without worrying about the cost!</p>
+<h3 class="item-header">Classic White Color</h3>
+<p>Thanks to its white color, the various hues of your dinnerware and tabletop decor will pop! You cannot go wrong with this universal color.</p>
+<p><strong>Pre-Folded</strong></p>
+<p>This napkin comes pre-folded for efficient preparation so you can keep buffet lines stocked or quickly add table settings at your event.</p>
+<p>Cardinal - BEV24M - 2 Ply White Cocktail / Beverage Napkins - 3600/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beverage Napkins</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4905503064138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>225511</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879357116490</id>
+    <published>2021-01-16T18:56:36-05:00</published>
+    <updated>2021-01-16T18:56:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-12-oz-ripple-wall-hot-paper-cup-black-25-sleeve"/>
+    <title>Pronto - 12 Oz Ripple Wall Hot Paper Cup Black - 25 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-12-oz-ripple-wall-hot-paper-cup-black-25-sleeve-601718.jpg?v=1611513152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879357116490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>82029</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879356559434</id>
+    <published>2021-01-16T18:56:35-05:00</published>
+    <updated>2021-01-16T18:56:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-16-oz-ripple-wall-hot-paper-cup-black-20-x-25-case"/>
+    <title>Pronto - 16 Oz Ripple Wall Hot Paper Cup Black - 20 x 25 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-16-oz-ripple-wall-hot-paper-cup-black-20-x-25-case-189360.jpg?v=1611514667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            97.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879356559434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">97.99</s:price>
+      <s:sku>82031</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879356198986</id>
+    <published>2021-01-16T18:56:34-05:00</published>
+    <updated>2021-01-16T18:56:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-16-oz-ripple-wall-hot-paper-cup-black-25-sleeve"/>
+    <title>Pronto - 16 Oz Ripple Wall Hot Paper Cup Black - 25 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-16-oz-ripple-wall-hot-paper-cup-black-25-sleeve-794839.jpg?v=1611512791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879356198986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>82032</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879355969610</id>
+    <published>2021-01-16T18:56:33-05:00</published>
+    <updated>2021-01-16T18:56:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-12-oz-ripple-wall-hot-paper-cup-black-20-x-25-case"/>
+    <title>Pronto - 12 Oz Ripple Wall Hot Paper Cup Black - 20 x 25 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-12-oz-ripple-wall-hot-paper-cup-black-20-x-25-case-841749.jpg?v=1611514489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879355969610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>82028</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879355740234</id>
+    <published>2021-01-16T18:56:33-05:00</published>
+    <updated>2021-01-16T18:56:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-10-oz-ripple-wall-hot-paper-cup-black-20-x-25-case"/>
+    <title>Pronto - 10 Oz Ripple Wall Hot Paper Cup Black - 20 x 25 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-10-oz-ripple-wall-hot-paper-cup-black-20-x-25-case-917199.jpg?v=1611514245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879355740234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku>82027</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879355707466</id>
+    <published>2021-01-16T18:56:32-05:00</published>
+    <updated>2021-01-16T18:56:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-10-oz-ripple-wall-hot-paper-cup-25-sleeve"/>
+    <title>Pronto - 10 Oz Ripple Wall Hot Paper Cup - 25 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-10-oz-ripple-wall-hot-paper-cup-25-sleeve-540832.jpg?v=1611512256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879355707466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>82026</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4879355281482</id>
+    <published>2021-01-16T18:56:31-05:00</published>
+    <updated>2021-01-16T18:56:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pronto-8-oz-ripple-wall-hot-paper-cup-black-25-sleeve"/>
+    <title>Pronto - 8 Oz Ripple Wall Hot Paper Cup Black - 25 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Pronto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pronto-8-oz-ripple-wall-hot-paper-cup-black-25-sleeve-431504.jpg?v=1611514844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pronto<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Promote environmental friendliness with this compostable paper hot cup!</strong></p>
+<p><span data-mce-fragment="1">Both stylish and economical, this coffee cup is the perfect for your coffee shop, bistro, concession stand, or kiosk, minimizing waste, while ensuring efficiency. The innovative rippled wall on the outside of each cup keeps the surface warm to the touch, not hot like with comparable smooth surface cups. Use this cup to hold coffee, cappuccino, and piping hot lattes. This cup is the ideal way to serve hot beverages, to-go, to all of your customers!</span></p>
+<h3 class="item-header">Perfect for Hot Beverages</h3>
+<p>This hot cup is great for serving coffees, teas, hot chocolates, and lattes for your patrons on the go. Additionally, it features an eco-conscious PLA lining made from plant based starches that's able to withstand temperatures up to 200 degrees Fahrenheit.</p>
+<h3 class="item-header">Rolled Rim</h3>
+<p>The tightly rolled rim enables easy sipping and creates a secure seal when used with a compatible lid.</p>
+<h3 class="item-header">Promotes a Sustainable Planet</h3>
+<p>Once your guests have finished, the cup is compostable in commercial composting facilities and can be disposed of for fast clean up. Since it's composed of organic materials, it can be broken down naturally without damaging the environment and can help divert waste from landfills, effectively reducing pollution and promoting a more sustainable planet.</p>
+<ul class="highlights no-margin"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plain Paper Cups</s:tag>
+    <s:tag>Ripple Wall Paper Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4879355281482</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>82034</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

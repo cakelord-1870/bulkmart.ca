@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/pickles-relish.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-07-07T20:14:23-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6614268149834</id>
+    <published>2021-07-07T20:14:23-04:00</published>
+    <updated>2021-07-07T20:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/supreme-whole-dill-pickle-20-l"/>
+    <title>Supreme - Whole Dill Pickle - 20 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Supreme</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/supreme-whole-dill-pickle-large-20-l-235050.jpg?v=1625757062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Supreme<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            42.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6614268149834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.99</s:price>
+      <s:sku>22901</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803071082570</id>
+    <published>2020-10-14T18:33:21-04:00</published>
+    <updated>2020-10-14T18:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-sweet-relish-portions-500-x-7-ml"/>
+    <title>PC - Sweet Relish Portions - 500 x 7 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-sweet-relish-portions-500-x-7-ml-886841.jpg?v=1611512016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Relish Portions - 500 x 8 g</strong></p>
+<p><span><strong>The perfect balance of sweet and salty</strong>, relish will deliver just the right amount of tangy flavor to your customers' food. A brand you can trust, guarantees fresh, quality vegetables packed at peak ripeness. Featuring a classic recipe. This zesty relish is perfect for enhancing a variety of menu items from hot dogs and hamburgers to sandwiches and soft pretzels with the cool and crisp taste of pickled veggies.</span><br><br><span><strong>Bursting with bold flavor</strong>, this tangy relish is with its classic recipe and crisp taste, relish is sure to delight your customers with taste they know and love.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Relish</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803071082570</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>05902</s:sku>
+      <s:grams>4500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803068952650</id>
+    <published>2020-10-14T18:33:19-04:00</published>
+    <updated>2020-10-14T18:33:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bicks-zest-brand-sweet-relish-4-l"/>
+    <title>Bick&apos;s - Zest Brand Sweet Relish - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bick&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bicks-zest-brand-sweet-relish-4-l-367174.jpg?v=1611509618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bick&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bicks - Zest Brand Sweet Relish - 4 L</strong></p>
+<div class="animated slideInLeft">
+<p><strong>A cost effective</strong> relish which offers taste and quality.</p>
+<p><span>The perfect balance of sweet and salty, relish will deliver just the right amount of tangy flavor to your customers' food. A brand you can trust, guarantees fresh, quality vegetables packed at peak ripeness. Featuring a classic recipe. This zesty relish is perfect for enhancing a variety of menu items from hot dogs and hamburgers to sandwiches and soft pretzels with the cool and crisp taste of pickled veggies.</span><br><br><span><strong>Bursting with bold flavor</strong>, this tangy relish is with its classic recipe and crisp taste, relish is sure to delight your customers with taste they know and love.</span></p>
+<p class="callout"><span><strong>INGREDIENTS:</strong> </span>CUCUMBERS, WATER, SUGAR/GLUCOSE-FRUCTOSE, WHITE VINEGAR, MODIFIED CORN STARCH, SALT, CALCIUM CHLORIDE, POTASSIUM SORBATE, SODIUM BENZOATE, POLYSORBATE 80, SEASONINGS, COLOUR (CONTAINS TARTRAZINE). MAY CONTAIN MUSTARD INGREDIENTS.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803068952650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>059231</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4803068526666</id>
+    <published>2020-10-14T18:33:18-04:00</published>
+    <updated>2020-10-14T18:33:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bicks-sweet-corn-relish-4-l"/>
+    <title>Bick&apos;s - Sweet Corn Relish - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bick&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bicks-sweet-corn-relish-4-l-522736.png?v=1611509014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bick&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bicks - Sweet Corn Relish - 4 L</strong></p>
+<p><span>A combination of sweet corn flavour with a hint of celery and onion to create this unique relish taste. A tasty and convenient pairing for sausage, hot dogs and pasta salad.</span></p>
+<h2>Ingredients</h2>
+<p>Corn, Sugar/Glucose-Fructose, Water, White Vinegar, Modified Corn Starch, Salt, Dehydrated Onions, Spices (Mustard) And Seasonings, Dehydrated Peppers, Garlic Powder, Polysorbate 80, Tartrazine.</p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4803068526666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>059215</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802187558986</id>
+    <published>2020-10-12T14:18:15-04:00</published>
+    <updated>2020-10-12T14:18:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-hamburger-sliced-dill-pickles-4-l"/>
+    <title>Mrs. Whyte&apos;s - Hamburger Sliced Dill Pickles - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-hamburger-sliced-dill-pickles-4-l-263333.jpg?v=1611511235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802187558986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>269924</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802186674250</id>
+    <published>2020-10-12T14:18:13-04:00</published>
+    <updated>2020-10-12T14:18:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-whole-kosher-dill-pickles-4-l"/>
+    <title>Mrs. Whyte&apos;s - Whole Kosher Dill Pickles - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-whole-kosher-dill-pickles-4-l-754165.jpg?v=1611512850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802186674250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>264879</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802184872010</id>
+    <published>2020-10-12T14:18:12-04:00</published>
+    <updated>2020-10-12T14:18:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/hadaek-al-koura-sliced-pickled-turnips-10-kg"/>
+    <title>Hadaek Al Koura - Sliced Pickled Turnips - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Hadaek Al Koura</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/hadaek-al-koura-sliced-pickled-turnips-10-kg-432329.jpg?v=1611511775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hadaek Al Koura<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802184872010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>24987</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802184675402</id>
+    <published>2020-10-12T14:18:10-04:00</published>
+    <updated>2020-10-12T14:18:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vesuvio-sliced-pickled-turnips-15-l"/>
+    <title>Vesuvio - Sliced Pickled Turnips - 15 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Vesuvio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vesuvio-sliced-pickled-turnips-15-l-455298.jpg?v=1611512912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vesuvio<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802184675402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>21979</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802184183882</id>
+    <published>2020-10-12T14:18:08-04:00</published>
+    <updated>2020-10-12T14:18:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vesuvio-whole-pickles-kosher-18-kg"/>
+    <title>Vesuvio - Whole Pickles Kosher - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Vesuvio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vesuvio-whole-pickles-kosher-18-kg-897237.jpg?v=1611512977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vesuvio<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802184183882</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>15789</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802183725130</id>
+    <published>2020-10-12T14:18:06-04:00</published>
+    <updated>2020-10-12T14:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vesuvio-round-sliced-pickles-kosher-18-kg"/>
+    <title>Vesuvio - Round Sliced Pickles Kosher - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Vesuvio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vesuvio-round-sliced-pickles-kosher-18-kg-768780.jpg?v=1611512793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vesuvio<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<p itemprop="description">Vesuvio - Round Sliced Kosher Dill Pickles - 18 L in Plastic Bucket.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802183725130</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>215478</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802183266378</id>
+    <published>2020-10-12T14:18:04-04:00</published>
+    <updated>2020-10-12T14:18:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vesuvio-long-sliced-pickles-kosher-18-kg"/>
+    <title>Vesuvio - Long Sliced Pickles Kosher - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Vesuvio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vesuvio-long-sliced-pickles-kosher-18-kg-182605.jpg?v=1611513215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vesuvio<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<p itemprop="description">Vesuvio - Long Cut / Spear Cut Pickle </p>
+<p itemprop="description">Net Weight - 18 Kg</p>
+<p itemprop="description">Drained Weight 10 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802183266378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>1457899</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887486443590</id>
+    <published>2020-10-12T14:18:02-04:00</published>
+    <updated>2020-10-12T14:18:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l"/>
+    <title>Gedik - Strip Cut Pickles - 18 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gedik</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-844144.jpg?v=1611510707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gedik<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l#product","name":"Gedik - Strip Cut Pickles - 18 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887486443590","sku":"8GBM243","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/gedik-strip-cut-pickles-18-l-bulk-mart_191.jpg","description":"Gedik - Hamburger Sliced Dill Pickles - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"8GBM243","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"31.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/gedik-strip-cut-pickles-18-l?variant=19271352614982","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887486443590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>26594</s:sku>
+      <s:grams>19000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802076901450</id>
+    <published>2020-10-12T00:28:07-04:00</published>
+    <updated>2020-10-12T00:28:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/whytes-mixed-pickled-vegetables-4-l"/>
+    <title>Whyte&apos;s - Mixed Pickled Vegetables - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whytes-mixed-pickled-vegetables-4-l-772404.jpg?v=1611512916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Whytes - Mixed Pickled Vegetables - 4 L</strong></p>
+<p><span><strong>Add a burst of color</strong> to any dish with the convenience of this tasty giardiniera! Each jar is packed full of wholesome flavor and authentic taste. This features a combination of mild cauliflower, carrots, celery, and red pepper strips. Similar to "chow chow," this Italian-style mix of vegetables is packed and preserved in vinegar to maintain freshness and flavor. Giardiniera is also called "sotto aceti," meaning "under vinegar," which is a common term for pickled foods in Italian. Whichever way this flavorful blend is used, it's sure to make a welcome addition to your sandwich shop, Italian restaurant, or pizza shop!</span><br><br><span>Giardiniera is commonly served with <strong>antipasto, salads, and pasta dishes</strong>. In Chicago, it is used to make Italian beef sandwiches with slowly roasted lean beef which is then soaked in juice, layered on Italian bread loaves, and topped with giardiniera. This healthy vegetable mixture is also great for tossing in pasta salads and sprinkling on vegetable pizzas. The combination of cauliflower, carrots, celery, and red pepper strips are sure to please all of your patrons who are looking for a light and nourishing side dish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802076901450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>023456</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4802076868682</id>
+    <published>2020-10-12T00:28:06-04:00</published>
+    <updated>2020-10-12T00:28:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/whytes-mixed-pickled-vegetables-2-x-4-l"/>
+    <title>Whyte&apos;s - Mixed Pickled Vegetables - 2 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/whytes-mixed-pickled-vegetables-2-x-4-l-439692.jpg?v=1611513882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Whytes - Mixed Pickled Vegetables - 2 x 4 L</strong></p>
+<p><span>Add a burst of color to any dish with the convenience of this tasty giardiniera! Each jar is packed full of wholesome flavor and authentic taste. This features a combination of mild cauliflower, carrots, celery, and red pepper strips. Similar to "chow chow," this Italian-style mix of vegetables is packed and preserved in vinegar to maintain freshness and flavor. Giardiniera is also called "sotto aceti," meaning "under vinegar," which is a common term for pickled foods in Italian. Whichever way this flavorful blend is used, it's sure to make a welcome addition to your sandwich shop, Italian restaurant, or pizza shop!</span><br><br><span>Giardiniera is commonly served with antipasto, salads, and pasta dishes. In Chicago, it is used to make Italian beef sandwiches with slowly roasted lean beef which is then soaked in juice, layered on Italian bread loaves, and topped with giardiniera. This healthy vegetable mixture is also great for tossing in pasta salads and sprinkling on vegetable pizzas. The combination of cauliflower, carrots, celery, and red pepper strips are sure to please all of your patrons who are looking for a light and nourishing side dish.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4802076868682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>02169</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953649614918</id>
+    <published>2019-08-09T10:04:10-04:00</published>
+    <updated>2019-08-09T10:04:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/national-hyderabadi-mixed-pickle-1-kg"/>
+    <title>National - Hyderabadi Mixed Pickle - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>National</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-hyderabadi-mixed-pickle-1-kg-471377.jpg?v=1611512910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>National<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Bulk Pack of 1 Kilogram </span></li>
+<li><span class="a-list-item">A Product of ISO 9001 Certified Company</span></li>
+<li><span class="a-list-item">Product of Pakistan</span></li>
+<li><span class="a-list-item">Packed in Plastic Jar</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/national-mixed-pickle-1-kg#product","name":"National - Mixed Pickle - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953649614918","sku":".1BM244","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/national-mixed-pickle-1-kg-bulk-mart_907.jpg","description":"National - Mixed Pickle - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Strubs"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":".1BM244","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/national-mixed-pickle-1-kg?variant=29481921871942","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953649614918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>154848</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887511150662</id>
+    <published>2018-11-28T15:04:19-05:00</published>
+    <updated>2018-11-28T15:04:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-sweet-green-relish-4-l"/>
+    <title>Mrs. Whyte&apos;s - Sweet Green Relish - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-sweet-green-relish-4-l-840276.jpg?v=1611511425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mrs. Whyte's - Sweet Green Relish - 4 L</strong></p>
+<p><span><strong>The perfect balance of sweet and salty</strong>, relish will deliver just the right amount of tangy flavor to your customers' food. A brand you can trust, guarantees fresh, quality vegetables packed at peak ripeness. Featuring a classic recipe. This zesty relish is perfect for enhancing a variety of menu items from hot dogs and hamburgers to sandwiches and soft pretzels with the cool and crisp taste of pickled veggies.</span><br><br><span><strong>Bursting with bold flavor</strong>, this tangy relish is with its classic recipe and crisp taste, relish is sure to delight your customers with taste they know and love.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887511150662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>05925</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887511019590</id>
+    <published>2018-11-28T15:04:17-05:00</published>
+    <updated>2018-11-28T15:04:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-sweet-green-relish-19-l"/>
+    <title>Mrs. Whyte&apos;s - Sweet Green Relish - 19 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-sweet-green-relish-19-l-755334.jpg?v=1611512499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mrs. Whyte's - Sweet Green Relish - 19 L</strong></p>
+<p><span>A combination of sweet corn flavour with a hint of celery and onion to create this unique relish taste. A tasty and convenient pairing for sausage, hot dogs and pasta salad.</span></p>
+<p><span><strong>The perfect balance of sweet and salty</strong>, relish will deliver just the right amount of tangy flavor to your customers' food. A brand you can trust, guarantees fresh, quality vegetables packed at peak ripeness. Featuring a classic recipe. This zesty relish is perfect for enhancing a variety of menu items from hot dogs and hamburgers to sandwiches and soft pretzels with the cool and crisp taste of pickled veggies.<br><br><strong>Bursting with bold flavor</strong>, this tangy relish is with its classic recipe and crisp taste, relish is sure to delight your customers with taste they know and love.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887511019590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>059121</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887510790214</id>
+    <published>2018-11-28T15:04:15-05:00</published>
+    <updated>2018-11-28T15:04:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-whole-kosher-dill-pickle-19-l"/>
+    <title>Mrs. Whyte&apos;s - Whole Kosher Dill Pickle - 19 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-whole-kosher-dill-pickle-19-l-665756.jpg?v=1626899167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887510790214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>214789</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887510724678</id>
+    <published>2018-11-28T15:04:14-05:00</published>
+    <updated>2018-11-28T15:04:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mrs-whytes-hamburger-sliced-dill-pickle-kosher-19-l"/>
+    <title>Mrs. Whyte&apos;s - Hamburger Sliced Dill Pickle Kosher - 19 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Mrs. Whyte&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-hamburger-sliced-dill-pickle-kosher-19-l-216395.jpg?v=1626883063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mrs. Whyte&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong><span> </span>these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These<span> </span><strong>juicy pickles</strong><span> </span>are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mrs-whytes-kosher-dill-pickles-hamburger-slices-19-l#product","name":"Mrs.Whytes -  Kosher Dill Pickles Hamburger Slices - 19 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887510724678","sku":"42BM960","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mrs-whytes-kosher-dill-pickles-hamburger-slices-19-l-bulk-mart_396.jpg","description":"Mrs. Whytes - Kosher Dill Pickles Hamburger Slices - 19 L.","category":"FOOD","brand":{"@type":"Brand","name":"Mrs.Whytes"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"},"offers":[{"sku":"42BM960","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"32.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mrs-whytes-kosher-dill-pickles-hamburger-slices-19-l?variant=19271394918470","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"57"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kosher Foods</s:tag>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887510724678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>154789</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887493816390</id>
+    <published>2018-11-28T15:01:00-05:00</published>
+    <updated>2018-11-28T15:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/heinz-sweet-relish-squeeze-bottle-375-ml"/>
+    <title>Heinz - Sweet Relish Squeeze Bottle - 375 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/heinz-sweet-relish-squeeze-bottle-375-ml-790379.jpg?v=1611510334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Heinz - Sweet Relish Squeeze Bottle - 375 ml</strong></p>
+<p><span><strong>The perfect balance of sweet and salty</strong>, relish will deliver just the right amount of tangy flavor to your customers' food. A brand you can trust, guarantees fresh, quality vegetables packed at peak ripeness. Featuring a classic recipe. This zesty relish is perfect for enhancing a variety of menu items from hot dogs and hamburgers to sandwiches and soft pretzels with the cool and crisp taste of pickled veggies.</span><br><br><span><strong>Bursting with bold flavor</strong>, this tangy relish is with its classic recipe and crisp taste, relish is sure to delight your customers with taste they know and love.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887493816390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>059127</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887487033414</id>
+    <published>2018-11-28T14:59:41-05:00</published>
+    <updated>2018-11-28T14:59:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aeg-sliced-pickled-turnips-4-l"/>
+    <title>AEG - Sliced Pickled Turnips - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Gedik/AEG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aeg-sliced-pickled-turnips-4-l-814482.jpg?v=1624169046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gedik/AEG<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Serve your customers these Best Quality Pickles Crave to their Taste!</b></p>
+<p itemprop="description"><strong>Bold and bursting with flavor,</strong> these pickles  deliver just the right amount of tang to accentuate any dish! Perfect for any restaurant, deli, food truck, or bar, these pickles offer the characteristic sweet-and-sour bite and fresh, crunchy texture that your customers crave. Each jar of pickles harvested at the peak of ripeness and packaged in a perfectly seasoned, all-natural brine to ensure exceptional quality. As a result, each pickle is packed with a robust, garlic-laced dill flavor, making them the perfect finishing touch to your hearty cold-cut subs or as a side to your thick, juicy burgers and signature fried chicken wings.<br><br>These <strong>juicy pickles</strong> are cut into consistent, perfectly portioned sandwich-sized slices for maximum convenience and immediate service. While these are great as a standalone snack or for serving on your artfully crafted artisan sandwiches, the possibilities are endless! Offer pickles on your appetizer or bar bites menu, add them to your cheeseboard or charcuterie, or create a delicious pickle pasta salad. As a long-time foodie favorite, these pickles also make an excellent addition to the selection of specialty food items in your boutique grocery store or gourmet food market. Your customers are sure to love the crisp, satisfying taste of these pickles!<br></p>
+<div data-component="ReturnableDetails"></div>
+<div data-component="OutOfStockDetails"></div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/aeg-sliced-pickled-turnip-18-l#product","name":"Aeg -  Sliced Pickled Turnip - 18  L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887487033414","sku":"02BM438","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/aeg-sliced-pickled-turnip-18-l-bulk-mart_184.jpg","description":"Aeg - Sliced Pickled Turnip - 18 L.","category":"FOOD","brand":{"@type":"Brand","name":"Gedik/AEG"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"02BM438","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18"},"mpn":"","priceCurrency":"CAD","price":"29.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/aeg-sliced-pickled-turnip-18-l?variant=19271353991238","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pickled Vegetables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887487033414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>678454</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887458263110</id>
+    <published>2018-11-28T14:55:13-05:00</published>
+    <updated>2018-11-28T14:55:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bicks-squeeze-sweet-green-relish-500-ml"/>
+    <title>Bick&apos;s - Squeeze Sweet Green Relish - 500 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bick&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bicks-squeeze-sweet-green-relish-500-ml-516703.jpg?v=1611509074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bick&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bicks - Squeeze Sweet Green Relish - 500 ml</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Bick’s traditional Sweet Green Relish, in an easy to use Squeeze bottle to make it more convenient to add that sweet crunchy relish to any of your favourite BBQ fare. Bick’s Squeezable Sweet Green Relish is easy to use, store or bring to summer picnics or campouts!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">•A sweet blend of diced cucumbers and red pepper chunks in an easy to squeeze bottle.<br>•Comes in an easy to squeeze bottle for extra convenience.<br>•The perfect topping for all your favourite BBQ fare.<br>•Bick’s gives you the flavour and crunch you crave.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Relish</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887458263110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>059215</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

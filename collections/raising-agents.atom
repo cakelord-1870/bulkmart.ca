@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/raising-agents.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-22T20:04:10-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4809632809034</id>
+    <published>2020-10-22T20:04:10-04:00</published>
+    <updated>2020-10-22T20:04:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/red-star-dry-active-yeast-2-lbs"/>
+    <title>Red Star - Dry Active Yeast - 2 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/red-star-dry-active-yeast-2-lbs-574627.jpg?v=1611513397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Red Star - Dry Active Yeast - 2 Lbs</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! </span></p>
+<p><span>Lesaffre Red Star bakers active dry yeast 2 lb. vacuum pack can be used in all yeast-leavened goods, making it a versatile option for any bakery, pizzeria, or restaurant! The airtight vacuum packaging helps to extend this yeast's already lengthy shelf life by keeping moisture out. When you're ready to use it, simply dissolve the yeast in warm water before adding it into your ingredient mixture!<br><br>Yeast converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! This 2 lb. bag of active dry yeast is perfect for making pizza crust, round loaves, or long "French-style" breads.<br></span></p>
+<p><span><strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809632809034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>305154</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809631531082</id>
+    <published>2020-10-22T20:04:08-04:00</published>
+    <updated>2020-10-22T20:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pakmaya-dry-instant-yeast-20-x-454-g"/>
+    <title>Pakmaya - Dry Instant Yeast - 20 x 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pakmaya-dry-instant-yeast-20-x-454-g-709107.jpg?v=1611511955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            93.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pakmaya - Dry Instant Yeast - 20 x 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809631531082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.99</s:price>
+      <s:sku>30545</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809631367242</id>
+    <published>2020-10-22T20:04:06-04:00</published>
+    <updated>2020-10-22T20:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pakmaya-dry-instant-yeast-454-g"/>
+    <title>Pakmaya - Dry Instant Yeast - 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pakmaya-dry-instant-yeast-454-g-342709.jpg?v=1611512617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pakmaya - Dry Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809631367242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>30154</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809630810186</id>
+    <published>2020-10-22T20:04:05-04:00</published>
+    <updated>2020-10-22T20:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-bread-machine-yeast-jar-113-g"/>
+    <title>Fleischmann&apos;s - Bread Machine Yeast Jar - 113 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-bread-machine-yeast-jar-113-g-927447.jpg?v=1611511362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmanns - Bread Machine Yeast Jar - 113 g</strong></p>
+<p><span><strong>Reduce mixing time</strong> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast, also known as "bread machine yeast", saving you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809630810186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>30454</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809628713034</id>
+    <published>2020-10-22T20:04:03-04:00</published>
+    <updated>2020-10-22T20:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-quick-rise-yeast-jar-113-g"/>
+    <title>Fleischmann&apos;s - Quick Rise Yeast Jar - 113 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-quick-rise-yeast-jar-113-g-633508.jpg?v=1611510402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Quick Rise Yeast Jar - 113 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809628713034</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>30784</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809625469002</id>
+    <published>2020-10-22T20:04:02-04:00</published>
+    <updated>2020-10-22T20:04:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-quick-rise-yeast-envelopes-3-x-8-g"/>
+    <title>Fleischmann&apos;s - Quick Rise Yeast Envelopes - 3  x 8 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-quick-rise-yeast-envelopes-3-x-8-g-606402.jpg?v=1611510127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmanns - Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809625469002</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>30548</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4813503791178</id>
+    <published>2020-10-22T19:25:18-04:00</published>
+    <updated>2020-10-22T19:25:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/ab-mauri-baking-powder-50-lbs"/>
+    <title>AB Mauri - Baking Powder - 50 Lbs</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>AB Mauri</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/ABMauri-BakingPowder-50Lbs.jpg?v=1623980024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AB Mauri<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AB Mauri -  Baking Powder - 50 Lbs</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4813503791178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>602145</s:sku>
+      <s:grams>50000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809611345994</id>
+    <published>2020-10-22T19:25:17-04:00</published>
+    <updated>2020-10-22T19:25:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-oetker-baking-powder-6-x-14-g"/>
+    <title>Dr Oetker - Baking Powder - 6 x 14 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Dr Oetker</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/DrOetker-BakingPowder-6x14g.jpg?v=1629241121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Oetker<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Oetker - Baking Powder - 6 x 14 g</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809611345994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>601546</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809610952778</id>
+    <published>2020-10-22T19:25:15-04:00</published>
+    <updated>2020-10-22T19:25:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-225-g"/>
+    <title>Magic - Baking Powder - 225 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-225-g-295320.jpg?v=1611511541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809610952778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>607415</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809610559562</id>
+    <published>2020-10-22T19:25:14-04:00</published>
+    <updated>2020-10-22T19:25:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-450-g"/>
+    <title>Magic - Baking Powder - 450 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-450-g-334878.jpg?v=1611510634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Magic - Baking Powder - 450 g</strong></p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg#product","name":"Magic - Baking Powder - 2.5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"MajicBM448","sku":"icBM448","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-2-5-kg-bulk-mart_134.jpg","description":"Magic - Baking Powder - 2.5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Magic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"51"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.5"},"offers":[{"name":"Magic - Baking Powder - 2.5 Kg","sku":"icBM448","mpn":"MajicBM448","@type":"Offer","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg?variant=19271387873350","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809610559562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>6012458</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809607675978</id>
+    <published>2020-10-22T18:59:23-04:00</published>
+    <updated>2020-10-22T18:59:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-250-g"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 250 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arm_Hammer-BakingSoda-250g.jpg?v=1624068163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arm &amp; Hammer -  Baking Soda - 250 g</p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them.</span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809607675978</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>50321</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4809607610442</id>
+    <published>2020-10-22T18:59:22-04:00</published>
+    <updated>2020-10-22T18:59:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-500-g"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 500 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/Arm_Hammer-BakingSoda-500g..jpg?v=1624068178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arm &amp; Hammer - Baking Soda - 500 g</strong></p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them.</span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4809607610442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>50324</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887482576966</id>
+    <published>2020-04-20T23:07:34-04:00</published>
+    <updated>2020-04-20T23:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-instant-yeast-20-x-454-g"/>
+    <title>Fleischmann&apos;s - Instant Yeast - 20 x 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-instant-yeast-20-x-454-g-175944.jpg?v=1611510287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            145.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Instant Yeast - 20 x 454 g</strong></p>
+<p><span><strong>Reduce mixing time</strong> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/fleischmans-instant-yeast-20-x-454-g#product","name":"Fleischman’s - Instant Yeast - 20 x 454 g","itemCondition":"https://schema.org/NewCondition","mpn":"YeaFBM1130","sku":"FBM1130","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmans-instant-yeast-20-x-454-g-bulk-mart_649.jpg","description":"Fleischman&#039;s - Instant Yeast - 20 x 454 g...","category":"FOOD","brand":{"@type":"Brand","name":"Fleischmann's"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"37"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9.1"},"offers":[{"name":"Fleischman’s - Instant Yeast - 20 x 454 g","sku":"FBM1130","mpn":"YeaFBM1130","@type":"Offer","priceCurrency":"CAD","price":"215.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/fleischmans-instant-yeast-20-x-454-g?variant=19271344160838","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887482576966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.99</s:price>
+      <s:sku>30784</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4331208900682</id>
+    <published>2019-10-30T15:22:21-04:00</published>
+    <updated>2019-10-30T15:22:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/arm-hammer-pure-baking-soda-2-kg"/>
+    <title>Arm &amp; Hammer - Pure Baking Soda - 2 kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Arm &amp; Hammer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/arm-hammer-pure-baking-soda-2-kg-819934.jpg?v=1611508957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arm &amp; Hammer<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Arm &amp; Hammer -  Baking Soda - 2 kg</strong></p>
+<p><span><strong>Arm &amp; Hammer baking soda</strong> is your all-in-one product for baking, cleaning, and deodorizing. When baking, baking soda acts as a powerful leavening agent to create light, fluffy pastries, cakes, and cookies. For cleaning purposes, baking soda penetrates deep to neutralize and eliminate odors at their source instead of simply masking them. </span></p>
+<p><span><strong>Free of harsh chemicals and gentle on delicate surfaces</strong>, this all-natural, non-toxic baking soda is safe for use around children and pets in virtually any space. Be sure to store it in a cool, dry place, away from incompatible substances, such as acids, to avoid unwanted chemical reactions. It features perforations on the box for easy opening and convenient use. With multiple uses that include cleaning coffee makers, freshening laundry, and deodorizing dishwashers, this Arm &amp; Hammer baking soda is the perfect addition to both your kitchen pantry and cleaning closet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Soda</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4331208900682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>50146</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887523176518</id>
+    <published>2018-11-28T15:06:34-05:00</published>
+    <updated>2018-11-28T15:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pinnacle-baking-powder-5-kg"/>
+    <title>Pinnacle - Baking Powder - 5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>AB Mauri</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pinnacle-baking-powder-5-kg-762794.jpg?v=1611511954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AB Mauri<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pinnacle - Baking Powder - 5 Kg</strong></p>
+<p><span data-mce-fragment="1"><strong data-mce-fragment="1">Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887523176518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>604581</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887506694214</id>
+    <published>2018-11-28T15:03:25-05:00</published>
+    <updated>2018-11-28T15:03:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/magic-baking-powder-2-5-kg"/>
+    <title>Magic - Baking Powder - 2.5 Kg</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Magic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-25-kg-317513.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Magic<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Magic - Baking Powder - 2.5 Kg</strong></p>
+<p><span><strong>Perfect a variety of your signature baked goods</strong> with double acting baking powder! Primarily used as a leavening agent in dough and batter products that require rapid aeration, this double acting baking powder is ideal for producing superb quick rise breads. Neutral in taste, this baking powder does not affect the delectable flavor of your goods. This versatile leavener allows you to create consistent batches of biscuits, scones, muffins, cookies, and cakes in a quick and easy manner.</span><br><br><span><strong>Double acting baking powder</strong> should be thoroughly mixed with dry ingredients before adding to liquid ingredients. The batter or dough should then be used quickly after mixing due to the active leavening occurring. This will improve the overall volume of the goods being baked! Recommended for use in batters up to 6% by weight of flour and in cakes up to 5% by weight of flour for best results. A kitchen essential for any baker, double acting baking powder will provide you with the optimum consistency, texture, and volume for all of your baked goods!</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg#product","name":"Magic - Baking Powder - 2.5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"MajicBM448","sku":"icBM448","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/magic-baking-powder-2-5-kg-bulk-mart_134.jpg","description":"Magic - Baking Powder - 2.5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Magic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"51"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"2.5"},"offers":[{"name":"Magic - Baking Powder - 2.5 Kg","sku":"icBM448","mpn":"MajicBM448","@type":"Offer","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/magic-baking-powder-2-5-kg?variant=19271387873350","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Baking Powder</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887506694214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>602154</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887482642502</id>
+    <published>2018-11-28T14:59:01-05:00</published>
+    <updated>2018-11-28T14:59:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fleischmanns-instant-yeast-454-g"/>
+    <title>Fleischmann&apos;s - Instant Yeast - 454 g</title>
+    <s:type>BAKING</s:type>
+    <s:vendor>Fleischmann&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fleischmanns-instant-yeast-454-g-694258.jpg?v=1611509920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fleischmann&#39;s<br>
+        <strong>Type: </strong>BAKING<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fleischmann's - Instant Yeast - 454 g</strong></p>
+<p><strong data-mce-fragment="1">Reduce mixing time</strong><span data-mce-fragment="1"> by 10%-30% and shorten rising time by up to 50% with this Instant dry yeast vacuum pack! This instant dry yeast saves you time and, ultimately, money!</span><br><br><span><strong>Versatile enough to be used in a variety of bread-making processes</strong> with sugar levels up to 12%, it can be poured directly into a mixer, mixed with flour, or added at the beginning of a mixing process. All yeast, which acts as a leavening agent, converts sugars found in dough into carbon dioxide, causing the dough to expand. This process is what helps give bread the soft and airy texture we all know and love! <strong>This bag of instant dry yeast is perfect for making delicious bagels, croissants, donuts, and more.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Yeast</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887482642502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>30564</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

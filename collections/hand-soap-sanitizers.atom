@@ -1,0 +1,1242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/hand-soap-sanitizers.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-04-19T15:12:12-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6568964489290</id>
+    <published>2021-04-19T15:12:12-04:00</published>
+    <updated>2021-04-19T15:12:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-100-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 100 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-100-ml-901097.jpg?v=1618924322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 100 ml bottle. It’s 70% alcohol gel formula is strong enough to kill germs and bacteria. It’s aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>100 ml  bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6568964489290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>116602</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907988910154</id>
+    <published>2021-02-20T19:33:18-05:00</published>
+    <updated>2021-02-20T19:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-extra-strength-sanitizer-spray-80-alcohol-500-ml"/>
+    <title>Zytec - Germ Buster Extra Strength Sanitizer Spray 80% Alcohol - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-extra-strength-sanitizer-spray-80-alcohol-500-ml-975538.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h3 class="title">Product Description</h3>
+<p>This extra strength sanitizer by Zytec comes in a convenient 500 ml aerosol spray bottle. Its extra strength formula is strong enough to kill germs and bacteria on surfaces, and safe to use on hands. With 80% alcohol content, and fast action drying, this formula will help protect you and your family.</p>
+<h4>Features</h4>
+<ul>
+<li>500 ml bottle</li>
+<li>Contains 80% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Safe to spray on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907988910154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>225411</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907987927114</id>
+    <published>2021-02-20T19:33:18-05:00</published>
+    <updated>2021-02-20T19:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-all-purpose-disinfectant-spray-refill-lemon-scent-3-78-l"/>
+    <title>Zytec - All Purpose Disinfectant Spray Refill Lemon Scent - 3.78 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-all-purpose-disinfectant-spray-refill-lemon-scent-378-l-293332.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<h3 class="title">Product Description</h3>
+<h3 class="h5 product-details__title">Product Details</h3>
+<div class="product-details__content">
+<p>Zytec Germ Buster All-Purpose Disinfectant Pump Spray Refill kills harmful bacteria and may be used at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings.</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2">Disinfectant Pump Spray Refill which may be applied on hard, nonporous, environment and inanimate object surfaces</li>
+<li class="product-details__list-item mb-2">Main Ingredient: 4.5 % Citric Acid</li>
+<li class="product-details__list-item mb-2">Inactive Ingredients: Aqua, Laureth-7, Parfum, Sodium Citrate</li>
+<li class="product-details__list-item mb-2">3.78 L / 1 Gallon</li>
+<li class="product-details__list-item mb-2">Refill Jug</li>
+<li class="product-details__list-item mb-2"><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907987927114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>225410</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907987107914</id>
+    <published>2021-02-20T19:33:17-05:00</published>
+    <updated>2021-02-20T19:33:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-540-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 540 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-540-ml-631658.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 540ml bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>540ml bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+<ul></ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907987107914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>225413</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907986714698</id>
+    <published>2021-02-20T19:33:17-05:00</published>
+    <updated>2021-02-20T19:33:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-60-ml"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 60 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-60-ml-589715.jpg?v=1613878541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 60 ml bottle. It’s 70% alcohol gel formula is strong enough to kill germs and bacteria. It’s aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>60 ml  bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907986714698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>225414</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907986288714</id>
+    <published>2021-02-20T19:33:16-05:00</published>
+    <updated>2021-02-20T19:33:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-1-l"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 1 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-1-l-123646.jpg?v=1613878542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 1 Litre bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>1 Litre bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+<ul></ul>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+<br>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907986288714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>225412</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907977113674</id>
+    <published>2021-02-20T18:55:36-05:00</published>
+    <updated>2021-02-20T18:55:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-almonds-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Almonds - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-almonds-500-ml-817829.jpg?v=1613877691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907977113674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64112</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907976720458</id>
+    <published>2021-02-20T18:55:36-05:00</published>
+    <updated>2021-02-20T18:55:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-lily-ginger-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Lily &amp; Ginger - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-lily-ginger-500-ml-836717.jpg?v=1613877699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907976720458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64115</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907976654922</id>
+    <published>2021-02-20T18:55:35-05:00</published>
+    <updated>2021-02-20T18:55:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-kiwi-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Kiwi - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-kiwi-500-ml-705170.jpg?v=1613877701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907976654922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64114</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907976523850</id>
+    <published>2021-02-20T18:55:35-05:00</published>
+    <updated>2021-02-20T18:55:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-ocean-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap Ocean - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-ocean-500-ml-361927.jpg?v=1613877702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907976523850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>64111</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907976196170</id>
+    <published>2021-02-20T18:55:34-05:00</published>
+    <updated>2021-02-20T18:55:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-red-berries-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Red Berries - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-red-berries-500-ml-109634.jpg?v=1613877698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907976196170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>64116</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907976130634</id>
+    <published>2021-02-20T18:55:34-05:00</published>
+    <updated>2021-02-20T18:55:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-apple-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Apple - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-apple-500-ml-217645.jpg?v=1613877699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907976130634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64113</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907974885450</id>
+    <published>2021-02-20T18:55:34-05:00</published>
+    <updated>2021-02-20T18:55:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-rose-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Rose - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-rose-500-ml-742961.jpg?v=1613877705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907974885450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64117</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4907974852682</id>
+    <published>2021-02-20T18:55:33-05:00</published>
+    <updated>2021-02-20T18:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/purest-moisturizing-liquid-hand-soap-with-lavender-500-ml"/>
+    <title>Purest - Moisturizing Liquid Hand Soap With Lavender - 500 ml</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Purest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/purest-moisturizing-liquid-hand-soap-with-lavender-500-ml-633367.jpg?v=1613877700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Purest<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4907974852682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>64110</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4898626797642</id>
+    <published>2021-02-09T22:55:59-05:00</published>
+    <updated>2021-02-09T22:55:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-3-78l"/>
+    <title>Zytec - Germ Buster Gel Hand Sanitizer Pro 70% Alcohol - 3.78L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-gel-hand-sanitizer-pro-70-alcohol-378l-647336.jpg?v=1613034464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<h3 class="title">Product Description</h3>
+<p>This sanitizer by Zytec comes in a convenient 3.78 Litre bottle. Its’ 70% alcohol gel formula is strong enough to kill germs and bacteria on surfaces, and its aloe and Vitamin E enriched formula makes it safe and soft for use on hands.</p>
+<h4>Features</h4>
+<ul>
+<li>With Pump</li>
+<li>3.78 Litre bottle</li>
+<li>Contains 70% alcohol</li>
+<li>Kills harmful germs and bacteria</li>
+<li>Enriched with aloe, vitamin E and additional moisturizers</li>
+<li>Safe to use on hands</li>
+<li>Dries quickly</li>
+<li>Does not require wiping or rinsing</li>
+<li>Leaves no residue behind</li>
+<li>Ideal for home, office, and gyms</li>
+<li><span>Made in Canada</span></li>
+</ul>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Sanitizers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4898626797642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>231709</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4898613493834</id>
+    <published>2021-02-09T22:41:17-05:00</published>
+    <updated>2021-02-09T22:41:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-800-pack"/>
+    <title>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 800/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-800pack-914877.jpg?v=1613034464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 800/Pack</p>
+<p><span style="font-size: 1.4em;"><strong>DETAILS</strong></span><br></p>
+<div id="ccs-mkt-desc">
+<ul>
+<li>Kills 99.9% of viruses and bacteria</li>
+<li>For use at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings</li>
+<li>Pop-up container for easy dispensing</li>
+<li>Lemon scented</li>
+<li>May be used to clean or decontaminate critical or semi-critical medical devices prior to sterilization or high-level disinfection</li>
+<li>Drug Identification Number (DIN): 02502739</li>
+<li>Use directly onto hard surfaces and inanimate objects</li>
+<li>
+<ul role="presentation"></ul>
+<span style="font-size: 1.4em;">MADE IN CANADA</span><br>
+</li>
+<li>Each wipe is 17 cm x 20 cm</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4898613493834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>96738</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4897216102474</id>
+    <published>2021-02-08T11:48:47-05:00</published>
+    <updated>2021-02-08T11:48:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-100-pack"/>
+    <title>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 100/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Zytec</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zytec-germ-buster-disinfectant-wipes-lemon-scented-100pack-833248.jpg?v=1612834555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zytec<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zytec - Germ Buster Disinfectant Wipes Lemon Scented - 100/Pack</p>
+<h2>DETAILS</h2>
+<div id="ccs-mkt-desc">
+<ul>
+<li>Kills 99.9% of viruses and bacteria</li>
+<li>For use at home or at offices, schools, health care facilities, hospitals and other commercial and institutional settings</li>
+<li>Pop-up container for easy dispensing</li>
+<li>Lemon scented</li>
+<li>May be used to clean or decontaminate critical or semi-critical medical devices prior to sterilization or high-level disinfection</li>
+<li>Drug Identification Number (DIN): 02502739</li>
+<li>MADE IN CANADA</li>
+<li>Each wipe is 17 cm x 20 cm</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4897216102474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>225501</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4847180611658</id>
+    <published>2020-12-18T19:18:58-05:00</published>
+    <updated>2020-12-18T19:18:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vega-70-alcohol-wipes-100-wipes"/>
+    <title>VEGA - 70% Alcohol Wipes - 100 Wipes</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>VEGA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vega-70-alcohol-wipes-100-wipes-927577.jpg?v=1611513756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VEGA<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>VEGA - 70% Alcohol Wipes - 100 Wipes / Pack</strong></p>
+<p><span>VEGA - Kills 99.9% of germs, Alcohol Disinfecting antibacterial Wipes that quickly and effectively clean, shine and disinfect all washable surfaces in household and industrial use. For External use only.</span></p>
+<p><br><span>Perfect for : Schools, Household appliances, restaurant tables, offices, hotels etc…</span><br><span>The standard package contains 100 wipes</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Disinfectant Wipes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4847180611658</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>225500</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856829542474</id>
+    <published>2020-12-14T17:37:38-05:00</published>
+    <updated>2020-12-14T17:37:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/first-chemical-neutramax-liquid-hand-soap-4-x-4-l"/>
+    <title>First Chemical - Neutramax Liquid Hand Soap - 4 x 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>First Chemical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/first-chemical-neutramax-liquid-hand-soap-4-x-4-l-743529.png?v=1611512971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>First Chemical<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First Chemical - Neutramax Liquid Hand Soap - 4 x 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856829542474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>241044</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856827641930</id>
+    <published>2020-12-14T17:37:37-05:00</published>
+    <updated>2020-12-14T17:37:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/first-chemical-neutramax-liquid-hand-soap-4-l"/>
+    <title>First Chemical - Neutramax Liquid Hand Soap - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>First Chemical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/first-chemical-neutramax-liquid-hand-soap-4-l-419309.png?v=1611512675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>First Chemical<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>First Chemical - Neutramax Liquid Hand Soap - 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856827641930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>241043</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856814272586</id>
+    <published>2020-12-14T17:37:37-05:00</published>
+    <updated>2020-12-14T17:37:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprakita-kreme-hand-body-lotion-4-l"/>
+    <title>Sprakita - Kreme Hand &amp; Body Lotion - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Sprakita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprakita-kreme-hand-body-lotion-4-l-926232.png?v=1611512853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprakita<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kreme Hand Soap - Hand &amp; Body Lotion - 4 x 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856814272586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>241053</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856813977674</id>
+    <published>2020-12-14T17:37:36-05:00</published>
+    <updated>2020-12-14T17:37:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprakita-kreme-hand-body-lotion-4-x-4-l"/>
+    <title>Sprakita - Kreme Hand &amp; Body Lotion - 4 x  4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Sprakita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprakita-kreme-hand-body-lotion-4-x-4-l-618533.png?v=1611513880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprakita<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kreme - Hand Soap Hand &amp; Body Lotion - 4 x 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856813977674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>241054</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856810274890</id>
+    <published>2020-12-14T17:37:35-05:00</published>
+    <updated>2020-12-14T17:37:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soft-touch-foam-soap-foaming-skin-cleanser-4-x-4-l"/>
+    <title>Soft Touch - Foam Soap Foaming Skin Cleanser - 4 x 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Soft Touch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soft-touch-foam-soap-foaming-skin-cleanser-4-x-4-l-193366.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft Touch<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft Touch - Foam Soap Foaming Skin Cleanser - 4 x 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856810274890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>241050</s:sku>
+      <s:grams>16000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856809750602</id>
+    <published>2020-12-14T17:37:34-05:00</published>
+    <updated>2020-12-14T17:37:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/soft-touch-foam-soap-foaming-skin-cleanser-4-l"/>
+    <title>Soft Touch - Foam Soap Foaming Skin Cleanser - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Soft Touch</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/soft-touch-foam-soap-foaming-skin-cleanser-4-l-165883.jpg?v=1611512435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Soft Touch<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soft Touch - Foam Soap Foaming Skin Cleanser - 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856809750602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>241049</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4856805818442</id>
+    <published>2020-12-14T17:37:33-05:00</published>
+    <updated>2020-12-14T17:37:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sprakita-anti-bacterial-hand-soap-pearl-white-4-l"/>
+    <title>Sprakita - Anti Bacterial Hand Soap Pearl White - 4 L</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Sprakita</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sprakita-anti-bacterial-hand-soap-pearl-white-4-l-750140.png?v=1611514430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sprakita<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sprakita - Anti Bacterial Hand Soap Pearl White- 4 L</p>
+<h2 class="headline">Enjoy the feeling of clean hands without drying out your skin when you use this hand soap.</h2>
+<p><span>This economical soap is perfect for hotel, restaurant, or theater restrooms thanks to its large size and deep cleaning qualities. Formulated with special emollients, this soap is gentle on hands and tough on dirt and germs to help keep your guests' and staff's hands clean and healthy. Its gentle formula won't dry out hands like many other hand soaps.</span></p>
+<h3 class="item-header">Deep Cleaning</h3>
+<p>Made with foam builders and stabilizers, grease cutting agents, and pH neutralizers, this hand soap is sure to get the job done. Plus, it is versatile enough that is works well with both hot or cold water so you can use it in various locations!</p>
+<h3 class="item-header">Instructions Included</h3>
+<p>Safety and use instructions are located directly on the label to clearly inform the user of proper handling techniques, a definite benefit in a work environment!</p>
+<h3 class="item-header">Easy-to-Carry</h3>
+<p>In addition, the bulk container is easy to carry with a convenient handle and tight-sealing twist cap to reduce leakage. Perfect for filling up soap containers!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soaps</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4856805818442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>241051</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

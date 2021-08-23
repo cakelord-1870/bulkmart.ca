@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/electrical-supplies.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-01-04T17:17:04-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612635722</id>
+    <published>2021-01-04T17:17:04-05:00</published>
+    <updated>2021-01-04T17:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-25ft-network-cable-cat6-each"/>
+    <title>Chateau - 25FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-25ft-network-cable-cat6-each-422692.jpg?v=1611509974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 25FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612635722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>95140</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612537418</id>
+    <published>2021-01-04T17:17:03-05:00</published>
+    <updated>2021-01-04T17:17:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-75ft-network-cable-cat6-each"/>
+    <title>Chateau - 75FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-75ft-network-cable-cat6-each-711565.jpg?v=1611509733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 75FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612537418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>95145</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862612045898</id>
+    <published>2021-01-04T17:17:02-05:00</published>
+    <updated>2021-01-04T17:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-50ft-network-cable-cat6-each"/>
+    <title>Chateau - 50FT Network Cable CAT6 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-50ft-network-cable-cat6-each-887732.jpg?v=1611511895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - 50FT Network Cable CAT6 - Each<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extension Cords</s:tag>
+    <s:tag>Network Cables</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862612045898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>95143</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866482634826</id>
+    <published>2020-12-28T19:25:23-05:00</published>
+    <updated>2020-12-28T19:25:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-indoor-outdoor-wall-thermometer-each"/>
+    <title>Chateau - Indoor &amp; Outdoor Wall Thermometer - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-indoor-outdoor-wall-thermometer-each-590602.jpg?v=1611509432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div data-mce-fragment="1" data-automation="long-description" class="css-1nf1bpj e1mpbtcv2"></div>
+Chateau - Indoor &amp; Outdoor Wall Thermometer, TH-1<br>
+</div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description"></div>
+<div data-mce-fragment="1" class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<p><span style="color: #000000;" color="#000000"><span>wall thermometer that will help you know the outside and inside temperature of the house, the garage and even the swimming pool.</span></span></p>
+<p><span style="color: #000000;" color="#000000"><span><strong>Features:</strong></span></span></p>
+<ul>
+<li><span style="color: #000000;" color="#000000"><span>Celsius : -30 ° C to 50 ° C</span></span></li>
+<li><span style="color: #000000;" color="#000000"><span>Farenheight: -20 ° F to 120 ° F</span></span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maintenance Tools</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866482634826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>12124</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866482339914</id>
+    <published>2020-12-28T19:25:22-05:00</published>
+    <updated>2020-12-28T19:25:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-indoor-outdoor-jumbo-wall-thermometer-each"/>
+    <title>Chateau - Indoor &amp; Outdoor Jumbo Wall Thermometer - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-indoor-outdoor-jumbo-wall-thermometer-each-619775.jpg?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description" data-mce-fragment="1"></div>
+Chateau - Indoor &amp; Outdoor Jumbo Wall Thermometer, WT-16<br>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1"></div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<div class="desc">
+<div class="tiny">
+<p><span color="#000000" style="color: #000000;"><span>A giant wall thermometer that will help you know the outside and inside temperature of the house, the garage and even the swimming pool.</span></span></p>
+<p><span color="#000000" style="color: #000000;"><span><strong>Features:</strong></span></span></p>
+<ul>
+<li><span color="#000000" style="color: #000000;"><span>Celsius : -30 ° C to 50 ° C</span></span></li>
+<li><span color="#000000" style="color: #000000;"><span>Farenheight: -20 ° F to 120 ° F</span></span></li>
+<li><span color="#000000" style="color: #000000;"><span>Dimensions: 40cm X 6.5cm</span></span></li>
+<li>Extra large easy to read face</li>
+</ul>
+</div>
+</div>
+</div>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2" data-mce-fragment="1">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">For indoor and outdoor use</span></li>
+<li><span class="a-list-item">Weather resistant and rust proof</span></li>
+<li><span class="a-list-item">Easy mount design</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maintenance Tools</s:tag>
+    <s:tag>Thermometers</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866482339914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>12123</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866449571914</id>
+    <published>2020-12-28T16:34:03-05:00</published>
+    <updated>2020-12-28T16:34:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chateau-wireless-optical-mouse-2-4ghz-with-usb-receiver-each"/>
+    <title>Chateau - Wireless Optical Mouse 2.4GHz With USB Receiver - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Chateau</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chateau-wireless-optical-mouse-24ghz-with-usb-receiver-each-328293.png?v=1611509252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chateau<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Chateau - Wireless Optical Mouse 2.4GHz - Each WM-5000</strong></div>
+<div>2.4GHz Wireless Mouse Cordless Optical Mice &amp;USB Receiver For Computer Laptop PC</div>
+<div>Features:<span> </span>Comfortable soft finish, Adjustable DPI, Ergonomic</div>
+<div>Color Black</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wireless Mouse</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866449571914</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>3320145</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866448097354</id>
+    <published>2020-12-28T16:14:57-05:00</published>
+    <updated>2020-12-28T16:14:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/philips-120-minutes-dvd-r-blank-disc-16x-speed-4-7gb-each"/>
+    <title>Philips - 120 Minutes DVD-R Blank Disc 16x Speed 4.7GB - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Philips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/philips-120-minutes-dvd-r-blank-disc-16x-speed-47gb-each-960888.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Philips<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Philips - 120 Minutes DVD-R Blank Disc 1-16x Speed 4.7GB - Each</strong></div>
+<div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Philips DVD + R blank discs are powerful and comfortable that can be written on storage media for a standard DVD writers and DVD playback devices (DVD player, Playstation, Xbox, etc.)</span></li>
+<li><span class="a-list-item">The storage capacity is 4.7 Gigabyte. This is equivalent to a video playing time of 120 minutes. Version of inkjet printable can print you the surface to your liking.</span></li>
+<li><span class="a-list-item">'Speed: 16x. Blanks have a very bright Archiv service life for longer user experience by Philips.</span></li>
+</ul>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CDs &amp; DVDs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866448097354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>220120</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866444853322</id>
+    <published>2020-12-28T16:14:56-05:00</published>
+    <updated>2020-12-28T16:14:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/philips-80-minutes-cd-r-blank-disc-52x-speed-700mb-each"/>
+    <title>Philips - 80 Minutes CD-R Blank Disc 52x Speed 700MB - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Philips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/philips-80-minutes-cd-r-blank-disc-52x-speed-700mb-each-631389.jpg?v=1611512795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Philips<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Philips - 80 Minutes CD-R Blanc Disc 52x Speed 700MB - Each</strong></div>
+<div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Suitable for the fastest recording speed available</span></li>
+<li><span class="a-list-item">52x top recording speed on a CDR/RW burner</span></li>
+<li><span class="a-list-item">Perfect solution for data, PC music, photo &amp; games</span></li>
+<li><span class="a-list-item">700 MB storage capacity equals 80 min. music recording time</span></li>
+<li><span class="a-list-item">Ultimate playback for data access on any CDROM drive</span></li>
+<li><span class="a-list-item">Optimal accessibility for your data</span></li>
+</ul>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CDs &amp; DVDs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866444853322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>220121</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866443378762</id>
+    <published>2020-12-28T15:47:10-05:00</published>
+    <updated>2020-12-28T15:47:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/powerdel-28-led-aluminum-flashlight-with-3-aaa-included-each"/>
+    <title>PowerDel - 28 LED Aluminum Flashlight With 3 AAA Included - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>PowerDel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/powerdel-28-led-aluminum-flashlight-with-3-aaa-included-each-654733.png?v=1611514664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PowerDel<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>PowerDel -28 LED Aluminum Flash Light, 3 x AAA Batteries Included, LED-28</div>
+<div>
+<ul>
+<li>Ideal for Travel. Batteries Included.</li>
+<li><span> Brilliant and uniform light beam</span></li>
+<li><span> Anodized <em>aluminum</em> for improved corrosion resistance; </span></li>
+<li><span>Shock resistant;</span></li>
+<li><span> On/Off button;</span></li>
+</ul>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flash Lights</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866443378762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>220152</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866432008266</id>
+    <published>2020-12-28T14:12:53-05:00</published>
+    <updated>2020-12-28T14:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-40w-frosted-multipurpose-light-bulb-p-11140f-each"/>
+    <title>Luminus - 40W Frosted Multipurpose Light Bulb, P-11140F - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-40w-frosted-multipurpose-light-bulb-p-11140f-each-668594.png?v=1611512196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Luminus - 40W Frosted Multipurpose Light Bulb P-11140F - Each</strong></div>
+<div>
+<div>Luminus Multi purpose bulbs are designed to resist extreme temperatures. They are constructed with heavy duty filament to resist burnout due to vibrations.</div>
+<div>
+<ul>
+<li>Ideal for use in all household applications and fan fixtures</li>
+<li>Recommended for use whenever vibration is a problem, such as ceiling fans, garage door openers, work lights etc.</li>
+<li>Indoor and Outdoor use </li>
+</ul>
+</div>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866432008266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>613029</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866430664778</id>
+    <published>2020-12-28T14:12:53-05:00</published>
+    <updated>2020-12-28T14:12:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eclipse-9w-energy-saver-daylight-cfl-bulb-e26-base-each"/>
+    <title>Eclipse - 9W Energy Saver Daylight CFL Bulb E26 Base - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Eclipse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eclipse-9w-energy-saver-daylight-cfl-bulb-e26-base-each-301039.jpg?v=1611513698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclipse<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Eclipse - 9W=40W Energy Saver Daylight CFL Bulb E26 Base - CSL-9</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866430664778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>613023</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866429911114</id>
+    <published>2020-12-28T14:12:52-05:00</published>
+    <updated>2020-12-28T14:12:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eclipse-23w-energy-saver-day-light-cfl-bulb-e26-base-each"/>
+    <title>Eclipse - 23W Energy Saver Day Light CFL Bulb E26 Base - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Eclipse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eclipse-23w-energy-saver-day-light-cfl-bulb-e26-base-each-915381.jpg?v=1611510396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclipse<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Eclipse - 23W=100W Energy Saver Day Light CFL Bulb E26 Base, CSL-23</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866429911114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>613022</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866428567626</id>
+    <published>2020-12-28T14:12:51-05:00</published>
+    <updated>2020-12-28T14:12:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/eclipse-13w-energy-saver-day-light-cfl-bulb-e26-base-each"/>
+    <title>Eclipse - 13W Energy Saver Day Light CFL Bulb E26 Base - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Eclipse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/eclipse-13w-energy-saver-day-light-cfl-bulb-e26-base-each-359362.jpg?v=1611509792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclipse<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Eclipse - 13W=60W Energy Saver White CFL Bulb E26 Base, CSL-13 </div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866428567626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>613020</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866407792714</id>
+    <published>2020-12-28T14:12:51-05:00</published>
+    <updated>2020-12-28T14:12:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-gu10-5w-bright-white-dimmable-led-light-bulb-each"/>
+    <title>Luminus - GU10 - 5W Bright White Dimmable LED Light Bulb - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-gu10-5w-bright-white-dimmable-led-light-bulb-each-138719.jpg?v=1611513455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Luminus Basix - GU10 - 5W=35W LED Bright White Dimmable Light Bulb 3000k, PLYB2003 - Each</strong></div>
+<div><span>Light up your home while saving energy with this Luminus LED light bulb. This GU10 bulb uses only 5 W, but provides a light that is equivalent to traditional 35W bulbs. It emits a dimmable bright white light, and produces a brightness of lumens as well as a colour temperature of 3000 K. Backed by a 3-year limited warranty.</span></div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866407792714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>613039</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866405564490</id>
+    <published>2020-12-28T14:12:50-05:00</published>
+    <updated>2020-12-28T14:12:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-mr16-6w-bright-white-dimmable-led-light-bulb-each"/>
+    <title>Luminus - MR16 - 6W Bright White Dimmable LED Light Bulb - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-mr16-6w-bright-white-dimmable-led-light-bulb-each-167596.jpg?v=1611512313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus Basix - MR16 - 6W=35W LED Bright White Light Bulb 3000k, PLYB62503 - Each</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866405564490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>613040</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866403336266</id>
+    <published>2020-12-28T14:12:49-05:00</published>
+    <updated>2020-12-28T14:12:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-b11-4w-warm-white-dimmable-filament-led-bulb-e26-base-each"/>
+    <title>Luminus - B11 - 4W Warm White Dimmable Filament LED Bulb E26 Base - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-b11-4w-warm-white-dimmable-filament-led-bulb-e26-base-each-116462.jpg?v=1611510581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Luminus Basix - B11 - 4W=40W Warm White Dimmable Filament LED Bulb E26 Base, 315 Lumens 2700K 10,000 Hours - PLYB6012M - Each</strong></div>
+<div>
+<p class="hdca-p-vertical--x-small hdca-text-body--small">This LED bulb is completely dimmable and ideal for general home and office use in lamps, ceiling fixtures, vanities, and wall sconces. LED's turn on instantly, are very durable, are not prone to failure and emit very little heat. Reducing waste and saving you energy, time and money, these are the perfect bulbs to help you go green and stay that way!</p>
+<section class="hdca-list hdca-list--is-bulleted hdca-list--small-text" id="productFeature">
+<ol class="hdca-list__list"></ol>
+</section>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866403336266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>613037</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866401632330</id>
+    <published>2020-12-28T14:12:49-05:00</published>
+    <updated>2020-12-28T14:12:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-40w-clear-multipurpose-light-bulb-p-11140-each"/>
+    <title>Luminus - 40W Clear Multipurpose Light Bulb, P-11140 - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-40w-clear-multipurpose-light-bulb-p-11140-each-629703.png?v=1611511474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Luminus - 40W Clear Multipurpose Light Bulb, P-11140 - Each</strong></div>
+<div>Luminus Multi purpose bulbs are designed to resist extreme temperatures. They are constructed with heavy duty filament to resist burnout due to vibrations.</div>
+<div>
+<ul>
+<li>Ideal for use in all household applications and fan fixtures</li>
+<li>Recommended for use whenever vibration is a problem, such as ceiling fans, garage door openers, work lights etc.</li>
+<li>Indoor and Outdoor use </li>
+</ul>
+</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866401632330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>761308</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866400911434</id>
+    <published>2020-12-28T14:12:48-05:00</published>
+    <updated>2020-12-28T14:12:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-7w-clear-night-light-bulb-p-11907-4-pack"/>
+    <title>Luminus - 7W Clear Night Light Bulb, P-11907 - 4 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-7w-clear-night-light-bulb-p-11907-4-pack-791496.png?v=1611510937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 7W Clear Night Light Bulb, P-11907 - 4 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866400911434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>613032</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866399535178</id>
+    <published>2020-12-28T14:12:47-05:00</published>
+    <updated>2020-12-28T14:12:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cm-gu10-50w-halogen-flood-large-bulb-each"/>
+    <title>CM - GU10 - 50W Halogen Flood Large Bulb - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>CM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cm-gu10-50w-halogen-flood-large-bulb-each-558744.jpg?v=1611509379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CM<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>CM - 50W Halogen Flood Large Bulb, GU10-50W - Each</strong></div>
+<div><span>GU10 Halogen Flood Bulbs can be used in ALL GU10 fixtures. The glass lens makes it suitable for use in closed and open fixtures. Aluminum Reflector, reduces heat build up in the fixture. They can enhance the look of your home with its bright, white light. Halogen GU10 lamps are dimmable, so you can change the mood of your room. Flood Lighting gives off a wide beam of light, ideal for general lighting.</span></div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866399535178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>613021</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866398584906</id>
+    <published>2020-12-28T14:12:47-05:00</published>
+    <updated>2020-12-28T14:12:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-60w-clear-chandelier-light-bulb-p-11660-2-pack"/>
+    <title>Luminus - 60W Clear Chandelier Light Bulb, P-11660 - 2 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-60w-clear-chandelier-light-bulb-p-11660-2-pack-109279.png?v=1611514667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 60W Clear Chandelier Light Bulb Thick Base - 2 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866398584906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>613031</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4866397765706</id>
+    <published>2020-12-28T14:12:46-05:00</published>
+    <updated>2020-12-28T14:12:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-25w-clear-chandelier-light-bulb-p-11625-2-pack"/>
+    <title>Luminus - 25W Clear Chandelier Light Bulb, P-11625 - 2 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-25w-clear-chandelier-light-bulb-p-11625-2-pack-610808.png?v=1611514608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 25W Clear Chandelier Light Bulb Thick Base - 2 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4866397765706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>561305</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862609752138</id>
+    <published>2020-12-28T14:12:45-05:00</published>
+    <updated>2020-12-28T14:12:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-25w-clear-chandelier-light-bulb-p-11325-2-pack"/>
+    <title>Luminus - 25W Clear Chandelier Light Bulb, P-11325 - 2 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-25w-clear-chandelier-light-bulb-p-11325-2-pack-934801.png?v=1611510832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 25W Clear Chandelier Light Bulb - 2 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862609752138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>613024</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862609162314</id>
+    <published>2020-12-28T14:12:45-05:00</published>
+    <updated>2020-12-28T14:12:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-40w-clear-chandelier-light-bulb-p-11640-2-pack"/>
+    <title>Luminus - 40W Clear Chandelier Light Bulb, P-11640 - 2 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-40w-clear-chandelier-light-bulb-p-11640-2-pack-162622.png?v=1611512852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 40W Clear Chandelier Light Bulb Thick Base - 2 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862609162314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>613026</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862608638026</id>
+    <published>2020-12-28T14:12:44-05:00</published>
+    <updated>2020-12-28T14:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-60w-clear-chandelier-light-bulb-p-11360-2-pack"/>
+    <title>Luminus - 60W Clear Chandelier Light Bulb, P-11360 - 2 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-60w-clear-chandelier-light-bulb-p-11360-2-pack-905399.png?v=1611511052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Luminus - 60W Clear Chandelier Light Bulb - 2 / Pack</div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862608638026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>613030</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4862606508106</id>
+    <published>2020-12-28T14:12:43-05:00</published>
+    <updated>2020-12-28T14:12:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/luminus-b11-4w-warm-white-dimmable-filament-led-bulb-e12-base-each"/>
+    <title>Luminus - B11 - 4W Warm White Dimmable Filament LED Bulb E12 Base - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Luminus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/luminus-b11-4w-warm-white-dimmable-filament-led-bulb-e12-base-each-227221.jpg?v=1611513944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Luminus<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Luminus Basix - 4W LED Chandelier Small Base Warm White Bulb PLYB6112 - Each</strong></div>
+<div>
+<span>Luminus® filament LEDs are ideal for fixtures that expose all or parts of the bulb.  Their look and shape are virtually identical to traditional incandescent bulbs, but LED technology provides long life and significant energy savings.  Luminus® B11 LED candle bulb with E12 chandelier base bulb design offers all-around light distribution making these ideal for decorative household lighting such as chandeliers, wall sconces, and lanterns.</span><br><br><span>This bulb is a warm white 2700 K temperature which is similar in look to the light produced by an incandescent bulb.  The 4 W Luminus® B11 LED bulb the perfect replacement for a traditional 40 W candle incandescent bulb and is fully dimmable.  This Luminus® bulb benefits from Tru-Form® design allowing for an easy fit in your existing fixtures. This bulb has an average life of 15,000 hours, is ENERGY STAR® certified, RoHS compliant and mercury-free, making it an energy efficient, environmentally conscious alternative to conventional bulbs.  </span><br><br><span>Features:</span><br>
+<ul>
+<ul>
+<li>Actual wattage:  4</li>
+<li>Replacement wattage:  40</li>
+<li>Energy savings:  86%</li>
+<li>Brightness (Lumens):  330</li>
+<li>Average life (hours):  15,000</li>
+<li>Colour temperature (Kelvin):  2700 K (warm white)</li>
+<li>Usage:  Indoor, dimmable</li>
+<li>Applications:  Chandeliers and decorative light fixtures</li>
+<li>Beam angle:  300°</li>
+<li>Colour Rendering Index (CRI):  &gt;80</li>
+<li>Volts:  120</li>
+<li>Base:  E12</li>
+<li>Life (years):  13*</li>
+<li>Estimated yearly energy cost:  $0.48**</li>
+<li>Estimated yearly energy savings:  $4.50**</li>
+<li>cUL Certified</li>
+</ul>
+</ul>
+<br><span>Specifications:</span><br>
+<ul>
+<ul>
+<li>Bulb diameter (mm):  32</li>
+<li>Bulb length (mm):  92.5</li>
+</ul>
+</ul>
+<br><span>Model: </span><span>PLF6112</span><br><br><span>* Life is based on usage of 3 hours/day, 365 days/year</span><br><span>** Estimated Yearly Energy Cost/Savings are based on usage of 3 hours/day, 365 days/year at a rate of 0.11$/kWh.  Cost/Savings may vary depending on local rates and usage.</span>
+</div>
+<div><span>Incandescent style filament LED bulb from Luminus. Ideal for use in fixtures that expose partially or entirely the bulb. Dimmable. Equals a traditional 40W bulb. 3-year warranty.</span></div>
+<ul></ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/printer-cartridge-per-case#product","name":"Star SP 700 Printer Ribbon - 6 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3960039211078","sku":"10BM151","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/printer-cartridge-per-case-bulk-mart_233.jpg","description":"Star SP 700 Printer Ribbon - 6 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"10BM151","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/printer-cartridge-per-case?variant=29511898333254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Light Bulbs</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4862606508106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>5613036</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

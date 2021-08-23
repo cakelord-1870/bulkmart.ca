@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/plastic-cups-lids.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-03T18:39:49-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6630848528458</id>
+    <published>2021-08-03T18:39:49-04:00</published>
+    <updated>2021-08-03T18:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-clear-dome-lid-straw-slot-for-16-24-oz-cups-1000-case"/>
+    <title>Dart - Clear Dome Lid Straw Slot For 16-24 oz Cups - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-clear-dome-lid-straw-slot-for-16-24-oz-cups-1000case-201104.jpg?v=1628039957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With this clear Dome lid, you can reduce drips and spills, and allow customers to easily slide a drinking straw into its center slot for convenient drinking. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo plastic lid is the economical choice that gives you functionality, durability, quality, and satisfaction!<br></p>
+<p>Dart - DLR626 - Clear Dome Lid Straw Slot For 16-24 oz Cups - 1000/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6630848528458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>200023</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622882594890</id>
+    <published>2021-07-22T11:13:48-04:00</published>
+    <updated>2021-07-22T11:13:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cafe-express-16-oz-clear-plastic-cup-50-pack"/>
+    <title>Cafe Express - 16 Oz Clear Plastic Cup - 50/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cafe Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cafe-express-16-oz-clear-plastic-cup-50pack-101452.jpg?v=1626984416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cafe Express<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Clear 16 oz. clear PP plastic cold cup is perfect for serving refreshing drinks and cocktails at your bar or catered event. You can also use this cup to serve fruit salads, desserts, or appetizers. This product is compatible with a standard lid size, which makes it easy to serve guests drinks on the go. Regardless of the type of business you own, plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p>
+<p><span>Cafe Express - 16 Oz Clear Plastic Cups - 50/Pack</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve#product","name":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4471744954442","sku":"ABM2921","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-clear-tp16d-16-oz-pet-plastic-cup-1000-case-bulk-mart_977_63c3cb59-4fa5-4643-9e03-60e714ce05ff.jpg","description":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2921","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"15"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve?variant=31663294906442","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622882594890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66001</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6622868209738</id>
+    <published>2021-07-22T11:13:47-04:00</published>
+    <updated>2021-07-22T11:13:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/cafe-express-16-oz-clear-plastic-cup-500-case"/>
+    <title>Cafe Express - 16 Oz Clear Plastic Cup - 500/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Cafe Express</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/cafe-express-16-oz-clear-plastic-cup-500case-179267.jpg?v=1626984415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cafe Express<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Clear 16 oz. clear PP plastic cold cup is perfect for serving refreshing drinks and cocktails at your bar or catered event. You can also use this cup to serve fruit salads, desserts, or appetizers. This product is compatible with a standard lid size, which makes it easy to serve guests drinks on the go. Regardless of the type of business you own, plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p>
+<p>Cafe Express - 16 Oz Clear Plastic Cups - 500/Case</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve#product","name":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4471744954442","sku":"ABM2921","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-clear-tp16d-16-oz-pet-plastic-cup-1000-case-bulk-mart_977_63c3cb59-4fa5-4643-9e03-60e714ce05ff.jpg","description":"Dart Solo Clear TP16D - 16 Oz PET Plastic Clear Cup - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2921","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"15"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-solo-clear-tp16d-16-oz-pet-plastic-clear-cup-50-sleeve?variant=31663294906442","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6622868209738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>66002</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602565124170</id>
+    <published>2021-06-15T13:31:11-04:00</published>
+    <updated>2021-06-15T13:31:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-clear-dome-lid-wide-straw-slot-for-16-24-oz-cups-1000-case"/>
+    <title>Dart - Clear Dome Lid Wide Straw Slot For 16-24 oz Cups - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-clear-dome-lid-wide-straw-slot-for-16-24-oz-cups-1000case-973678.jpg?v=1623821005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With this clear Dome lid, you can reduce drips and spills, and allow customers to easily slide a drinking straw into its center slot for convenient drinking. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo plastic lid is the economical choice that gives you functionality, durability, quality, and satisfaction!<br></p>
+<p>Dart - DLW626 - Clear Dome Lid Wide Straw Slot For 16-24 oz Cups - 1000/Case</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602565124170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>44552</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6602563911754</id>
+    <published>2021-06-15T13:31:10-04:00</published>
+    <updated>2021-06-15T13:31:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-clear-dome-lid-straw-slot-for-16-24-oz-cups-1000-case"/>
+    <title>MC - Clear Dome Lid Straw Slot For 16-24 oz Cups - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-clear-dome-lid-straw-slot-for-16-24-oz-cups-1000case-904529.jpg?v=1623822302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            56.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With this clear Dome lid, you can reduce drips and spills, and allow customers to easily slide a drinking straw into its center slot for convenient drinking. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo plastic lid is the economical choice that gives you functionality, durability, quality, and satisfaction!<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6602563911754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.99</s:price>
+      <s:sku>44553</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6552766152778</id>
+    <published>2021-03-24T10:59:35-04:00</published>
+    <updated>2021-03-24T10:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/fabri-kal-5-oz-cold-cup-translucent-25-x-100-case"/>
+    <title>Fabri-kal - RK5 - 5 Oz Cold Cup Translucent - 25 x 100 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/fabri-kal-rk5-5-oz-cold-cup-translucent-25-x-100-case-400923.jpg?v=1616678765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span></p>
+<p><span>Fabri-kal - RK5 - 5 Oz Cold Cup Translucent - 2500 / Case</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-y5s-5-oz-translucent-cup-25-x-100-case#product","name":"Dart - Y5S 5 oz Translucent Cup - 25 x 100 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037513125958","sku":"DBM3333","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y5s-5-oz-translucent-cup-25-x-100-case-bulk-mart_608.gif","description":"Dart - Y5S 5 oz Translucent Cup - 25 x 100 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"},"offers":[{"sku":"DBM3333","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"76.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-y5s-5-oz-translucent-cup-25-x-100-case?variant=20604630663238","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"18"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6552766152778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>220103</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4750577729610</id>
+    <published>2020-08-30T14:18:17-04:00</published>
+    <updated>2020-08-30T14:18:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-solo-tp12-12-oz-pet-plastic-clear-cup-20-x-50-case"/>
+    <title>Dart Solo TP12 - 12 Oz PET Plastic Clear Cup - 20 x 50 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-solo-tp12-12-oz-pet-plastic-clear-cup-20-x-50-case-677489.jpg?v=1611510519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Solo's UltraClear 12 oz. practical fill clear PET plastic cold Squat cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p>
+<p><span>Dart Solo TP12 - 12 Oz PET Plastic Clear Squat Cup - 20 x 50 / Case</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4750577729610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>880265</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749964968010</id>
+    <published>2020-08-30T01:18:29-04:00</published>
+    <updated>2020-08-30T01:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-td24-solo-ultra-clear-24-oz-pet-plastic-cold-cup-50-sleeve"/>
+    <title>Dart - TD24 Solo Ultra Clear 24 oz PET Plastic Cold Cup - 50/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-td24-solo-ultra-clear-24-oz-pet-plastic-cold-cup-50sleeve-594205.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Solo's UltraClear 24 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749964968010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>88021</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749961396298</id>
+    <published>2020-08-30T01:17:06-04:00</published>
+    <updated>2020-08-30T01:17:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-td24-solo-ultra-clear-24-oz-pet-plastic-cold-cup-12x50-case"/>
+    <title>Dart - TD24 Solo Ultra Clear 24 oz PET Plastic Cold Cup - 12x50/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-td24-solo-ultra-clear-24-oz-pet-plastic-cold-cup-12x50case-969191.jpg?v=1611514371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Solo's UltraClear 24 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749961396298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku>88020</s:sku>
+      <s:grams>15876</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749957365834</id>
+    <published>2020-08-30T01:15:28-04:00</published>
+    <updated>2020-08-30T01:15:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp20-solo-ultra-clear-20-oz-pet-plastic-cold-cup-50-sleeve"/>
+    <title>Dart - TP20 Solo Ultra Clear 20 oz PET Plastic Cold Cup - 50/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp20-solo-ultra-clear-20-oz-pet-plastic-cold-cup-50sleeve-218652.jpg?v=1611513335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Compatible Lids: 626TS</span></p>
+<p><span>Solo's UltraClear 20 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749957365834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>880266</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749952942154</id>
+    <published>2020-08-30T01:13:37-04:00</published>
+    <updated>2020-08-30T01:13:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp20-solo-ultra-clear-20-oz-pet-plastic-cold-cup-12x50-case"/>
+    <title>Dart - TP20 Solo Ultra Clear 20 oz PET Plastic Cold Cup - 12x50/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp20-solo-ultra-clear-20-oz-pet-plastic-cold-cup-12x50case-230652.jpg?v=1611511533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Compatible Lids: 626TS</span></p>
+<p><span>Solo's UltraClear 20 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749952942154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>88025</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749935968330</id>
+    <published>2020-08-30T01:06:52-04:00</published>
+    <updated>2020-08-30T01:06:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp10d-solo-ultra-clear-10-oz-pet-plastic-cold-cup-50-sleeve"/>
+    <title>Dart - TP10D Solo Ultra Clear 10 oz PET Plastic Cold Cup - 50/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp10d-solo-ultra-clear-10-oz-pet-plastic-cold-cup-50sleeve-750770.jpg?v=1611514492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Solo's UltraClear 10 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749935968330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>88024</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749930397770</id>
+    <published>2020-08-30T01:04:36-04:00</published>
+    <updated>2020-08-30T01:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp10d-solo-ultra-clear-10-oz-pet-plastic-cold-cup-20x50-case"/>
+    <title>Dart - TP10D Solo Ultra Clear 10 oz PET Plastic Cold Cup - 20x50/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp10d-solo-ultra-clear-10-oz-pet-plastic-cold-cup-20x50case-110555.jpg?v=1611509552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            81.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Solo's UltraClear 10 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749930397770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.49</s:price>
+      <s:sku>880268</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749911883850</id>
+    <published>2020-08-30T00:57:26-04:00</published>
+    <updated>2020-08-30T00:57:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp9d-solo-ultra-clear-9-oz-pet-plastic-tall-cold-cup-50-sleeve"/>
+    <title>Dart - TP9D Solo Ultra Clear 9 oz PET Plastic Tall Cold Cup - 50/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp9d-solo-ultra-clear-9-oz-pet-plastic-tall-cold-cup-50sleeve-330956.jpg?v=1611514787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Solo's UltraClear 9 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749911883850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>880261</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4749906280522</id>
+    <published>2020-08-30T00:55:14-04:00</published>
+    <updated>2020-08-30T00:55:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-tp9d-solo-ultra-clear-9-oz-pet-plastic-tall-cold-cup-20x50-case"/>
+    <title>Dart - TP9D Solo Ultra Clear 9 oz PET Plastic Tall Cold Cup - 20x50/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-tp9d-solo-ultra-clear-9-oz-pet-plastic-tall-cold-cup-20x50case-164038.jpg?v=1611509553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Solo's UltraClear 9 oz. clear PET plastic cold cup is perfect for serving smoothies, milkshakes, iced tea, and sodas at your restaurant. You can also use this product to package grab-and-go foods like parfaits, cold salads, vegetables, fruits, and other snacks. This cup is compatible with a standard lid size, which makes it easy to mix and match cups and lids. Regardless of the type of business you own, Solo's plastic cold cup is an economical choice that provides excellent functionality, durability, and quality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PET Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4749906280522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku>880261</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4176316497990</id>
+    <published>2020-08-30T00:07:28-04:00</published>
+    <updated>2020-08-30T00:07:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-626ts-clear-flat-lid-straw-slot-for-12-24-oz-cups-1000-case"/>
+    <title>Dart  - 626TS Clear Flat Lid Straw Slot For 12-24 oz Cups - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-626ts-clear-flat-lid-straw-slot-for-16-24-oz-cups-1000case-510356.jpg?v=1611509919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>  626TS Clear Flat Lid Straw Slot Fits TP12S, TP16D, TP20, TD24, TD26, RTP16D, RTP20, RTD24, RTP16DBARE, RTP20BARE, RTD24BARE, Y16S, Y24, P16, P16B, P16R, P16W, P24, 12PX, 16FPX, 16PX, 20PX, 24PX, 12PXW, 16FPXW, 16PXW, 20PXW, 24PXW. </span></p>
+<p><span>With this clear flat lid, you can reduce drips and spills, and allow customers to easily slide a drinking straw into its center slot for convenient drinking. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo plastic lid is the economical choice that gives you functionality, durability, quality, and satisfaction!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4176316497990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.99</s:price>
+      <s:sku>88330</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037483143238</id>
+    <published>2020-08-29T23:45:48-04:00</published>
+    <updated>2020-08-29T23:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-610ts-clear-flat-straw-slot-lid-for-tp9d-tp10d-100-sleeve"/>
+    <title>Dart - 610TS Clear Flat Straw Slot Lid For TP9D-TP10D - 100/Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-610ts-clear-flat-straw-slot-lid-for-tp9d-tp10d-100sleeve-971134.jpg?v=1611512190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This Solo UltraClear 610TS clear, plastic lid with a straw slot is perfect for your to-go drinks! Reduce drips and spills, and allows customers to easily slide a drinking straw into its center slot for convenient drinking. These lids will provide a snug fit on their compatible 9 oz. and 10 oz. Solo UltraClear plastic cups, keeping your soft drinks, smoothies or other beverages contained and ready-to-go for your customers! Plus, its exceptional clarity not only presents an upscale appearance, but it provides product visibility, increasing appeal to customers as well as impulse sales. Constructed of virtually unbreakable PET plastic, this durable lid is crack-resistant, preventing breakage and ensuring customer satisfaction. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo UltraClear plastic PET lid is the economical choice that gives you functionality, durability, quality and satisfaction!</span><br></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/generic-8-oz-clear-dessert-plastic-cups-50-sleeve#product","name":"Generic - 8  oz  Clear Dessert Plastic Cups - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037483143238","sku":"ABM2913","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/generic-8-oz-clear-dessert-plastic-cups-50-sleeve-bulk-mart_503.gif","description":"Generic - 8 oz Clear Dessert Plastic Cups - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"ABM2913","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"8.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/generic-8-oz-clear-dessert-plastic-cups-50-sleeve?variant=20604590424134","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037483143238</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>88331</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4520973205578</id>
+    <published>2020-08-29T23:45:14-04:00</published>
+    <updated>2020-08-29T23:45:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-610ts-clear-flat-straw-slot-lid-for-tp9d-tp10d-10x100-case"/>
+    <title>Dart - 610TS Clear Flat Straw Slot Lid For TP9D-TP10D - 10x100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-610ts-clear-flat-straw-slot-lid-for-tp9d-tp10d-10x100case-686238.jpg?v=1611513097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This Solo UltraClear 610TS clear, plastic lid with a straw slot is perfect for your to-go drinks! Reduce drips and spills, and allows customers to easily slide a drinking straw into its center slot for convenient drinking. These lids will provide a snug fit on their compatible 9 oz. and 10 oz. Solo UltraClear plastic cups, keeping your soft drinks, smoothies or other beverages contained and ready-to-go for your customers! Plus, its exceptional clarity not only presents an upscale appearance, but it provides product visibility, increasing appeal to customers as well as impulse sales. Constructed of virtually unbreakable PET plastic, this durable lid is crack-resistant, preventing breakage and ensuring customer satisfaction. Whether you're stocking your disposable drinkware supply in your cafe, kiosk, deli, or other venue, this Solo UltraClear plastic PET lid is the economical choice that gives you functionality, durability, quality and satisfaction!</span><br></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/generic-9-oz-clear-plastic-pet-cups-1000-case#product","name":"Generic - 9 oz  Clear Plastic Pet Cups - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4520973205578","sku":"ABM2916","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/generic-10-oz-clear-plastic-cup-1000-case-bulk-mart_798_0a079e05-5e40-4a3f-9609-1a93ec9d0ea2.gif","description":"Generic - 9 oz Clear Plastic Pet Cups - 1000 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"ABM2916","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"57.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/generic-9-oz-clear-plastic-pet-cups-1000-case?variant=31806778114122","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4520973205578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>88332</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037483077702</id>
+    <published>2020-08-29T23:33:54-04:00</published>
+    <updated>2020-08-29T23:33:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-y20-20-oz-cold-cup-translucent-50-sleeve"/>
+    <title>Dart - Y20 - 20 Oz Cold Cup Translucent - 50 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y20-20-oz-cold-cup-translucent-50-sleeve-958673.jpg?v=1611514549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this Dart Y20 Conex Galaxy 20 oz. translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/generic-8-oz-clear-dessert-plastic-cups-1000-case#product","name":"Generic - 8  oz  Clear Dessert Plastic Cups - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037483077702","sku":"ABM2912","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/generic-8-oz-clear-dessert-plastic-cups-1000-case-bulk-mart_741.gif","description":"Generic - 8 oz Clear Dessert Plastic Cups - 1000 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"},"offers":[{"sku":"ABM2912","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"115.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/generic-8-oz-clear-dessert-plastic-cups-1000-case?variant=20604590325830","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"38"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037483077702</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>880049</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037483307078</id>
+    <published>2020-08-29T23:33:17-04:00</published>
+    <updated>2020-08-29T23:33:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-y20-20-oz-cold-cup-translucent-20-x-50-case"/>
+    <title>Dart - Y20 - 20 Oz Cold Cup Translucent - 20 x 50 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y20-20-oz-cold-cup-translucent-20-x-50-case-389347.jpg?v=1611514547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this Dart Y20 Conex Galaxy 20 oz. translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/generic-7-oz-plastic-cup-50-sleeve#product","name":"Generic - 7  oz  Plastic Cup - 50 / Sleeve","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2037483307078","sku":"ABM2915","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/generic-7-oz-plastic-cup-50-sleeve-bulk-mart_289.gif","description":"Generic - 7 oz Plastic Cup - 50 / Sleeve.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"ABM2915","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/generic-7-oz-plastic-cup-50-sleeve?variant=20604590587974","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037483307078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>880048</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037483241542</id>
+    <published>2020-08-29T23:25:19-04:00</published>
+    <updated>2020-08-29T23:25:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-y10-10-oz-cold-cup-translucent-25-x-100-case"/>
+    <title>Dart - Y10 - 10 Oz Cold Cup Translucent - 25 x 100 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y10-10-oz-cold-cup-translucent-25-x-100-case-852059.jpg?v=1611512079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            126.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this Dart Y10 Conex Galaxy 10 oz. translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037483241542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.99</s:price>
+      <s:sku>880041</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037514403910</id>
+    <published>2020-08-29T23:18:41-04:00</published>
+    <updated>2020-08-29T23:18:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-y9-9-oz-cold-cup-translucent-100-sleeve"/>
+    <title>Dart - Y9 - 9 Oz Cold Cup Translucent - 100 / Sleeve</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-y9-9-oz-cold-cup-translucent-100-sleeve-982664.jpg?v=1611510336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>An essential addition to your high-traffic concession stand, snack bar, or casual catered event, this Dart Y9 Conex Galaxy 9 oz. translucent plastic cup combines double sidewall ribbing for added strength and an easy grip, with an economical translucent polystyrene construction, fit for your bottom line. It's sturdy and shatterproof, yet flexible, making it easy to handle and to store, unlike cups of a more delicate material. Plus, it features a rolled rim at the top that creates a smooth surface for sipping.</span><br><br><span>This cup is great for on-the-go cold beverage or slushy service, especially when combined with a compatible lid. It practically sells your drinks for you with a translucent clarity that enhances product appeal to increase impulse sales. At the same time, the cup's primarily flush-fill capacity further increases profitability, ensuring proper portion control of your most popular beverages.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Translucent Cups</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037514403910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>880054</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4746860658762</id>
+    <published>2020-08-27T19:14:36-04:00</published>
+    <updated>2020-08-27T19:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/genpak-fbd100-dome-fold-back-plastic-lids-10-x-100-case"/>
+    <title>Genpak - FBD100 - Dome Fold Back Plastic Lids -10 x 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Genpak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/genpak-fbd100-dome-fold-back-plastic-lids-10-x-100-case-484130.jpg?v=1611510222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Genpak<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>• Lids are available in flat foam, flat plastic and dome plastic</p>
+<p>• Together it increases insulation, adds stability and is stackable.</p>
+<p>Genpak - FBD100 - Dome Fold Back Plastic Lids for 900M, 100M &amp; 120M -10 x 100 / Case</p>
+<p>Assorted flat and dome lids are available.</p>
+<p> Quality strength and rigidity</p>
+<p><br></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-800m-8-oz-foam-cup-1000-case#product","name":"Dart - 800M 8 oz Foam Cup - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054548553798","sku":"3BM3829","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-800m-8-oz-foam-cup-1000-case-bulk-mart_466.gif","description":"Dart - 800M 8 oz Foam Cup - 1000 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"3BM3829","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"26.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-800m-8-oz-foam-cup-1000-case?variant=20686517829702","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dome Lids</s:tag>
+    <s:tag>Foam Cup Lids</s:tag>
+    <s:tag>Reclosable Lids</s:tag>
+    <s:tag>Sip Through Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4746860658762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>559915</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4746851385418</id>
+    <published>2020-08-27T19:14:36-04:00</published>
+    <updated>2020-08-27T19:14:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/genpak-fbd800-dome-fold-back-plastic-lids-10-x-100-case"/>
+    <title>Genpak - FBD800 - Dome Fold Back Plastic Lids -10 x 100/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Genpak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/genpak-fbd800-dome-fold-back-plastic-lids-10-x-100-case-213819.jpg?v=1611511303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Genpak<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>• Lids are available in flat foam, flat plastic and dome plastic</p>
+<p>• Together it increases insulation, adds stability and is stackable.</p>
+<p>Genpak - FB800S - Dome Fold Back Plastic Lids for 800M &amp; 5C -10 x 100 / Case</p>
+<p>Assorted flat and dome lids are available.</p>
+<p> Quality strength and rigidity</p>
+<p><br></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dart-800m-8-oz-foam-cup-1000-case#product","name":"Dart - 800M 8 oz Foam Cup - 1000 / Case","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054548553798","sku":"3BM3829","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-800m-8-oz-foam-cup-1000-case-bulk-mart_466.gif","description":"Dart - 800M 8 oz Foam Cup - 1000 / Case.","category":"NON-FOOD","brand":{"@type":"Brand","name":"Dart"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"3BM3829","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.2"},"mpn":"","priceCurrency":"CAD","price":"26.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dart-800m-8-oz-foam-cup-1000-case?variant=20686517829702","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dome Lids</s:tag>
+    <s:tag>Foam Cup Lids</s:tag>
+    <s:tag>Reclosable Lids</s:tag>
+    <s:tag>Sip Through Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4746851385418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>559916</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4745310732362</id>
+    <published>2020-08-26T20:34:07-04:00</published>
+    <updated>2020-08-26T20:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dart-16sl-flat-lids-with-straw-slot-for-16-20-j-series-cup-1000-case"/>
+    <title>Dart - 16SL - Flat Lids With Straw Slot For 16,20 J Series Cup - 1000/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Dart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dart-16sl-flat-lids-with-straw-slot-for-1620-j-series-cup-1000case-130391.jpg?v=1611514720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dart<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dart - 16SL - Flat Lids With Straw Slot For 16,20 J Series Cup - 1000/Case.</p>
+<p><span>Top every high-quality Dart® product with a Dart® lid. From high domed to straw-slotted, insulating foam to SipThru, Dart® has designed lids that not only complement every container, but also every application you can devise. Dart lids are the perfect answer for topping off each sale.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Foam Cup Lids</s:tag>
+    <s:tag>Straw Slot Lids</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4745310732362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>88011</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

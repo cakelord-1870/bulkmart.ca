@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/tea-coffee.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2021-08-17T19:49:11-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/6640725721162</id>
+    <published>2021-08-17T19:49:11-04:00</published>
+    <updated>2021-08-17T19:49:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tapal-danedar-tea-bags-300-pack"/>
+    <title>Tapal Danedar - Tea bags - 300 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tapal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-tea-bags-300-pack-966607.jpg?v=1629359865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tapal<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tapal Danedar - Teabag - 300 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack#product","name":"Tapal Danedar - Teabag - 220 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953135550534","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-teabag-220-pack-bulk-mart_295.jpg","description":"Tapal Danedar - Teabag - 220 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack?variant=29479481245766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoured Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6640725721162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>55551</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3953135550534</id>
+    <published>2021-08-17T19:49:11-04:00</published>
+    <updated>2021-08-17T19:49:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tapal-danedar-tea-bags-220-pack"/>
+    <title>Tapal Danedar - Tea bags - 220 / Pack</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tapal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-tea-bags-220-pack-717137.jpg?v=1629359854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tapal<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tapal Danedar - Teabag - 220 / Pack</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack#product","name":"Tapal Danedar - Teabag - 220 / Pack","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3953135550534","sku":"TBM2577","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tapal-danedar-teabag-220-pack-bulk-mart_295.jpg","description":"Tapal Danedar - Teabag - 220 / Pack.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Lipton"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"},"offers":[{"sku":"TBM2577","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"13.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/tapal-danedar-teabag-220-pack?variant=29479481245766","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"48"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Flavoured Tea</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3953135550534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>55550</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/6615332028490</id>
+    <published>2021-07-09T11:53:23-04:00</published>
+    <updated>2021-07-09T11:53:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mokate-gold-premium-latte-classic-10-x-14g"/>
+    <title>Mokate Gold - Premium Latte Classic - 10 x 14g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/MokateGoldPremiumLatteClassic.jpg?v=1625846089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">A premium instant latte. Mokate instant coffee sachets offer a quick and easy way to kick start your day. Our Mokate Gold Premium Latte Classic contains 10 instant coffee sachets per pack.</span></p>
+<p><span data-mce-fragment="1">Mokate Gold Premium Latte Classic </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/6615332028490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>66440</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854172844106</id>
+    <published>2021-01-04T16:11:13-05:00</published>
+    <updated>2021-01-04T16:11:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-finest-hot-chocolate-mix-single-serve-50-x-28-g"/>
+    <title>Kingsmill - Finest Hot Chocolate Mix Single Serve - 50 x 28 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-finest-hot-chocolate-mix-single-serve-50-x-28-g-774095.jpg?v=1611510764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Finest Hot Chocolate Single Serve Packets - 50 x 28 g</strong></p>
+<p><span>This</span><span> Finest Hot Chocolate Single Serve comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A simple hot chocolate mix to satisfy those cravings. Add 175mL of hot milk or hot water to contents of the pouch and stir well.<br><br>Ingredients: Sugar, corn syrup solids, cocoa, coconut oil, salt, modified milk ingredients, tricalcium phosphate, carboxymethyl, cellulose gum, mono and diglycerides, artificial flavour, dipotassium phosphate, silicon dioxide, maltol, sodium silico aluminate, colour.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854172844106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>66115</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854172090442</id>
+    <published>2021-01-04T16:11:12-05:00</published>
+    <updated>2021-01-04T16:11:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-cappuccino-mix-6-x-907-g"/>
+    <title>Kingsmill - Cappuccino Mix - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-cappuccino-mix-6-x-907-g-856787.png?v=1611510342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Cappuccino - 6 x 907 g</strong></p>
+<p><span>Balancing coffee and milk ingredients, our Cappuccino offers a smooth finish from start to finish while still delivering those coffee notes.</span></p>
+<p><span>This Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Coconut oil, Modified milk ingredients, Instant coffee, Salt, Tricalcium phosphate, Cellulose gum, Dipotassium phosphate, Mono-and diglycerides, Cocoa, Natural flavour, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854172090442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>66110</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854171893834</id>
+    <published>2021-01-04T16:11:11-05:00</published>
+    <updated>2021-01-04T16:11:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-cappuccino-mix-907-g"/>
+    <title>Kingsmill - Cappuccino Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-cappuccino-mix-907-g-679466.png?v=1611510577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Cappuccino - 907 g</strong></p>
+<p><span>Balancing coffee and milk ingredients, our Cappuccino offers a smooth finish from start to finish while still delivering those coffee notes.</span></p>
+<p><span>This Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Coconut oil, Modified milk ingredients, Instant coffee, Salt, Tricalcium phosphate, Cellulose gum, Dipotassium phosphate, Mono-and diglycerides, Cocoa, Natural flavour, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854171893834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66111</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854171369546</id>
+    <published>2021-01-04T16:11:10-05:00</published>
+    <updated>2021-01-04T16:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-iced-cappuccino-mix-907-g"/>
+    <title>Kingsmill - Iced Cappuccino Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-iced-cappuccino-mix-907-g-816726.png?v=1611512974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Iced Cappuccino Mix - 2 Lbs</strong></p>
+<p><span>This</span><span> Iced Cappuccino Mix comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A formula specially designed to be made into an iced beverage. The difference in this formula helps provide the beverage with better texture while still delivering the same great flavours.</span></p>
+<h2><strong><span>INGREDIENTS</span></strong></h2>
+<p class="descp-text">Sugars (sugar, dextrose, corn syrup solids), coconut oil, instant coffee, cocoa, salt, modified milk ingredients, tricalcium phosphate, dipotassium phosphate, mono-and diglycerides, flavour, sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:tag>Iced Cappuccino Mix</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854171369546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>66119</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854170189898</id>
+    <published>2021-01-04T16:11:10-05:00</published>
+    <updated>2021-01-04T16:11:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-french-vanilla-cappuccino-6-x-907-g"/>
+    <title>Kingsmill - French Vanilla Cappuccino - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-french-vanilla-cappuccino-6-x-907-g-646230.png?v=1611511179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - French Vanilla Cappuccino - 6 x 907 g</strong></p>
+<p><span>This</span><span> French Vanilla Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>Amazing coffee notes, mixed with our sweet and creamy recipe provides a well-balanced cappuccino</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids, maltodextrin), Modified milk ingredients, Coconut oil, Tricalcium phosphate, Salt, Cellulose gum, Xanthan gum, Guar gum, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854170189898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>66116</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854169174090</id>
+    <published>2021-01-04T16:11:09-05:00</published>
+    <updated>2021-01-04T16:11:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-french-vanilla-cappuccino-907-g"/>
+    <title>Kingsmill - French Vanilla Cappuccino - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-french-vanilla-cappuccino-907-g-227204.png?v=1611513755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - French Vanilla Cappuccino - 907 g</strong></p>
+<p><span>This</span><span> French Vanilla Cappuccino comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>Amazing coffee notes, mixed with our sweet and creamy recipe provides a well-balanced cappuccino</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids, maltodextrin), Modified milk ingredients, Coconut oil, Tricalcium phosphate, Salt, Cellulose gum, Xanthan gum, Guar gum, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854169174090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66117</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854168256586</id>
+    <published>2021-01-04T16:11:08-05:00</published>
+    <updated>2021-01-04T16:11:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-12-x-907-g"/>
+    <title>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate Mix- 12 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-12-x-907-g-117806.png?v=1611510404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate - 907 g</strong></p>
+<p><span>This</span><span> Premium Rich &amp; Creamy Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A delightful balance between cocoa and creamy, the Rich &amp; Creamy Hot Chocolate delivers an intense flavour profile with a smooth drinking experience. Our most popular Hot Chocolate Mix.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854168256586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>010140</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854167961674</id>
+    <published>2021-01-04T16:11:07-05:00</published>
+    <updated>2021-01-04T16:11:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-907-g"/>
+    <title>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate Mix - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-premium-rich-creamy-hot-chocolate-mix-907-g-782131.png?v=1611510342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Premium Rich &amp; Creamy Hot Chocolate - 907 g</strong></p>
+<p><span>This</span><span> Premium Rich &amp; Creamy Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A delightful balance between cocoa and creamy, the Rich &amp; Creamy Hot Chocolate delivers an intense flavour profile with a smooth drinking experience. Our most popular Hot Chocolate Mix.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854167961674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>66120</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854167273546</id>
+    <published>2021-01-04T16:11:06-05:00</published>
+    <updated>2021-01-04T16:11:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-chocolate-whip-powder-907-g"/>
+    <title>Kingsmill - Chocolate Whip Powder - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-chocolate-whip-powder-907-g-135762.png?v=1611510932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Whipped Hot Chocolate Mix - 907 g</strong></p>
+<p><span>This</span><span> Whipped Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A cheap and cheerful hot chocolate solution that still delivers a delightful balance of sweet cocoa.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Modified milk ingredients, Cocoa, Salt, Coconut oil, Tricalcium phosphate, Artificial flavour, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854167273546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>66112</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854166552650</id>
+    <published>2021-01-04T16:11:05-05:00</published>
+    <updated>2021-01-04T16:11:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-chocolate-whip-powder-12-x-907-g"/>
+    <title>Kingsmill - Chocolate Whip Powder - 12 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-chocolate-whip-powder-12-x-907-g-449966.png?v=1611514369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            46.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Whipped Hot Chocolate Mix - 12 x 907 g</strong></p>
+<p><span>This</span><span> Whipped Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<p><span>A cheap and cheerful hot chocolate solution that still delivers a delightful balance of sweet cocoa.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugars (sugar, corn syrup solids), Modified milk ingredients, Cocoa, Salt, Coconut oil, Tricalcium phosphate, Artificial flavour, Dipotassium phosphate, Mono-and diglycerides, Sodium silico aluminate. Contains milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854166552650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.99</s:price>
+      <s:sku>66118</s:sku>
+      <s:grams>12000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854166257738</id>
+    <published>2021-01-04T16:11:04-05:00</published>
+    <updated>2021-01-04T16:11:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-creamy-white-hot-chocolate-6-x-907-g"/>
+    <title>Kingsmill - Creamy White Hot Chocolate - 6 x 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-creamy-white-hot-chocolate-6-x-907-g-428361.png?v=1611511481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Creamy White Hot Chocolate - 6 x 907 g</strong></p>
+<p><span>Putting an emphasis on creamy, our White Hot Chocolate delivers an extremely rich white chocolate flavour that consumers love.</span></p>
+<p><span>This</span><span> Creamy White Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugar (sugar, com syrup solids), coconut oil, modified milk ingredients, salt, tricalcium phosphate, mono- and diglycerides phosphate, Jartificial flavour, silicon dioxide, cocoa, sodium silico aluminate, colour. Conatins milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854166257738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>66113</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854165635146</id>
+    <published>2021-01-04T16:11:03-05:00</published>
+    <updated>2021-01-04T16:11:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kingsmill-creamy-white-hot-chocolate-907-g"/>
+    <title>Kingsmill - Creamy White Hot Chocolate - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Kingsmill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kingsmill-creamy-white-hot-chocolate-907-g-598107.png?v=1611514783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsmill<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kingsmill - Creamy White Hot Chocolate - 907 g</strong></p>
+<p><span>Putting an emphasis on creamy, our White Hot Chocolate delivers an extremely rich white chocolate flavour that consumers love.</span></p>
+<p><span>This</span><span> Creamy White Hot Chocolate comes with all the flavor and frothiness of decadent cafe drinks without all of the time and effort. Each pack of mix delivers a consistent product each and every time. This mix is designed for use in a hot chocolate or cappuccino machine for bulk preparation, but is also ideal for making individual cups by hand mixing with hot water. The perfect addition to any establishment, this mix is sure to please patrons at your coffee shop, restaurant, concession stand, convenience store, or waiting room.</span></p>
+<h2><strong>INGREDIENTS</strong></h2>
+<p class="descp-text">Sugar (sugar, com syrup solids), coconut oil, modified milk ingredients, salt, tricalcium phosphate, mono- and diglycerides phosphate, Jartificial flavour, silicon dioxide, cocoa, sodium silico aluminate, colour. Conatins milk.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g#product","name":"Nestle - Carnation Hot Chocolate -  40 x 25 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3976953757766","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-carnation-hot-chocolate-40-x-25-g-bulk-mart_482.jpg","description":"Nestle - Carnation Hot Chocolate - 40 x 25 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"14.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-carnation-hot-chocolate-40-x-25-g?variant=29582312603718","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot Chocolate</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854165635146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>66114</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854088761418</id>
+    <published>2020-12-19T16:25:45-05:00</published>
+    <updated>2020-12-19T16:25:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-coffee-craft-roasters-viennese-whole-coffee-beans-907-g"/>
+    <title>Club Coffee - Craft Roasters Viennese Whole Coffee Beans - 907 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Club Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-coffee-craft-roasters-viennese-whole-coffee-beans-907-g-415410.jpg?v=1611509374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club Coffee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">CRAFT ROASTERS VIENNESE ROAST WHOLE BEAN BAG</h1>
+<p class="price"> If you like your coffee deep, dark and delicious, you’ll fall for this strong, full-bodied blend. Enjoy the rich, spicy flavor and excellent aroma of our Viennese. Not just your average cup of coffee!</p>
+<div class="item-description" itemprop="description">
+<p>Medium-Dark Roast  •  33% Rainforest Alliance Certified<sup>TM</sup></p>
+</div>
+<p>Club Coffee - Craft Roasters Viennese Whole Beans - 907 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Beans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854088761418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>90124</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854088007754</id>
+    <published>2020-12-19T16:25:44-05:00</published>
+    <updated>2020-12-19T16:25:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/club-coffee-100-colombian-coffee-96-x-2-5-oz"/>
+    <title>Club Coffee - 100% Colombian Coffee - 96 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Club Coffee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/club-coffee-100-colombian-coffee-96-x-25-oz-201625.jpg?v=1611511122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Club Coffee<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product_title entry-title">CRAFT ROASTERS VIENNESE ROAST WHOLE BEAN BAG</h1>
+<p class="price"> If you like your coffee deep, dark and delicious, you’ll fall for this strong, full-bodied blend. Enjoy the rich, spicy flavor and excellent aroma of our Viennese. Not just your average cup of coffee!</p>
+<div class="item-description" itemprop="description">
+<p>Medium-Dark Roast  •  33% Rainforest Alliance Certified<sup>TM</sup></p>
+</div>
+<p>Club Coffee - Craft Roasters Viennese Whole Beans - 907 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Roast Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854088007754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>90123</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854087123018</id>
+    <published>2020-12-19T16:25:43-05:00</published>
+    <updated>2020-12-19T16:25:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-exclusive-blend-red-coffee-64-x-2-oz"/>
+    <title>Mother Parkers - Exclusive Blend Red Coffee - 64 x 2 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-exclusive-blend-red-coffee-64-x-2-oz-735767.jpg?v=1611510992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="h5 product-details__title">Product Details</h3>
+<div class="product-details__content">
+<p>Mother Parkers Exclusive Coffee features a mouth-watering blend of the finest Arabica coffee beans for a smooth, gourmet taste you'll love. To create this exclusive blend, Mother Parkers starts with Colombian beans for a full-bodied flavour then adds Guatemalan beans for a slightly spicy note, Costa Rican beans for unparalleled smoothness and richness, and Brazilian beans for their light, nutty character. The result is a delicious coffee with a unique, satisfying personality. Packaged as 64 individually-sealed pouches per carton for long-lasting freshness, this ground coffee makes a great addition to any home or office kitchen.</p>
+<ul class="list--default product-details__list">
+<li class="product-details__list-item mb-2" itemprop="description">Exclusive blend contains Colombian, Guatemalan, Costa Rican and Brazilian coffee beans for a unique, gourmet taste</li>
+<li class="product-details__list-item mb-2" itemprop="description">Individual pouches are tightly sealed for maximum freshness</li>
+<li class="product-details__list-item mb-2" itemprop="description">Ideal for home use or to share at the office</li>
+</ul>
+</div>
+<p>Mother Parkers - Exclusive Blend Red - 64 x 2 Oz</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854087123018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>90136</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854086565962</id>
+    <published>2020-12-19T16:25:43-05:00</published>
+    <updated>2020-12-19T16:25:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-cafe-mystique-coffee-64-x-2-5-oz"/>
+    <title>Mother Parkers - Cafe&apos; Mystique Coffee - 64 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-cafe-mystique-coffee-64-x-25-oz-747261.jpg?v=1611514314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            106.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Signature select 100% Arabica beans with a sweet, smooth, mellow flavour. Slightly nutty aroma with a clean finish.</p>
+<p>Light roast coffee.</p>
+<p>Mother Parkers - Exclusive Blend - 64 x 2.5 Oz </p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854086565962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.99</s:price>
+      <s:sku>90134</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854085845066</id>
+    <published>2020-12-19T16:25:42-05:00</published>
+    <updated>2020-12-19T16:25:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mother-parkers-exclusive-blend-coffee-64-x-2-5-oz"/>
+    <title>Mother Parkers - Exclusive Blend Coffee  - 64 x 2.5 Oz</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mother Parkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mother-parkers-exclusive-blend-coffee-64-x-25-oz-408049.jpg?v=1611511121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mother Parkers<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Signature select 100% Arabica beans with a sweet, smooth, mellow flavour. Slightly nutty aroma with a clean finish.</p>
+<p>Light roast coffee.</p>
+<p>Mother Parkers - Exclusive Blend - 64 x 2.5 Oz </p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Packets</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854085845066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku>90135</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854082863178</id>
+    <published>2020-12-19T16:25:41-05:00</published>
+    <updated>2020-12-19T16:25:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/tim-hortons-premium-instant-coffee-100-g"/>
+    <title>Tim Hortons - Premium Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Tim Hortons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/tim-hortons-premium-instant-coffee-100-g-945294.png?v=1611513275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tim Hortons<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            9.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100g jar of Medium Roast Premium Instant coffee</span></li>
+<li><span class="a-list-item">100% Arabica beans grown in Colombia</span></li>
+<li><span class="a-list-item">Well-balanced, crisp flavour with a smooth finish</span></li>
+<li><span class="a-list-item">Stir in about one teaspoon of instant coffee for every 175 mL (6 oz) of boiling water</span></li>
+<li><span class="a-list-item">Use for Dalgonas</span></li>
+</ul>
+<p>Tim Hortons - Premium Instant Coffee - 100 g</p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee#product","name":"Maxwell- Original Dark Roast Coffee","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3970333835334","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maxwell-original-dark-roast-coffee-bulk-mart_396.jpg","description":"Maxwell- Original Dark Roast Coffee&nbsp;.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Bigelow"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maxwell-original-dark-roast-coffee?variant=29558315843654","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854082863178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.59</s:price>
+      <s:sku>90152</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854081617994</id>
+    <published>2020-12-19T16:25:41-05:00</published>
+    <updated>2020-12-19T16:25:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-sweet-creamy-french-vanilla-sachets-18-x-22-g"/>
+    <title>Nestle Nescafe - Sweet &amp; Creamy French Vanilla Sachets - 18 x 22 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-sweet-creamy-french-vanilla-sachets-18-x-22-g-398253.jpg?v=1611511833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Pack of 6 boxes (18 sachets per box)</span></li>
+<li><span class="a-list-item">All in one instant French vanilla coffee</span></li>
+<li><span class="a-list-item">Predosed, no sugar, coffee creamer or coffee whitener required</span></li>
+<li><span class="a-list-item">Makes a consistently sweet and creamy cup of coffee</span></li>
+<li><span class="a-list-item">Perfect at home or on-the-go</span></li>
+</ul>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="z770r5-gjkqhp-wuiusn-ajckb3" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>With NESCAFÉ Sweet &amp; Creamy French Vanilla Mix (18 x 22 g), you are never more than moments away from a consistently delicious cup of coffee. Just rip a pre-dosed sachet into a mug, stir and enjoy a sweet and creamy cup of self-made coffee. Stir, sip, love!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>Nestle Nescafe - Sweet &amp; Creamy French Vanilla Sachets - 18 x 22 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854081617994</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>90146</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854081060938</id>
+    <published>2020-12-19T16:25:40-05:00</published>
+    <updated>2020-12-19T16:25:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-sweet-creamy-instant-coffee-sachets-18-x-19-g"/>
+    <title>Nestle Nescafe - Sweet &amp; Creamy Instant Coffee Sachets - 18 x 19 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-sweet-creamy-instant-coffee-sachets-18-x-19-g-236029.png?v=1622245726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Pack of 6 boxes (18 sachets per box)</span></li>
+<li><span class="a-list-item">All-in-one instant coffee</span></li>
+<li><span class="a-list-item">Predosed, no sugar, coffee creamer or coffee whitener required</span></li>
+<li><span class="a-list-item">Makes a consistently sweet and creamy cup of coffee</span></li>
+<li><span class="a-list-item">Perfect at home or on-the-go</span></li>
+</ul>
+<p>Nestle Nescafe - Sweet &amp; Creamy Instant Coffee Sachets - 18 x 19 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854081060938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>90147</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854080372810</id>
+    <published>2020-12-19T16:25:39-05:00</published>
+    <updated>2020-12-19T16:25:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-rich-instant-coffee-170-gnestle-nescafe-rich-instant-coffee-170-g"/>
+    <title>Nestle Nescafe - Rich Instant Coffee - 170 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-instant-coffee-170-g-815576.jpg?v=1611514065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="ttbn1r-orxq5u-an4nc8-vjx066" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich makes a deliciously rich tasting coffee from 100% natural coffee beans. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>170 g jar of instant coffee<br>
+</li>
+<li><span class="a-list-item">Made from 100% natural coffee beans</span></li>
+<li><span class="a-list-item">Free of additives or preservatives</span></li>
+<li><span class="a-list-item">Has been waking up Canadians for over 75 years</span></li>
+<li><span class="a-list-item">Makes over 85 servings</span></li>
+<li><span class="a-list-item">instant</span></li>
+</ul>
+<p>Nestle Nescafe - Rich Instant Coffee - 170 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854080372810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>90145</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4854079717450</id>
+    <published>2020-12-19T16:25:38-05:00</published>
+    <updated>2020-12-19T16:25:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nestle-nescafe-rich-decaf-100-gnestle-nescafe-rich-decaf-instant-coffee-100-g"/>
+    <title>Nestle Nescafe - Rich Decaf Instant Coffee - 100 g</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-nescafe-rich-decaf-instant-coffee-100-g-334369.png?v=1611511058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="v922vv-melvb-qqghcq-kgfxyh" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div>
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>NESCAFÉ Rich Decaf Instant Coffee (100 g) makes 100% pure decaffeinated coffee with all the full-bodied taste of NESCAFÉ Rich. A perfect way to kick-start the day.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">100g jar of instant decaffeinated coffee</span></li>
+<li><span class="a-list-item">Made from 100% natural coffee beans</span></li>
+<li><span class="a-list-item">Free of additives or preservatives</span></li>
+<li><span class="a-list-item">Has been waking up Canadians for over 75 years</span></li>
+<li><span class="a-list-item">Makes over 50 cups of coffee</span></li>
+</ul>
+<p>Nestle Nescafe - Rich Decaf Instant Coffee - 100 g</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g#product","name":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4531936100426","sku":"ABM2539","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nestle-tasters-choice-instant-coffee-250-g-bulk-mart_281.jpg","description":"Nestle - Taster&#039;s Choice Instant Coffee - 250 g.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Maxwell"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"},"offers":[{"sku":"ABM2539","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nestle-tasters-choice-instant-coffee-250-g?variant=31848738455626","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"6"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Decaffeinated  Coffee</s:tag>
+    <s:tag>Ground Coffee</s:tag>
+    <s:tag>Instant Coffee</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854079717450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.69</s:price>
+      <s:sku>90144</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

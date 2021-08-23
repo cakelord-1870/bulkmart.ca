@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/rice.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-10T18:06:20-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4799268782154</id>
+    <published>2020-10-10T18:06:20-04:00</published>
+    <updated>2020-10-10T18:06:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-brown-rice-flour-stone-ground-10-kg"/>
+    <title>Millbrook - Brown Rice Flour Stone Ground - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-brown-rice-flour-stone-ground-10-kg-554786.jpg?v=1611510881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Millbrook - Brown Rice Flour Stone Ground - 10 Kg</strong></p>
+<p><span>Add a delicious and nutritious flour to your bakery's pantry with this Millbrook brown rice flour! This flour is made from whole grain brown rice that is carefully stone ground to produce a perfect texture and preserve the nutrients found in the bran and germ of rice kernels. While some rice flours can be gritty, Millbrook brown rice flour is especially fine and produces baked goods with a delightful texture! In addition to being high in essential nutrients like protein and fiber, this brown rice flour is gluten free, so it's suitable for serving to customers with dietary restrictions.</span><br><br><span>When used alone, rice flour can be difficult to work with and may produce a dry crumbly texture in your baked goods, so it's best used in conjunction with other wheat or gluten-free flours. Oat flour, buckwheat flour, almond flour, and garbanzo bean flour are all great additions to your gluten-free flour mix! This brown rice flour will lend a light texture and nutty flavor to your breads, muffins, pancakes, or other baked goods. It's also great to use as a gluten-free thickener for soups, stews, and gravies, or a breading for fried, grilled, or sauteed foods. No matter how you choose to use it, this brown rice flour is sure to become a staple in your kitchen; this bulk 10 Kg bag will keep you in good supply for all of your culinary needs! For optimal freshness, refrigerate or freeze this flour after opening.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/rice-flour-4-lbs#product","name":"Rice Flour - 4 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"FumApBM88","sku":"mApBM88","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rice-flour-4-lbs-bulk-mart_241.gif","description":"Rice Flour - 4 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"4"},"offers":[{"name":"Rice Flour - 4 Lbs","sku":"mApBM88","mpn":"FumApBM88","@type":"Offer","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/rice-flour-4-lbs?variant=19271284949062","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brown Rice Flour</s:tag>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Rice Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799268782154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>50024</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4799268716618</id>
+    <published>2020-10-10T18:06:18-04:00</published>
+    <updated>2020-10-10T18:06:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/millbrook-white-rice-flour-stone-ground-10-kg"/>
+    <title>Millbrook - White Rice Flour Stone Ground - 10 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>MillBrook</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/millbrook-white-rice-flour-stone-ground-10-kg-687921.jpg?v=1611511595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MillBrook<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Millbrook - White Rice Flour Stone Ground - 10 Kg</strong></p>
+<p><span>Add a delicious and versatile flour to your bakery's pantry with this Millbrook white rice flour! This flour is made from pure glutinous white rice; though its name implies that this rice variety contains gluten, it actually refers to the rice's "sticky" qualities that mimic the behavior of gluten. This product is naturally gluten free and produced in Millbrook gluten free facility, so it's suitable for serving to customers with dietary restrictions! While some rice flours can be gritty, Millbrook white rice flour is especially fine and produces baked goods with a delightful texture!</span><br><br><span>When used alone, rice flour can be difficult to work with and may produce a dry crumbly texture in your baked goods, so it's best used in conjunction with other wheat or gluten-free flours. Oat flour, buckwheat flour, almond flour, and garbanzo bean flour are all great additions to your gluten-free flour mix! This white rice flour will lend a light, delicate sponginess to your breads, muffins, pancakes, or other baked goods. It's also great to use as a gluten-free thickener for soups, stews, and gravies. No matter how you choose to use it, this brown rice flour is sure to become a staple in your kitchen; this bulk 10 Kg bag will keep you in good supply for all of your culinary needs! For optimal freshness, refrigerate or freeze this flour after opening.</span><br><br><span>A leading brand in health foods, Bob's Red Mill is dedicated to providing the best products using the Old World technique of traditional stone milling. This technique allows for the inherent nutrients and flavor of their grains to be preserved, thus providing wholesome, quality foods to your kitchen. Plus, they have a separate 100% gluten free facility where they process, package, and test all of their gluten free products, so you can always be sure you are serving your customers with allergies a safe-to-eat product. Offer delicious and equally nutritious foods in your establishment with the help of Bob's Red Mill.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/rice-flour-4-lbs#product","name":"Rice Flour - 4 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"FumApBM88","sku":"mApBM88","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rice-flour-4-lbs-bulk-mart_241.gif","description":"Rice Flour - 4 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"4"},"offers":[{"name":"Rice Flour - 4 Lbs","sku":"mApBM88","mpn":"FumApBM88","@type":"Offer","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/rice-flour-4-lbs?variant=19271284949062","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Rice Flour</s:tag>
+    <s:tag>White Rice Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4799268716618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>50025</s:sku>
+      <s:grams>11000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887454265414</id>
+    <published>2020-10-10T18:06:14-04:00</published>
+    <updated>2020-10-10T18:06:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/bobs-red-mill-white-rice-flour-680-g"/>
+    <title>Bob&apos;s Red Mill - White Rice Flour - 680 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Bob&apos;s Red Mill</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/bobs-red-mill-white-rice-flour-680-g-940755.jpg?v=1611509019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bob&#39;s Red Mill<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Bob's Rice Mill - White Rice Flour - 680 g</strong></p>
+<p><span>Add a delicious and versatile flour to your bakery's pantry with this Bob's Red Mill white rice flour! This flour is made from pure glutinous white rice; though its name implies that this rice variety contains gluten, it actually refers to the rice's "sticky" qualities that mimic the behavior of gluten. This product is naturally gluten free and produced in Bob's Red Mill's gluten free facility, so it's suitable for serving to customers with dietary restrictions! While some rice flours can be gritty, Bob's Red Mill white rice flour is especially fine and produces baked goods with a delightful texture!</span><br><br><span>When used alone, rice flour can be difficult to work with and may produce a dry crumbly texture in your baked goods, so it's best used in conjunction with other wheat or gluten-free flours. Oat flour, buckwheat flour, almond flour, and garbanzo bean flour are all great additions to your gluten-free flour mix! This white rice flour will lend a light, delicate sponginess to your breads, muffins, pancakes, or other baked goods. It's also great to use as a gluten-free thickener for soups, stews, and gravies. No matter how you choose to use it, this brown rice flour is sure to become a staple in your kitchen; For optimal freshness, refrigerate or freeze this flour after opening.</span><br><br><span>A leading brand in health foods, Bob's Red Mill is dedicated to providing the best products using the Old World technique of traditional stone milling. This technique allows for the inherent nutrients and flavor of their grains to be preserved, thus providing wholesome, quality foods to your kitchen. Plus, they have a separate 100% gluten free facility where they process, package, and test all of their gluten free products, so you can always be sure you are serving your customers with allergies a safe-to-eat product. Offer delicious and equally nutritious foods in your establishment with the help of Bob's Red Mill.</span></p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/rice-flour-4-lbs#product","name":"Rice Flour - 4 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"FumApBM88","sku":"mApBM88","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/rice-flour-4-lbs-bulk-mart_241.gif","description":"Rice Flour - 4 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Bulk Mart"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"10"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"4"},"offers":[{"name":"Rice Flour - 4 Lbs","sku":"mApBM88","mpn":"FumApBM88","@type":"Offer","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/rice-flour-4-lbs?variant=19271284949062","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>Rice Flour</s:tag>
+    <s:tag>White Rice Flour</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887454265414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>5010</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4790282780746</id>
+    <published>2020-10-02T12:22:17-04:00</published>
+    <updated>2020-10-02T12:22:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/india-gate-premium-basmati-rice-10-lbs"/>
+    <title>India Gate -  Premium Basmati  Rice - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>India Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-premium-basmati-rice-10-lbs-424295.jpg?v=1611513942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>India Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>India Gate -  Premium Basmati  Rice!</strong></p>
+<p><span>Basmati is a variety of long grain rice. Basmati rice is a kind of rice which has special aroma and flavor. These characteristics are attributed to specific harvesting, processing and geographical locations.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">India Gate Premium basmati rice for perfect taste</span></li>
+<li><span class="a-list-item">Finest quality aged basmati rice </span></li>
+<li><span class="a-list-item">Aromatic, raw, slim &amp; slender grains</span></li>
+<li><span class="a-list-item">Goes well with all types of curries and cuisines</span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/india-gate-premium-basmati-rice-40-lbs#product","name":"India Gate - Premium Basmati Rice - 40 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Rll PBM136","sku":"PBM136","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-premium-basmati-rice-40-lbs-bulk-mart_729.jpg","description":"India Gate - Premium Basmati Rice - 40 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"India Gate"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"40"},"offers":[{"name":"India Gate - Premium Basmati Rice - 40 Lbs","sku":"PBM136","mpn":"Rll PBM136","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/india-gate-premium-basmati-rice-40-lbs?variant=19271372865606","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4790282780746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>00215</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887526355014</id>
+    <published>2020-08-28T14:58:17-04:00</published>
+    <updated>2020-08-28T14:58:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/salaam-golden-sella-basmati-rice-40-lbs"/>
+    <title>Saleem Caravan - Super Golden Sella Basmati Rice - 40 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Salaam</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/saleem-caravan-super-golden-sella-basmati-rice-40-lbs-138937.jpg?v=1611514606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Salaam<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Saleem Caravan - Super Golden Sella Basmati Rice - 40 Lbs</strong></p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc">Golden<span> </span><b>Sella basmati</b><span> </span>has the delicious taste and visual appeal of pure<span> </span><b>Basmati</b>, but with improved holding ability and resilience to over cooking. We simply parboil our signature<span> </span><b>basmati</b><span> </span>in its husk, a completely natural process, enabling you to cook and stir this<span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest basmati rice, this grain has all the hearty flavor and fluffy texture of basmati—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, </span><span>Sella Basmati Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/salaam-golden-sella-basmati-rice-40-lbs#product","name":"Salaam -  Golden Sella Basmati Rice - 40 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887526355014","sku":"BSBM127","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/salaam-golden-sella-basmati-rice-40-lbs-bulk-mart_274.gif","description":"Salaam - Golden Sella Basmati Rice - 40 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Salaam"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"BSBM127","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"40"},"mpn":"","priceCurrency":"CAD","price":"49.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/salaam-golden-sella-basmati-rice-40-lbs?variant=19271419887686","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Golden Sella Basmati Rice</s:tag>
+    <s:tag>Parboiled Basmati Rice</s:tag>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:tag>Sella Basmati Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887526355014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>0014545</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3970212134982</id>
+    <published>2020-03-20T13:56:23-04:00</published>
+    <updated>2020-03-20T13:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/extra-long-basmati-rice-40-lbs"/>
+    <title>Premium Quality Extra Long Basmati Rice - 40 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premium-quality-extra-long-basmati-rice-40-lbs-664584.jpg?v=1611511717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Premium Quality Extra Long Basmati Rice!</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>A GOURMET CHOICE</strong>: Whether a professional chef or you simply enjoy surprising your loved ones with delicious home-cooked meals, the basmati rice is a must for your pantry!</span></li>
+<li><span class="a-list-item"><strong>ALL-NATURAL INGREDIENTS</strong>: Naturally sourced in, this premium quality extra long grain rice basmati contains no additives, fillers or chemicals, being harvested and processed under highest quality conditions.</span></li>
+<li><span class="a-list-item"><strong>EASY TO COOK &amp; VERSATILE</strong>: Running out of ideas on easy, convenient meals? The all-natural long grain rice is easy to cook and highly versatile, being an ideal combination with various main courses, meat, vegetables and more!</span></li>
+<li><span class="a-list-item"><strong>HEALTHIER ALTERNATIVE</strong>: Our basmati rice is light, contains essential amino acids and folic acid, contributing to a healthier meal choice. Low in cholesterol and sodium, this rice contains no gluten and is ideal for people with special dietary restrictions.</span></li>
+<li><span class="a-list-item"><strong>INTENSE &amp; DELICIOUS FLAVOR</strong>: Enjoy a smooth texture which doesn’t stick and intense, aromatic grains which are ideal in combination with all kinds of courses! Your family and dinner guests will be asking for more!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3970212134982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>005454</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887506759750</id>
+    <published>2020-03-20T13:56:23-04:00</published>
+    <updated>2020-03-20T13:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/maharani-1121-sella-basmati-rice-10-lbs"/>
+    <title>Maharani -  1121 Sella Basmati Rice - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Maharani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maharani-1121-sella-basmati-rice-10-lbs-361922.jpg?v=1611511234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maharani<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="DRolee"><strong>Maharani -  1121 Sella Basmati Rice! </strong></div>
+<div class="DRolee"><strong></strong></div>
+<div class="xpd-wa">
+<div data-ved="2ahUKEwiEhKT4pZbsAhXTF80KHTQ9BCwQjDYoAnoECBgQDQ" data-hveid="CBgQDQ" lang="en-CA" class="g mnr-c g-blk">
+<div class="kp-blk c2xzTb Wnoohf OJXvsb">
+<div class="xpdopen">
+<div class="ifM9O">
+<div>
+<div lang="en-CA" data-md="61" class="mod">
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe"><span class="ILfuVd rjOVwe"><span class="hgKElc"></span></span></div>
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe">
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><span> </span><b>Sella basmati</b><span> </span>has the delicious taste and visual appeal of pure<span> </span><b>Basmati</b>, but with improved holding ability and resilience to over cooking. We simply parboil our signature<span> </span><b>basmati</b><span> </span>in its husk, a completely natural process, enabling you to cook and stir this<span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest basmati rice, this grain has all the hearty flavor and fluffy texture of basmati—with much less cooking time. </span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, </span><span>Sella Basmati Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+</div>
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe"><span class="ILfuVd rjOVwe"><span class="hgKElc"></span></span></div>
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe"><span class="ILfuVd rjOVwe"></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/maharani-1121-sella-basmati-rice-10-lbs#product","name":"Maharani -  1121 Sella Basmati Rice - 10 Lbs","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887506759750","sku":"0MBM124","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maharani-1121-sella-basmati-rice-10-lbs-bulk-mart_501.jpg","description":"Maharani - 1121 Sella Basmati Rice - 10 Lbs.","category":"FOOD","brand":{"@type":"Brand","name":"Maharani"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"},"offers":[{"sku":"0MBM124","weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/maharani-1121-sella-basmati-rice-10-lbs?variant=19271387938886","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"46"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Parboiled Basmati Rice</s:tag>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:tag>Sella Basmati Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887506759750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>00454</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887503712326</id>
+    <published>2020-03-20T13:56:23-04:00</published>
+    <updated>2020-03-20T13:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/laxmi-idli-rice-20-lbs"/>
+    <title>Laxmi -  Idli Rice - 20 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Laxmi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/laxmi-idli-rice-20-lbs-982075.jpg?v=1611510579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Laxmi<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laxmi -  Idli Rice - 20 Lbs</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/laxmi-idli-rice-20-lbs#product","name":"Laxmi - Idli Rice - 20 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Ri ldLBM92","sku":"ldLBM92","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/laxmi-idli-rice-20-lbs-bulk-mart_453.jpg","description":"Laxmi - Idli Rice - 20 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Laxmi"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"25"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"20"},"offers":[{"name":"Laxmi - Idli Rice - 20 Lbs","sku":"ldLBM92","mpn":"Ri ldLBM92","@type":"Offer","priceCurrency":"CAD","price":"18.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/laxmi-idli-rice-20-lbs?variant=19271383253062","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Idli Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887503712326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>00324</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887496962118</id>
+    <published>2020-03-20T13:56:23-04:00</published>
+    <updated>2020-03-20T13:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/india-gate-brown-basmati-rice-10-lbs"/>
+    <title>India Gate -  Brown Basmati Rice - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>India Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-brown-basmati-rice-10-lbs-784630.jpg?v=1611510517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>India Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>India Gate -  Brown Basmati Rice - 10 Lbs</strong></p>
+<p><span>Basmati is a variety of long grain rice. Basmati rice is a kind of rice which has special aroma and flavor. These characteristics are attributed to specific harvesting, processing and geographical locations.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">India Gate Premium basmati rice for perfect taste</span></li>
+<li><span class="a-list-item">Finest quality aged basmati rice </span></li>
+<li><span class="a-list-item">Aromatic, raw, slim &amp; slender grains</span></li>
+<li><span class="a-list-item">Goes well with all types of curries and cuisines</span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/india-gate-brown-basmati-rice-10-lbs#product","name":"India Gate - Brown Basmati Rice - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"RiBrlBM100","sku":"rlBM100","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-brown-basmati-rice-10-lbs-bulk-mart_293.jpg","description":"India Gate - Brown Basmati Rice - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"India Gate"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"33"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"10"},"offers":[{"name":"India Gate - Brown Basmati Rice - 10 Lbs","sku":"rlBM100","mpn":"RiBrlBM100","@type":"Offer","priceCurrency":"CAD","price":"19.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/india-gate-brown-basmati-rice-10-lbs?variant=19271372668998","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Brown Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887496962118</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>00045</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887467733062</id>
+    <published>2020-03-20T13:56:23-04:00</published>
+    <updated>2020-03-20T13:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/extra-long-basmati-rice-10-lbs"/>
+    <title>Premium Quality Extra Long Basmati Rice - 10 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>BulkMart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/premium-quality-extra-long-basmati-rice-10-lbs-253555.jpg?v=1611514310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BulkMart<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Premium Quality Extra Long Basmati Rice!</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>A GOURMET CHOICE</strong>: Whether a professional chef or you simply enjoy surprising your loved ones with delicious home-cooked meals, the basmati rice is a must for your pantry!</span></li>
+<li><span class="a-list-item"><strong>ALL-NATURAL INGREDIENTS</strong>: Naturally sourced in, this premium quality extra long grain rice basmati contains no additives, fillers or chemicals, being harvested and processed under highest quality conditions.</span></li>
+<li><span class="a-list-item"><strong>EASY TO COOK &amp; VERSATILE</strong>: Running out of ideas on easy, convenient meals? The all-natural long grain rice is easy to cook and highly versatile, being an ideal combination with various main courses, meat, vegetables and more!</span></li>
+<li><span class="a-list-item"><strong>HEALTHIER ALTERNATIVE</strong>: Our basmati rice is light, contains essential amino acids and folic acid, contributing to a healthier meal choice. Low in cholesterol and sodium, this rice contains no gluten and is ideal for people with special dietary restrictions.</span></li>
+<li><span class="a-list-item"><strong>INTENSE &amp; DELICIOUS FLAVOR</strong>: Enjoy a smooth texture which doesn’t stick and intense, aromatic grains which are ideal in combination with all kinds of courses! Your family and dinner guests will be asking for more!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887467733062</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>005669</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887497027654</id>
+    <published>2020-02-18T16:19:39-05:00</published>
+    <updated>2020-02-18T16:19:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/india-gate-premium-basmati-rice-40-lbs"/>
+    <title>India Gate -  Premium Basmati  Rice - 40 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>India Gate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-premium-basmati-rice-40-lbs-488532.jpg?v=1611511052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>India Gate<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>India Gate -  Premium Basmati  Rice!</strong></p>
+<p><span>Basmati is a variety of long grain rice. Basmati rice is a kind of rice which has special aroma and flavor. These characteristics are attributed to specific harvesting, processing and geographical locations.</span></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">India Gate Premium basmati rice for perfect taste</span></li>
+<li><span class="a-list-item">Finest quality aged basmati rice </span></li>
+<li><span class="a-list-item">Aromatic, raw, slim &amp; slender grains</span></li>
+<li><span class="a-list-item">Goes well with all types of curries and cuisines</span></li>
+</ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/india-gate-premium-basmati-rice-40-lbs#product","name":"India Gate - Premium Basmati Rice - 40 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"Rll PBM136","sku":"PBM136","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/india-gate-premium-basmati-rice-40-lbs-bulk-mart_729.jpg","description":"India Gate - Premium Basmati Rice - 40 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"India Gate"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"13"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"40"},"offers":[{"name":"India Gate - Premium Basmati Rice - 40 Lbs","sku":"PBM136","mpn":"Rll PBM136","@type":"Offer","priceCurrency":"CAD","price":"59.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/india-gate-premium-basmati-rice-40-lbs?variant=19271372865606","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887497027654</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>02159</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4444039446602</id>
+    <published>2019-12-18T19:59:43-05:00</published>
+    <updated>2019-12-18T19:59:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/chef-excellent-parboiled-rice-20-kg"/>
+    <title>Chef Excellent - Parboiled Rice - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Chef Excellence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chef-excellent-parboiled-rice-20-kg-551772.jpg?v=1611511544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Chef Excellence<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Chef Excellent - Parboiled Rice - 20  Kg</strong></p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b><strong data-mce-fragment="1">Parboiled<span data-mce-fragment="1"> </span></strong></b>has the delicious taste and visual appeal but with improved holding ability and resilience to over cooking. We simply parboil our signature<b> </b>in its husk, a completely natural process, enabling you to cook and stir this <strong data-mce-fragment="1">Parboiled</strong><span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest <strong data-mce-fragment="1">Parboiled </strong>rice, this grain has all the hearty flavor and fluffy texture of <strong data-mce-fragment="1">Parboiled </strong>—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, <strong data-mce-fragment="1">Parboiled</strong></span><span> Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<p>Parboiled rice is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying. These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/chef-excellent-parboiled-rice-20-kg#product","name":"Chef Excellent - Parboiled Rice - 20  Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"4444039446602","sku":"2OBM109","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/chef-excellent-parboiled-rice-20-kg-bulk-mart_455.jpg","description":"Chef Excellent - Parboiled Rice - 20 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Chef Excellence"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"},"offers":[{"sku":"2OBM109","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"20"},"mpn":"","priceCurrency":"CAD","price":"27.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/chef-excellent-parboiled-rice-20-kg?variant=31556451893322","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"23"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4444039446602</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>99215</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887506858054</id>
+    <published>2019-08-15T13:58:53-04:00</published>
+    <updated>2019-08-15T13:58:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/maharani-sella-basmati-rice-40-lbs"/>
+    <title>Maharani - Sella Basmati Rice - 40 Lbs</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Maharani</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/maharani-sella-basmati-rice-40-lbs-179382.jpg?v=1611511184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maharani<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="DRolee"><strong>Maharani -  1121 Sella Basmati Rice! </strong></div>
+<div class="xpd-wa">
+<div data-ved="2ahUKEwiEhKT4pZbsAhXTF80KHTQ9BCwQjDYoAnoECBgQDQ" data-hveid="CBgQDQ" lang="en-CA" class="g mnr-c g-blk">
+<div class="kp-blk c2xzTb Wnoohf OJXvsb">
+<div class="xpdopen">
+<div class="ifM9O">
+<div>
+<div lang="en-CA" data-md="61" class="mod">
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe">
+<span class="ILfuVd rjOVwe"><span class="hgKElc"></span></span><br>
+</div>
+<div data-hveid="CBcQAA" role="heading" aria-level="3" data-attrid="wa:/description" class="LGOjhe">
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b>Sella basmati</b><span> </span>has the delicious taste and visual appeal of pure<span> </span><b>Basmati</b>, but with improved holding ability and resilience to over cooking. We simply parboil our signature<span> </span><b>basmati</b><span> </span>in its husk, a completely natural process, enabling you to cook and stir this<span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest basmati rice, this grain has all the hearty flavor and fluffy texture of basmati—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, </span><span>Sella Basmati Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Basmati Rice</s:tag>
+    <s:tag>Parboiled Basmati Rice</s:tag>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:tag>Sella Basmati Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887506858054</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku>005454</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887521996870</id>
+    <published>2018-11-28T15:06:22-05:00</published>
+    <updated>2018-11-28T15:06:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/par-excellence-parboiled-rice-40-kg"/>
+    <title>Par Excellence -  Parboiled Rice - 40  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Par Excellence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/par-excellence-parboiled-rice-40-kg-766467.jpg?v=1611514666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Par Excellence<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Par Excellence - Parboiled Rice - 40 Kg</strong></p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b><strong data-mce-fragment="1">Parboiled<span data-mce-fragment="1"> </span></strong></b>has the delicious taste and visual appeal but with improved holding ability and resilience to over cooking. We simply parboil our signature<b><span> </span></b>in its husk, a completely natural process, enabling you to cook and stir this <strong data-mce-fragment="1">Parboiled</strong><span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest <strong data-mce-fragment="1">Parboiled </strong>rice, this grain has all the hearty flavor and fluffy texture of <strong data-mce-fragment="1">Parboiled </strong>—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, <strong data-mce-fragment="1">Parboiled</strong></span><span> Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<p>Parboiled rice is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying. These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887521996870</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>005456</s:sku>
+      <s:grams>43000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887521931334</id>
+    <published>2018-11-28T15:06:22-05:00</published>
+    <updated>2018-11-28T15:06:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/par-excellence-parboiled-rice-20-kg"/>
+    <title>Par Excellence -  Parboiled Rice - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Par Excellence</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/par-excellence-parboiled-rice-20-kg-550503.jpg?v=1611513037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Par Excellence<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Par Excellence - Parboiled Rice - 20 Kg</p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b><strong data-mce-fragment="1">Parboiled<span data-mce-fragment="1"> </span></strong></b>has the delicious taste and visual appeal but with improved holding ability and resilience to over cooking. We simply parboil our signature<b><span> </span></b>in its husk, a completely natural process, enabling you to cook and stir this <strong data-mce-fragment="1">Parboiled</strong><span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest <strong data-mce-fragment="1">Parboiled </strong>rice, this grain has all the hearty flavor and fluffy texture of <strong data-mce-fragment="1">Parboiled </strong>—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, <strong data-mce-fragment="1">Parboiled</strong></span><span> Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<p>Parboiled rice is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying. These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887521931334</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>00154</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887519342662</id>
+    <published>2018-11-28T15:05:49-05:00</published>
+    <updated>2018-11-28T15:05:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-parboiled-rice-8-kg"/>
+    <title>Nupak  - Parboiled Rice - 8  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nupak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-parboiled-rice-8-kg-273876.jpg?v=1611512614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nupak<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nupak - Parboiled Rice - 8 Kg</strong></p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b><strong data-mce-fragment="1">Parboiled<span data-mce-fragment="1"> </span></strong></b>has the delicious taste and visual appeal but with improved holding ability and resilience to over cooking. We simply parboil our signature<b><span> </span></b>in its husk, a completely natural process, enabling you to cook and stir this <strong data-mce-fragment="1">Parboiled</strong><span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest <strong data-mce-fragment="1">Parboiled </strong>rice, this grain has all the hearty flavor and fluffy texture of <strong data-mce-fragment="1">Parboiled </strong>—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, <strong data-mce-fragment="1">Parboiled</strong></span><span> Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<p>Parboiled rice is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying. These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-parboiled-rice-8-kg#product","name":"Nupak  - Parboiled Rice - 8  Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887519342662","sku":"u8BM116","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-parboiled-rice-8-kg-bulk-mart_495.jpg","description":"Nupak - Parboiled Rice - 8 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"u8BM116","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"mpn":"","priceCurrency":"CAD","price":"16.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-parboiled-rice-8-kg?variant=19271409303622","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887519342662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>005458</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887519309894</id>
+    <published>2018-11-28T15:05:48-05:00</published>
+    <updated>2018-11-28T15:05:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-parboiled-rice-20-kg"/>
+    <title>Nupak  - Parboiled Rice - 20  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nupak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-parboiled-rice-20-kg-658752.jpg?v=1611511172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nupak<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Nupak - Parboiled Rice - 20 Kg</strong></p>
+<ul>
+<li><span class="ILfuVd rjOVwe"><span class="hgKElc"><b><strong data-mce-fragment="1">Parboiled<span data-mce-fragment="1"> </span></strong></b>has the delicious taste and visual appeal but with improved holding ability and resilience to over cooking. We simply parboil our signature<b><span> </span></b>in its husk, a completely natural process, enabling you to cook and stir this <strong data-mce-fragment="1">Parboiled</strong><span> </span><b>rice</b><span> </span>without losing the texture.</span></span></li>
+<li>
+<span>For professional chefs, </span><span>Sella makes a delicious meal in just a few minutes. In addition to being the world’s longest <strong data-mce-fragment="1">Parboiled </strong>rice, this grain has all the hearty flavor and fluffy texture of <strong data-mce-fragment="1">Parboiled </strong>—with much less cooking time.</span>
+</li>
+<li>
+<span>Just add water, chicken broth or your favorite cooking liquid, simmer briefly and dinner is served! In fact, <strong data-mce-fragment="1">Parboiled</strong></span><span> Rice is so convenient, it can be kept warm for extended periods or even reheated in a microwave without compromising its flavor, consistency or distinctive color. What could be easier than that?</span>
+</li>
+</ul>
+<p>Parboiled rice is rice that has been partially boiled in the husk. The three basic steps of parboiling are soaking, steaming and drying. These steps make the rice easier to process by hand, while also boosting its nutritional profile, changing its texture, and making it more resistant to weevils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Parboiled Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887519309894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>002154</s:sku>
+      <s:grams>21000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887519244358</id>
+    <published>2018-11-28T15:05:48-05:00</published>
+    <updated>2018-11-28T15:05:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/nupak-long-grain-brown-rice-8-kg"/>
+    <title>Nupak  - Long Grain Brown Rice - 8 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Nupak</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-long-grain-brown-rice-8-kg-802786.jpg?v=1611514608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nupak<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nupak  - Long Grain Brown Rice - 8 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/nupak-long-grain-brown-rice-8-kg#product","name":"Nupak - Long Grain Brown Rice - 8 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"RiBr10BM99","sku":"r10BM99","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/nupak-long-grain-brown-rice-8-kg-bulk-mart_911.jpg","description":"Nupak - Long Grain Brown Rice - 8 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Nupak"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"57"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"8"},"offers":[{"name":"Nupak - Long Grain Brown Rice - 8 Kg","sku":"r10BM99","mpn":"RiBr10BM99","@type":"Offer","priceCurrency":"CAD","price":"17.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/nupak-long-grain-brown-rice-8-kg?variant=19271408943174","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brown Rice</s:tag>
+    <s:tag>Long Grain Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887519244358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>000154</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887508267078</id>
+    <published>2018-11-28T15:03:41-05:00</published>
+    <updated>2018-11-28T15:03:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martelli-carnaroli-rice-12-x-1-kg"/>
+    <title>Martelli -  Carnaroli Rice - 12 x 1  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martelli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-carnaroli-rice-12-x-1-kg-371787.jpg?v=1611513819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martelli<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            74.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martelli -  Carnaroli Rice - 12 x 1  Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/martelli-carnaroli-rice-12-x-1-kg#product","name":"Martelli -  Carnaroli Rice - 12 x 1  Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887508267078","sku":"O1BM108","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-carnaroli-rice-12-x-1-kg-bulk-mart_217.jpg","description":"Martelli - Carnaroli Rice - 12 x 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Martelli"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"},"offers":[{"sku":"O1BM108","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"62.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/martelli-carnaroli-rice-12-x-1-kg?variant=19271391281222","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"4"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carnaroli Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887508267078</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.99</s:price>
+      <s:sku>004540</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887508234310</id>
+    <published>2018-11-28T15:03:40-05:00</published>
+    <updated>2018-11-28T15:03:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martelli-carnaroli-rice-1-kg"/>
+    <title>Martelli -  Carnaroli Rice - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martelli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-carnaroli-rice-1-kg-416591.jpg?v=1611512369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martelli<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martelli -  Carnaroli Rice - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/martelli-carnaroli-rice-1-kg#product","name":"Martelli -  Carnaroli Rice - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887508234310","sku":"O1BM107","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-carnaroli-rice-1-kg-bulk-mart_712.jpg","description":"Martelli - Carnaroli Rice - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Martelli"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"O1BM107","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/martelli-carnaroli-rice-1-kg?variant=19271391248454","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carnaroli Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887508234310</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>005454</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887508201542</id>
+    <published>2018-11-28T15:03:40-05:00</published>
+    <updated>2018-11-28T15:03:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martelli-arborio-rice-12-x-1-kg"/>
+    <title>Martelli -  Arborio Rice - 12 x 1  Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martelli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-arborio-rice-12-x-1-kg-796437.jpg?v=1611514545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martelli<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martelli -  Arborio Rice - 12 x 1  Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/martelli-arborio-rice-12-x-1-kg#product","name":"Martelli -  Arborio Rice - 12 x 1  Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887508201542","sku":"arBM106","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-arborio-rice-12-x-1-kg-bulk-mart_849.jpg","description":"Martelli - Arborio Rice - 12 x 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Martelli"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"},"offers":[{"sku":"arBM106","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"52.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/martelli-arborio-rice-12-x-1-kg?variant=19271391182918","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"25"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arborio Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887508201542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>0054659</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887508168774</id>
+    <published>2018-11-28T15:03:39-05:00</published>
+    <updated>2018-11-28T15:03:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/martelli-arborio-rice-1-kg"/>
+    <title>Martelli -  Arborio Rice - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Martelli</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-arborio-rice-1-kg-906501.jpg?v=1611514250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Martelli<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Martelli -  Arborio Rice - 1 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/martelli-arborio-rice-1-kg#product","name":"Martelli - Arborio Rice - 1 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"RiMarBM105","sku":"arBM105","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/martelli-arborio-rice-1-kg-bulk-mart_284.jpg","description":"Martelli - Arborio Rice - 1 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Martelli"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"38"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"offers":[{"name":"Martelli - Arborio Rice - 1 Kg","sku":"arBM105","mpn":"RiMarBM105","@type":"Offer","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/martelli-arborio-rice-1-kg?variant=19271391150150","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arborio Rice</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887508168774</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>001545</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887477399622</id>
+    <published>2018-11-28T14:58:12-05:00</published>
+    <updated>2018-11-28T14:58:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dora-arborio-rice-1-kg"/>
+    <title>Dora -  Arborio Rice - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-arborio-rice-1-kg-778996.jpg?v=1611510455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dora -  Arborio Rice - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dora-arborio-rice-1-kg#product","name":"Dora -  Arborio Rice - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887477399622","sku":"iArBM94","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-arborio-rice-1-kg-bulk-mart_972.jpg","description":"Dora - Arborio Rice - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Dora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"},"offers":[{"sku":"iArBM94","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"5.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dora-arborio-rice-1-kg?variant=19271334985798","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"41"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arborio Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887477399622</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>4540</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887477301318</id>
+    <published>2018-11-28T14:58:11-05:00</published>
+    <updated>2018-11-28T14:58:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dora-arborio-rice-5-x-1-kg"/>
+    <title>Dora -  Arborio Rice - 5 x 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Dora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-arborio-rice-5-x-1-kg-208444.jpg?v=1611514785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dora<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dora -  Arborio Rice - 5 x 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dora-arborio-rice-5-x-1-kg#product","name":"Dora -  Arborio Rice - 5 x 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887477301318","sku":"iArBM93","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dora-arborio-rice-5-x-1-kg-bulk-mart_654.jpg","description":"Dora - Arborio Rice - 5 x 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Dora"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"},"offers":[{"sku":"iArBM93","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dora-arborio-rice-5-x-1-kg?variant=19271334920262","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"13"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arborio Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887477301318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>00365</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887476383814</id>
+    <published>2018-11-28T14:58:02-05:00</published>
+    <updated>2018-11-28T14:58:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/divella-riso-superfino-arborio-rice-1-kg"/>
+    <title>Divella -  Riso Superfino Arborio Rice - 1 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Divella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/divella-riso-superfino-arborio-rice-1-kg-784167.jpg?v=1611514066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Divella<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Divella -  Riso Superfino Arborio Rice - 1 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/divella-riso-superfino-arborio-rice-1-kg#product","name":"Divella -  Riso Superfino Arborio Rice - 1 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1887476383814","sku":"rioBM96","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/divella-riso-superfino-arborio-rice-1-kg-bulk-mart_202.jpg","description":"Divella - Riso Superfino Arborio Rice - 1 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Divella"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"},"offers":[{"sku":"rioBM96","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1"},"mpn":"","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/divella-riso-superfino-arborio-rice-1-kg?variant=19271333576774","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"29"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arborio Rice</s:tag>
+    <s:tag>Rice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887476383814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>77545</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

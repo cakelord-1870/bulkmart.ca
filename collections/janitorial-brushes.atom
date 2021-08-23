@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/janitorial-brushes.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-13T22:04:27-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4854948692042</id>
+    <published>2020-12-13T22:04:27-05:00</published>
+    <updated>2020-12-13T22:04:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/action-1-bathroom-plunger-each"/>
+    <title>Action-1 - Bathroom Plunger - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Action-1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/action-1-bathroom-plunger-each-830561.jpg?v=1624053484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Action-1<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>Heavy duty toilet plunger, built with durable rubber which won't damage your toilet bowl, great for commercial and residential use.<br>
+</li>
+<li><span class="a-list-item">Rubber suction cup provides maximum plunging power clearing tough clogs.</span></li>
+<li><span class="a-list-item">Extended rubber plunger can be collapsed to clear tough clogs in shower drains and sinks.</span></li>
+<li><span class="a-list-item">Long handle, light weight, which offers a secure and comfortable grip.</span></li>
+<li><span class="a-list-item">Stylish design, a must-have bathroom accessory, works efficiently with both standard and high-efficiency toilets.</span></li>
+</ul>
+<ul class="list"></ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plunger</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4854948692042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>27292</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785399398474</id>
+    <published>2020-10-01T12:08:03-04:00</published>
+    <updated>2020-10-01T12:08:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-toilet-brush-caddy-set-d130001-each"/>
+    <title>Liao - Toilet Brush &amp; Caddy Set - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-toilet-brush-caddy-set-each-471739.jpg?v=1611513152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Toilet Brush &amp; Caddy Set D130001 - Each</strong></p>
+<ul>
+<li>Resistant to stains, odors, bacteria, fungi, and wear<br>
+</li>
+<li>Reliable toilet bowl brush kelps keep washrooms clean</li>
+<li>Ideal for commercial, medical, and industrial applications</li>
+<li>Hole in the plastic handle allows for easy hanging</li>
+<li>For fast and easy cleaning. Prevents drips and spills.<br>
+</li>
+</ul>
+<ul class="list"></ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Brush &amp; Caddy</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785399398474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>423421</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785398874186</id>
+    <published>2020-10-01T12:08:01-04:00</published>
+    <updated>2020-10-01T12:08:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-toilet-brush-d130033-each"/>
+    <title>Liao - Toilet Brush - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-toilet-brush-each-543116.jpg?v=1611513033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Toilet Brush D130033 - Each</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The Brush Handle is made of Eco Plastic, Lengthened handle brings you more convenience while using.</span></li>
+<li><span class="a-list-item">A good partner of your toilet,White color allows brush and holder to hide behind the toilet or underneath the sink.</span></li>
+<li><span class="a-list-item">This cleaning product brings Eco concept into our life, making our daily life more convenient and happy.</span></li>
+<li><span class="a-list-item">Things is always adhered to the toilet, you often need spending much time and effort in cleaning. But now, Try to clean with Liao toilet brush! No more worries, your toilet will become neat and tidy, without smell.</span></li>
+<li><span class="a-list-item">Super stiff scrubbing bristle</span></li>
+</ul>
+<ul class="list"></ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Brushes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785398874186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>423422</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785398022218</id>
+    <published>2020-10-01T12:08:00-04:00</published>
+    <updated>2020-10-01T12:08:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-toilet-brush-caddy-set-d130034-each"/>
+    <title>Liao - Toilet Brush &amp; Caddy Set - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-toilet-brush-caddy-set-each-401645.jpg?v=1611512798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Toilet Brush &amp; Caddy Set D130034 - Each</strong></p>
+<ul>
+<li>Resistant to stains, odors, bacteria, fungi, and wear<br>
+</li>
+<li>Reliable toilet bowl brush kelps keep washrooms clean</li>
+<li>Ideal for commercial, medical, and industrial applications</li>
+<li>Hole in the plastic handle allows for easy hanging</li>
+<li>For fast and easy cleaning. Prevents drips and spills.</li>
+</ul>
+<ul class="list"></ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Brush &amp; Caddy</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785398022218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>423427</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785396318282</id>
+    <published>2020-10-01T12:07:59-04:00</published>
+    <updated>2020-10-01T12:07:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-toilet-tile-bath-brush-each"/>
+    <title>Liao - Toilet / Tile / Bath Brush - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-toilet-tile-bath-brush-each-700322.jpg?v=1611510940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - Toilet / Tile Brush - Each</strong></p>
+<p>The soft handle of this toilet brush makes it easier<br>to hold while giving a solid grip. The flexible bristles ensure<br>the easy cleaning. Made of high-grade material, it is long<br>lasting and the handle has a loop for hanging. This toilet brush<br>can be used on floor, marbles, or tiles.<br>This product can only be returned if it is not used and it is in<br>packed condition.</p>
+<p>* Specifications</p>
+<p>Brand - Liao<br>Type - Cleaning brush<br>Model no - D130046<br>Colour - Red<br>Material - Plastic<br>Weight - 82 gm<br>Dimension - 13.5X15.5X7.5 (LxWxH) cm</p>
+<ul class="list"></ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Floor Brushes</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785396318282</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>42342</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785394319434</id>
+    <published>2020-10-01T12:07:57-04:00</published>
+    <updated>2020-10-01T12:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-toilet-bowl-swab-brush-each"/>
+    <title>Marino- Acrylic Toilet Bowl Swab Brush White - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Marino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/marino-acrylic-toilet-bowl-swab-brush-white-each-346294.gif?v=1611510826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marino<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MC - Toilet Bowl Swab Brush - Each</strong></p>
+<p><strong>13.5" H x 3.5" W</strong></p>
+<p>Economical bowl swab is made from the finest acid resistant acrylic yarn securely attached to a strong plastic handle.</p>
+<p>• Acrylic material releases liquid quickly therefore eliminates dripping and is fast drying.</p>
+<p>• Acid resistant polypropylene strands.</p>
+<ul class="list"></ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toilet Bowl Swab Brush</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785394319434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>4234288</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785404444746</id>
+    <published>2020-09-30T22:31:06-04:00</published>
+    <updated>2020-09-30T22:31:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-vacuum-sink-plunger-h130005-each"/>
+    <title>Liao - Vacuum Sink Plunger With Telescopic Handle - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-vacuum-sink-plunger-with-telescopic-handle-each-428111.jpg?v=1611511240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li>Liao - Vacuum Sink Plunger - Each</li>
+<li><span class="a-list-item">Heavy duty toilet plunger, built with durable rubber which won't damage your toilet bowl, great for commercial and residential use.</span></li>
+<li><span class="a-list-item">Rubber suction cup provides maximum plunging power clearing tough clogs.</span></li>
+<li><span class="a-list-item">Extended rubber plunger can be collapsed to clear tough clogs in shower drains and sinks.</span></li>
+<li><span class="a-list-item">Long handle, light weight, which offers a secure and comfortable grip.</span></li>
+<li><span class="a-list-item">Stylish design, a must-have bathroom accessory, works efficiently with both standard and high-efficiency toilets.</span></li>
+</ul>
+<ul class="list"></ul>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plunger</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785404444746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>110458</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4785403494474</id>
+    <published>2020-09-30T22:31:04-04:00</published>
+    <updated>2020-09-30T22:31:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-tpr-toilet-plunger-rubber-h130004-each"/>
+    <title>Liao - TPR Rubber Toilet Plunger Plastic Handle- Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-tpr-rubber-toilet-plunger-plastic-handle-each-764324.jpg?v=1611513274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Liao - TPR Rubber Toilet Plunger Plastic Handle- Each</span></li>
+<li><span class="a-list-item">Heavy duty toilet plunger, built with durable rubber which won't damage your toilet bowl, great for commercial and residential use.</span></li>
+<li><span class="a-list-item">Rubber suction cup provides maximum plunging power clearing tough clogs.</span></li>
+<li><span class="a-list-item">Extended rubber plunger can be collapsed to clear tough clogs in shower drains and sinks.</span></li>
+<li><span class="a-list-item">Long handle, light weight, which offers a secure and comfortable grip.</span></li>
+<li><span class="a-list-item">Stylish design, a must-have bathroom accessory, works efficiently with both standard and high-efficiency toilets.</span></li>
+</ul>
+<ul class="list"></ul>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Plunger</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4785403494474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>15847</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

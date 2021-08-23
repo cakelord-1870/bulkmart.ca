@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/soy-sauce.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-10-20T22:57:39-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4811762597962</id>
+    <published>2020-10-20T22:57:39-04:00</published>
+    <updated>2020-10-20T22:57:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pc-soya-sauce-portions-500-x-9-g"/>
+    <title>PC - Soya Sauce Portions - 500 x 9 g</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>PC Wing&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pc-soya-sauce-portions-500-x-9-g-704854.jpg?v=1611511182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PC Wing&#39;s<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>PC - Soy Sauce Packets - 500 x 9 g</strong></p>
+<p><strong>Substitute this soya sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p>
+<p><span>The handy 9 g portion packets make an excellent addition to your restaurant, diner, convenience store, cafeteria, or take-out station.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/vohc-reduced-sodium-soy-sauce-380-ml#product","name":"VOHC - Reduced Sodium Soy Sauce - 380 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054534430790","sku":"2BM3454","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vohc-reduced-sodium-soy-sauce-380-ml-bulk-mart_726.jpg","description":"VOHC - Reduced Sodium Soy Sauce - 380 ml...","category":"FOOD","brand":{"@type":"Brand","name":"VH"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"44"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"380"},"gtin14":"Con100S2BM3454","offers":[{"name":"VOHC - Reduced Sodium Soy Sauce - 380 ml","sku":"2BM3454","gtin14":"Con100S2BM3454","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/vohc-reduced-sodium-soy-sauce-380-ml?variant=20686496596038","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Condiment Portions</s:tag>
+    <s:tag>Single Serving Portions</s:tag>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811762597962</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>26836</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811751522378</id>
+    <published>2020-10-20T22:57:38-04:00</published>
+    <updated>2020-10-20T22:57:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kikkoman-organic-soy-sauce-296-ml"/>
+    <title>Kikkoman - Organic Soy Sauce - 296 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kikkoman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-organic-soy-sauce-296-ml-974346.jpg?v=1611510515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kikkoman<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kikkoman - Organic Soy Sauce - 296 ml</strong></p>
+<p><strong>Substitute this Organic soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Organic Foods</s:tag>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811751522378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>066978</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811744837706</id>
+    <published>2020-10-20T22:57:36-04:00</published>
+    <updated>2020-10-20T22:57:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pearl-river-bridge-superior-dark-soy-sauce-8-l"/>
+    <title>Pearl River Bridge - Superior Dark Soy Sauce - 8 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pearl River Bridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pearl-river-bridge-superior-dark-soy-sauce-8-l-913704.jpg?v=1611511961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pearl River Bridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pearl River Bridge - Superior Dark Soya Sauce - 8 L</p>
+<p><strong>Substitute this soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811744837706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.99</s:price>
+      <s:sku>50656</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811743297610</id>
+    <published>2020-10-20T22:57:35-04:00</published>
+    <updated>2020-10-20T22:57:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pearl-river-bridge-superior-light-soy-sauce-8-l"/>
+    <title>Pearl River Bridge - Superior Light Soy Sauce - 8 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pearl River Bridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pearl-river-bridge-superior-light-soy-sauce-8-l-123799.jpg?v=1611513338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pearl River Bridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pearl River - Light Soy Sauce - 8 L</p>
+<h2>Features&amp;Usage:</h2>
+<p>Pearl River Bridge Brand Superior Light Soy Sauce maintains the distinctive fragrance, aroma, delicious taste, and rich nutrition of soy beans. Inherited from our ancient ingredients and starters, our soy sauce takes more than 100 days fermentation process combining well selected soy beans with unique Sunshine, Water, and Air in Southern China. Pearl River Bridge Superior Light Soy Sauce is one of the seven necessities for daily life for Chinese. It is ideal for dipping, stir frying, marinating while brings out the delicious flavor from food both for Chinese Cuisines and Canadian dishes.</p>
+<p><a href="http://ca.pearlriverbridge.com/recipe-search?k=Pearl%20River%20Bridge%20Superior%20Light%20Soy%20Sauce">Product Recipes</a></p>
+<h2>Specification:</h2>
+<p>8L per drum (PE Drums)</p>
+<h2>Ingredients:</h2>
+<p>Water, Soybeans, Salt, Wheat Flour &amp; Potassium Sorbate ( Less than 0.1%).<br>CONTAINS: Soy, Wheat</p>
+<p><span><strong>Looking for the authentic taste of soy sauce with less sodium added?</strong> traditionally brewed less sodium soy sauce offers the same great flavor and appetizing aroma of regular soy sauce but with 37% less sodium! It is traditionally brewed from wheat, soybeans, water, and salt. It is then aged to develop its mellow flavor and reddish-brown color, and the salt isn't removed until after the brewing process is complete to retain its authentic soy sauce taste.</span><br><br><span><strong>Although there is less sodium in this soy sauce,</strong> it can be used in any recipe calling for soy sauce, and the reduced salt can accommodate your lighter menu items and your health conscious patrons. Besides noodle dishes, this less sodium soy sauce is great for grilling or roasting beef, pork, tofu, seafood, or chicken. Blend it into a signature sauce, or whisk it into savory dressings and marinades. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream American foods!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811743297610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>50695</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811741298762</id>
+    <published>2020-10-20T22:57:33-04:00</published>
+    <updated>2020-10-20T22:57:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pearl-river-bridge-mushroom-superior-dark-soy-sauce-8-l"/>
+    <title>Pearl River Bridge - Mushroom Superior Dark Soy Sauce - 8 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pearl River Bridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pearl-river-bridge-mushroom-superior-dark-soy-sauce-8-l-987924.jpg?v=1611511299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pearl River Bridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pearl River - Mushroom Soy Sauce - 8 L</strong></p>
+<p><span><strong>Add savory flavor and rich color to your classic Asian dishes</strong> with this mushroom flavored dark soy sauce! Made with deliciously savory soy sauce and deeply flavorful mushrooms, this sauce packs a punch of umami flavor. Packaged in a bulk container with a convenient handle, this mushroom flavored soy sauce is a perfect way to ensure that you keep your Asian restaurant stocked with the essentials. Plus, it's made with non-GMO soybeans and contains no preservatives, making this sauce a natural choice for your establishment!</span><br><br><span><strong>Dark soy sauce is an essential ingredient</strong> in Chinese cooking and in many other popular Asian cuisines as well. Its flavor is more intense than that of "regular" soy sauce and it has sweet overtones that help to offset its saltiness. It's commonly used to add flavor and dark, caramelized color to rice, noodle, and stir fry dishes. Try adding a splash of mushroom flavored dark soy sauce to your next batch of fried rice or chow mein! It's also great for creating the thick sauce for takeout favorites like steak and broccoli. Be sure to add a small amount of dark soy sauce to start - it can easily overpower the other flavors in a dish, so it's best used sparingly!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811741298762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>20790</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811740119114</id>
+    <published>2020-10-20T22:57:32-04:00</published>
+    <updated>2020-10-20T22:57:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pearl-river-bridge-mushroom-flavored-superior-dark-soy-sauce-1-8-l"/>
+    <title>Pearl River Bridge - Mushroom Flavored Superior Dark Soy Sauce -1.8 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Pearl River Bridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pearl-river-bridge-mushroom-flavored-superior-dark-soy-sauce-18-l-957150.jpg?v=1611512076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pearl River Bridge<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pearl River - Mushroom Soy Sauce - 1.8 L</strong></p>
+<h1>Pearl River Bridge Mushroom Flavoured Superior Dark Soy Sauce</h1>
+<h2>Features&amp;Usage:</h2>
+<p>Pearl River Bridge brand mushroom flavoured superior dark soy sauce maintains the distinctive fragrance, aroma, delicious taste, and rich nutrition of soy beans. Inherited from our ancient ingredients and starters, our soy sauce takes more than 100 days fermentation process combining well selected soy beans with unique Sunshine, Water, and Air in Southern China. Pearl River Bridge brand mushroom flavoured superior dark soy sauce has unique mushroom smells and tastes with dark brown color. It is ideal for cooking and marinating, adding coloring to the dishes. When add it in the dishes, it makes the food more attracting with golden brown color and wonderful smells. Not only can it be flawlessly used in Asian cuisines, it is also excellent for American cuisines.</p>
+<h2>Specification:</h2>
+<p>0.475 GAL (1.8L) per drum (PE drum)</p>
+<h2>Ingredients:</h2>
+<p>Water, Soybeans, Sugar, Salt, Wheat Flour, Extract of Mushroom, Sulfur dioxide.<br>CONTAINS: Soy, Wheat<br>(Note: Sulfur dioxide is naturally presented that comes from sugar.)</p>
+<p><span><strong>Add savory flavor and rich color to your classic Asian dishes</strong> with this mushroom flavored dark soy sauce! Made with deliciously savory soy sauce and deeply flavorful mushrooms, this sauce packs a punch of umami flavor. Packaged in a bulk container with a convenient handle, this mushroom flavored soy sauce is a perfect way to ensure that you keep your Asian restaurant stocked with the essentials. Plus, it's made with non-GMO soybeans and contains no preservatives, making this sauce a natural choice for your establishment!</span><br><br><span><strong>Dark soy sauce is an essential ingredient</strong> in Chinese cooking and in many other popular Asian cuisines as well. Its flavor is more intense than that of "regular" soy sauce and it has sweet overtones that help to offset its saltiness. It's commonly used to add flavor and dark, caramelized color to rice, noodle, and stir fry dishes. Try adding a splash of mushroom flavored dark soy sauce to your next batch of fried rice or chow mein! It's also great for creating the thick sauce for takeout favorites like steak and broccoli. Be sure to add a small amount of dark soy sauce to start - it can easily overpower the other flavors in a dish, so it's best used sparingly!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811740119114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>065969</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4811737432138</id>
+    <published>2020-10-20T22:57:30-04:00</published>
+    <updated>2020-10-20T22:57:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kikkoman-soy-sauce-3-79-l"/>
+    <title>Kikkoman - Soy Sauce - 3.79 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kikkoman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-379-l-838048.jpg?v=1611511122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kikkoman<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            28.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kikkoman - Soy Sauce - 3.79 L</strong></p>
+<p><strong>Substitute this soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4811737432138</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.49</s:price>
+      <s:sku>656990</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2068319862854</id>
+    <published>2020-10-20T22:57:29-04:00</published>
+    <updated>2020-10-20T22:57:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/kikkoman-gluten-free-tamari-soy-sauce-18-9-l"/>
+    <title>Kikkoman - Gluten Free Tamari Soy Sauce - 18.9 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Kikkoman</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-gluten-free-tamari-soy-sauce-189-l-823459.jpg?v=1611510881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kikkoman<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            141.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Kikkoman - Gluten Free Tamari Soy Sauce - 18.9 L</strong></p>
+<p><span>Kikkoman Gluten-Free Tamari Soy Sauce is a premium tamari soy sauce with the same rich, savory taste and flavor you’ve come to expect from Kikkoman Soy Sauce. Kikkoman Gluten-Free Tamari Soy Sauce is traditionally brewed from four simple ingredients—water, soybeans, salt and sugar, is Non-GMO Project Verified and is certified gluten-free by the Gluten Intolerance Group </span></p>
+<p><span><strong>Meet the demand for lower sodium dishes</strong> and accommodate the rising popularity of gluten free foods with this Kikkoman gluten free tamari soy sauce. Its traditional brewing method offers the great flavor and appetizing aroma of regular Kikkoman gluten free tamari soy sauce ! It is also free of preservatives and genetically-modified ingredients. Featuring a dark and mild, premium tamari flavor, it has a rich color and refined umami taste.<br><br>Substitute this gluten free tamari soy sauce in any recipe calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons, and guests with dietary restrictions. Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this gluten free tamari soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream American foods!<br><br>Stock your Asian-inspired restaurant, noodle restaurant, or cafe with this container of  gluten free tamari soy sauce. It features a convenient handle for pouring and transporting, as well as a resealable cap to keep the product fresh.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l#product","name":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2068319862854","sku":"BM51219","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/kikkoman-soy-sauce-naturally-brewed-18-9-l-bulk-mart_209.jpg","description":"Kikkoman - Soy Sauce Naturally Brewed - 18.9 L.","category":"FOOD","brand":{"@type":"Brand","name":"Kikkoman"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"},"offers":[{"sku":"BM51219","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"18.9"},"mpn":"","priceCurrency":"CAD","price":"55.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/kikkoman-soy-sauce-naturally-brewed-18-9-l?variant=20739581149254","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"47"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gluten Free Foods</s:tag>
+    <s:tag>NON-GMO Foods</s:tag>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2068319862854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">141.99</s:price>
+      <s:sku>06587</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054534529094</id>
+    <published>2019-04-24T01:45:24-04:00</published>
+    <updated>2019-04-24T01:45:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wings-soy-sauce-4-x-4-l"/>
+    <title>Wing&apos;s - Soy Sauce - 4 x 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Wings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-soy-sauce-4-x-4-l-902005.jpg?v=1611512612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wings<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Wings - Regular Soy Sauce - 4 x 4 L</strong></p>
+<p><strong>Substitute this soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054534529094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>099899</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054534496326</id>
+    <published>2019-04-24T01:45:23-04:00</published>
+    <updated>2019-04-24T01:45:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/wings-soy-sauce-4-l"/>
+    <title>Wing&apos;s - Soy Sauce - 4 L</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Wings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/wings-soy-sauce-4-l-734799.jpg?v=1611512731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wings<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wings - Regular Soy Sauce - 4 L</p>
+<p><strong>Substitute this soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054534496326</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>05989</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054534430790</id>
+    <published>2019-04-24T01:45:21-04:00</published>
+    <updated>2019-04-24T01:45:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vh-soya-sauce-lite-380-ml"/>
+    <title>VH - Soya Sauce Lite - 380 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>VH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vh-soya-sauce-lite-380-ml-852582.jpg?v=1611514070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VH<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>VH - Lite Soy Sauce - 380 ml</strong></p>
+<p><span><strong>Meet the demand for lower sodium dishes</strong> and accommodate the rising popularity of  less sodium soy sauce. Its traditional brewing method offers the great flavor and appetizing aroma of regular soy sauce yet contains 40% less sodium! It is also free of preservatives and genetically-modified ingredients. Featuring a dark and mild, premium tamari flavor, it has a rich color and refined umami taste.</span><br><br><span><strong>Substitute this less sodium soy sauce in any recipe</strong> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons, and guests with dietary restrictions. Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this less sodium soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span><br><br><span><strong>Stock your Asian-inspired restaurant,</strong> noodle restaurant, or cafe with this container of less sodium soy sauce. It features a convenient handle for pouring and transporting, as well as a resealable cap to keep the product fresh.</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/vohc-reduced-sodium-soy-sauce-380-ml#product","name":"VOHC - Reduced Sodium Soy Sauce - 380 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054534430790","sku":"2BM3454","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vohc-reduced-sodium-soy-sauce-380-ml-bulk-mart_726.jpg","description":"VOHC - Reduced Sodium Soy Sauce - 380 ml...","category":"FOOD","brand":{"@type":"Brand","name":"VH"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"44"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"380"},"gtin14":"Con100S2BM3454","offers":[{"name":"VOHC - Reduced Sodium Soy Sauce - 380 ml","sku":"2BM3454","gtin14":"Con100S2BM3454","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/vohc-reduced-sodium-soy-sauce-380-ml?variant=20686496596038","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054534430790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>269009</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054534365254</id>
+    <published>2019-04-24T01:45:20-04:00</published>
+    <updated>2019-04-24T01:45:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/vh-soya-sauce-regular-380-ml"/>
+    <title>VH - Soya Sauce Regular - 380 ml</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>VH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vh-soya-sauce-regular-380-ml-196022.jpg?v=1611512016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VH<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VH -  Regular Soy Sauce - 380 ml</p>
+<p><strong>Substitute this soy sauce in any recipe</strong><span> calling for soy sauce, and it's perfect for your lighter fare, health conscious patrons. . Blend it into a signature sauce, or whisk it into savory dressings and marinades. It's also great for noodle bowls, sushi, teriyaki chicken, meats, vegetable stir-fry, and much more. The delicate consistency of this soy sauce has a distinctive essence for your traditional Asian cuisine, and also brings new tastes to mainstream Canadian foods!</span></p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/vohc-regular-soy-sauce-380-ml#product","name":"VOHC - Regular Soy Sauce - 380 ml","itemCondition":"https://schema.org/NewCondition","mpn":"2054534365254","sku":"1BM3452","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/vohc-regular-soy-sauce-380-ml-bulk-mart_230.jpg","description":"VOHC - Regular Soy Sauce - 380 ml...","category":"FOOD","brand":{"@type":"Brand","name":"VH"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"3"},"weight":{"@type":"QuantitativeValue","unitText":"g","value":"380"},"gtin14":"Con100S1BM3452","offers":[{"name":"VOHC - Regular Soy Sauce - 380 ml","sku":"1BM3452","gtin14":"Con100S1BM3452","@type":"Offer","priceCurrency":"CAD","price":"4.49","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/vohc-regular-soy-sauce-380-ml?variant=20686496530502","mpn":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Soy Sauce</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054534365254</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>095965</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

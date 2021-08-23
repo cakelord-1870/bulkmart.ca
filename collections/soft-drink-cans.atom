@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/soft-drink-cans.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-11-29T00:35:14-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4670887428170</id>
+    <published>2020-11-29T00:35:14-05:00</published>
+    <updated>2020-11-29T00:35:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/schweppes-ginger-ale-12-x-355-ml"/>
+    <title>Schweppes -  Ginger Ale - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Schweppes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/schweppes-ginger-ale-12-x-355-ml-446683.jpg?v=1611514608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schweppes<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Schweppes -  Ginger Ale - 12 x 355 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4670887428170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009058</s:sku>
+      <s:grams>6000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729805894</id>
+    <published>2020-11-29T00:35:13-05:00</published>
+    <updated>2020-11-29T00:35:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/schweppes-ginger-ale-24-x-355-ml"/>
+    <title>Schweppes -  Ginger Ale - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Schweppes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/schweppes-ginger-ale-24-x-355-ml-332739.jpg?v=1611514310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schweppes<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Schweppes -  Ginger Ale - 24 x 355 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729805894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>009059</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729707590</id>
+    <published>2020-11-29T00:35:09-05:00</published>
+    <updated>2020-11-29T00:35:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-original-24-x-355-ml"/>
+    <title>Pepsi  - Original - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-original-24-x-355-ml-740043.jpg?v=1611511772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pepsi  - Original - 24 x 355 ml</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729707590</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>009045</s:sku>
+      <s:grams>9500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729674822</id>
+    <published>2020-09-27T13:55:28-04:00</published>
+    <updated>2020-09-27T13:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-diet-soda-12-x-355-ml"/>
+    <title>Pepsi  - Diet Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-diet-soda-12-x-355-ml-312875.jpg?v=1611514424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><strong>Pepsi  - Diet Soda - 12 x 355 ml</strong></div>
+<div></div>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Light, crisp and refreshing taste of Diet Pepsi soft drink</span></li>
+<li><span class="a-list-item">Nothing refreshes like a Diet Pepsi</span></li>
+<li><span class="a-list-item">Zero Sugar. Zero Calories.</span></li>
+<li><span class="a-list-item">Pack of 12, 355mL per can</span></li>
+<li><span class="a-list-item">Please note that where temperatures can drop below 0° Celsius, beverages may freeze and cause containers to burst when exposed to sub-zero temperatures.</span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/pepsi-diet-soda-2-l#product","name":"Pepsi  - Diet Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729674822","sku":"BM2450","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-diet-soda-2-l-bulk-mart_401.jpg","description":"Pepsi - Diet Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Pepsi"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"},"offers":[{"sku":"BM2450","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/pepsi-diet-soda-2-l?variant=20255579537478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"52"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729674822</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>009043</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729609286</id>
+    <published>2020-09-27T13:55:25-04:00</published>
+    <updated>2020-09-27T13:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pepsi-diet-soda-24-x-355-ml"/>
+    <title>Pepsi  - Diet Soda- 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pepsi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pepsi-diet-soda-24-x-355-ml-351143.jpg?v=1611511239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pepsi<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pepsi - Diet Soda- 24 x 355 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Light, crisp and refreshing taste of Diet Pepsi soft drink</span></li>
+<li><span class="a-list-item">Nothing refreshes like a Diet Pepsi</span></li>
+<li><span class="a-list-item">Zero Sugar. Zero Calories.</span></li>
+<li><span class="a-list-item">Pack of 24, 355mL per can</span></li>
+<li><span class="a-list-item">Please note that where temperatures can drop below 0° Celsius, beverages may freeze and cause containers to burst when exposed to sub-zero temperatures.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729609286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>009044</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729576518</id>
+    <published>2020-09-27T13:35:25-04:00</published>
+    <updated>2020-09-27T13:35:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mug-root-beer-original-soda-12-x-355-ml"/>
+    <title>Mug Root Beer - Original Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mugs Root Beer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mug-root-beer-original-soda-12-x-355-ml-390895.png?v=1611514248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mugs Root Beer<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mug Root Beer - Original Soda - 12 x 355 ml</strong></p>
+<p> </p>
+<p><span>From enjoying a frosty glass at a family meal, to hanging with friends, to making root beer floats, Mug Root Beer's extra-creamy vanilla flavor has been creating memories for over 65 years. Just one sip of Mug Root Beer's tried and true goodness will surely take you back to when things were carefree and fun; and it's still the perfect drink for the whole family to enjoy together!</span></p>
+<ul>
+<li>Mug Root Beer is a delicious drink for all ages</li>
+<li>Classic root beer taste with a unique aroma</li>
+<li>Perfect complement to a dessert or a meal</li>
+<li>Caffeine free</li>
+<li>Size: 355 ml</li>
+<li>Includes 12 cans per pack</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mug-root-beer-soda-2-l#product","name":"Mug Root Beer -  Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729576518","sku":"BM2444","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mug-root-beer-soda-2-l-bulk-mart_108.jpg","description":"Mug Root Beer - Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Mugs Root Beer"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"33"},"offers":[{"sku":"BM2444","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mug-root-beer-soda-2-l?variant=20255579275334","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"33"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729576518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009039</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729510982</id>
+    <published>2020-09-27T13:35:24-04:00</published>
+    <updated>2020-09-27T13:35:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mug-root-beer-original-soda-24-x-355-ml"/>
+    <title>Mug Root Beer - Original Soda - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mugs Root Beer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mug-root-beer-original-soda-24-x-355-ml-452537.jpg?v=1611514428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mugs Root Beer<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mug Root Beer - Soda - 24 x 355 ml</p>
+<p><span>From enjoying a frosty glass at a family meal, to hanging with friends, to making root beer floats, Mug Root Beer's extra-creamy vanilla flavor has been creating memories for over 65 years. Just one sip of Mug Root Beer's tried and true goodness will surely take you back to when things were carefree and fun; and it's still the perfect drink for the whole family to enjoy together!</span></p>
+<ul>
+<li>Mug Root Beer is a delicious drink for all ages</li>
+<li>Classic root beer taste with a unique aroma</li>
+<li>Perfect complement to a dessert or a meal</li>
+<li>Caffeine free</li>
+<li>Size: 355 ml</li>
+<li>Includes 24 cans per pack</li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mug-root-beer-soda-24-x-355-ml#product","name":"Mug Root Beer -  Soda - 24 x 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729510982","sku":"BM2442","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mug-root-beer-soda-24-x-355-ml-bulk-mart_528.jpg","description":"Mug Root Beer - Soda - 24 x 355 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Mugs Root Beer"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"},"offers":[{"sku":"BM2442","mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mug-root-beer-soda-24-x-355-ml?variant=20255579144262","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"7"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729510982</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>009040</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729478214</id>
+    <published>2020-09-27T13:05:47-04:00</published>
+    <updated>2020-09-27T13:05:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mountain-dew-original-soda-12-x-355-ml"/>
+    <title>Mountain Dew - Original Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mountain Dew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mountain-dew-original-soda-12-x-355-ml-460443.jpg?v=1611512558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Dew<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mountain Dew - Soda - 12 x 355 ml</strong></p>
+<p><span>The original, the one that started it all. This green magic will quench your thirst every day of the week. Can, bottle, or glass, it is always a good time for a DEW</span><sup>®</sup><span>.</span></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/mountain-dew-soda-12-x-355-ml#product","name":"Mountain Dew -   Soda - 12 x 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729478214","sku":"BM2441","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mountain-dew-soda-12-x-355-ml-bulk-mart_682.jpg","description":"Mountain Dew - Soda - 12 x 355 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Mountain Dew"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"},"offers":[{"sku":"BM2441","mpn":"","priceCurrency":"CAD","price":"6.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/mountain-dew-soda-12-x-355-ml?variant=20255579078726","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"12"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729478214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009038</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729216070</id>
+    <published>2020-09-27T13:05:45-04:00</published>
+    <updated>2020-09-27T13:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mountain-dew-baja-blast-12-x-355-ml"/>
+    <title>Mountain Dew - Baja Blast - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Mountain Dew</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mountain-dew-baja-blast-12-x-355-ml-818302.png?v=1611513884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Dew<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Mountain Dew - Baja Blast - 12 x 355 ml</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Includes 12 (12oz) cans of Mountain Dew Baja Blast</span></li>
+<li><span class="a-list-item">The exhilarating taste of DEW with a blast of tropical lime flavor</span></li>
+<li><span class="a-list-item">Mtn Dew Baja Blast soda exhilarates and quenches with its one of a kind, bold taste</span></li>
+<li><span class="a-list-item">Chuggable intense refreshment</span></li>
+<li><span class="a-list-item">Crack open a cold can of Mtn Dew Baja Blast and refresh your taste buds<span> </span></span></li>
+</ul>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crush-cream-soda-2-l#product","name":"Crush -  Cream Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729216070","sku":"BM2433","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-cream-soda-2-l-bulk-mart_857.jpg","description":"Crush - Cream Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Crush"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"BM2433","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crush-cream-soda-2-l?variant=20255578456134","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729216070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009037</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729445446</id>
+    <published>2020-09-26T18:29:58-04:00</published>
+    <updated>2020-09-26T18:29:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-pepper-original-soda-12-x-355-ml"/>
+    <title>Dr Pepper - Original Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dr Pepper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-12-x-355-ml-239766.jpg?v=1611510035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Pepper<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Pepper - Original Soda - 12 x 355 ml</strong></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Dr Pepper is always original. A signature blend of 23 flavours makes every sip truly unique. There's nothing like a Dr Pepper. Enjoy the One of a Kind taste of Dr Pepper!</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Unique blend of 23 flavours<br>• Perfect for all celebrations and occasions<br>• Dr Pepper is the always one of a kind treat</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dr-pepper-original-soda-2-l#product","name":"Dr Pepper -  Original Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729445446","sku":"BM2440","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-2-l-bulk-mart_718.jpg","description":"Dr Pepper - Original Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Dr Pepper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"BM2440","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dr-pepper-original-soda-2-l?variant=20255579013190","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729445446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009032</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729379910</id>
+    <published>2020-09-26T18:29:56-04:00</published>
+    <updated>2020-09-26T18:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/dr-pepper-original-soda-24-x-355-ml"/>
+    <title>Dr Pepper - Original Soda - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Dr Pepper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-24-x-355-ml-998324.jpg?v=1611510188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr Pepper<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dr Pepper - Original Soda - 24 x 355 ml</strong></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Dr Pepper is always original. A signature blend of 23 flavours makes every sip truly unique. There's nothing like a Dr Pepper. Enjoy the One of a Kind taste of Dr Pepper!</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• Unique blend of 23 flavours<br>• Perfect for all celebrations and occasions<br>• Dr Pepper is the always one of a kind treat</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/dr-pepper-original-soda-24-x-355-ml#product","name":"Dr Pepper -  Original Soda - 24 x 355 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729379910","sku":"BM2438","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/dr-pepper-original-soda-24-x-355-ml-bulk-mart_905.jpg","description":"Dr Pepper - Original Soda - 24 x 355 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Dr Pepper"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"},"offers":[{"sku":"BM2438","mpn":"","priceCurrency":"CAD","price":"9.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/dr-pepper-original-soda-24-x-355-ml?variant=20255578882118","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"56"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729379910</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>009033</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729347142</id>
+    <published>2020-09-26T18:23:10-04:00</published>
+    <updated>2020-09-26T18:23:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crush-orange-soda-12-x-355-ml"/>
+    <title>Crush -  Orange Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crush</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-orange-soda-12-x-355-ml-309854.jpg?v=1611514491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crush<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crush -  Orange Soda - 12 x 355 ml</strong></p>
+<p><span>Crush offers an exciting rush of flavor and fun in every sip. As the original orange soda, Crush has a long history of delighting consumers with a wide range of crowd-pleasing fruity flavors. Available in Orange, Grape, Strawberry, Pineapple, Watermelon, Peach, and Diet Orange, Crush has enough variety for the whole family to enjoy.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Orange Crush* is like drinking a party, wrapped in a brilliant burst of orange flavour! This 12-pack of 355 mL cans is a convenient format to treat your taste buds-and your friends-to a tidal wave of taste.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• 12 x 355 mL cans<br>• Intense burst of orange flavour<br>• The first in a family of fun flavours</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/crush-orange-soda-2-l#product","name":"Crush -  Orange Soda - 2 L","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729347142","sku":"BM2437","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-orange-soda-2-l-bulk-mart_523.jpg","description":"Crush - Orange Soda - 2 L.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Crush"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"},"offers":[{"sku":"BM2437","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"2.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/crush-orange-soda-2-l?variant=20255578816582","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"60"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729347142</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009030</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729281606</id>
+    <published>2020-09-26T18:23:08-04:00</published>
+    <updated>2020-09-26T18:23:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crush-orange-soda-24-x-355-ml"/>
+    <title>Crush -  Orange Soda - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crush</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-orange-soda-24-x-355-ml-993606.jpg?v=1611509551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crush<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crush -  Orange Soda - 24 x 355 ml</strong></p>
+<p><span>Crush offers an exciting rush of flavor and fun in every sip. As the original orange soda, Crush has a long history of delighting consumers with a wide range of crowd-pleasing fruity flavors. Available in Orange, Grape, Strawberry, Pineapple, Watermelon, Peach, and Diet Orange, Crush has enough variety for the whole family to enjoy.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Orange Crush* is like drinking a party, wrapped in a brilliant burst of orange flavour! This 24-pack of 355 mL cans is a convenient format to treat your taste buds-and your friends-to a tidal wave of taste.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• 24 x 355 mL cans<br>• Intense burst of orange flavour<br>• The first in a family of fun flavours</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729281606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>009031</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729248838</id>
+    <published>2020-09-26T18:23:07-04:00</published>
+    <updated>2020-09-26T18:23:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crush-grape-soda-12-x-355-ml"/>
+    <title>Crush -  Grape Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crush</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-grape-soda-12-x-355-ml-390571.jpg?v=1611509622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crush<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crush - Grape Soda - 12 x 355 ml</strong></p>
+<p> </p>
+<p>Crush offers an exciting rush of flavor and fun in every sip. As the original orange soda, Crush has a long history of delighting consumers with a wide range of crowd-pleasing fruity flavors. Available in Orange, Grape, Strawberry, Pineapple, Watermelon, Peach, and Diet Orange, Crush has enough variety for the whole family to enjoy.</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">
+<div tabindex="0" aria-expanded="true" class="css-1k2abhj eqaamsw7">
+<div class="css-70qvj9 eqaamsw8"><br></div>
+</div>
+<div class="css-1ev1b0e eqaamsw1">
+<div id="product-description-section" class="css-12cjaej e1mpbtcv1">
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">Crush* Grape washes over your taste buds in a brilliant burst of grape goodness! This convenient 12-pack of 355 mL cans is a grape escape from the ordinary.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• 12 x 355 mL cans<br>• A grape escape<br>• Part of the Crush* family of fun flavours</div>
+</div>
+</div>
+<br>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729248838</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009029</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729183302</id>
+    <published>2020-09-26T18:23:06-04:00</published>
+    <updated>2020-09-26T18:23:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/crush-cream-soda-12-x-355-ml"/>
+    <title>Crush -  Cream Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Crush</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/crush-cream-soda-12-x-355-ml-260755.jpg?v=1611509436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crush<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crush - Cream Soda - 12 x 355 ml</strong></p>
+<p> </p>
+<section id="crush-soda">
+<div class="container">
+<p>Crush offers an exciting rush of flavor and fun in every sip. As the original orange soda, Crush has a long history of delighting consumers with a wide range of crowd-pleasing fruity flavors. Available in Orange, Grape, Strawberry, Pineapple, Watermelon, Peach, and Diet Orange, Crush has enough variety for the whole family to enjoy.</p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">Crush* Cream Soda treats you to a dreamy, creamy burst of flavour and tongue-tickling bubbles. This handy Packing is ideal for sharing this daydreaming taste treat.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Dreamy, creamy flavour<br>• Part of the Crush* family of fun flavours<br>• Perfect for sharing</div>
+</div>
+</section></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729183302</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>009028</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729150534</id>
+    <published>2020-09-26T17:41:35-04:00</published>
+    <updated>2020-09-26T17:41:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/7up-regular-soda-12-x-355-ml"/>
+    <title>7Up -  Regular Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>7 UP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/7up-regular-soda-12-x-355-ml-333297.jpg?v=1623994632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7 UP<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>7Up -  Regular Soda - 12 x 355 ml</strong></p>
+<p><span>Get inspired to mix it up a little with </span><em>7UP</em><span>! Crisp and refreshing, it mixes into all kinds of drinks, cocktails, punches, baked goods, and more.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">7UP® is a refreshing lemon lime carbonated soft drink. It is a clear, caffeine free beverage made with real lemon and lime flavour. This 12-pack of 355 mL cans is perfect for sharing with friends and family.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• Refreshing lemon and lime flavours<br>• 100% Natural Flavours<br>• Caffeine Free</div>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729150534</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>009011</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729084998</id>
+    <published>2020-09-26T17:41:33-04:00</published>
+    <updated>2020-09-26T17:41:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/7up-regular-soda-24-x-355-ml"/>
+    <title>7Up -  Regular Soda - 24 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>7 UP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/7up-regular-soda-24-x-355-ml-238512.jpg?v=1623994633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7 UP<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>7Up -  Regular Soda - 24 x 355 ml</strong></p>
+<p><span>Get inspired to mix it up a little with </span><em>7UP</em><span>! Crisp and refreshing, it mixes into all kinds of drinks, cocktails, punches, baked goods, and more.</span></p>
+<div class="css-1nf1bpj e1mpbtcv2" data-automation="long-description">7UP® is a refreshing lemon lime carbonated soft drink. It is a clear, caffeine free beverage made with real lemon and lime flavour. This 24-pack of 355 ml cans is perfect for sharing with friends and family.</div>
+<div class="css-14007fh e1mpbtcv3" data-automation="feature-specifications">• Refreshing lemon and lime flavours<br>• 100% Natural Flavours<br>• Caffeine Free</div>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729084998</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>009012</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729052230</id>
+    <published>2020-09-26T09:03:36-04:00</published>
+    <updated>2020-09-26T09:03:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/7up-zero-soda-12-x-355-ml"/>
+    <title>7Up - Zero Soda - 12 x 355 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>7 UP</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/7up-zero-soda-12-x-355-ml-238357.jpg?v=1623994619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>7 UP<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>7 Up - Zero Soda - 12 x 355 ml</strong></p>
+<p><span>Get inspired to mix it up a little with </span><em>7UP</em><span>! Crisp and refreshing, it mixes into all kinds of drinks, cocktails, punches, baked goods, and more.</span></p>
+<div data-automation="long-description" class="css-1nf1bpj e1mpbtcv2">7UP® is a refreshing lemon lime carbonated soft drink. It is a clear, caffeine free beverage made with real lemon and lime flavour. This 12-pack of 355 bottle is perfect for sharing with friends and family.</div>
+<div data-automation="feature-specifications" class="css-14007fh e1mpbtcv3">• Refreshing lemon and lime flavours<br>• 100% Natural Flavours<br>• Caffeine Free</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pepsi</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729052230</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>009013</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771968942154</id>
+    <published>2020-09-18T16:31:15-04:00</published>
+    <updated>2020-09-18T16:31:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pompelmo-grapefruit-sparkling-beverage-6-x-330-ml-984067.jpg?v=1611511779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Pompelmo GrapeFruit Sparkling Beverage - 6 x 330 ml</strong></p>
+<p>Sparkling grapefruit beverage with 16% grapefruit juice from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated grapefruit juice, grapefruit purée), Carbon dioxide, Citric acid, Natural flavour.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Transform any ordinary moment with<span> </span><strong>our favourite sparkling</strong><span> </span><strong>grapefruit drink</strong>, Sanpellegrino Pompelmo.</p>
+<p>Amazingly zesty and thirst-quenching,<span> </span><strong>the gorgeous sun-ripened grapefruit from the citrus groves in the Mediterranean</strong><span> </span>gives Sanpellegrino Pompelmo its unique characteristics.</p>
+<p>An opaque yellow in colour with just the right amount of carbonation, the aroma of juicy grapefruit fills the nose.</p>
+<p>A sip starts sweet but ends bittersweet, with a lingering taste of<span> </span><strong>juicy squeezed grapefruit<span> </span></strong>that dances across your tongue.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732722246","sku":"BM2649","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml-bulk-mart_359.jpg","description":"San Pellegrino - Grape Fruit Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"},"offers":[{"sku":"BM2649","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-grape-fruit-carbonated-beverage-24-x-330-ml?variant=20255588220998","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"21"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771968942154</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009057</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771967270986</id>
+    <published>2020-09-18T16:31:08-04:00</published>
+    <updated>2020-09-18T16:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-melograno-arancia-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Melograno &amp; Arancia Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-melograno-arancia-sparkling-beverage-6-x-330-ml-626175.jpg?v=1611514549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 6 x 330 ml</strong></p>
+<p>Sparkling pomegranate &amp; orange beverage with 11% orange and 5% pomegranate juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, concentrated pomegranate juice, orange purée), Carbon dioxide, Anthocyanin, Natural flavour, Citric acid.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> The glistening rosey-red and light effervescence of Sanpellegrino Melograno &amp; Arancia is lust at first sight.</p>
+<p>Made with the<span> </span><strong>delicious juices of orange and</strong><span> </span><strong>pomegranate</strong>, Melograno &amp; Arancia blooms with a bouquet of gently squeezed orange juice tainted with the exciting scent of glamorous pomegranate.</p>
+<p><strong>Notes of sun-ripened oranges blend expertly with elegant pomegranate</strong><span> </span>creating a fresh tartness that is just on the right side of sweet.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml#product","name":"San Pellegrino - Pomegranate &amp; Orange Sparkling Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732656710","sku":"BM2651","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml-bulk-mart_544.jpg","description":"San Pellegrino - Pomegranate &amp;amp; Orange Sparkling Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"},"offers":[{"sku":"BM2651","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-pomegranate-orange-sparkling-beverage-24-x-330-ml?variant=20255588155462","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"36"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771967270986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009055</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771965042762</id>
+    <published>2020-09-18T16:31:00-04:00</published>
+    <updated>2020-09-18T16:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-limonata-lemon-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Limonata Lemon Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-limonata-lemon-sparkling-beverage-6-x-330-ml-187542.jpg?v=1611512433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Limonata Lemon Sparkling Beverage - 6 x 330 ml</p>
+<p>Sparkling lemon beverage with 16% lemon juice from concentrate.</p>
+<p>Water, Sugar, Lemon juice, Concentrated lemon juice, Carbon dioxide, Natural flavour, Pectin.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Be transported to the lemon groves of Italy with Sanpellegrino Limonata.</p>
+<p>With 16% of<span> </span><strong>juices of</strong><span> </span><strong>ripe lemons from southern Italy</strong>, Sanpellegrino Limonata is in a league of its own.</p>
+<p>With its intense bouquet of the tasty<strong><span> </span>zest and squeezed juice</strong><span> </span>of lemons, Limonata has a soothing opal white colour that is punctuated with clean, crisp bubbles.</p>
+<p>Smooth on the palate, Sanpellegrino Limonata is a delicately balanced drink with fresh and tart notes that linger in the mouth, with the perfect sweet touch to end.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Lemon Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732591174","sku":"BM2648","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml-bulk-mart_525.jpg","description":"San Pellegrino - Lemon Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"},"offers":[{"sku":"BM2648","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-lemon-carbonated-beverage-24-x-330-ml?variant=20255588024390","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"19"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771965042762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009053</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771963240522</id>
+    <published>2020-09-18T16:30:50-04:00</published>
+    <updated>2020-09-18T16:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-clementina-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Clementina Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-clementina-sparkling-beverage-6-x-330-ml-746079.jpg?v=1611512194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Clementine Carbonated Beverage - 6 x 330 ml</p>
+<p>Sparkling clementine beverage with 9% mandarine, 5% orange and 2% clementine juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated mandarin juice, concentrated orange juice, concentrated clementine juice, orange purée), Carbon dioxide, Natural flavour, Citric acid, Abthocyanin.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> </p>
+<p>The delicate and<span> </span><strong>unforgettable taste of juicy fruits</strong><span> </span>transports you to Southern Italy scents, a scenic landscape where the sun always shines.</p>
+<p>Sanpellegrino Clementina opens with a lovely bouquet of ripe clementine and orange on the nose which forms the most<span> </span><strong>refreshing and rich taste</strong><span> </span>in the mouth accentuated by the delightful flavor of clementine.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771963240522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009051</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771961503818</id>
+    <published>2020-09-18T16:30:44-04:00</published>
+    <updated>2020-09-18T16:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-aranciata-rossa-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Aranciata Rossa Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-aranciata-rossa-sparkling-beverage-6-x-330-ml-462976.jpg?v=1611513512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml</strong></p>
+<p>Sparkling blood orange and orange beverage with 17% orange and 3% blood orange juices from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, concentrated blood orange juice, orange purée), Carbon dioxide, Natural flavour, Abthocyanin, Citric acid, Pectin, Paprika.</p>
+<p>Sanpellegrino Aranciata Rossa is made from<span> </span><strong>oranges and</strong><span> </span><strong>blood oranges from<span> </span></strong><strong>Italy</strong><span> </span>and get their unique colour and taste from the conditions of the land in which they are grown.</p>
+<p>Characterised by its<span> </span><strong>red-orange colour</strong>, Aranciata Rossa has a delicate scent that fills your nose with notes of ripe oranges.</p>
+<p>Lightly carbonated for that refreshing full-mouth sensation, it starts off on a sweet note and ends with the invigorating taste of<span> </span><strong>juicy squeezed orange.</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml#product","name":"San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732460102","sku":"BM2647","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml-bulk-mart_565.jpg","description":"San Pellegrino - Blood Orange Sparkling Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"},"offers":[{"sku":"BM2647","mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-blood-orange-sparkling-beverage-24-x-330-ml?variant=20255587795014","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"15"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771961503818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009049</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4771958423626</id>
+    <published>2020-09-18T16:30:36-04:00</published>
+    <updated>2020-09-18T16:30:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/san-pellegrino-aranciata-orange-sparkling-beverage-6-x-330-ml"/>
+    <title>San Pellegrino - Aranciata Orange Sparkling Beverage - 6 x 330 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>San Pellegrino</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-aranciata-orange-sparkling-beverage-6-x-330-ml-380666.jpg?v=1611512191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>San Pellegrino<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>San Pellegrino - Aranciata Orange Sparkling Beverage - 24 x 330 ml</p>
+<p>Sparkling orange beverage with 20% orange juice from concentrate.</p>
+<p>Water, Sugars (sugar, concentrated orange juice, orange purée), Carbon Dioxide, Citric acid, Pectin, Natural flavour.</p>
+<p><strong>Now available in new look packaging, same authentic taste!</strong></p>
+<p> Sanpellegrino Aranciata is Italy’s famous aranciata, with a history dating back to 1932. </p>
+<p>The quality of the ingredients gives the iconic Aranciata its lively orange colour, with <strong>fine bubbles that are pleasantly visible</strong> to the eye.</p>
+<p> Delicate on the nose with notes of <strong>juicy squeezed orange</strong>, Sanpellegrino Aranciata has a medium sweetness that is balanced with subtle bitter notes of natural orange. This carries through to a caramelised orange finish, creating a truly unique taste that dances in the mouth.</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml#product","name":"San Pellegrino - Orange Carbonated Beverage - 24 x 330 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998732394566","sku":"BM2646","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml-bulk-mart_217.jpg","description":"San Pellegrino - Orange Carbonated Beverage - 24 x 330 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"San Pellegrino"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"},"offers":[{"sku":"BM2646","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"9"},"mpn":"","priceCurrency":"CAD","price":"20.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/san-pellegrino-orange-carbonated-beverage-24-x-330-ml?variant=20255587729478","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"51"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>San Pellegrino</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:tag>Sparkling Juice</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4771958423626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>009047</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2087813513286</id>
+    <published>2020-09-18T13:06:16-04:00</published>
+    <updated>2020-09-18T13:06:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/pakola-green-cream-soda-24-x-250-ml"/>
+    <title>Pakola - Green Cream Soda - 24 x 250 ML</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Pakola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/pakola-green-cream-soda-24-x-250-ml-123320.jpg?v=1611511244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pakola<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pakola Green Cream Soda - 24 x 250 ML</p>
+<div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-csa-c-id="8itz3i-8u7adm-omj21-kexkmi" data-feature-name="productDescription" class="celwidget" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<p>Pakola is one of the most popular brands in Pakistan. The brand was created on 14th August, 1950. As per our slogan, “DIL BOLA …. Pakola”, we believe that Pakola is the heart beat of the nation and with its amazing taste holds the potential to ride the taste buds of the consumers at home and abroad. Although the green drink “Pakola Ice Cream Soda” is aynonyms with the name Pakola, but that’s not all, Pakola gives sensation by bottling other fruity flavors namely Pakola Orange, Pakola Lychee, Pakola Raspberry, Pakola Fresh Lime and Pakola Vino.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pakola</s:tag>
+    <s:tag>Soft Drink Cans</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2087813513286</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku>009042</s:sku>
+      <s:grams>7000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/monster.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-17T11:35:48-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4759509303370</id>
+    <published>2020-09-17T11:35:48-04:00</published>
+    <updated>2020-09-17T11:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-lo-cal-lo-carb-12-x-444-ml"/>
+    <title>Monster Energy - Lo-Cal Lo-Carb - 12 x 444 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-lo-cal-lo-carb-12-x-444-ml-240765.jpg?v=1612653012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Lo-Cal Low-Carb - 12 x 444 ml</strong></p>
+<p>"Tear into a can of the meanest energy drink on the planet, Lo-carb Monster Energy. Low calories, no compromise. That’s what Lo-carb Monster Energy is all about. Get the big bad Monster buzz you know and love, but with a fraction of the calories and carbohydrates. Athletes, musicians, anarchists, co-ed’s, road warriors, metal heads, geeks, hipsters, and bikers dig it- you will too. Unleash The Beast"</p>
+</div>
+<p class="tagline"><strong>Unleash The Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759509303370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22452</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759506583626</id>
+    <published>2020-09-17T11:35:47-04:00</published>
+    <updated>2020-09-17T11:35:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-java-mean-bean-12-x-444-ml"/>
+    <title>Monster Java - Mean Bean - 12 x 444 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-java-mean-bean-12-x-444-ml-461851.jpg?v=1611511055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Java - Mean Bean - 12 x 444 ml</strong><br></p>
+<p><strong>COFFEE+ENERGY</strong></p>
+<p>"No foam, extra hot, half-caf, no-whip, soy latte…Enough of the coffeehouse BS already! It’s time to get out of the line and step up to what’s next! Java Monster…premium coffee and cream brewed up with killer flavor, supercharged with Monster energy blend. Coffee done the Monster way, wide open, with a take no prisoners attitude and the experience and know-how to back it up."</p>
+</div>
+<p class="tagline"><strong>Unleash The Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759506583626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>544695</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759506059338</id>
+    <published>2020-09-17T11:35:47-04:00</published>
+    <updated>2020-09-17T11:35:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-java-loca-moca-12-x-444-ml"/>
+    <title>Monster Java - Loca Moca - 12 x 444 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-java-loca-moca-12-x-444-ml-419603.jpg?v=1611511121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Java - Loca Moca - 12 x 444 ml</strong></p>
+<p><strong>COFFEE+ENERGY</strong></p>
+<p>"No foam, extra hot, half-caf, no-whip, soy latte…Enough of the coffeehouse BS already! It’s time to get out of the line and step up to what’s next! Java Monster…premium coffee and cream brewed up with killer flavor, supercharged with Monster energy blend. Coffee done the Monster way, wide open, with a take no prisoners attitude and the experience and know-how to back it up."</p>
+</div>
+<p class="tagline"><strong>Unleash The Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759506059338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>154436</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759504748618</id>
+    <published>2020-09-17T11:35:46-04:00</published>
+    <updated>2020-09-17T11:35:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-khaos-punch-juice-12-x-473-ml"/>
+    <title>Monster Energy - Khaos Punch Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-khaos-punch-juice-12-x-473-ml-613336.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text" data-mce-fragment="1">
+<p data-mce-fragment="1"><strong>Monster Energy - Khaos Punch Juice - 12 x 473 ml</strong></p>
+<p data-mce-fragment="1">"Our Pro Athletes are always looking for an edge, so when they`ve got an idea we listen. After months in the lab we perfected the ""Juice Monster."" We started with our original Monster flavor, mixed in a killer combo of fruit juices, then powered it up with the full load of our energy blend and stood back. It’s Alive… Khaos, an insane Juice-Monster hybrid bubbling with the great Monster taste and the big bad buzz you know and love. Unleash The Beast"</p>
+</div>
+<p class="tagline" data-mce-fragment="1"><strong>Unleash The Beast</strong></p>
+<div class="external_links" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759504748618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22451</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4759504126026</id>
+    <published>2020-09-17T11:35:45-04:00</published>
+    <updated>2020-09-17T11:35:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-pipeline-punch-juice-12-x-473-ml"/>
+    <title>Monster Energy - Pipeline punch Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-pipeline-punch-juice-12-x-473-ml-953366.png?v=1611511420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Pipeline punch Juice - 12 x 473 ml</strong></p>
+<p>"Banzai Pipeline, the world's most famous wave, on Oahu's fabled North Shore comes alive for just a few brief months every winter. In honor of this epic force of nature, we created Juice Monster Pipeline Punch. The perfect blend of the best flavors Hawaii has to offer - passion fruit, orange &amp; guava, then ""Monsterized"" with a full load of our famous energy blend. And, just like the wave is named for, it is destined to become a legend! Unleash The Beast"</p>
+</div>
+<p class="tagline"><strong>Unleash The Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4759504126026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22455</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730264646</id>
+    <published>2020-09-17T11:35:45-04:00</published>
+    <updated>2020-09-17T11:35:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-zero-ultra-12-x-473-ml"/>
+    <title>Monster Energy - Zero Ultra - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-zero-ultra-12-x-473-ml-778716.jpg?v=1611512552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Zero - 12 x 473 ml</strong></p>
+<p>Some people are impossible to please. As soon as they get what they thought they wanted they always want more. Our team riders and Monster Girls are no different… they’ve been dropping some hints lately.</p>
+<p>They’ve been asking us for a new Monster drink. A little less sweet, lighter-tasting, zero sugar, but with a full load of our Monster energy blend.</p>
+<p>Sure, white is the new black. We went all out: Monster Energy Zero Ultra.</p>
+</div>
+<p class="tagline"><strong>Unleash The Ultra Beast!</strong></p>
+<div class="external_links"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730264646</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22462</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730231878</id>
+    <published>2020-09-17T11:35:44-04:00</published>
+    <updated>2020-09-17T11:35:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-ultra-sunrise-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Sunrise - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-sunrise-12-x-473-ml-357526.jpg?v=1611511838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Monster Energy - Ultra Sunrise - 12 x 473 ml</strong></p>
+<p><span>Get up, get out, go for it!</span></p>
+<p><span>Ultra Sunrise is dedicated to those who sacrifice sleep for passion: Catching waves at dawn patrol, up on the bike when the morning dew gives the dirt more grip, or the first pass on that glassy lake kicking off an epic wake session. </span></p>
+<p><span>Ultra Sunrise will get you started but is great anytime: Light, crisp, and refreshing with a flavour all its own.  Packed with a full load of our Monster energy blend to keep the fire burning all day long.</span></p>
+<p><span>After all it’s always sunrise somewhere.</span></p>
+<p><strong>Unleash the Ultra Beast!</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/monster-ultra-sunrise-12-x-473-ml#product","name":"Monster - Ultra Sunrise - 12 x 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730231878","sku":"BM2460","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-ultra-sunrise-12-x-473-ml-bulk-mart_334.gif","description":"Monster - Ultra Sunrise - 12 x 473 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Monster"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"},"offers":[{"sku":"BM2460","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/monster-ultra-sunrise-12-x-473-ml?variant=20255580880966","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"40"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730231878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22460</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730199110</id>
+    <published>2020-09-17T11:35:44-04:00</published>
+    <updated>2020-09-17T11:35:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-ultra-citron-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Red - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-red-12-x-473-ml-939103.jpg?v=1611512256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Red - 12 x 473 ml</strong></p>
+<p>Who can forget the hot summer days and hotter summer nights thick with the promise of unlimited possibilities. Working a mindless job to earn just enough for that last epic adventure before starting “real life.”</p>
+<p>Following your heart to who knows where with who knows who, confident it will all work out. In homage to the endless summers of youth comes Ultra Red: Light, crisp, and refreshing with zero calories and zero sugar. Sweet, sweet, summer time, summer time.</p>
+<p><strong>Unleash the Ultra Beast!</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730199110</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22458</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730166342</id>
+    <published>2020-09-17T11:35:43-04:00</published>
+    <updated>2020-09-17T11:35:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-mango-loco-punch-juice-12-x-473-ml"/>
+    <title>Monster Energy - Mango Loco punch Juice - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-mango-loco-punch-juice-12-x-473-ml-170044.jpg?v=1611511357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Mango Loco punch Juice - 12 x 473 ml</strong></p>
+<p>On the eve of October 31st each year friends and family gather to celebrate "Dia de Los Muertos." Marigolds, mysticism, and memories combined with food and drink entice the sounds of the departed to join the party.</p>
+<p> Mango Loco is a heavenly blend of exotic juices certain to attract even the most stubborn spirit.</p>
+<p> Crazy good taste with just enough of that Monster magic to keep the party going for days…</p>
+</div>
+<p class="tagline"><strong>Unleash The Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730166342</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22453</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730133574</id>
+    <published>2020-09-17T11:35:42-04:00</published>
+    <updated>2020-09-17T11:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-punch-khaos-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Violet - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-violet-12-x-473-ml-982627.jpg?v=1611513462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Violet - 12 x 473 ml</strong></p>
+<p>Welcome to the 70's.</p>
+<p>A hazy purple funk all dressed up in a kaleidoscope of bell bottoms, bandanas, and tie-dye. A time when psychedelic, glam and heavy metal rock blasted from mega speakers at fairgrounds, stadiums and garages.</p>
+<p>Can you dig it? The take a good long pull of Monster Ultra Violet. Crisp and refreshing, with a sweet and tart pixie dust flavor powered with our Monster Energy Blend.</p>
+<p>Hop on this magic carpet for the ride!</p>
+</div>
+<p class="tagline"><strong>Unleash The Ultra Beast!</strong></p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/monster-punch-khaos-12-x-473-ml#product","name":"Monster - Punch Khaos - 12 x 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730133574","sku":"BM2462","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-punch-khaos-12-x-473-ml-bulk-mart_417.gif","description":"Monster - Punch Khaos - 12 x 473 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Monster"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"},"offers":[{"sku":"BM2462","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/monster-punch-khaos-12-x-473-ml?variant=20255580618822","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"44"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730133574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22461</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730100806</id>
+    <published>2020-09-17T11:35:42-04:00</published>
+    <updated>2020-09-17T11:35:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-original-green-12-x-473-ml"/>
+    <title>Monster Energy - Original Green - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-original-green-12-x-473-ml-900644.jpg?v=1611512973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Original Green - 12 x 473 ml</strong></p>
+<p>Tear into a can of the meanest energy drink on the planet, Monster Energy.</p>
+<p>It`s the ideal combo of the right ingredients in the right proportion to deliver the big bad buzz that only Monster can.</p>
+<p>Monster packs a powerful punch but has a smooth easy drinking flavor.</p>
+<p>Athletes, musicians, anarchists, co-ed’s, road warriors, metal heads, geeks, hipsters, and bikers dig it- you will too. </p>
+</div>
+<p class="tagline"><strong>Unleash the Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730100806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22454</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730068038</id>
+    <published>2020-09-17T11:35:41-04:00</published>
+    <updated>2020-09-17T11:35:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-ultra-black-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Black - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-black-12-x-473-ml-540182.png?v=1611512797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Black - 12 x 473 ml</strong></p>
+<p>Just about 300 miles north of Chicago on eastern shore of Lake Michigan is the "Cherry Capital of the World" Traverse City, MI. Long warm summer days and cool nights cause the black cherries to ripen right around the 4th of July, but you gotta get `em while you can `cause all too soon they`re gone.</p>
+<p>Now, like those famous black beauties, crisp, slightly sweet and for a limited time only; Monster Ultra Black, refreshingly light with zero calories, no sugar and packed with our Monster energy blend. </p>
+<p>Get it while the gettin`s is good...</p>
+</div>
+<p class="tagline"><strong>Unleash The Ultra Beast!</strong></p>
+<div class="external_links"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730068038</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22456</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730035270</id>
+    <published>2020-09-17T11:35:40-04:00</published>
+    <updated>2020-09-17T11:35:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-ultra-rosa-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Rosa - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-rosa-12-x-473-ml-587946.jpg?v=1612652731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Rosa - 12 x 473 ml</strong></p>
+<p>Roses are red, grapefruit is pink, Ultra Rosá is not what you think. Forget about pink lemonade, blush wine, guavas and strawberries. Ultra Rosá is a whole new experience.</p>
+<p>Crafted with a light and easy drinking flavor that’s also crisp and complex with a floral finish. There’s no better way to describe the taste than- it tastes like Ultra Rosá! </p>
+<p>Zero sugar with a full load of our Monster Energy blend.</p>
+</div>
+<p class="tagline"><strong>Unleash the Ultra Beast!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730035270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22459</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998730002502</id>
+    <published>2020-09-17T11:35:40-04:00</published>
+    <updated>2020-09-17T11:35:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-blue-12-x-473-ml"/>
+    <title>Monster Energy - Ultra Blue - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-ultra-blue-12-x-473-ml-698824.jpg?v=1611513877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="text">
+<p><strong>Monster Energy - Ultra Blue - 12 x 473 ml</strong></p>
+<p>Aspen, Chamonix, Park City, Whistler, Mammoth…the list goes on. The competition &amp; training circuit has taken the team on some epic snow trips.</p>
+<p> In honor of these mountain towns comes Ultra Blue. Best served ice cold from the frosty can, Ultra Blue is a little less sweet and lighter-tasting with zero sugars and a full-load of our Monster energy blend.</p>
+<p> From first chair to last call…</p>
+<p> <strong>Unleash the Ultra Beast!</strong></p>
+</div>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/monster-blue-12-x-473-ml#product","name":"Monster - Blue - 12 x 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998730002502","sku":"BM2459","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-blue-12-x-473-ml-bulk-mart_833.gif","description":"Monster - Blue - 12 x 473 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Monster"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"},"offers":[{"sku":"BM2459","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/monster-blue-12-x-473-ml?variant=20255580323910","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"35"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998730002502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22457</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1998729969734</id>
+    <published>2020-09-17T11:35:39-04:00</published>
+    <updated>2020-09-17T11:35:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/monster-energy-absolutely-zero-12-x-473-ml"/>
+    <title>Monster Energy - Absolutely Zero - 12 x 473 ml</title>
+    <s:type>BEVERAGES</s:type>
+    <s:vendor>Monster</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-energy-absolutely-zero-12-x-473-ml-618590.jpg?v=1611511240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Monster<br>
+        <strong>Type: </strong>BEVERAGES<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Monster - Absolutely Zero - 12 x 473 ml</strong></p>
+<p><span>"People have been blowin’ up our inbox for years asking for a zero calorie Monster. We got it, but this ain’t soda pop, dude! Making a zero calorie, zero sugar drink, that’s good enough to earn the Monster M ain’t that easy. Finally with a re-tooled energy blend, new sweetener system, we absolutely got it right! Monster Absolutely Zero: helps fight fatigue, improve mental performance and focus, and motivates you to work ( I mean play ) harder, so generally you feel pretty damn good. Zero calories, zero sugar, Monster buzz…"</span></p>
+<p><span><strong>Unleash The Beast!</strong></span></p>
+<script type="application/ld+json">// <![CDATA[
+{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/monster-assault-12-x-473-ml#product","name":"Monster - Assault - 12 x 473 ml","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"1998729969734","sku":"BM2461","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/monster-assault-12-x-473-ml-bulk-mart_194.gif","description":"Monster - Assault - 12 x 473 ml.","category":"BEVERAGES","brand":{"@type":"Brand","name":"Monster"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"},"offers":[{"sku":"BM2461","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"23.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/monster-assault-12-x-473-ml?variant=20255580258374","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"17"}}]}
+// ]]]]><![CDATA[></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Monster</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1998729969734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>22450</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

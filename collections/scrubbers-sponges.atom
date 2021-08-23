@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/scrubbers-sponges.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-30T23:11:41-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4471632298058</id>
+    <published>2020-09-30T23:11:41-04:00</published>
+    <updated>2020-09-30T23:11:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/iron-bull-jumbo-steel-scrub-large-80-g-each"/>
+    <title>MC - Stainless Steel Scrub Scouring Pad Large 80 G - 12/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Iron Bull</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-stainless-steel-scrub-scouring-pad-large-80-g-12pack-761435.jpg?v=1611510999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iron Bull<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>STAINLESS STEEL SCOURERS TAKES CARE OF BUSINESS</strong>: </span></li>
+<li><span class="a-list-item">Metal sponge removes grease from your kitchenware, utensils and cooking appliances. These metal mesh dish scrubbers are a must-have tool for every household.</span></li>
+<li><span class="a-list-item"><strong>PREMIUM QUALITY Sponges</strong>: </span></li>
+<li><span class="a-list-item">These scrubbers will clean heavy duty dirt while being gentle on your hands. They will make tough scrubbing a lot easier.</span></li>
+<li><span class="a-list-item"><strong>THEY WON’T RUST OR SMELL BAD</strong>: </span></li>
+<li><span class="a-list-item">You’ve probably already tried those other scouring pads that rust and fall apart after one or two uses. Our scourer sponge will never rust, or have a bad odor like many sponges and dishcloths. Just make sure to wash them in soapy water after each use.</span></li>
+<li><span class="a-list-item"><strong>UNIQUE FLEXIBLE DESIGN THAT CLEANS AMAZING</strong>: </span></li>
+<li><span class="a-list-item">Watch how you’ll remove all types of dirt using our scourers, while avoiding the dirt particles from getting caught between them. You’ll love them and wonder how you ever lived without them!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4471632298058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>0BM1842</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970271846470</id>
+    <published>2020-09-30T23:11:39-04:00</published>
+    <updated>2020-09-30T23:11:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/iron-bull-steel-scrub-large-70-g-each"/>
+    <title>MC - Stainless Steel Scrub Scouring Pad 55 G - 12/Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Iron Bull</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-stainless-steel-scrub-scouring-pad-55-g-12pack-671153.jpg?v=1611511116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iron Bull<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>STAINLESS STEEL SCOURERS TAKES CARE OF BUSINESS</strong>:</span></li>
+<li><span class="a-list-item">Metal sponge removes grease from your kitchenware, utensils and cooking appliances. These metal mesh dish scrubbers are a must-have tool for every household.</span></li>
+<li><span class="a-list-item"><strong>PREMIUM QUALITY Sponges</strong>:</span></li>
+<li><span class="a-list-item">These scrubbers will clean heavy duty dirt while being gentle on your hands. They will make tough scrubbing a lot easier.</span></li>
+<li><span class="a-list-item"><strong>THEY WON’T RUST OR SMELL BAD</strong>:</span></li>
+<li><span class="a-list-item">You’ve probably already tried those other scouring pads that rust and fall apart after one or two uses. Our scourer sponge will never rust, or have a bad odor like many sponges and dishcloths. Just make sure to wash them in soapy water after each use.</span></li>
+<li><span class="a-list-item"><strong>UNIQUE FLEXIBLE DESIGN THAT CLEANS AMAZING</strong>:</span></li>
+<li><span class="a-list-item">Watch how you’ll remove all types of dirt using our scourers, while avoiding the dirt particles from getting caught between them. You’ll love them and wonder how you ever lived without them!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970271846470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>0BM1842</s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784556277834</id>
+    <published>2020-09-30T00:08:21-04:00</published>
+    <updated>2020-09-30T00:08:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-sponge-scouring-pad-13x9-5x3-2cm-3-pack"/>
+    <title>Liao - Sponge Scouring Pad 13x9.5x3.2cm - 3 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-sponge-scouring-pad-13x95x32cm-3-pack-989026.jpg?v=1611511894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add an element of versatility to your cleaning regimen and boost efficiency with this kitchen Sponge Scouring Pad!</h2>
+<ul class="list">
+<li class="list__item">Special design provides heavy-duty cleaning strength</li>
+<li class="list__item">Perfect for indoor and outdoor scrubbing applications</li>
+<li class="list__item">Use to clean pots, stove burners, broilers and grills</li>
+<li class="list__item">
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible design allows this sponge to access hard-to-reach areas for the best possible clean. It's great for building corners, round pots, and other nooks and crannies.</p>
+</li>
+<li class="list__item">
+<h3 class="item-header">Scouring Pad</h3>
+<p>This dual-action cleaning tool features a scouring pad on one side that easily scours heavy grime off of stainless steel surfaces, baseboards, floors, and more, but without the chance for slivering, rusting, and staining that exists with steel wool pads.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784556277834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>11558</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784554934346</id>
+    <published>2020-09-30T00:08:19-04:00</published>
+    <updated>2020-09-30T00:08:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-scouring-pad-15-x-10-cm-10-pack"/>
+    <title>Liao - Scouring Pad 15 x 10 cm - 10 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-scouring-pad-15-x-10-cm-10-pack-781299.jpg?v=1611511902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<h2 class="headline">Scouring pad for quick and effective cleaning!</h2>
+<p><span>Designed for quick, effective scouring with a variety of common surfaces, this flexible  scouring pad will easily remove baked-on foods in difficult corners and hard-to-reach places. Perfect for removing grease and dried-in food residue from pots and pans, this scouring pad's tough fibers and abrasives make fast work of medium-duty cleaning jobs.</span></p>
+<h3 class="item-header">Multi-Purpose</h3>
+<p>In addition to routine kitchen cleaning tasks, this item can scrub walls, railings, floors, desks, coffee makers, broilers, stairways, countertops, and much more! The pad can even be used to scrub vegetables prior to cooking or consumption. This multi-purpose product is a must-have cleaning supply for those looking to provide a safe, sanitary, and professional establishment for guests and customers</p>
+<h3 class="item-header">Bulk Quantity</h3>
+<p>This pack comes with several sponges, so you'll have more than enough to get your hard cleaning tasks done.</p>
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible, thin design allows this pad to access hard-to-reach areas for the best possible clean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784554934346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>124584</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784553427018</id>
+    <published>2020-09-30T00:08:18-04:00</published>
+    <updated>2020-09-30T00:08:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-kitchen-sponge-scouring-pad-9-5x7x4-5cm-3-pack"/>
+    <title>Liao - kitchen Sponge Scouring Pad 9.5x7x4.5cm - 3 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-kitchen-sponge-scouring-pad-95x7x45cm-3-pack-627794.jpg?v=1611510578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add an element of versatility to your cleaning regimen and boost efficiency with this kitchen Sponge Scouring Pad!</h2>
+<ul class="list">
+<li class="list__item">Special design provides heavy-duty cleaning strength</li>
+<li class="list__item">Perfect for indoor and outdoor scrubbing applications</li>
+<li class="list__item">Use to clean pots, stove burners, broilers and grills</li>
+<li class="list__item">
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible design allows this sponge to access hard-to-reach areas for the best possible clean. It's great for building corners, round pots, and other nooks and crannies.</p>
+</li>
+<li class="list__item">
+<h3 class="item-header">Scouring Pad</h3>
+<p>This dual-action cleaning tool features a scouring pad on one side that easily scours heavy grime off of stainless steel surfaces, baseboards, floors, and more, but without the chance for slivering, rusting, and staining that exists with steel wool pads.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784553427018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>545484</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784548872266</id>
+    <published>2020-09-30T00:08:17-04:00</published>
+    <updated>2020-09-30T00:08:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-kitchen-sponge-scouring-pad-4-pack"/>
+    <title>Liao - kitchen Sponge Scouring Pad 11x16x2.5cm - 4 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-kitchen-sponge-scouring-pad-11x16x25cm-4-pack-627798.jpg?v=1611511716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add an element of versatility to your cleaning regimen and boost efficiency with this kitchen Sponge Scouring Pad!</h2>
+<ul class="list">
+<li class="list__item">Special design provides heavy-duty cleaning strength</li>
+<li class="list__item">Perfect for indoor and outdoor scrubbing applications</li>
+<li class="list__item">Use to clean pots, stove burners, broilers and grills</li>
+<li class="list__item">
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible design allows this sponge to access hard-to-reach areas for the best possible clean. It's great for building corners, round pots, and other nooks and crannies.</p>
+</li>
+<li class="list__item">
+<h3 class="item-header">Scouring Pad</h3>
+<p>This dual-action cleaning tool features a scouring pad on one side that easily scours heavy grime off of stainless steel surfaces, baseboards, floors, and more, but without the chance for slivering, rusting, and staining that exists with steel wool pads.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784548872266</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>15488</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784544940106</id>
+    <published>2020-09-30T00:08:16-04:00</published>
+    <updated>2020-09-30T00:08:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-4x-5-25-griddle-polishing-pad-h-46-20-case"/>
+    <title>Scotch-Brite - 4&quot;x 5.25&quot; Griddle Polishing Pad H-46 - 20 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-4x-525-griddle-polishing-pad-h-46-20-case-237793.jpg?v=1611512797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Abrasive mineral particles evenly distributed throughout the pad to help ensure effective, consistent, and long-lasting performance through the life of the pad</li>
+<li>Aggressive, heavy-duty and open-pad construction to provide fast cleaning and multiple uses, resist clogging and rinse clean easily</li>
+<li>Heat-resistant pad allows for cleaning griddle at operating temperature throughout the day</li>
+</ul>
+<p class="SNAPS--pdpTabDes">The Scotch-Brite™ Griddle Polishing Pad 46 is an aggressive cleaning pad that polishes the griddle surface while it cleans. Used for quick and easy removal of tough, burnt in food. It is ideal for hot plate and griddle cleaning and can be used with the Scotch-Brite™ Multi-Purpose Pad Holder for optimal scrubbing power.</p>
+<h4 class="MMM--hdg MMM--pdpTabVr SNAPS--pdpTabVr">Suggested Applications</h4>
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Ideal for cleaning griddles and hot plates</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Griddle Polishing Pad</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784544940106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>15481</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784542744650</id>
+    <published>2020-09-30T00:08:14-04:00</published>
+    <updated>2020-09-30T00:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-4x3x6-griddle-scrubber-9537-4-pack"/>
+    <title>Scotch-Brite - 4&quot;x 3&quot;x 6&quot; Griddle Scrubber 9537 - 4 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-4x-3x-6-griddle-scrubber-9537-4-case-121772.jpg?v=1611511954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            33.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Abrasive minerals evenly distributed throughout the pad to ensure effective, consistent, and long lasting performance</li>
+<li>High quality bonding resin system designed to provide resistance to degradation from exposure to hot water, detergents and normal cleaning liquids</li>
+<li>Help keep hands away from hot and dirty surfaces</li>
+<li>Aggressive, heavy-duty and open pad construction to provide fast cleaning and multiple uses</li>
+</ul>
+<p class="SNAPS--pdpTabDes">Scotch-Brite™ Griddle Scrubber, 9537 is an easy-to-use, one-piece griddle scrubber is for flat griddles at any operating temperature. The built-in, heat-resistant handle helps protect hands from burns, grease and grime. The heavy-duty, open, non-woven pad construction resists clogging and easily rinses clean – allowing numerous uses. No unpleasant odours or residues and is dishwasher safe.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Griddle Scrubber</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784542744650</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.99</s:price>
+      <s:sku>154580</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784540876874</id>
+    <published>2020-09-30T00:08:13-04:00</published>
+    <updated>2020-09-30T00:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-power-pad-2000-20-case"/>
+    <title>Scotch-Brite - Power Pad 2000 - 20 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-power-pad-2000-20-case-528602.jpg?v=1611511595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Faster and less abrasive than other conventional commercial scouring pads</li>
+<li>Synthetic fibres are crimped and heat set to create a strong web</li>
+<li>Soil-removing particles are evenly distributed throughout the pad to ensure effective, consistent sourcing, and lasting performance</li>
+<li>High-quality bonding resin system resists degradation from exposure to hot water, detergents and normal cleaning liquids</li>
+</ul>
+<p class="SNAPS--pdpTabDes">The Scotch-Brite™ Power Pad 2000 is an all-purpose hand pad which scours faster but scratches less than many conventional scouring products. This pad is made from high-quality fibres, scouring particles, and resin.</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784540876874</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.99</s:price>
+      <s:sku>26595</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784539533386</id>
+    <published>2020-09-30T00:08:12-04:00</published>
+    <updated>2020-09-30T00:08:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-heavy-duty-scouring-pad-h-86-12-pack"/>
+    <title>Scotch-Brite - Heavy Duty Scouring Pad H-86 - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-heavy-duty-scouring-pad-h-86-12-pack-585112.jpg?v=1611511959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Use Scotch-Brite - Heavy Duty Scouring pad for quick and effective cleaning!</h2>
+<p><span>Designed for quick, effective scouring with a variety of common surfaces, this flexible  scouring pad will easily remove baked-on foods in difficult corners and hard-to-reach places. Perfect for removing grease and dried-in food residue from pots and pans, this scouring pad's tough fibers and abrasives make fast work of medium-duty cleaning jobs.</span></p>
+<h3 class="item-header">Multi-Purpose</h3>
+<p>In addition to routine kitchen cleaning tasks, this item can scrub walls, railings, floors, desks, coffee makers, broilers, stairways, countertops, and much more! The pad can even be used to scrub vegetables prior to cooking or consumption. This multi-purpose product is a must-have cleaning supply for those looking to provide a safe, sanitary, and professional establishment for guests and customers</p>
+<h3 class="item-header">Bulk Quantity</h3>
+<p>This pack comes with several sponges, so you'll have more than enough to get your hard cleaning tasks done.</p>
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible, thin design allows this pad to access hard-to-reach areas for the best possible clean.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784539533386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>4489</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784538222666</id>
+    <published>2020-09-30T00:08:11-04:00</published>
+    <updated>2020-09-30T00:08:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-light-duty-scrubbing-pad-9030-40-case"/>
+    <title>Scotch-Brite - Light Duty Scrubbing Pad 9030 - 40 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-light-duty-scrubbing-pad-9030-40-case-906570.jpg?v=1611513093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            58.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--tabSection clearfix 2" data-content="N100DA">
+<div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader">Specifications</div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="productSpecs">
+<table class="MMM--dat MMM--pdpTabVr SNAPS--SpecTbl-Mt15">
+<tbody>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Aggressiveness</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Light Duty</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Applications</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Commercial Kitchen Cleaning</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Brand</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Scotch-Brite™</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Cleaning Area</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow">
+<span class="MMM--txt_bold">Bathrooms</span><span class="MMM--txt_bold">, Kitchens/Dining</span><span class="MMM--txt_bold">, Office Space/Classrooms</span>
+</div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Color Family</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">White</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Dishwasher Safe</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Yes</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Material</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow">
+<span class="MMM--txt_bold">Fiber</span><span class="MMM--txt_bold">, Mineral</span><span class="MMM--txt_bold">, Resin</span>
+</div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Length (Imperial)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">5 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Length (Metric)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">127 mm</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Width (Imperial)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">3.5 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Width (Metric)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">89 mm</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Product Colour</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">White</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Product Type</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Scouring Pad</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Shape</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Rectangular</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Size_LW_Imperial</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">5 in x 3.5 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Size_LW_Metric</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">127 mm x 89 mm</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="MMM--tabSection clearfix 2" data-content="N10137">
+<div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader">Details</div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<p class="SNAPS--pdpTabDes">The Scotch-Brite™ Light Duty Scrubbing Pad, 9030 is a convenient, thick, hand-sized pad designed for gentle, no-scratch cleaning of the most delicate surfaces.</p>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponges</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784538222666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.99</s:price>
+      <s:sku>6548</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784537272394</id>
+    <published>2020-09-30T00:08:10-04:00</published>
+    <updated>2020-09-30T00:08:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-6-x-9-general-purpose-hand-pad-7447-60-case"/>
+    <title>Scotch-Brite - 6&quot; x 9&quot; General Purpose Hand Pad 7447 - 60 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-6-x-9-general-purpose-hand-pad-7447-60-case-295868.jpg?v=1611512495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Suitable for use on wood, metal, plastics, ceramics, porcelain, glass, rubber, or composites</li>
+<li>Reusable pad resists tearing, splintering, shredding, loading and will never rust, providing a long, useful life</li>
+<li>Can be folded, stacked, or rolled for effective cleaning or conditioning on flat, irregular, or contoured surfaces</li>
+</ul>
+<p class="SNAPS--pdpTabDes">Scotch-Brite™ General Purpose Hand Pad combines flexibility with effective cutting action and precise hand control to accomplish tough cleaning jobs or produce fine finishing results, use after use. This pad features a very fine grade of aluminum oxide abrasive to cut fast and fine, leaving a smooth, finished surface. Suitable for use on a wide variety of materials and for many different tasks.</p>
+<p class="SNAPS--pdpTabDes">Scotch-Brite™ Industrial Abrasive Products are a unique surface conditioning product with abrasives incorporated into non-woven nylon or other synthetic fibres. Combining abrasives into the fibres creates an abrasive system that delivers consistent results for the life of the product. The open-web material is load resistant and keeps the abrasive minerals cutting at high performance by limiting clogging of the fibres. Unlike steel wool, this pad won't shred during use, rust after use, or create fine metal splinters. The non-woven, open-web material resists loading and can be used dry, with water or solvents, and rinsed clean for reuse.</p>
+<p class="SNAPS--pdpTabDes"> </p>
+<h4 class="MMM--hdg MMM--pdpTabVr SNAPS--pdpTabVr">Suggested Applications</h4>
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Superior alternative to steel wool, wire brushes, sandpaper, and other non-woven products for cleaning or finishing tasks</li>
+<li>Very fine grade aluminum oxide abrasive cleans, finishes, grains, denibs, and defuzzes</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784537272394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku>98745</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784534782026</id>
+    <published>2020-09-30T00:08:08-04:00</published>
+    <updated>2020-09-30T00:08:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-easy-erasing-pads-4004cc-blue-white-12-pack"/>
+    <title>Scotch-Brite - Easy Erasing Pads 4004CC Blue, White - 12 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-easy-erasing-pads-4004cc-blue-white-12-pack-421782.jpg?v=1611513515"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Ideal for removing stains, marks, ink, and more</li>
+<li>Utilizes a soft, flexible pad with excellent scrubbing power</li>
+<li>A blue urethane foam sponge holds water to keep pad moist, can be used to wipe up after use, and keeps the pad intact</li>
+<li>Optimal performance is achieved when used with water alone — detergents and sanitizing cleaners are not recommended</li>
+<li>Pad will not scratch glass, ceramic tile, fibreglass, porcelain, Formica®, metal, Corian®, marble, stainless steel, plastic, vinyl, or most wall coatings</li>
+<li>The pad should be wet before use to help cleaning performance, prevent dust formation, and increase durability</li>
+</ul>
+<p class="SNAPS--pdpTabDes">The Scotch-Brite™ Easy Erasing Pad is an effective cleaning tool that's optimized for removing marks and stains from various surfaces. The combination of a white polymeric foam cleaning pad bonded to a blue urethane foam sponge pad makes it a versatile tool that can handle a variety of cleaning tasks. From the kitchen to the bathroom, reach for the Scotch-Brite™ Easy Erasing Pad.</p>
+<p class="SNAPS--pdpTabDes">Identified by its trademarked bow-tie shape, the Scotch-Brite™ Easy Erasing Pad is an iconic and reliable cleaning tool that's tough on hard-to-remove stains. This pad utilizes a soft, flexible surface that helps clean without using additional chemicals — simply add water. Add the Scotch-Brite™ Easy Erasing Pad to your arsenal and unlock your full cleaning potential.</p>
+<p class="SNAPS--pdpTabDes"> <br></p>
+<h4 class="MMM--hdg MMM--pdpTabVr SNAPS--pdpTabVr">Suggested Applications</h4>
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>Use on whiteboards, sports equipment, countertops, flat painted surfaces tables, chairs, walls, and similar surfaces</li>
+<li>Can be used in health care, education, BSC’s and food service for a variety of surfaces and marks</li>
+</ul>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Erasing Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784534782026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.99</s:price>
+      <s:sku>2448</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784531570762</id>
+    <published>2020-09-30T00:08:07-04:00</published>
+    <updated>2020-09-30T00:08:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-power-sponge-3000-20-case"/>
+    <title>Scotch-Brite - Power Sponge 3000 - 20 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-power-sponge-3000-20-case-189859.jpg?v=1611513394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            73.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader">
+<div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader" data-mce-fragment="1"><strong data-mce-fragment="1">Details</strong></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive" data-mce-fragment="1">
+<div class="MMM--contentPadded MMM--accordionPanel" data-mce-fragment="1">
+<div class="MMM--grids" data-mce-fragment="1">
+<div class="MMM--grids-col MMM--grids-col_pdpMain" data-mce-fragment="1">
+<ul class="MMM--pdpList SNAPS--bullets" data-mce-fragment="1">
+<li data-mce-fragment="1">Faster and less abrasive than other conventional commercial scouring pads</li>
+<li data-mce-fragment="1">Synthetic fibres are crimped and heat set to create a strong web</li>
+<li data-mce-fragment="1">Soil-removing particles are evenly distributed throughout the pad to ensure effective, consistent sourcing, and lasting performance</li>
+<li data-mce-fragment="1">High-quality bonding resin system resists degradation from exposure to hot water, detergents and normal cleaning liquids</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+Specifications</div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="productSpecs">
+<table class="MMM--dat MMM--pdpTabVr SNAPS--SpecTbl-Mt15">
+<tbody>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Brand</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Scotch-Brite™</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Length (Imperial)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">4.5 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Length (Metric)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">114 mm</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Width (Imperial)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">2.8 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Overall Width (Metric)</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">71 mm</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Product Type</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">Scrub Sponge</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Size_LW_Imperial</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">4.5 in x 2.8 in</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row">
+<td>
+<div class="MMM--dat-cell SNAPS-specAdjust"><span class="MMM--txt_bold">Size_LW_Metric</span></div>
+</td>
+<td>
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span class="MMM--txt_bold">114 mm x 71 mm</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784531570762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.99</s:price>
+      <s:sku>21540</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784523575370</id>
+    <published>2020-09-30T00:08:06-04:00</published>
+    <updated>2020-09-30T00:08:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-medium-duty-scrub-sponge-20-pcs-case"/>
+    <title>Janmar - Medium Duty Scrub Sponge - 20 Pcs/Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Janmar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/janmar-medium-duty-scrub-sponge-20-pcscase-134433.jpg?v=1611510707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Janmar<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Medium Duty Scrub Sponge!</strong></p>
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">Dual-action cleaning tool</span></li>
+<li><span class="a-list-item">One side is ideal for medium-duty scrubbing</span></li>
+<li><span class="a-list-item">Sponge on the other side absorbs spills quickly</span></li>
+<li><span class="a-list-item">Don't use on easily scratched surfaces</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponges</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784523575370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.99</s:price>
+      <s:sku>154858</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784520134730</id>
+    <published>2020-09-30T00:08:05-04:00</published>
+    <updated>2020-09-30T00:08:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-cellulose-sponges-h-7400-60-pcs-case"/>
+    <title>Scotch-Brite - Cellulose Sponges H-7400 - 60 pcs /Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-cellulose-sponges-h-7400-60-pcs-case-704560.jpg?v=1611512019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="headline">Add an element of versatility to your cleaning regimen and boost efficiency with this kitchen Cellulose Sponges!</h2>
+<ul class="list">
+<li class="list__item">Special design provides heavy-duty cleaning strength</li>
+<li class="list__item">Perfect for indoor and outdoor scrubbing applications</li>
+<li class="list__item">Use to clean pots, stove burners, broilers and grills</li>
+<li class="list__item">
+<h3 class="item-header">Flexible Design</h3>
+<p>The flexible design allows this sponge to access hard-to-reach areas for the best possible clean. It's great for building corners, round pots, and other nooks and crannies.</p>
+</li>
+<li class="list__item">
+<h3 class="item-header">Scouring Pad</h3>
+<p>This dual-action cleaning tool features a scouring pad on one side that easily scours heavy grime off of stainless steel surfaces, baseboards, floors, and more, but without the chance for slivering, rusting, and staining that exists with steel wool pads.</p>
+<h3 class="item-header">Cellulose Sponge</h3>
+<p>The other side features a yellow cellulose sponge that quickly wipes up spills and messes, or can even be used to carry cleaning solution to the work surface for additional ease of use. It's a great, all-purpose cleaning tool for any facility.</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponges</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784520134730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>5598</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4784517218378</id>
+    <published>2020-09-30T00:08:03-04:00</published>
+    <updated>2020-09-30T00:08:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/scotch-brite-medium-duty-scrub-sponge-h-74-20-pcs"/>
+    <title>Scotch-Brite - Heavy Duty Scrub Sponge - 21 Pcs / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Scotch-Brite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/scotch-brite-heavy-duty-scrub-sponge-21-pcs-pack-327295.jpg?v=1611511596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scotch-Brite<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="section-title">Product Details</h3>
+<div class="product-info-description">
+<ul>
+<li>Removes tough, baked-on messes 50% faster than other competitive sponges</li>
+<li>Great for the kitchen, garage and outdoors</li>
+<li>Sanitize in the dishwasher and reuse</li>
+<li>Comfortable, easy-to-hold shape</li>
+<li>21 individually wrapped sponges</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sponges</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4784517218378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>5659</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037485240390</id>
+    <published>2020-09-03T15:25:41-04:00</published>
+    <updated>2020-09-03T15:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-grill-brick-20-x-10-x-9-cm-per-unit"/>
+    <title>3M - GB12 - Grill Brick Grill Cleaner 3.5&quot; x 4&quot; x 8&quot; - Each</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/3m-gb12-grill-brick-grill-cleaner-35-x-4-x-8-each-210565.jpg?v=1623994602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><span data-mce-fragment="1">Remove tough, baked-on foods from your grill in a snap with this Grill-Brick 3 1/2" x 4" x 8" grill cleaner! This highly-intuitive brick disintegrates during use to expose an unused surface so it's always functioning at maximum efficiency. Whether you're grilling tender fish, juicy tenderloin, or saucy ribs, maintaining a clean cooking area is tremendously important and this brick makes that maintenance as simple as possible!</span></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>For use on flat top griddles</li>
+<li>Reusable for several cleanings</li>
+<li>Compounded to disintegrate during use to expose an unused surface</li>
+</ul>
+<p class="SNAPS--pdpTabDes">Clean away carbonized grease and oil</p>
+<table class="MMM--dat MMM--pdpTabVr SNAPS--SpecTbl-Mt15" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Aggressiveness</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Heavy Duty</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Application</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Commercial Kitchen Cleaning</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Brand</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">3M™</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Cleaning Area</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1">
+<span class="MMM--txt_bold" data-mce-fragment="1">Griddles</span><span class="MMM--txt_bold" data-mce-fragment="1">, Grills</span>
+</div>
+</td>
+</tr>
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Color Family</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Gray</span></div>
+</td>
+</tr>
+<tr class="MMM--dat-row" data-mce-fragment="1">
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell SNAPS-specAdjust" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Commercial Kitchen Cleaning</span></div>
+</td>
+<td data-mce-fragment="1">
+<div class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow" data-mce-fragment="1"><span class="MMM--txt_bold" data-mce-fragment="1">Flat Top Griddle Cleaning</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grill Cleaners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037485240390</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>DBM2938</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2037485174854</id>
+    <published>2020-07-23T18:54:17-04:00</published>
+    <updated>2020-07-23T18:54:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/mc-grill-brick-20-x-10-x-9-cm-12-case"/>
+    <title>3M - GB12 - Grill Brick Grill Cleaner 3.5&quot; x 4&quot; x 8&quot; - 12 / Case</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/3M-GB12-GrillBrickGrillCleaner.jpg?v=1623981701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            38.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><strong>Details</strong></div>
+<div class="MMM--hdg MMM--hdg_2 SNAPS--hdg_2 MMM--tabHeader"><span data-mce-fragment="1">Remove tough, baked-on foods from your grill in a snap with this Grill-Brick 3 1/2" x 4" x 8" grill cleaner! This highly-intuitive brick disintegrates during use to expose an unused surface so it's always functioning at maximum efficiency. Whether you're grilling tender fish, juicy tenderloin, or saucy ribs, maintaining a clean cooking area is tremendously important and this brick makes that maintenance as simple as possible!</span></div>
+<div class="tabContentContainer MMM--contentToggle-target MMM--isActive">
+<div class="MMM--contentPadded MMM--accordionPanel">
+<div class="MMM--grids">
+<div class="MMM--grids-col MMM--grids-col_pdpMain">
+<ul class="MMM--pdpList SNAPS--bullets">
+<li>For use on flat top griddles</li>
+<li>Reusable for several cleanings</li>
+<li>Compounded to disintegrate during use to expose an unused surface</li>
+</ul>
+<p class="SNAPS--pdpTabDes">Clean away carbonized grease and oil</p>
+<table data-mce-fragment="1" class="MMM--dat MMM--pdpTabVr SNAPS--SpecTbl-Mt15">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Aggressiveness</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span data-mce-fragment="1" class="MMM--txt_bold">Heavy Duty</span></div>
+</td>
+</tr>
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Application</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span data-mce-fragment="1" class="MMM--txt_bold">Commercial Kitchen Cleaning</span></div>
+</td>
+</tr>
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Brand</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span data-mce-fragment="1" class="MMM--txt_bold">3M™</span></div>
+</td>
+</tr>
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Cleaning Area</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow">
+<span data-mce-fragment="1" class="MMM--txt_bold">Griddles</span><span data-mce-fragment="1" class="MMM--txt_bold">, Grills</span>
+</div>
+</td>
+</tr>
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Color Family</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span data-mce-fragment="1" class="MMM--txt_bold">Gray</span></div>
+</td>
+</tr>
+<tr data-mce-fragment="1" class="MMM--dat-row">
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell SNAPS-specAdjust"><span data-mce-fragment="1" class="MMM--txt_bold">Commercial Kitchen Cleaning</span></div>
+</td>
+<td data-mce-fragment="1">
+<div data-mce-fragment="1" class="MMM--dat-cell dat-cell_specDefinition SNAPS-specAdjust SNAPS--SpecTbl-RowCols SNAPS--SpecTbl-Overflow"><span data-mce-fragment="1" class="MMM--txt_bold">Flat Top Griddle Cleaning</span></div>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grill Cleaners</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2037485174854</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.99</s:price>
+      <s:sku>DBM2937</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1970272501830</id>
+    <published>2019-01-22T12:18:40-05:00</published>
+    <updated>2019-01-22T12:18:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/star-stainless-steel-scrubber-3-pack"/>
+    <title>MC - Stainless Steel Scrubber Scouring Pad - 3 / Pack</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>MC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/mc-stainless-steel-scrubber-scouring-pad-3-pack-717367.jpg?v=1611511423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MC<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item"><strong>STAINLESS STEEL SCOURERS TAKES CARE OF BUSINESS</strong>:</span></li>
+<li><span class="a-list-item">Metal sponge removes grease from your kitchenware, utensils and cooking appliances. These metal mesh dish scrubbers are a must-have tool for every household.</span></li>
+<li><span class="a-list-item"><strong>PREMIUM QUALITY Sponges</strong>:</span></li>
+<li><span class="a-list-item">These scrubbers will clean heavy duty dirt while being gentle on your hands. They will make tough scrubbing a lot easier.</span></li>
+<li><span class="a-list-item"><strong>THEY WON’T RUST OR SMELL BAD</strong>:</span></li>
+<li><span class="a-list-item">You’ve probably already tried those other scouring pads that rust and fall apart after one or two uses. Our scourer sponge will never rust, or have a bad odor like many sponges and dishcloths. Just make sure to wash them in soapy water after each use.</span></li>
+<li><span class="a-list-item"><strong>UNIQUE FLEXIBLE DESIGN THAT CLEANS AMAZING</strong>:</span></li>
+<li><span class="a-list-item">Watch how you’ll remove all types of dirt using our scourers, while avoiding the dirt particles from getting caught between them. You’ll love them and wonder how you ever lived without them!</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scouring Pads</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1970272501830</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>9BM1909</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

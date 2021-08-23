@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/fresh-meat.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-12-06T00:44:35-05:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4848942940234</id>
+    <published>2020-12-06T00:44:35-05:00</published>
+    <updated>2020-12-06T00:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-veal-eye-of-round-14-99-per-kg-check-for-weight"/>
+    <title>Halal Veal Eye Of Round - $16.29 Per Kg - Avg Wt. 7.21 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-veal-eye-of-round-1629-per-kg-avg-wt-721-kg-347601.jpg?v=1611510400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            117.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The eye of round (eye round) is an extremely lean small roast cut from the Round primal between the top round, outside round and heel. It is very affordable and has good flavor, but is not very tender. It is best cooked slowly (roasted or braised) &amp; cut very thinly across the grain. It can also be used for inexpensive steak dishes if cut thinly &amp; thoroughly tenderized.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Applications: Roast, Braise, Thin Slices, Stew Meat, Cube Steak.</span></p>
+<p>Halal Veal Eye Of Round - $16.29 Per Kg - Avg Wt. 7.21 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Veal</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848942940234</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>7210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848940941386</id>
+    <published>2020-12-06T00:28:42-05:00</published>
+    <updated>2020-12-06T00:28:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aaa-beef-top-sirloin-14-99-per-kg-avg-wt-9-44-kg"/>
+    <title>Halal AAA Beef Top Sirloin - $14.99 Per Kg - Avg Wt. 9.44 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aaa-beef-top-sirloin-1499-per-kg-avg-wt-944-kg-583167.jpg?v=1611513573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            141.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">It offers great flavor and significant tenderness at a much lower price than other steakhouse cuts like the ribeye roll &amp; striploin.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Top sirloin beef makes excellent roasts or steaks. Top sirloin steaks are the most affordable of the top shelf steak cuts. The whole top sirloin can be cut into “baseball cut” aka “filet” top sirloin steaks, which are shaped like filet mignons, or “strip style” sirloin steaks which are cut long and thin like strip steaks.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Applications: Roast Whole or as Portions or Slice into Steaks.</span></p>
+<p>Halal AAA Beef Top Sirloin - $14.99 Per Kg - Avg Wt. 9.44 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848940941386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">141.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>9440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848940122186</id>
+    <published>2020-12-06T00:28:42-05:00</published>
+    <updated>2020-12-06T00:28:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aa-beef-flats-12-99-per-kg-avg-wt-9-47-kg"/>
+    <title>Halal AA Beef Flats - $12.99 Per Kg - Avg Wt. 9.47 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aa-beef-flats-1299-per-kg-avg-wt-947-kg-196897.jpg?v=1611511303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            123.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>OUTSIDE ROUND (FLAT)<br data-mce-fragment="1">Also Known As: Bottom Round (Flat)<br data-mce-fragment="1"><br data-mce-fragment="1">Largest section of the full Bottom Round that is separated from the Heel and can be cut into Bottom Round Roasts or Steaks. Lean and benefits from tenderization.</p>
+<p>Halal AA Beef Flats - $12.99 Per Kg - Avg Wt. 9.47 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848940122186</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">123.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>9470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848939368522</id>
+    <published>2020-12-06T00:28:41-05:00</published>
+    <updated>2020-12-06T00:28:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aa-beef-eye-of-round-13-49-per-kg-avg-wt-4-21-kg"/>
+    <title>Halal AA Beef Eye Of Round - $13.49 Per Kg - Avg Wt. 4.21 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aa-beef-eye-of-round-1349-per-kg-avg-wt-421-kg-723363.jpg?v=1611513759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            56.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The eye of round (eye round) is an extremely lean small roast cut from the Round primal between the top round, outside round and heel. It is very affordable and has good flavor, but is not very tender. It is best cooked slowly (roasted or braised) &amp; cut very thinly across the grain. It can also be used for inexpensive steak dishes if cut thinly &amp; thoroughly tenderized.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Applications: Roast, Braise, Thin Slices, Stew Meat, Cube Steak.</span></p>
+<p>Halal AA Beef Eye Of Round - $13.49 Per Kg - Avg Wt. 4.21 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848939368522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>4210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848938582090</id>
+    <published>2020-12-06T00:28:40-05:00</published>
+    <updated>2020-12-06T00:28:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aa-beef-brisket-16-29-per-kg-avg-wt-12-26-kghalal-aa-beef-brisket-12-79-per-kg-avg-wt-8-45-kg"/>
+    <title>Halal AA Beef Brisket - $12.79 Per Kg - Avg Wt. 8.45 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aa-beef-brisket-1279-per-kg-avg-wt-845-kg-628161.jpg?v=1611512731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            108.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This the animal's breast, so it can be tougher because it is used for movement. An ideal cut for cooking low and slow-on the barbecue or in a slow-cooker.</span></p>
+<p>Halal AA Beef Brisket - $12.79 Per Kg - Avg Wt. 8.45 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848938582090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.08</s:price>
+      <s:sku></s:sku>
+      <s:grams>8450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848937697354</id>
+    <published>2020-12-06T00:28:40-05:00</published>
+    <updated>2020-12-06T00:28:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aaa-boneless-beef-chuck-roll-trimmed-neck-16-29-per-kg-avg-wt-12-26-kg"/>
+    <title>AAA Boneless Beef Chuck Roll Trimmed Neck - $16.29 Per Kg - Avg Wt. 12.26 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BonelessBeefChuckRollTrimmedNeck.jpg?v=1623985934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            199.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The chuck roll is a deboned portion of the neck located in the Chuck. It offers good flavor, but is not very tender, so it’s best cooked slowly with moist heat (braising, stewing, etc). Within the chuck roll is a smaller portion known as the chuck eye roll that is tender enough for slow roasting applications.<br data-mce-fragment="1"><br data-mce-fragment="1">The chuck roll can be ground into 85%/15% lean/fat ground beef.<br data-mce-fragment="1"><br data-mce-fragment="1">Applications: Braise, Smoke, Stew Meat, Cube Steak, Chuck Steak, Grind</p>
+<p>AAA Boneless Beef Chuck Roll Trimmed Neck - $16.29 Per Kg - Avg Wt. 12.26 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848937697354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>12260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848936976458</id>
+    <published>2020-12-06T00:28:39-05:00</published>
+    <updated>2020-12-06T00:28:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aaa-beef-eye-of-round-angus-13-49-per-kg-avg-wt-4-27-kg"/>
+    <title>AAA Beef Eye Of Round Angus - $13.49 Per Kg - Avg Wt. 4.27 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/AAABeefEyeOfRoundAngus.jpg?v=1623985866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            57.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The eye of round (eye round) is an extremely lean small roast cut from the Round primal between the top round, outside round and heel. It is very affordable and has good flavor, but is not very tender. It is best cooked slowly (roasted or braised) &amp; cut very thinly across the grain. It can also be used for inexpensive steak dishes if cut thinly &amp; thoroughly tenderized.<br data-mce-fragment="1"><br data-mce-fragment="1">Applications: Roast, Braise, Thin Slices, Stew Meat, Cube Steak.</p>
+<p>AAA Beef Eye Of Round Angus - $13.49 Per Kg - Avg Wt. 4.27 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848936976458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.60</s:price>
+      <s:sku></s:sku>
+      <s:grams>4270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848936157258</id>
+    <published>2020-12-06T00:28:38-05:00</published>
+    <updated>2020-12-06T00:28:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/boneless-beef-tenderloin-utility-5-up-23-99-per-kg-avg-wt-3-32-kg"/>
+    <title>Boneless Beef Tenderloin Utility 5-UP - $23.99 Per Kg - Avg Wt. 3.32 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/boneless-beef-tenderloin-utility-5-up-2399-per-kg-avg-wt-332-kg-128328.jpg?v=1611509136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            79.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cut-alias">Also Known As:<i><span> </span>Butt Tenderloin; Chateaubriand; Filet Mignon; Filet Mignon Roast; Full Tenderloin Roast; Medallions; Short Tenderloin; Tenderloin Tips; Tournedos</i></p>
+<div class="cut-desc">A long, narrow, and lean muscle located within the Loin, this is the most tender cut of beef available. The Tenderloin is the source of Tenderloin Steak or Filet Mignon, and is a component of T-Bone and Porterhouse Steaks.</div>
+<div class="cut-desc"></div>
+<div class="cut-desc">Small, thin, lean, incredibly tender muscles located on either side of the backbone, tenderloins are the most prized cut on the entire animal. Their buttery tenderness is legendary and people are willing to pay very high prices for tenderloin roasts &amp; filet mignon steaks.<br><br>This cut has a relatively mild flavor (though grass-fed tenderloins are more flavorful than grain-fed ones), so tenderloin roasts &amp; steaks are frequently paired with sauces that add moisture &amp; additional flavor. One of the fancier classical roast recipes, Beef Wellington, is traditionally made with beef tenderloin. This is also an excellent cut for making steak tartare and carpaccio.<br><br>Tenderloins have a narrow end and a thick end. To ensure consistency, roasts &amp; steaks are typically cut from the thick end. Roasts can be made from the thin end by cutting the smallest portion off and trussing it to a thicker portion using butcher’s twine. The thin end can also be sliced for beef medallions.<br><br>Applications: Roast Whole or in Portions, or Slice into Chateaubriand or Filet Mignon Steaks.<br>
+</div>
+<div class="cut-desc"></div>
+<p>Boneless Beef Tenderloin Utility 5-UP - $23.99 Per Kg - Avg Wt. 3.32 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848936157258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>3320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848933437514</id>
+    <published>2020-12-06T00:28:37-05:00</published>
+    <updated>2020-12-06T00:28:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aaa-boneless-beef-rib-lipon-36-49-per-kg-avg-wt-8-25-kg"/>
+    <title>AAA Boneless Beef Rib Lipon - $36.49 Per Kg - Avg Wt. 8.25 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BonelessBeefRibLipon.jpg?v=1623985959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            301.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boneless ribeye steaks are a steakhouse favorite, renowned for their bold flavor and identifiable by their ribbon of rib fat. They’re not quite as tender as the tenderloin steak or strip steak, but offer more flavor in compensation. They can be cooked as you would other high end steaks – though their higher fat content can lead to flare ups on the grill, so take care not to char them.<br><br>Boneless ribeye steaks are cut from the ribeye roll. Their specifications typically include a pair of numbers delineating how much surface fat &amp; less desirable tail meat are included in each steak. “0x0” steaks are almost completely trimmed, ensuring that each steak is mostly comprised of the desirable “eye” meat.<br><br>Applications: Sear, Broil, Grill, Roast, Pan Roast or Sous Vide.</p>
+<p class="cut-alias">Also Known As:<i><span> </span>Beef Rib, Ribeye, Lip-On; Prime RIb; Ribeye Roast, Boneless</i></p>
+<div class="cut-desc">This exceptionally tender and flavorful boneless roast consists of three muscles that are fabricated into the Ribeye Steak, Ribeye Roast, and sometimes Ribeye Filet and Ribeye Cap Steak.</div>
+<div class="cut-desc"></div>
+<p>AAA Boneless Beef Rib Lipon - $36.49 Per Kg - Avg Wt. 8.25 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848933437514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">301.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>8250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848931700810</id>
+    <published>2020-12-06T00:28:37-05:00</published>
+    <updated>2020-12-06T00:28:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/aaa-beef-top-sirloin-15-49-per-kg-avg-wt-8-75-kg"/>
+    <title>AAA Beef Top Sirloin - $15.49 Per Kg - Avg Wt. 8.75 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/BeefTopSirloin.jpg?v=1623985916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            135.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>It offers great flavor and significant tenderness at a much lower price than other steakhouse cuts like the ribeye roll &amp; striploin.<br><br>Top sirloin beef makes excellent roasts or steaks. Top sirloin steaks are the most affordable of the top shelf steak cuts. The whole top sirloin can be cut into “baseball cut” aka “filet” top sirloin steaks, which are shaped like filet mignons, or “strip style” sirloin steaks which are cut long and thin like strip steaks.<br><br>Applications: Roast Whole or as Portions or Slice into Steaks.</p>
+<p>AAA Beef Top Sirloin - $15.49 Per Kg - Avg Wt. 8.75 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848931700810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.54</s:price>
+      <s:sku></s:sku>
+      <s:grams>8750</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848930291786</id>
+    <published>2020-12-06T00:28:36-05:00</published>
+    <updated>2020-12-06T00:28:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aaa-beef-knuckle-peeled-12-99-per-kg-avg-wt-8-15-kg"/>
+    <title>Halal AAA Beef Knuckle Peeled - $12.99 Per Kg - Avg Wt. 8.15 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aaa-beef-knuckle-peeled-1299-per-kg-avg-wt-815-kg-857443.gif?v=1611511182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            108.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The knuckle is an exceptionally lean, very affordable cut from the Round (between the Top Round &amp; Bottom Round). It can be cut into roasts, pot roasts, cubes for kebab or stew, etc. It can also be cut into low cost steaks which are typically cut very thin and pinned (cubed) for tenderness.<br data-mce-fragment="1"><br data-mce-fragment="1">Applications: Roast, Braise, Slice or Cube, Cold Cuts.</p>
+<p>Halal AAA Beef Knuckle Peeled - $12.99 Per Kg - Avg Wt. 8.15 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848930291786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>8150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848928161866</id>
+    <published>2020-12-06T00:28:35-05:00</published>
+    <updated>2020-12-06T00:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-aaa-boneless-beef-chuck-eyeroll-16-49-per-kg-avg-wt-14-50-kg"/>
+    <title>Halal AAA Boneless Beef Chuck Eyeroll - $16.49 Per Kg - Avg Wt. 14.50 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-aaa-boneless-beef-chuck-eyeroll-1649-per-kg-avg-wt-1450-kg-968040.jpg?v=1611511233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            239.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CHUCK EYE ROLL<br>Also Known As: Chuck Eye; Mock Ribeye<br><br>Separated from the Under Blade section of the Chuck Roll. Often cut into Chuck Eye Roasts and Steaks, and can be cut into Boneless, Country-Style Ribs. Chuck Eye Roll cuts will possess rich flavor and good tenderness.</p>
+<p>Halal AAA Boneless Beef Chuck  Eyeroll - $16.49 Per Kg - Avg Wt. 14.50 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848928161866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>14500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848924491850</id>
+    <published>2020-12-06T00:28:35-05:00</published>
+    <updated>2020-12-06T00:28:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-beef-ribeye-rolls-8-up-18-99-per-kg-avg-wt-5-99-kg"/>
+    <title>Halal Beef Ribeye Rolls 8 UP - $18.99 Per Kg - Avg Wt. 5.99 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-beef-ribeye-rolls-8-up-1899-per-kg-avg-wt-599-kg-572639.jpg?v=1611510126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            113.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ribeye is one of the most highly prized cuts on the steer – renowned for its blend of bold, beefy flavor and excellent tenderness. Ribeye rolls can be roasted whole or as sections, or sliced into boneless ribeye steaks.<br><br>Meat from the ribeye needs no sauce to be delicious. It’s often served simply seasoned with salt &amp; pepper, though sometimes horseradish cream is served as an accompaniment or rubs are applied prior to cooking.<br><br>Numbers are typically included in the specs to designate how much surface fat &amp; less desirable lip meat is included with the cut. These are sold “0x0,” meaning that they’ve been trimmed down to the best part of the ribeye (spinalis on, cap off). They’re ready to season &amp; roast or slice into top quality ribeye steaks.<br><br>Applications: Roast Whole or as Portions, or Slice into Ribeye Steaks.</p>
+<p>Halal Beef Ribeye Rolls 8 UP - $18.99 Per Kg - Avg Wt. 5.99 Kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848924491850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">113.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>5990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848922853450</id>
+    <published>2020-12-06T00:28:34-05:00</published>
+    <updated>2020-12-06T00:28:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-beef-tenderloin-4-5-up-utility-24-49-per-kg-avg-wt-2-99-kg"/>
+    <title>Halal Beef Tenderloin 4/5 Up Utility - $24.49 Per Kg - Avg Wt. 2.99 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-beef-tenderloin-45-up-utility-2449-per-kg-avg-wt-299-kg-968530.jpg?v=1611510123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            73.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="cut-alias">Also Known As:<i><span> </span>Butt Tenderloin; Chateaubriand; Filet Mignon; Filet Mignon Roast; Full Tenderloin Roast; Medallions; Short Tenderloin; Tenderloin Tips; Tournedos</i></p>
+<div class="cut-desc">A long, narrow, and lean muscle located within the Loin, this is the most tender cut of beef available. The Tenderloin is the source of Tenderloin Steak or Filet Mignon, and is a component of T-Bone and Porterhouse Steaks.</div>
+<div class="cut-desc"><br></div>
+<div class="cut-desc">Small, thin, lean, incredibly tender muscles located on either side of the backbone, tenderloins are the most prized cut on the entire animal. Their buttery tenderness is legendary and people are willing to pay very high prices for tenderloin roasts &amp; filet mignon steaks.<br><br>This cut has a relatively mild flavor (though grass-fed tenderloins are more flavorful than grain-fed ones), so tenderloin roasts &amp; steaks are frequently paired with sauces that add moisture &amp; additional flavor. One of the fancier classical roast recipes, Beef Wellington, is traditionally made with beef tenderloin. This is also an excellent cut for making steak tartare and carpaccio.<br><br>Tenderloins have a narrow end and a thick end. To ensure consistency, roasts &amp; steaks are typically cut from the thick end. Roasts can be made from the thin end by cutting the smallest portion off and trussing it to a thicker portion using butcher’s twine. The thin end can also be sliced for beef medallions.<br><br>Applications: Roast Whole or in Portions, or Slice into Chateaubriand or Filet Mignon Steaks.</div>
+<div class="cut-desc"></div>
+<p>Halal Beef Tenderloin 4/5 Up Utility - $24.49 Per Kg - Avg Wt. 2.99 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848922853450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.22</s:price>
+      <s:sku></s:sku>
+      <s:grams>2990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848919412810</id>
+    <published>2020-12-06T00:28:33-05:00</published>
+    <updated>2020-12-06T00:28:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-beef-aaa-striploin-27-99-per-kg-avg-wt-6-84-kg"/>
+    <title>Halal Beef AAA Striploin - $27.99 Per Kg - Avg Wt. 6.84 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-beef-aaa-striploin-2799-per-kg-avg-wt-684-kg-960281.jpg?v=1611510131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            191.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Striploins are a boneless cut from the short loin that’s highly prized for its excellent balance of flavor &amp; tenderness. This is the muscle that boneless strip steaks (aka NY Strip Steaks), one of the more expensive steakhouse cuts, are cut from.<br data-mce-fragment="1"><br data-mce-fragment="1">Numbers are typically included in the specs of striploins to designate how much surface fat &amp; lip meat is included with the cut. These are sold “1x1,” meaning that they’ve been mostly trimmed down (leaving some fat on the edge of a strip steak is traditional). They’re cleaned and easy to slice into steaks of your desired thickness.<br data-mce-fragment="1"><br data-mce-fragment="1">1x1 striploins can be cut into NY strip steaks &amp; vein steaks, but also make top quality roasts (whole or as portions).<br data-mce-fragment="1"><br data-mce-fragment="1">Applications: Roast Whole or as Portions or Slice into Steaks.</p>
+<p>Halal Beef AAA Striploin - $27.99 Per Kg - Avg Wt. 6.84 Kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848919412810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">191.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>6840</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848910303306</id>
+    <published>2020-12-05T18:39:33-05:00</published>
+    <updated>2020-12-05T18:39:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-boneless-chicken-leg-quarters-5-kg"/>
+    <title>Halal Boneless Chicken Leg Quarters - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>AM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-boneless-chicken-leg-quarters-5-kg-962250.jpg?v=1611510192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            48.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Boneless Chicken Leg Quarters - 5 kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848910303306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.99</s:price>
+      <s:sku>97100</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848909254730</id>
+    <published>2020-12-05T18:39:32-05:00</published>
+    <updated>2020-12-05T18:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-boneless-skinless-chicken-breast-without-tender-5-kg"/>
+    <title>Halal Boneless Skinless Chicken Breast Without Tender - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>AM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-boneless-skinless-chicken-breast-without-tender-5-kg-841403.jpg?v=1611514491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            52.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Boneless Skinless Chicken Breast Without Tender - 5 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg#product","name":"Sargent Farms -  Halal Chicken Boneless Breast - 25 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3942870384710","sku":"4BM1312","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg-bulk-mart_245.jpg","description":"Sargent Farms - Halal Chicken Boneless Breast - 25 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"},"offers":[{"sku":"4BM1312","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"25"},"mpn":"","priceCurrency":"CAD","price":"214.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg?variant=29441348272198","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848909254730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.49</s:price>
+      <s:sku>97102</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4848905814090</id>
+    <published>2020-12-05T18:39:32-05:00</published>
+    <updated>2020-12-05T18:39:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zabeeha-halal-roaster-boneless-skinless-chicken-leg-5-kg"/>
+    <title>Zabeeha Halal - Roaster Boneless Skinless Chicken Leg - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Zabeeha Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zabeeha-halal-roaster-boneless-skinless-chicken-leg-5-kg-391396.jpg?v=1611512492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zabeeha Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zabeeha Halal - Roaster Boneless Skinless Chicken Leg - 5 kg</p>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-halal-boneless-thigh-5-kg#product","name":"Sargent Farms - Halal Boneless Thigh - 5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"FroChS400BM1322","sku":"0BM1322","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-boneless-thigh-5-kg-bulk-mart_645.jpg","description":"Sargent Farms - Halal Boneless Thigh - 5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"17"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"5"},"offers":[{"name":"Sargent Farms - Halal Boneless Thigh - 5 Kg","sku":"0BM1322","mpn":"FroChS400BM1322","@type":"Offer","priceCurrency":"CAD","price":"52.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-halal-boneless-thigh-5-kg?variant=19271423623238","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4848905814090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>97110</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3943106641990</id>
+    <published>2020-12-03T21:34:46-05:00</published>
+    <updated>2020-12-03T21:34:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-chicken-split-wings-4-54-kg"/>
+    <title>Halal Chicken Split Wings - 4.54 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>AM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-chicken-split-wings-454-kg-787621.jpg?v=1611510186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Chicken Split Wings - 4.54 kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-68-split-halal-chicken-wings-5-kg#product","name":"Sargent Farms - 6/8 Split Halal Chicken Wings - 5 kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3943106641990","sku":"1BM1313","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-68-split-halal-chicken-wings-5-kg-bulk-mart_393.jpg","description":"Sargent Farms - 6 / 8 Split Halal Chicken Wings - 5 kg.","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"},"offers":[{"sku":"1BM1313","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"52.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-68-split-halal-chicken-wings-5-kg?variant=29441958051910","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"53"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3943106641990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>97104</s:sku>
+      <s:grams>4540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3942870384710</id>
+    <published>2020-12-03T21:26:13-05:00</published>
+    <updated>2020-12-03T21:26:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kgzabeeha-halal-roaster-boneless-skinless-breast-with-tender-5-kg"/>
+    <title>Zabeeha Halal - Roaster Boneless Skinless Breast With Tender - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Zabeeha Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zabeeha-halal-roaster-boneless-skinless-breast-with-tender-5-kg-817345.jpg?v=1611512974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zabeeha Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Zabeeha Halal - Roaster Boneless Skinless Breast With Tender - 5Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg#product","name":"Sargent Farms -  Halal Chicken Boneless Breast - 25 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3942870384710","sku":"4BM1312","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg-bulk-mart_245.jpg","description":"Sargent Farms - Halal Chicken Boneless Breast - 25 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"},"offers":[{"sku":"4BM1312","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"25"},"mpn":"","priceCurrency":"CAD","price":"214.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-halal-chicken-boneless-breast-roaster-25-kg?variant=29441348272198","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"20"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3942870384710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>97109</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3943113523270</id>
+    <published>2020-12-03T21:23:53-05:00</published>
+    <updated>2020-12-03T21:23:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-chicken-leg-quarter-back-attached-18-kg"/>
+    <title>Halal Chicken Leg Quarter Back Attached - 18 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>AM</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-chicken-leg-quarter-back-attached-18-kg-412228.jpg?v=1611513756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AM<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            75.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Chicken Leg Quarter Back Attached - 18 Kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-halal-leg-quarter-fryer-18-kg#product","name":"Sargent Farms - Halal Leg Quarter Fryer - 18 Kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"3943113523270","sku":"8BM1309","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-leg-quarter-fryer-18-kg-bulk-mart_262.jpg","description":"Sargent Farms - Halal Leg Quarter Fryer - 18 Kg.","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"},"offers":[{"sku":"8BM1309","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"mpn":"","priceCurrency":"CAD","price":"63.00","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-halal-leg-quarter-fryer-18-kg?variant=29441981153350","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"45"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3943113523270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.99</s:price>
+      <s:sku>97103</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/2054547406918</id>
+    <published>2020-12-03T21:20:05-05:00</published>
+    <updated>2020-12-03T21:20:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/zabeeha-halal-roaster-boneless-chicken-leg-skin-on-5-kg"/>
+    <title>Zabeeha Halal - Roaster Boneless Chicken Leg Skin On - 5 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Zabeeha Halal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/zabeeha-halal-roaster-boneless-chicken-leg-skin-on-5-kg-368910.jpg?v=1611514488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zabeeha Halal<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sargent Farms - Boneless Skin-on Halal Chicken Leg Quarters - 5 kg</p>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-boneless-skin-on-halal-chicken-leg-quarters-25-kg#product","name":"Sargent Farms - Boneless Skin-on Halal Chicken Leg Quarters - 25 kg","itemCondition":"https://schema.org/NewCondition","gtin14":"","mpn":"2054547406918","sku":"4BM3797","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-boneless-skin-on-halal-chicken-leg-quarters-25-kg-bulk-mart_621.jpg","description":"Sargent Farms - Boneless Skin-on Halal Chicken Leg Quarters - 25 kg.","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"},"offers":[{"sku":"4BM3797","weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.005"},"mpn":"","priceCurrency":"CAD","price":"199.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-boneless-skin-on-halal-chicken-leg-quarters-25-kg?variant=20686516617286","gtin14":"","priceValidUntil":"2023-12-31","aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","reviewCount":"8"}}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/2054547406918</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>97108</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4171362500678</id>
+    <published>2019-10-04T15:05:30-04:00</published>
+    <updated>2019-10-04T15:05:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/halal-boneless-chicken-leg-quarters-approx-25-kg"/>
+    <title>Halal Boneless Chicken Leg Quarters - Approx 25 kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Al Sadiq</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-boneless-chicken-leg-quarters-approx-25-kg-962813.jpg?v=1611511358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Al Sadiq<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Halal Boneless Chicken Leg Quarters - Approx 25 kg</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4171362500678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>97101</s:sku>
+      <s:grams>25000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/3933421207622</id>
+    <published>2019-07-14T23:34:15-04:00</published>
+    <updated>2019-07-14T23:34:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/lean-ground-beef-10-lbshalal-lean-ground-beef-84-per-tube"/>
+    <title>Halal Lean Ground Beef 84% - Per Tube</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Fresh Meat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/halal-lean-ground-beef-84-per-tube-466192.jpg?v=1611510194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Meat<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            47.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ground beef is extremely affordable. It’s also very adaptable and can be used in formed applications like burgers, meatballs &amp; meatloaf, or can be broken up and browned for use in tacos &amp; sauces. It’s typically produced from tougher cuts that offer excellent flavor but need to be ground to be tender. This ground beef is only ground from whole muscles, never trim, which gives it superior texture.<br data-mce-fragment="1"><br data-mce-fragment="1">This beef has been ground with an 85%/15% lean/fat ratio. This fat ratio is perfect for burgers, meatballs, meatloaf, and other formed applications because the fat will help keep them moist.<br data-mce-fragment="1"><br data-mce-fragment="1">Applications: Burgers, Meatballs, Tacos, Sauces, Meatloaf, Etc.</p>
+<p>Halal Lean Ground Beef 84% - 10 Lbs</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/lean-ground-beef-10-lbs#product","name":"Lean Ground Beef - 10 Lbs","itemCondition":"https://schema.org/NewCondition","mpn":"STHLGBM4028","sku":"GBM4028","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/lean-ground-beef-10-lbs-bulk-mart_727.jpg","description":"Lean Ground Beef - 10 Lbs...","category":"FOOD","brand":{"@type":"Brand","name":"Kirkland"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"23"},"weight":{"@type":"QuantitativeValue","unitText":"lb","value":"0.022"},"offers":[{"name":"Lean Ground Beef - 10 Lbs","sku":"GBM4028","mpn":"STHLGBM4028","@type":"Offer","priceCurrency":"CAD","price":"44.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/lean-ground-beef-10-lbs?variant=29404769288262","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Beef</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/3933421207622</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.99</s:price>
+      <s:sku>GBM4028</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/1887528878150</id>
+    <published>2018-11-28T15:07:31-05:00</published>
+    <updated>2018-11-28T15:07:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/sargent-farms-halal-leg-quarter-back-attached-5-kg"/>
+    <title>Sargent Farms-  Halal Leg Quarter Back Attached - 5 Kg</title>
+    <s:type>FOOD</s:type>
+    <s:vendor>Sargent Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-leg-quarter-back-attached-5-kg-498410.jpg?v=1611514429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sargent Farms<br>
+        <strong>Type: </strong>FOOD<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sargent Farms- Halal Leg Quarter Fryer - 5 Kg</p>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/sargent-farms-halal-leg-quarter-fryer-5-kg#product","name":"Sargent Farms- Halal Leg Quarter Fryer - 5 Kg","itemCondition":"https://schema.org/NewCondition","mpn":"FroChS118BM1309","sku":"8BM1309","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/sargent-farms-halal-leg-quarter-fryer-5-kg-bulk-mart_818.jpg","description":"Sargent Farms- Halal Leg Quarter Fryer - 5 Kg...","category":"FOOD","brand":{"@type":"Brand","name":"Sargent Farms"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"17"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"0.001"},"offers":[{"name":"Sargent Farms- Halal Leg Quarter Fryer - 5 Kg","sku":"8BM1309","mpn":"FroChS118BM1309","@type":"Offer","priceCurrency":"CAD","price":"33.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/sargent-farms-halal-leg-quarter-fryer-5-kg?variant=19271424147526","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fresh Poultry</s:tag>
+    <s:tag>Halal Foods</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/1887528878150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>97107</s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

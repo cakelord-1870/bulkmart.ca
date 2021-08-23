@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://bulkmart.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://bulkmart.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://bulkmart.ca/collections/floor-squeegees.atom"/>
+  <title>Bulk Mart</title>
+  <updated>2020-09-27T13:07:21-04:00</updated>
+  <author>
+    <name>Bulk Mart</name>
+  </author>
+  <entry>
+    <id>https://bulkmart.ca/products/4783013920842</id>
+    <published>2020-09-27T13:07:21-04:00</published>
+    <updated>2020-09-27T13:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-12-tpr-bristle-floor-squeegee-plastic-head-metal-handle-1-set"/>
+    <title>Liao - 12&quot; TPR Bristle Floor Squeegee Plastic Head Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-12-tpr-bristle-floor-squeegee-plastic-head-metal-handle-1-set-504432.jpg?v=1611510833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="do-entry-title"><strong>Liao - 12" TPR Bristle Floor Squeegee Plastic Head Metal Handle - 1 Set</strong></div>
+<div class="do-entry-list">
+<dl class="do-entry-item" id="191288006">
+<dt class="do-entry-item">
+<span class="attr-name J-attr-name" title="Usage">Usage: </span>FLOOR</dt>
+</dl>
+<dl class="do-entry-item" id="191284137">
+<dt class="do-entry-item">
+<span class="attr-name J-attr-name" title="Handle Material">Handle Material: </span>Steel</dt>
+</dl>
+<dl class="do-entry-item" id="191284248">
+<dt class="do-entry-item">
+<span class="attr-name J-attr-name" title="Squeegee Material">Squeegee Material: </span>TPR</dt>
+</dl>
+<dl class="do-entry-item" id="20662">
+<dt class="do-entry-item">
+<span class="attr-name J-attr-name" title="Feature">Feature: </span>Eco-friendly</dt>
+<dt class="do-entry-item">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">IIt's a broom, a scrub brush and a squeegee all in one. The large 12 inch wide Dutch style rubber broom has extremely durable natural rubber bristles. </span></li>
+<li><span class="a-list-item">They're soft enough not to scratch your car, and they electrostatically attract dust and pet hair. </span></li>
+<li><span class="a-list-item">Telescoping handle, can be as short as 32 inches or as long as 56 inches. Sturdy metal pole with 12 Rubber Head.</span></li>
+<li><span class="a-list-item">Use it to clean tall windows and high places. </span></li>
+<li><span class="a-list-item">The rubber brooms are now formulated using a NEW compound. This avoids the black streaks sometimes experienced with other rubber brooms.</span></li>
+</ul>
+</dt>
+</dl>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deck Brushes</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:tag>TPR Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4783013920842</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01248</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780726943818</id>
+    <published>2020-09-27T13:07:20-04:00</published>
+    <updated>2020-09-27T13:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-22-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set"/>
+    <title>Liao - 22&quot; EVA Floor Squeegee Stainless Steel Head 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-22-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set-109067.jpg?v=1611512677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 22" EVA Floor Squeegee With Scrapper Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-cel-widget="featurebullets_feature_div">
+<div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780726943818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>48748</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780722126922</id>
+    <published>2020-09-27T13:07:19-04:00</published>
+    <updated>2020-09-27T13:07:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-18-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set"/>
+    <title>Liao - 18&quot; EVA Floor Squeegee Stainless Steel Head 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-18-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set-496187.jpg?v=1611512074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 18" EVA Floor Squeegee With Scrapper Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div data-cel-widget="featurebullets_feature_div" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-feature-name="featurebullets" class="celwidget" id="featurebullets_feature_div">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780722126922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>748545</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780697976906</id>
+    <published>2020-09-27T13:07:18-04:00</published>
+    <updated>2020-09-27T13:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-14-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set"/>
+    <title>Liao - 14&quot; EVA Floor Squeegee Stainless Steel Head 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-14-eva-floor-squeegee-stainless-steel-head-52-metal-handle-1-set-123797.jpg?v=1611512613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 14" EVA Floor Squeegee With Scrapper Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div data-cel-widget="featurebullets_feature_div" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-feature-name="featurebullets" class="celwidget" id="featurebullets_feature_div">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script type="application/ld+json" data-app="seoking">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780697976906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>124587</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780695912522</id>
+    <published>2020-09-27T13:07:17-04:00</published>
+    <updated>2020-09-27T13:07:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-22-eva-floor-squeegee-stainless-steel-head-clip-design-52-metal-handle-1-set"/>
+    <title>Liao - 22&quot; EVA Floor Squeegee Stainless Steel Head/Clip Design 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-22-eva-floor-squeegee-stainless-steel-headclip-design-52-metal-handle-1-set-956516.jpg?v=1611512132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 22" EVA Floor Squeegee with Clip Design Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div data-cel-widget="featurebullets_feature_div" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-feature-name="featurebullets" class="celwidget" id="featurebullets_feature_div">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780695912522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>54588</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780693684298</id>
+    <published>2020-09-27T13:07:16-04:00</published>
+    <updated>2020-09-27T13:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-18-eva-floor-squeegee-stainless-steel-head-clip-design-52-metal-handle-1-set"/>
+    <title>Liao - 18&quot; EVA Floor Squeegee Stainless Steel Head/Clip Design 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-18-eva-floor-squeegee-stainless-steel-headclip-design-52-metal-handle-1-set-271152.jpg?v=1611511534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 18" EVA Floor Squeegee / Clip Design Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-cel-widget="featurebullets_feature_div">
+<div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780693684298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>124580</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://bulkmart.ca/products/4780692537418</id>
+    <published>2020-09-27T13:07:14-04:00</published>
+    <updated>2020-09-27T13:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://bulkmart.ca/products/liao-14-eva-floor-squeegee-stainless-steel-head-clip-design-52-metal-handle-1-set"/>
+    <title>Liao - 14&quot; EVA Floor Squeegee Stainless Steel Head/Clip Design 52&quot; Metal Handle - 1 Set</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>Liao</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0050/5466/0678/products/liao-14-eva-floor-squeegee-stainless-steel-headclip-design-52-metal-handle-1-set-277293.jpg?v=1611511243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liao<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Liao - 14" EVA Floor Squeegee / Clip Design Stainless Steel Head 52" Metal Handle - 1 Set</strong></p>
+<p><strong>Home Cleaning Floor Squeegee!</strong></p>
+<div data-cel-widget="featurebullets_feature_div" data-csa-c-id="dj2sc8-hgtytm-4guqss-xanyu0" data-feature-name="featurebullets" class="celwidget" id="featurebullets_feature_div">
+<div class="a-section a-spacing-medium a-spacing-top-small" id="feature-bullets">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">The EVA squeegee head provides perfect drying of any flat floor, without the hassle of additional drying using towels or mops, which also can be cleaned repeatedly without deformation. It is more safer to use and keeps your hands from scratching and hurting.</span></li>
+<li><span class="a-list-item">The telescoping poles are simple to expand and then collapse down to fit away neat and tidy, perfect for storage or travel in the trunk of your car. </span></li>
+<li><span class="a-list-item">The floor squeegee allows itself to be rotated with 180°,which automatically adapts to any angle, best for cleaning the neglected corners and edges. It can accomplish a wide range of hard-to-reach tasks, aiming for maximum moisture and water removal.</span></li>
+<li><span class="a-list-item">It is very convenient to dip the squeegee head in detergent to clean the floors, windows and other surfaces. You also don't need to use excessive effort to dry, simply apply some light pressure to the squeegee to get the job done. In addition, it comes with a hanging hole at the handle's end to make for convenient storage.</span></li>
+</ul>
+</div>
+</div>
+<script data-app="seoking" type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","@id":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each#product","name":"Angle Broom - Black Metal Handle - Each","itemCondition":"https://schema.org/NewCondition","mpn":"3957115715654","sku":"BM51119","image":"https://cdn.shopify.com/s/files/1/0050/5466/0678/products/angle-broom-black-metal-handle-each-bulk-mart_457.jpg","description":"Angle Broom - Black Metal Handle - Each...","category":"NON-FOOD","brand":{"@type":"Brand","name":"Generic"},"review":null,"aggregateRating":{"@type":"aggregateRating","bestRating":"5","ratingValue":"5","ratingCount":"7"},"weight":{"@type":"QuantitativeValue","unitText":"kg","value":"1.5"},"gtin13":"JanCH4BM51119","offers":[{"name":"Angle Broom - Black Metal Handle - Each","sku":"BM51119","gtin13":"JanCH4BM51119","@type":"Offer","priceCurrency":"CAD","price":"8.99","itemCondition":"https://schema.org/NewCondition","url":"https://bulkmart.ca/products/angle-broom-black-metal-handle-each?variant=29497258541126","mpn":"","gtin14":"","priceValidUntil":"2023-12-31","seller":{"@type":"Organization","name":"Bulk Mart"},"availability":"https://schema.org/InStock"}]}</script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EVA Floor Squeegees</s:tag>
+    <s:tag>Floor Squeegees</s:tag>
+    <s:variant>
+      <id>https://bulkmart.ca/products/4780692537418</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>15480</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
